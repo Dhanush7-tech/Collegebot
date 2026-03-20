@@ -5,11 +5,11 @@ CollegeBot is an intelligent chatbot that helps students explore courses and col
 ---
 
 ## 🚀 Features
-- Multi-stream support (Engineering, Medical, Pharmacy, etc.)
-- Course recommendation system
-- College search engine
-- Detailed college information
-- CLI chatbot + FastAPI backend
+- 🤖 Interactive chatbot (CLI + API)
+- 🎓 Multi-stream support (Engineering, Medical, Pharmacy, etc.)
+- 📚 Course recommendation system
+- 🏫 College search engine
+- 📊 Detailed college information
 
 ---
 
@@ -17,11 +17,12 @@ CollegeBot is an intelligent chatbot that helps students explore courses and col
 - Python
 - FastAPI
 - JSON
+- React (Frontend - in progress)
 
 ---
 
 ## ▶️ How to Run
 
-### 🔹 Run CLI Version
+### 🔹 CLI Version
 ```bash
 python backend/Main.py
