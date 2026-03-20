@@ -79,8 +79,8 @@ You can end the conversation whenever you’re done exploring.
 ## ▶️ How to Run
 
 ### 🔹 CLI Version
-bash
-python backend/Main.py
+bash python 
+backend/Main.py
 
       OR  
  
