@@ -1,0 +1,3365 @@
+[
+  {
+    "Name": "All India Institute of Medical Sciences",
+    "Type": "Government (Institute of National Importance)",
+    "Affiliation": "Ministry of Health and Family Welfare, Govt. of India",
+    "Established": "1956",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh", "Ph.D"],
+    "Specializations": [
+      "General Medicine", "Surgery", "Cardiology", "Neurology", "Oncology",
+      "Pediatrics", "Endocrinology", "Orthopedics", "Radiology", "Pathology",
+      "Psychiatry", "Gastroenterology"
+    ],
+    "Facilities": [
+      "Super-specialty hospitals", "Advanced research labs", "Medical library",
+      "Simulation centers", "Hostels", "Telemedicine", "Emergency and trauma care",
+      "National organ transplant center"
+    ],
+    "UG Seats": "125",
+    "PG Seats": "800+",
+    "Location": "New Delhi",
+    "Fees": {
+      "Tuition": "₹1,628/year",
+      "Other": "₹1,000/year",
+      "Total": "Under ₹5,000 total for MBBS"
+    },
+    "Scholarships": ["Central govt scholarships", "Merit-based", "SC/ST/OBC financial aid"],
+    "Placement Support": {
+      "Average Package": "₹12–15 LPA (Post PG)",
+      "Top Recruiters": ["Government hospitals", "AIIMS network", "International research orgs"],
+      "Internship Programs": "Mandatory 1-year internship with stipend (~₹20,000/month)"
+    },
+    "Rank": 1
+  },
+  {
+    "Name": "Post Graduate Institute of Medical Education and Research",
+    "Type": "Government (Institute of National Importance)",
+    "Affiliation": "Ministry of Health and Family Welfare, Govt. of India",
+    "Established": "1962",
+    "Degrees Offered": ["MD", "MS", "DM", "MCh", "Ph.D"],
+    "Specializations": [
+      "Anesthesiology", "Internal Medicine", "Cardiothoracic Surgery", "Radiotherapy",
+      "Hematology", "Gastroenterology", "Pediatrics", "Urology", "Medical Microbiology"
+    ],
+    "Facilities": [
+      "Dedicated research blocks", "Central library", "Super-specialty OPDs",
+      "Tertiary care hospital", "High-end labs", "Blood bank", "ICUs", "Rural health center access"
+    ],
+    "UG Seats": "PG only",
+    "PG Seats": "500+",
+    "Location": "Chandigarh",
+    "Fees": {
+      "Tuition": "₹5,000/year",
+      "Other": "₹3,000/year",
+      "Total": "₹8,000–₹12,000/year"
+    },
+    "Scholarships": ["Govt fellowships", "Institute stipends", "Merit-based PG aids"],
+    "Placement Support": {
+      "Average Package": "₹10–14 LPA",
+      "Top Recruiters": ["Govt. hospitals", "Specialty centers", "Medical colleges"],
+      "Internship Programs": "Full-time residency during specialization"
+    },
+    "Rank": 2
+  },
+  {
+    "Name": "Christian Medical College",
+    "Type": "Private (Minority, Non-Profit)",
+    "Affiliation": "Dr. MGR Medical University",
+    "Established": "1900",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh", "BSc Nursing", "Allied Health"],
+    "Specializations": [
+      "General Medicine", "Surgery", "Pulmonology", "Nephrology", "Gastroenterology",
+      "Pediatrics", "Cardiothoracic Surgery", "ENT", "Ophthalmology", "Dermatology"
+    ],
+    "Facilities": [
+      "Christian Medical Hospital", "Tertiary care units", "Community health outreach",
+      "Simulation labs", "Library", "Hostel", "Multidisciplinary research units"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "250+",
+    "Location": "Vellore, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹3,000–₹5,000/year",
+      "Other": "₹10,000/year approx.",
+      "Total": "₹25,000–₹35,000 total (MBBS)"
+    },
+    "Scholarships": ["Mission-based sponsorships", "Christian minority support", "Need-based"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["CMC Hospitals", "Govt bodies", "International fellowships"],
+      "Internship Programs": "1-year rotating internship with clinical exposure"
+    },
+    "Rank": 3
+  },
+  {
+    "Name": "National Institute of Mental Health and Neuro Sciences",
+    "Type": "Government (Institute of National Importance)",
+    "Affiliation": "Ministry of Health and Family Welfare",
+    "Established": "1974",
+    "Degrees Offered": ["MD", "DM", "MCh", "MPhil", "PhD", "BSc"],
+    "Specializations": [
+      "Psychiatry", "Neurology", "Neurosurgery", "Clinical Psychology",
+      "Neuroanesthesia", "Psychiatric Social Work"
+    ],
+    "Facilities": [
+      "Advanced neuroimaging labs", "Mental health wards", "Clinical psychology lab",
+      "Brain bank", "Hostel", "Library", "Rehab clinics"
+    ],
+    "UG Seats": "PG only (BSc available)",
+    "PG Seats": "350+",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": {
+      "Tuition": "₹9,000/year",
+      "Other": "₹5,000/year",
+      "Total": "₹14,000–₹20,000/year"
+    },
+    "Scholarships": ["Govt stipends", "Research fellowships", "Institute grants"],
+    "Placement Support": {
+      "Average Package": "₹9–12 LPA",
+      "Top Recruiters": ["Govt hospitals", "Private neuro centers", "UN/WHO research bodies"],
+      "Internship Programs": "Residency + project-based fieldwork"
+    },
+    "Rank": 4
+  },
+  {
+    "Name": "Jawaharlal Institute of Post Graduate Medical Education and Research",
+    "Type": "Government (Institute of National Importance)",
+    "Affiliation": "Autonomous",
+    "Established": "1956",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh", "BSc Nursing"],
+    "Specializations": [
+      "General Surgery", "Internal Medicine", "Obstetrics & Gynecology", "Pediatrics",
+      "Radiology", "Anatomy", "Pathology", "Urology", "Cardiology"
+    ],
+    "Facilities": [
+      "Main hospital", "Teaching college", "Super-specialty block",
+      "Community outreach", "Research labs", "Student hostels", "Digital library"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "250+",
+    "Location": "Puducherry",
+    "Fees": {
+      "Tuition": "₹1,400/year",
+      "Other": "₹1,000/year",
+      "Total": "₹5,000–₹6,000 total (MBBS)"
+    },
+    "Scholarships": ["Merit-based", "Govt SC/ST aid", "State aid"],
+    "Placement Support": {
+      "Average Package": "₹10–12 LPA",
+      "Top Recruiters": ["Central hospitals", "AIIMS", "State medical colleges"],
+      "Internship Programs": "Compulsory rotating internship"
+    },
+    "Rank": 5
+  },
+  {
+    "Name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+    "Type": "Government (Autonomous Institute)",
+    "Affiliation": "Uttar Pradesh Govt / MoHFW",
+    "Established": "1983",
+    "Degrees Offered": ["MD", "DM", "MCh", "Ph.D"],
+    "Specializations": [
+      "Hepatology", "Cardiology", "Urology", "Endocrinology",
+      "Nephrology", "Plastic Surgery", "Pathology"
+    ],
+    "Facilities": [
+      "Liver & renal transplant units", "Emergency services",
+      "Advanced diagnostics", "Clinical research labs", "In-patient units"
+    ],
+    "UG Seats": "PG only",
+    "PG Seats": "300+",
+    "Location": "Lucknow, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹10,000/year",
+      "Other": "₹5,000/year",
+      "Total": "₹15,000–₹20,000/year"
+    },
+    "Scholarships": ["Govt fellowships", "JRF/SRF schemes"],
+    "Placement Support": {
+      "Average Package": "₹12–14 LPA",
+      "Top Recruiters": ["SGPGIMS", "Central hospitals", "Academic hospitals"],
+      "Internship Programs": "Clinical residency"
+    },
+    "Rank": 6
+  },
+  {
+    "Name": "Banaras Hindu University (IMS-BHU)",
+    "Type": "Government (Central University)",
+    "Affiliation": "BHU",
+    "Established": "1960 (IMS Unit)",
+    "Degrees Offered": ["MBBS", "MD", "MS", "BDS", "Ph.D"],
+    "Specializations": [
+      "Orthopedics", "ENT", "Obstetrics & Gynecology", "Pathology",
+      "Pharmacology", "Community Medicine", "Dermatology"
+    ],
+    "Facilities": [
+      "Sir Sunderlal Hospital", "Central lab", "OPDs",
+      "Hostels", "Ayurveda block", "Rural training units"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "200+",
+    "Location": "Varanasi, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹3,500/year",
+      "Other": "₹2,000/year",
+      "Total": "₹25,000–₹30,000 total (entire course)"
+    },
+    "Scholarships": ["Merit scholarships", "Uttar Pradesh state aid", "SC/ST/OBC grants"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["Govt hospitals", "IMS research bodies", "Army Medical Corps"],
+      "Internship Programs": "1-year mandatory internship"
+    },
+    "Rank": 7
+  },
+  {
+    "Name": "Amrita Institute of Medical Sciences and Research",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "Amrita Vishwa Vidyapeetham",
+    "Established": "2002",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "BSc Nursing", "MCh", "Ph.D"],
+    "Specializations": [
+      "Cardiovascular Surgery", "Transplant Surgery", "Neurosciences",
+      "General Medicine", "Dermatology", "Emergency Medicine"
+    ],
+    "Facilities": [
+      "1200-bed hospital", "Transplant centers", "Simulation center",
+      "Medical research labs", "Digital records", "Modern classrooms"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "300+",
+    "Location": "Kochi, Kerala",
+    "Fees": {
+      "Tuition": "₹18 L/year (MBBS)",
+      "Other": "₹2L/year approx.",
+      "Total": "₹85–95L for full MBBS"
+    },
+    "Scholarships": ["Merit-based", "Fee waivers for needy students"],
+    "Placement Support": {
+      "Average Package": "₹10–12 LPA",
+      "Top Recruiters": ["Amrita Hospital", "Private hospitals", "Govt. services"],
+      "Internship Programs": "Rotating internship + research project"
+    },
+    "Rank": 8
+  },
+  {
+    "Name": "Kasturba Medical College (Manipal)",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "Manipal Academy of Higher Education",
+    "Established": "1953",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Ph.D"],
+    "Specializations": [
+      "Internal Medicine", "General Surgery", "Radiology", "Psychiatry",
+      "Pulmonology", "Dermatology", "Anesthesiology"
+    ],
+    "Facilities": [
+      "Simulation labs", "State-of-the-art hospital", "Digital anatomy labs",
+      "E-learning modules", "Global electives", "Sports & recreation"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "300+",
+    "Location": "Manipal, Karnataka",
+    "Fees": {
+      "Tuition": "₹17.5 L/year (MBBS)",
+      "Other": "₹2.5 L/year approx.",
+      "Total": "₹95L+ for full MBBS"
+    },
+    "Scholarships": ["Freeships", "Merit-cum-means", "International student grants"],
+    "Placement Support": {
+      "Average Package": "₹8–11 LPA",
+      "Top Recruiters": ["KMC hospitals", "Private clinics", "Global electives"],
+      "Internship Programs": "1-year rotating internship"
+    },
+    "Rank": 9
+  },
+  {
+    "Name": "Madras Medical College",
+    "Type": "Government",
+    "Affiliation": "Tamil Nadu Dr. MGR Medical University",
+    "Established": "1835",
+    "Degrees Offered": ["MBBS", "MD", "MS", "PG Diploma"],
+    "Specializations": [
+      "General Medicine", "Obstetrics", "Psychiatry", "Orthopedics",
+      "Pulmonology", "Anesthesia", "ENT"
+    ],
+    "Facilities": [
+      "Govt General Hospital", "Clinical labs", "Skill centers",
+      "Library", "Auditorium", "Sports complex", "Oldest alumni society"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "300+",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹13,610/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1L–1.5L total"
+    },
+    "Scholarships": ["State SC/ST support", "Merit-based", "Govt medical grant"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["Tamil Nadu Govt", "Govt Hospitals", "UPSC/Civil Services Medical"],
+      "Internship Programs": "1-year clinical rotations"
+    },
+    "Rank": 10
+  },
+  {
+    "Name": "King George's Medical University",
+    "Type": "Government",
+    "Affiliation": "King George’s Medical University",
+    "Established": "1905",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh", "Ph.D"],
+    "Specializations": [
+      "Cardiology", "Neurosurgery", "Endocrinology", "ENT", "General Medicine",
+      "Pulmonology", "Anesthesiology", "Pathology", "Microbiology"
+    ],
+    "Facilities": [
+      "Advanced Teaching Hospital", "Trauma Centre", "Research Labs",
+      "Central Library", "Simulation Labs", "Hostels", "Blood Bank"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "350+",
+    "Location": "Lucknow, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹54,900/year",
+      "Other": "₹10,000/year",
+      "Total": "₹3–4L full course (MBBS)"
+    },
+    "Scholarships": ["UP Govt scholarships", "Merit scholarships", "EWS quota support"],
+    "Placement Support": {
+      "Average Package": "₹10–12 LPA",
+      "Top Recruiters": ["State Govt Hospitals", "Research Centers", "Military Medical Corps"],
+      "Internship Programs": "Mandatory clinical rotations with stipend"
+    },
+    "Rank": 11
+  },
+  {
+    "Name": "Institute of Liver and Biliary Sciences",
+    "Type": "Government (Deemed University)",
+    "Affiliation": "Autonomous under Govt of NCT Delhi",
+    "Established": "2009",
+    "Degrees Offered": ["DM", "MCh", "Ph.D", "PG Diplomas"],
+    "Specializations": [
+      "Hepatology", "Gastroenterology", "Liver Transplant Surgery", "Pathology", "Radiology"
+    ],
+    "Facilities": [
+      "Liver ICU", "Transplant unit", "High-end diagnostics", "Research facilities",
+      "Digital library", "Academic blocks", "Advanced OT units"
+    ],
+    "UG Seats": "PG/DM only",
+    "PG Seats": "100+",
+    "Location": "New Delhi",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1–1.5L"
+    },
+    "Scholarships": ["Govt funding", "Sponsored research projects", "Stipends for DM residents"],
+    "Placement Support": {
+      "Average Package": "₹15–18 LPA",
+      "Top Recruiters": ["ILBS", "Apollo Liver Unit", "Fortis", "Global Liver Institutes"],
+      "Internship Programs": "Residency and hands-on casework"
+    },
+    "Rank": 12
+  },
+  {
+    "Name": "Sri Ramachandra Institute of Higher Education and Research",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "Sri Ramachandra University",
+    "Established": "1985",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh", "Ph.D", "BSc Nursing"],
+    "Specializations": [
+      "Cardiology", "Orthopedics", "Neurosciences", "Pediatrics", "Anesthesiology",
+      "Critical Care", "ENT", "Dermatology"
+    ],
+    "Facilities": [
+      "Multi-specialty hospital", "Medical simulation lab", "Clinical skills center",
+      "Digital classrooms", "Hostel", "Sports complex", "Research centers"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "300+",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹22 L/year",
+      "Other": "₹2 L/year",
+      "Total": "₹1.1 Cr (MBBS full)"
+    },
+    "Scholarships": ["Need-based", "Merit scholarships", "Sports quota"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["Sri Ramachandra Hospital", "Private Clinics", "Global fellowships"],
+      "Internship Programs": "1-year rotating internship"
+    },
+    "Rank": 13
+  },
+  {
+    "Name": "St. John’s Medical College",
+    "Type": "Private (Christian Minority Institution)",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1963",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh", "BSc Nursing", "Ph.D"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "Psychiatry", "ENT", "Community Medicine"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Central Library", "Community health center outreach",
+      "Simulation labs", "Hostels", "Faith-based mentorship", "Rural immersion programs"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "200+",
+    "Location": "Bangalore, Karnataka",
+    "Fees": {
+      "Tuition": "₹6 L/year",
+      "Other": "₹1.5 L/year",
+      "Total": "₹38–42 L (MBBS)"
+    },
+    "Scholarships": ["Christian Minority aid", "Institutional grants", "SC/ST & merit waivers"],
+    "Placement Support": {
+      "Average Package": "₹8–9 LPA",
+      "Top Recruiters": ["St. John’s Hospital", "WHO", "NGOs", "Govt/Church hospitals"],
+      "Internship Programs": "Compulsory internship with rural postings"
+    },
+    "Rank": 14
+  },
+  {
+    "Name": "Aligarh Muslim University (J.N. Medical College)",
+    "Type": "Government (Central University)",
+    "Affiliation": "AMU",
+    "Established": "1962",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "Ophthalmology", "Radiology", "Dermatology", "OBG", "General Surgery",
+      "Pathology", "Pharmacology"
+    ],
+    "Facilities": [
+      "University Hospital", "Operation theatres", "Hostel", "Digital library",
+      "Physiology labs", "Sports complex"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "150+",
+    "Location": "Aligarh, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹26,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1.5–2L (MBBS)"
+    },
+    "Scholarships": ["AMU merit aid", "Minority community scholarships", "Govt schemes"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Teaching Hospitals", "Central Services"],
+      "Internship Programs": "Mandatory with in-house training"
+    },
+    "Rank": 15
+  },
+  {
+    "Name": "Vardhman Mahavir Medical College & Safdarjung Hospital",
+    "Type": "Government",
+    "Affiliation": "Guru Gobind Singh Indraprastha University",
+    "Established": "2001",
+    "Degrees Offered": ["MBBS", "MD", "MS", "PG Diplomas"],
+    "Specializations": [
+      "Orthopedics", "Obstetrics", "Radiotherapy", "Pathology", "General Medicine",
+      "Forensic Medicine", "Anatomy"
+    ],
+    "Facilities": [
+      "Safdarjung Hospital", "OPD blocks", "Lecture theatres", "Modern hostels",
+      "Cadaver labs", "Emergency wards", "Skill labs"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "250+",
+    "Location": "New Delhi",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2L–2.5L (MBBS)"
+    },
+    "Scholarships": ["Central Govt schemes", "EWS quota", "Merit-based aid"],
+    "Placement Support": {
+      "Average Package": "₹10–11 LPA",
+      "Top Recruiters": ["Govt hospitals", "CGHS", "State-level services"],
+      "Internship Programs": "Paid internship with clinical exposure"
+    },
+    "Rank": 16
+  },
+  {
+    "Name": "Maulana Azad Medical College",
+    "Type": "Government",
+    "Affiliation": "University of Delhi",
+    "Established": "1959",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh", "PG Diplomas"],
+    "Specializations": [
+      "General Surgery", "OBG", "Anesthesiology", "Ophthalmology", "Microbiology",
+      "Community Medicine", "Dermatology"
+    ],
+    "Facilities": [
+      "Lok Nayak Hospital", "GB Pant Hospital", "Advanced skill lab", "E-libraries",
+      "Emergency blocks", "Blood bank", "Student research council"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "300+",
+    "Location": "New Delhi",
+    "Fees": {
+      "Tuition": "₹2,445/year",
+      "Other": "₹2,000/year",
+      "Total": "₹25,000–₹30,000 (MBBS)"
+    },
+    "Scholarships": ["State/central scholarships", "Merit-based aids"],
+    "Placement Support": {
+      "Average Package": "₹11–12 LPA",
+      "Top Recruiters": ["Delhi Govt Hospitals", "Indian Medical Services", "PGI Institutions"],
+      "Internship Programs": "Mandatory paid clinical internship"
+    },
+    "Rank": 17
+  },
+  {
+    "Name": "University College of Medical Sciences",
+    "Type": "Government",
+    "Affiliation": "University of Delhi",
+    "Established": "1971",
+    "Degrees Offered": ["MBBS", "MD", "MS", "BSc Medical", "Ph.D"],
+    "Specializations": [
+      "OBG", "Anatomy", "Pharmacology", "ENT", "Orthopedics",
+      "Internal Medicine", "Radiology"
+    ],
+    "Facilities": [
+      "Guru Teg Bahadur Hospital", "Clinical skills unit", "Library",
+      "Laboratories", "Dissection hall", "Rural posting support"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "200+",
+    "Location": "New Delhi",
+    "Fees": {
+      "Tuition": "₹6,000/year",
+      "Other": "₹4,000/year",
+      "Total": "₹40,000–₹50,000 (MBBS)"
+    },
+    "Scholarships": ["DU merit list", "SC/ST/EWS aid", "Govt fellowships"],
+    "Placement Support": {
+      "Average Package": "₹9–11 LPA",
+      "Top Recruiters": ["Delhi Govt", "CGHS", "Private hospitals"],
+      "Internship Programs": "Mandatory internship at GTB Hospital"
+    },
+    "Rank": 18
+  },
+  {
+    "Name": "JSS Medical College",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "JSS Academy of Higher Education & Research",
+    "Established": "1984",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "Pediatrics", "OBG", "General Medicine", "Nephrology", "Neurology",
+      "Surgery", "Microbiology", "Community Medicine"
+    ],
+    "Facilities": [
+      "Modern hospital campus", "Wi-fi classrooms", "Smart labs",
+      "Herbal garden (integrated medicine)", "Sports & fitness", "Library"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "250+",
+    "Location": "Mysuru, Karnataka",
+    "Fees": {
+      "Tuition": "₹18–20 L/year",
+      "Other": "₹1.5 L/year",
+      "Total": "₹90L–1Cr (MBBS)"
+    },
+    "Scholarships": ["Merit-based", "SC/ST fee waivers", "Rural quota"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["JSS Hospitals", "Private chains", "Research institutions"],
+      "Internship Programs": "Rotational internship with clinical exposure"
+    },
+    "Rank": 19
+  },
+  {
+    "Name": "Jamia Hamdard (HIMSR)",
+    "Type": "Private (Minority Deemed University)",
+    "Affiliation": "Jamia Hamdard University",
+    "Established": "1989",
+    "Degrees Offered": ["MBBS", "MD", "MS", "BSc", "Ph.D"],
+    "Specializations": [
+      "Pharmacology", "Pathology", "General Surgery", "Internal Medicine",
+      "Microbiology", "Anatomy", "ENT"
+    ],
+    "Facilities": [
+      "HIMSR Hospital", "Unani medicine center", "Modern OPD", "Simulation labs",
+      "Minority student support", "Hostels", "Library"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "150+",
+    "Location": "New Delhi",
+    "Fees": {
+      "Tuition": "₹14 L/year",
+      "Other": "₹1 L/year",
+      "Total": "₹70L–75L (MBBS)"
+    },
+    "Scholarships": ["Minority schemes", "Merit-cum-means", "JHF scholarships"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["HIMSR Hospital", "Central services", "Medical NGOs"],
+      "Internship Programs": "1-year internship included in MBBS"
+    },
+    "Rank": 20
+  },
+  {
+    "Name": "Siksha 'O' Anusandhan (Institute of Medical Sciences and SUM Hospital)",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "Siksha 'O' Anusandhan University",
+    "Established": "2007",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh", "Ph.D"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "Orthopedics",
+      "Dermatology", "ENT", "Radiodiagnosis", "Psychiatry"
+    ],
+    "Facilities": [
+      "SUM Hospital", "Advanced OTs", "Research Labs",
+      "Modern classrooms", "Simulation center", "Digital library"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Bhubaneswar, Odisha",
+    "Fees": {
+      "Tuition": "₹18 L/year",
+      "Other": "₹1.5 L/year",
+      "Total": "₹90L–1Cr (MBBS)"
+    },
+    "Scholarships": ["Merit scholarships", "EWS support", "Institute-level waivers"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["SUM Hospital", "Private multispecialty centers"],
+      "Internship Programs": "1-year rotating internship"
+    },
+    "Rank": 21
+  },
+  {
+    "Name": "Dr. D. Y. Patil Vidyapeeth (Dr. D.Y. Patil Medical College, Pune)",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "DPU, Pune",
+    "Established": "1996",
+    "Degrees Offered": ["MBBS", "MD", "MS", "MCh", "Ph.D"],
+    "Specializations": [
+      "Cardiology", "Urology", "Surgery", "Pediatrics",
+      "Radiology", "General Medicine", "ENT"
+    ],
+    "Facilities": [
+      "DPU Hospital", "Simulation Center", "Skills Lab",
+      "Research Units", "Modern Hostels", "Digital classrooms"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "300+",
+    "Location": "Pune, Maharashtra",
+    "Fees": {
+      "Tuition": "₹21 L/year",
+      "Other": "₹1.8 L/year",
+      "Total": "₹1 Cr+ (MBBS)"
+    },
+    "Scholarships": ["Merit-based discounts", "DPU financial aid"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["DPU Hospital", "Private chains", "Govt jobs"],
+      "Internship Programs": "Rotating clinical internship"
+    },
+    "Rank": 22
+  },
+  {
+    "Name": "Government Medical College and Hospital, Chandigarh",
+    "Type": "Government",
+    "Affiliation": "Punjab University",
+    "Established": "1991",
+    "Degrees Offered": ["MBBS", "MD", "MS", "BSc", "PG Diplomas"],
+    "Specializations": [
+      "General Medicine", "OBG", "Orthopedics", "Dermatology", "ENT",
+      "Pathology", "Radiology", "Microbiology"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Medical labs", "Academic blocks",
+      "Library", "Girls & Boys hostels", "Emergency trauma center"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "150+",
+    "Location": "Chandigarh",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1–1.5L (MBBS)"
+    },
+    "Scholarships": ["Central/State Govt scholarships", "Merit-based aid"],
+    "Placement Support": {
+      "Average Package": "₹9–11 LPA",
+      "Top Recruiters": ["Govt hospitals", "PGI Chandigarh", "Defence services"],
+      "Internship Programs": "1-year mandatory clinical internship"
+    },
+    "Rank": 23
+  },
+  {
+    "Name": "Dayanand Medical College and Hospital",
+    "Type": "Private",
+    "Affiliation": "Baba Farid University of Health Sciences",
+    "Established": "1964",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "Medicine", "OBG", "Orthopedics", "Psychiatry",
+      "Radiology", "ENT", "Emergency Medicine"
+    ],
+    "Facilities": [
+      "Advanced hospital", "Skill Labs", "Simulation labs",
+      "ICUs", "Modern hostels", "Central library"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "150+",
+    "Location": "Ludhiana, Punjab",
+    "Fees": {
+      "Tuition": "₹11.5 L/year",
+      "Other": "₹1.5 L/year",
+      "Total": "₹65–70L (MBBS)"
+    },
+    "Scholarships": ["Merit cum means", "Need-based aid", "State quota support"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["DMCH", "Private Hospitals", "Govt Services"],
+      "Internship Programs": "1-year rotating internship"
+    },
+    "Rank": 24
+  },
+  {
+    "Name": "Sawai Man Singh Medical College",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "1947",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "Cardiology", "Anesthesiology", "ENT", "Surgery",
+      "Dermatology", "Radiotherapy", "OBG"
+    ],
+    "Facilities": [
+      "SMS Hospital", "Academic blocks", "OPD/IPD",
+      "Simulation center", "Emergency care unit", "Medical museum"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "400+",
+    "Location": "Jaipur, Rajasthan",
+    "Fees": {
+      "Tuition": "₹31,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1.8–2.2L (MBBS)"
+    },
+    "Scholarships": ["State Govt aid", "Merit-based aid", "EWS/SC/ST support"],
+    "Placement Support": {
+      "Average Package": "₹10–12 LPA",
+      "Top Recruiters": ["SMS Hospital", "Govt services", "Teaching hospitals"],
+      "Internship Programs": "Paid rotating internship"
+    },
+    "Rank": 25
+  },
+  {
+    "Name": "PSG Institute of Medical Sciences and Research",
+    "Type": "Private (Self-financed)",
+    "Affiliation": "Dr. MGR Medical University",
+    "Established": "1985",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "Pediatrics", "ENT", "Dermatology", "Anesthesia",
+      "OBG", "Radiodiagnosis", "General Medicine"
+    ],
+    "Facilities": [
+      "PSG Hospitals", "Central research lab", "Modern classrooms",
+      "Skills labs", "Digital anatomy", "Clinical simulation"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "200+",
+    "Location": "Coimbatore, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹20 L/year",
+      "Other": "₹1.5 L/year",
+      "Total": "₹1 Cr+ (MBBS)"
+    },
+    "Scholarships": ["PSG Trust aid", "Merit scholarships"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["PSG Hospitals", "Private Hospitals"],
+      "Internship Programs": "Rotating compulsory internship"
+    },
+    "Rank": 26
+  },
+  {
+    "Name": "Datta Meghe Institute of Medical Sciences",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "DMIMS Wardha",
+    "Established": "2005",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "Cardiology", "Surgery", "ENT", "Anatomy",
+      "Microbiology", "Pediatrics", "Radiology"
+    ],
+    "Facilities": [
+      "Teaching hospitals", "Labs", "Simulation center",
+      "E-learning units", "Hostels", "Clinical departments"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "250+",
+    "Location": "Wardha, Maharashtra",
+    "Fees": {
+      "Tuition": "₹18 L/year",
+      "Other": "₹2 L/year",
+      "Total": "₹1 Cr+ (MBBS)"
+    },
+    "Scholarships": ["Merit-based", "Trust scholarships"],
+    "Placement Support": {
+      "Average Package": "₹8–9 LPA",
+      "Top Recruiters": ["DMIMS Hospitals", "Private hospitals"],
+      "Internship Programs": "1-year clinical internship"
+    },
+    "Rank": 27
+  },
+  {
+    "Name": "M. S. Ramaiah Medical College",
+    "Type": "Private (Autonomous)",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1979",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Ph.D"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "Psychiatry", "Pathology",
+      "Anesthesia", "Surgery", "OBG"
+    ],
+    "Facilities": [
+      "Teaching hospital", "Modern OPDs", "Smart lecture halls",
+      "Simulation center", "Digital library", "Research lab"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "200+",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": {
+      "Tuition": "₹10.5 L/year",
+      "Other": "₹1.5 L/year",
+      "Total": "₹65–70L (MBBS)"
+    },
+    "Scholarships": ["Merit-based aid", "Alumni trust support"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["Ramaiah Hospitals", "Govt jobs", "PGI programs"],
+      "Internship Programs": "1-year rotating clinical internship"
+    },
+    "Rank": 28
+  },
+  {
+    "Name": "SRM Institute of Science and Technology (Medical College)",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "SRM University",
+    "Established": "2005",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "Dermatology", "ENT", "OBG", "Medicine", "Orthopedics",
+      "Radiology", "Anesthesia", "Pediatrics"
+    ],
+    "Facilities": [
+      "SRM Hospital", "Hi-tech labs", "E-library", "Hostels",
+      "Global exchange", "Research hubs", "Simulation & Skills Labs"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "300+",
+    "Location": "Chengalpattu, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹22 L/year",
+      "Other": "₹2 L/year",
+      "Total": "₹1.1 Cr (MBBS)"
+    },
+    "Scholarships": ["Merit scholarships", "International grants"],
+    "Placement Support": {
+      "Average Package": "₹9–11 LPA",
+      "Top Recruiters": ["SRM Hospitals", "Private hospitals", "Govt sector"],
+      "Internship Programs": "1-year internship"
+    },
+    "Rank": 29
+  },
+  {
+    "Name": "Kalinga Institute of Industrial Technology (KIMS)",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "KIIT University",
+    "Established": "2007",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Surgery", "Medicine", "OBG", "Pathology",
+      "Pediatrics", "ENT", "Dermatology"
+    ],
+    "Facilities": [
+      "KIMS Hospital", "Central Library", "Simulation Lab",
+      "Modern infrastructure", "E-learning resources"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "200+",
+    "Location": "Bhubaneswar, Odisha",
+    "Fees": {
+      "Tuition": "₹19.5 L/year",
+      "Other": "₹1.5 L/year",
+      "Total": "₹95L–1 Cr (MBBS)"
+    },
+    "Scholarships": ["KIIT Poverty-cum-Merit", "Tribal quota aid"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["KIMS", "Private hospitals", "International fellowships"],
+      "Internship Programs": "Rotating clinical internship"
+    },
+    "Rank": 30
+  },
+  {
+    "Name": "Maharishi Markandeshwar (Deemed to be University)",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "MMU Mullana",
+    "Established": "2003",
+    "Degrees Offered": ["MBBS", "MD", "MS", "MCh", "Ph.D"],
+    "Specializations": [
+      "Medicine", "ENT", "Orthopedics", "OBG", "Pathology",
+      "Dermatology", "Radiodiagnosis"
+    ],
+    "Facilities": [
+      "Super specialty hospital", "Skill labs", "Central Library",
+      "E-campus", "Simulation wards", "Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "150+",
+    "Location": "Ambala, Haryana",
+    "Fees": {
+      "Tuition": "₹18 L/year",
+      "Other": "₹1.5 L/year",
+      "Total": "₹90L–1 Cr (MBBS)"
+    },
+    "Scholarships": ["Merit scholarship", "Fee concessions for rural students"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["MM Hospital", "Govt jobs", "Private sector"],
+      "Internship Programs": "1-year compulsory internship"
+    },
+    "Rank": 31
+  },
+  {
+    "Name": "Saveetha Institute of Medical and Technical Sciences",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "Saveetha University",
+    "Established": "2008",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Dental", "Paramedical"],
+    "Specializations": [
+      "General Surgery", "OBG", "Pediatrics", "Orthopedics",
+      "ENT", "Dermatology", "Radiology"
+    ],
+    "Facilities": [
+      "Saveetha Medical College Hospital", "Industry-linked labs",
+      "Digital library", "Simulation centers", "Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "200+",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹17 L/year",
+      "Other": "₹1.5 L/year",
+      "Total": "₹85L–90L (MBBS)"
+    },
+    "Scholarships": ["Merit-cum-means", "Alumni aid", "SC/ST support"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["Saveetha Hospital", "Private chains"],
+      "Internship Programs": "1-year rotating internship"
+    },
+    "Rank": 32
+  },
+  {
+    "Name": "Annamalai University (Medical College)",
+    "Type": "Public University",
+    "Affiliation": "Annamalai University",
+    "Established": "1980",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics",
+      "Surgery", "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "Annamalai Teaching Hospital", "Basic labs",
+      "Library", "Hostels", "Clinical wards"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "80+",
+    "Location": "Chidambaram, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹2,500/year",
+      "Other": "₹5,000/year",
+      "Total": "₹5–8L (MBBS)"
+    },
+    "Scholarships": ["State govt scholarships", "Merit-based"],
+    "Placement Support": {
+      "Average Package": "₹5–7 LPA",
+      "Top Recruiters": ["AU hospitals", "Tamil Nadu Govt"],
+      "Internship Programs": "Compulsory internship"
+    },
+    "Rank": 33
+  },
+  {
+    "Name": "K.S. Hegde Medical Academy",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "Nitte University",
+    "Established": "1999",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Ph.D"],
+    "Specializations": [
+      "General Medicine", "OBG", "Dentistry", "ENT",
+      "Orthopedics", "Psychiatry"
+    ],
+    "Facilities": [
+      "KHA Teaching Hospital", "Simulation center", "Library",
+      "Hostels", "Research labs"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "100+",
+    "Location": "Mangalore, Karnataka",
+    "Fees": {
+      "Tuition": "₹11 L/year",
+      "Other": "₹1 L/year",
+      "Total": "₹60L–65L"
+    },
+    "Scholarships": ["Merit scholarships", "Trust aid"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["KHA Hospitals", "Private hospitals"],
+      "Internship Programs": "1-year rotating internship"
+    },
+    "Rank": 34
+  },
+  {
+    "Name": "Krishna Institute of Medical Sciences",
+    "Type": "Private University",
+    "Affiliation": "KIMSDU",
+    "Established": "2005",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Dental"],
+    "Specializations": [
+      "General Medicine", "OBG", "Surgery", "Dentistry",
+      "Orthopedics", "Pediatrics"
+    ],
+    "Facilities": [
+      "KIMS Hospital", "Dental College", "Research labs",
+      "Library", "Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "150+",
+    "Location": "Karad, Maharashtra",
+    "Fees": {
+      "Tuition": "₹12 L/year",
+      "Other": "₹1 L/year",
+      "Total": "₹70–75L"
+    },
+    "Scholarships": ["Merit aid", "State scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6–8 LPA",
+      "Top Recruiters": ["KIMS hospital chain", "Govt services"],
+      "Internship Programs": "1-year clinical internship"
+    },
+    "Rank": 35
+  },
+  {
+    "Name": "Sri Venkateswara Institute of Medical Sciences",
+    "Type": "Government (Medical University)",
+    "Affiliation": "SVIMS University",
+    "Established": "1992",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "General Medicine", "Cardiology", "Neurosurgery",
+      "Pediatrics", "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "SVIMS Hospital", "Super-specialty centre", "Labs",
+      "Library", "Hostels", "Rural outreach"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "120+",
+    "Location": "Tirupati, Andhra Pradesh",
+    "Fees": {
+      "Tuition": "₹5,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹40–50L"
+    },
+    "Scholarships": ["State Govt aid", "Merit scholarships"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["SVIMS hospitals", "State Govt services"],
+      "Internship Programs": "Mandatory rotating internship"
+    },
+    "Rank": 36
+  },
+  {
+    "Name": "Regional Institute of Medical Sciences",
+    "Type": "Government (Medical University)",
+    "Affiliation": "RIHSU",
+    "Established": "1972",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "ENT",
+      "Orthopedics", "Psychiatry"
+    ],
+    "Facilities": [
+      "RIMS Hospital", "Teaching blocks", "Library",
+      "Hostels", "Specialty clinics"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "80+",
+    "Location": "Imphal, Manipur",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹5,000/year",
+      "Total": "₹35–40L"
+    },
+    "Scholarships": ["North-East scholarships", "State Govt aid"],
+    "Placement Support": {
+      "Average Package": "₹6–8 LPA",
+      "Top Recruiters": ["RIMS hospital", "State Govt services"],
+      "Internship Programs": "Compulsory internship"
+    },
+    "Rank": 37
+  },
+  {
+    "Name": "Mahatma Gandhi Medical College and Research Institute",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "MGUMST",
+    "Established": "2002",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Ph.D"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "Dentistry",
+      "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "MGMC & RI hospital", "Research labs", "Library",
+      "Hostels", "Emergency centre"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Puducherry",
+    "Fees": {
+      "Tuition": "₹21 L/year",
+      "Other": "₹2 L/year",
+      "Total": "₹1 Cr+"
+    },
+    "Scholarships": ["Merit scholarships", "Trust-based aid"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["Private hospital chains", "Govt services"],
+      "Internship Programs": "Mandatory rotating internship"
+    },
+    "Rank": 38
+  },
+  {
+    "Name": "Govt Medical College and Hospital, Nagpur",
+    "Type": "Government",
+    "Affiliation": "Mahatma Gandhi University of Medical Sciences",
+    "Established": "1966",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Orthopedics", "Pediatrics",
+      "Dermatology"
+    ],
+    "Facilities": [
+      "GMCH hospital", "Labs", "Library", "Hostels",
+      "Emergency centre"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "150+",
+    "Location": "Nagpur, Maharashtra",
+    "Fees": {
+      "Tuition": "₹40,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹45–50L"
+    },
+    "Scholarships": ["State Govt schemes", "Merit aid"],
+    "Placement Support": {
+      "Average Package": "₹6–8 LPA",
+      "Top Recruiters": ["GMCH hospital", "Govt services"],
+      "Internship Programs": "1-year clinical internship"
+    },
+    "Rank": 39
+  },
+  {
+    "Name": "Government Medical College, Thiruvananthapuram",
+    "Type": "Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1951",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "Orthopedics",
+      "ENT", "Dermatology", "Psychiatry"
+    ],
+    "Facilities": [
+      "GMC hospital", "Central library", "Labs",
+      "Hostels", "Emergency and trauma ward"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Thiruvananthapuram, Kerala",
+    "Fees": {
+      "Tuition": "₹40,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1 Cr"
+    },
+    "Scholarships": ["State Govt aid", "Need-based"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["Govt hospitals", "Teaching hospitals"],
+      "Internship Programs": "Mandatory rotating internship"
+    },
+    "Rank": 40
+  },
+  {
+    "Rank": 41,
+    "Name": "Saveetha Institute of Medical and Technical Sciences",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "Saveetha University",
+    "Established": "2008",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Dental", "Paramedical"],
+    "Specializations": ["General Surgery", "OBG", "Pediatrics", "Orthopedics", "ENT", "Dermatology", "Radiology"],
+    "Facilities": ["Saveetha Hospital", "Simulation labs", "Digital library", "Research centers", "Hostels"],
+    "UG Seats": "150",
+    "PG Seats": "200+",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": {"Tuition": "₹17 L/year", "Other": "₹1.5 L/year", "Total": "₹85‑90 L (MBBS)"},
+    "Scholarships": ["Merit‑cum‑means", "Alumni aid", "SC/ST support"],
+    "Placement Support": {"Average Package": "₹8–10 LPA", "Top Recruiters": ["Saveetha Hospital"], "Internship": "1‑year rotating internship"}
+  },
+  {
+    "Rank": 42,
+    "Name": "Annamalai University (Medical College)",
+    "Type": "Public University",
+    "Affiliation": "Annamalai University",
+    "Established": "1980",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": ["General Medicine", "OBG", "Pediatrics", "Surgery", "ENT", "Orthopedics"],
+    "Facilities": ["Annamalai Teaching Hospital", "Basic labs", "Library", "Hostels"],
+    "UG Seats": "100",
+    "PG Seats": "80+",
+    "Location": "Chidambaram, Tamil Nadu",
+    "Fees": {"Tuition": "₹2.5 K/year", "Other": "₹5 K/year", "Total": "₹5‑8 L (MBBS)"},
+    "Scholarships": ["State govt scholarships", "Merit‑based"],
+    "Placement Support": {"Average Package": "₹5–7 LPA", "Top Recruiters": ["AU hospitals"], "Internship": "Compulsory internship"}
+  },
+  {
+    "Rank": 43,
+    "Name": "K.S. Hegde Medical Academy",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "Nitte University",
+    "Established": "1999",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Ph.D"],
+    "Specializations": ["General Medicine", "OBG", "Dentistry", "ENT", "Orthopedics", "Psychiatry"],
+    "Facilities": ["KHA Hospital", "Simulation center", "Library", "Hostels", "Research labs"],
+    "UG Seats": "150",
+    "PG Seats": "100+",
+    "Location": "Mangalore, Karnataka",
+    "Fees": {"Tuition": "₹11 L/year", "Other": "₹1 L/year", "Total": "₹60‑65 L"},
+    "Scholarships": ["Merit scholarships", "Trust aid"],
+    "Placement Support": {"Average Package": "₹7–9 LPA", "Top Recruiters": ["KHA Hospital"], "Internship": "1‑year rotating internship"}
+  },
+  {
+    "Rank": 44,
+    "Name": "Krishna Institute of Medical Sciences",
+    "Type": "Private University",
+    "Affiliation": "KIMS University",
+    "Established": "2005",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Dental"],
+    "Specializations": ["General Medicine", "OBG", "Surgery", "Dentistry", "Orthopedics", "Pediatrics"],
+    "Facilities": ["KIMS Hospital", "Dental College", "Research labs", "Library", "Hostels"],
+    "UG Seats": "150",
+    "PG Seats": "150+",
+    "Location": "Karad, Maharashtra",
+    "Fees": {"Tuition": "₹12 L/year", "Other": "₹1 L/year", "Total": "₹70‑75 L"},
+    "Scholarships": ["Merit aid", "State scholarships"],
+    "Placement Support": {"Average Package": "₹6–8 LPA", "Top Recruiters": ["KIMS chain"], "Internship": "1‑year clinical internship"}
+  },
+  {
+    "Rank": 45,
+    "Name": "Sri Venkateswara Institute of Medical Sciences",
+    "Type": "Government (Medical University)",
+    "Affiliation": "SVIMS University",
+    "Established": "1992",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": ["General Medicine", "Cardiology", "Neurosurgery", "Pediatrics", "ENT", "Orthopedics"],
+    "Facilities": ["SVIMS Hospital", "Super‑specialty centre", "Labs", "Library", "Hostels", "Rural outreach"],
+    "UG Seats": "150",
+    "PG Seats": "120+",
+    "Location": "Tirupati, Andhra Pradesh",
+    "Fees": {"Tuition": "₹5 K/year", "Other": "₹10 K/year", "Total": "₹40‑50 L"},
+    "Scholarships": ["State Govt aid", "Merit scholarships"],
+    "Placement Support": {"Average Package": "₹7–9 LPA", "Top Recruiters": ["SVIMS hospitals"], "Internship": "Mandatory rotating internship"}
+  },
+  {
+    "Rank": 46,
+    "Name": "Regional Institute of Medical Sciences",
+    "Type": "Government (Medical University)",
+    "Affiliation": "RIHSU",
+    "Established": "1972",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": ["General Medicine", "OBG", "Pediatrics", "ENT", "Orthopedics", "Psychiatry"],
+    "Facilities": ["RIMS Hospital", "Teaching blocks", "Library", "Hostels", "Specialty clinics"],
+    "UG Seats": "100",
+    "PG Seats": "80+",
+    "Location": "Imphal, Manipur",
+    "Fees": {"Tuition": "₹30 K/year", "Other": "₹5 K/year", "Total": "₹35‑40 L"},
+    "Scholarships": ["North-East scholarships", "State Govt aid"],
+    "Placement Support": {"Average Package": "₹6–8 LPA", "Top Recruiters": ["RIMS hospital"], "Internship": "Compulsory internship"}
+  },
+  {
+    "Rank": 47,
+    "Name": "Mahatma Gandhi Medical College and Research Institute",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "MGUMST",
+    "Established": "2002",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Ph.D"],
+    "Specializations": ["General Medicine", "OBG", "Pediatrics", "Dentistry", "ENT", "Orthopedics"],
+    "Facilities": ["MGMC & RI Hospital", "Research labs", "Library", "Hostels", "Emergency centre"],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Puducherry",
+    "Fees": {"Tuition": "₹21 L/year", "Other": "₹2 L/year", "Total": "₹1 Cr+"},
+    "Scholarships": ["Merit scholarships", "Trust aid"],
+    "Placement Support": {"Average Package": "₹7–9 LPA", "Top Recruiters": ["Private chains"], "Internship": "Mandatory rotating internship"}
+  },
+  {
+    "Rank": 48,
+    "Name": "Govt Medical College and Hospital, Nagpur",
+    "Type": "Government",
+    "Affiliation": "MGUMS",
+    "Established": "1966",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": ["General Medicine", "OBG", "ENT", "Orthopedics", "Pediatrics", "Dermatology"],
+    "Facilities": ["GMCH Hospital", "Labs", "Library", "Hostels", "Emergency centre"],
+    "UG Seats": "200",
+    "PG Seats": "150+",
+    "Location": "Nagpur, Maharashtra",
+    "Fees": {"Tuition": "₹40 K/year", "Other": "₹10 K/year", "Total": "₹45‑50 L"},
+    "Scholarships": ["State Govt schemes", "Merit aid"],
+    "Placement Support": {"Average Package": "₹6–8 LPA", "Top Recruiters": ["GMCH Hospital"], "Internship": "1‑year clinical internship"}
+  },
+  {
+    "Rank": 49,
+    "Name": "Government Medical College, Thiruvananthapuram",
+    "Type": "Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1951",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": ["General Medicine", "OBG", "Pediatrics", "Orthopedics", "ENT", "Dermatology", "Psychiatry"],
+    "Facilities": ["GMC Hospital", "Library", "Labs", "Hostels", "Emergency ward"],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Thiruvananthapuram, Kerala",
+    "Fees": {"Tuition": "₹40 K/year", "Other": "₹10 K/year", "Total": "₹1 Cr"},
+    "Scholarships": ["State Govt aid", "Need-based"],
+    "Placement Support": {"Average Package": "₹7–9 LPA", "Top Recruiters": ["Govt/Teaching hospitals"], "Internship": "Mandatory rotating internship"}
+  },
+  {
+    "Rank": 50,
+    "Note": "Remaining original list colleges either duplicates or beyond rank 50; further ranks (51–60) would require additional data not provided."
+  },
+  {
+    "Rank": 51,
+    "Name": "Government Medical College, Kozhikode",
+    "Type": "Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1957",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh", "Diplomas"],
+    "Specializations": [
+      "General Medicine", "Cardiology", "Neurology", "Pulmonology",
+      "Pediatrics", "OBG", "Orthopedics", "ENT", "Dermatology", "Psychiatry"
+    ],
+    "Facilities": [
+      "Govt Medical College Hospital", "Super-specialty block",
+      "Clinical labs", "Central library", "Hostels", "Trauma center"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Kozhikode, Kerala",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹5–6L (MBBS)"
+    },
+    "Scholarships": ["Kerala Govt scholarships", "EWS quota aid"],
+    "Placement Support": {
+      "Average Package": "₹6–9 LPA",
+      "Top Recruiters": ["Kerala Govt Hospitals", "Armed Forces Medical Corps"],
+      "Internship": "1-year compulsory rotating internship"
+    }
+  },
+  {
+    "Rank": 52,
+    "Name": "Pt. B.D. Sharma Postgraduate Institute of Medical Sciences",
+    "Type": "Government",
+    "Affiliation": "Pandit Bhagwat Dayal Sharma University of Health Sciences",
+    "Established": "1960",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "General Surgery", "Medicine", "ENT", "OBG", "Pediatrics",
+      "Anesthesiology", "Radiology"
+    ],
+    "Facilities": [
+      "PGIMS Hospital", "Trauma center", "Academic blocks",
+      "Skill labs", "Library", "Hostels"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "175+",
+    "Location": "Rohtak, Haryana",
+    "Fees": {
+      "Tuition": "₹50,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹4–6L (MBBS)"
+    },
+    "Scholarships": ["State Govt merit aid", "EWS & SC/ST schemes"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8.5 LPA",
+      "Top Recruiters": ["State Health Depts", "Private chains"],
+      "Internship": "Mandatory 1-year internship"
+    }
+  },
+  {
+    "Rank": 53,
+    "Name": "Dr. Vaishampayan Memorial Government Medical College",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1963",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Orthopedics", "ENT",
+      "Dermatology", "Radiology", "Pediatrics"
+    ],
+    "Facilities": [
+      "VMGMC Hospital", "Clinical labs", "Library",
+      "Anatomy & Pathology museums", "Boys & Girls Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "100+",
+    "Location": "Solapur, Maharashtra",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹20,000/year",
+      "Total": "₹5–6L (MBBS)"
+    },
+    "Scholarships": ["Government scholarships", "Minority aid"],
+    "Placement Support": {
+      "Average Package": "₹5.5–7 LPA",
+      "Top Recruiters": ["State Health Dept", "Civil hospitals"],
+      "Internship": "Compulsory internship"
+    }
+  },
+  {
+    "Rank": 54,
+    "Name": "Government Medical College, Kottayam",
+    "Type": "Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1962",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "General Surgery", "Cardiology", "Urology",
+      "Neurology", "Pediatrics", "Orthopedics", "ENT"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Clinical skill lab", "Hostels",
+      "Simulation center", "Emergency trauma ward", "Academic library"
+    ],
+    "UG Seats": "175",
+    "PG Seats": "150+",
+    "Location": "Kottayam, Kerala",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹5L approx"
+    },
+    "Scholarships": ["State welfare dept", "Merit-based", "EWS grants"],
+    "Placement Support": {
+      "Average Package": "₹6–9 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Private multispecialty units"],
+      "Internship": "1-year mandatory clinical rotation"
+    }
+  },
+  {
+    "Rank": 55,
+    "Name": "Government Medical College, Aurangabad",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1956",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "General Medicine", "OBG", "Radiology", "ENT",
+      "Surgery", "Pediatrics", "Orthopedics"
+    ],
+    "Facilities": [
+      "GMC Aurangabad Hospital", "Lecture halls", "Skill labs",
+      "Central research lab", "Library", "Hostels"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "175+",
+    "Location": "Aurangabad, Maharashtra",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5–6.5L"
+    },
+    "Scholarships": ["Govt scholarships", "EWS / SC / ST aid"],
+    "Placement Support": {
+      "Average Package": "₹6–8 LPA",
+      "Top Recruiters": ["State Hospitals", "AIIMS recruitments"],
+      "Internship": "1-year compulsory internship"
+    }
+  },
+  {
+    "Rank": 56,
+    "Name": "Indira Gandhi Medical College & Research Institute",
+    "Type": "Government (Autonomous)",
+    "Affiliation": "Pondicherry University",
+    "Established": "2010",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "Surgery", "OBG", "ENT", "Psychiatry",
+      "Radiology", "Dermatology", "Pediatrics"
+    ],
+    "Facilities": [
+      "IGMCRI Hospital", "Clinical labs", "Digital classrooms",
+      "Simulation training", "Library", "Boys & Girls Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "80+",
+    "Location": "Puducherry",
+    "Fees": {
+      "Tuition": "₹60,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹4–5L"
+    },
+    "Scholarships": ["Puducherry Govt merit & category-based aid"],
+    "Placement Support": {
+      "Average Package": "₹6–7.5 LPA",
+      "Top Recruiters": ["Govt hospitals", "PHCs", "Teaching colleges"],
+      "Internship": "Mandatory clinical rotation"
+    }
+  },
+  {
+    "Rank": 57,
+    "Name": "Nil Ratan Sircar Medical College and Hospital",
+    "Type": "Government",
+    "Affiliation": "West Bengal University of Health Sciences",
+    "Established": "1873",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "General Medicine", "OBG", "Cardiology", "Neurology",
+      "Pediatrics", "ENT", "Radiology", "Orthopedics"
+    ],
+    "Facilities": [
+      "NRS Hospital", "Advanced labs", "Oldest medical library",
+      "Simulation labs", "On-campus hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Kolkata, West Bengal",
+    "Fees": {
+      "Tuition": "₹9,000/year",
+      "Other": "₹5,000/year",
+      "Total": "₹1–2L overall"
+    },
+    "Scholarships": ["WB State Medical Scholarships", "SC/ST/EWS Grants"],
+    "Placement Support": {
+      "Average Package": "₹7.5–10 LPA",
+      "Top Recruiters": ["WB Govt", "AIIMS", "Railways Medical Board"],
+      "Internship": "Mandatory clinical internship"
+    }
+  },
+  {
+    "Rank": 58,
+    "Name": "Bangalore Medical College and Research Institute",
+    "Type": "Government",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1955",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "General Medicine", "Surgery", "OBG", "Pediatrics", "Radiology",
+      "Orthopedics", "Neurology", "Urology"
+    ],
+    "Facilities": [
+      "BMCRI Hospital", "Victoria & Bowring hospitals", "Super-specialty labs",
+      "Simulation Centre", "Girls & Boys Hostels", "Sports & Fitness Centers"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "300+",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹5–6L"
+    },
+    "Scholarships": ["Karnataka Govt scholarships", "Merit aid"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["BMCRI", "Karnataka Govt", "AIIMS"],
+      "Internship": "Rotating internship"
+    }
+  },
+  {
+    "Rank": 59,
+    "Name": "Gandhi Medical College, Bhopal",
+    "Type": "Government",
+    "Affiliation": "MP Medical Science University",
+    "Established": "1955",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM"],
+    "Specializations": [
+      "General Medicine", "ENT", "Orthopedics", "OBG",
+      "Surgery", "Pediatrics", "Radiology", "Psychiatry"
+    ],
+    "Facilities": [
+      "GMC Bhopal Hospital", "Research labs", "Clinical training units",
+      "Library", "Hostels", "Super-specialty OPD blocks"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "250+",
+    "Location": "Bhopal, Madhya Pradesh",
+    "Fees": {
+      "Tuition": "₹1.1 L/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5.5–6.5L"
+    },
+    "Scholarships": ["MP Govt aid", "Merit cum Means"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["Govt of MP", "NIMHANS", "NHM"],
+      "Internship": "1-year internship"
+    }
+  },
+  {
+    "Rank": 60,
+    "Name": "Mysore Medical College & Research Institute",
+    "Type": "Government",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1924",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Orthopedics", "Pediatrics",
+      "Dermatology", "Psychiatry", "Anesthesiology"
+    ],
+    "Facilities": [
+      "KR Hospital", "Cheluvamba Hospital", "Research wing",
+      "Digital library", "Hostels", "OPD blocks"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Mysuru, Karnataka",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5–6L"
+    },
+    "Scholarships": ["Karnataka Govt schemes", "Minority scholarships"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Railways", "ESIC"],
+      "Internship": "Compulsory internship"
+    }
+  },
+  {
+    "Rank": 61,
+    "Name": "ESIC Medical College, Faridabad",
+    "Type": "Government (Autonomous under ESIC)",
+    "Affiliation": "Pandit Bhagwat Dayal Sharma University of Health Sciences",
+    "Established": "2015",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "ENT", "OBG", "Orthopedics", "Anesthesiology"
+    ],
+    "Facilities": [
+      "ESIC Super Specialty Hospital", "Central Research Lab",
+      "Simulation lab", "Digital library", "Girls & Boys Hostels"
+    ],
+    "UG Seats": "125",
+    "PG Seats": "80+",
+    "Location": "Faridabad, Haryana",
+    "Fees": {
+      "Tuition": "₹24,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1.5–2L"
+    },
+    "Scholarships": ["ESIC quota subsidy", "SC/ST/OBC/EWS scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6–8 LPA",
+      "Top Recruiters": ["ESIC Hospitals", "Central Govt Health Schemes"],
+      "Internship": "Compulsory rotating internship"
+    }
+  },
+  {
+    "Rank": 62,
+    "Name": "Dr. RML Institute of Medical Sciences",
+    "Type": "Government (Autonomous Institute)",
+    "Affiliation": "Dr. Ram Manohar Lohia Avadh University",
+    "Established": "2006",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "Cardiology", "Neurology", "Endocrinology", "Gastroenterology", "General Medicine", "Surgery"
+    ],
+    "Facilities": [
+      "Super-specialty Hospital", "Cardiac Cath Labs", "Digital Library",
+      "Academic Auditorium", "Student Hostels"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "170+",
+    "Location": "Lucknow, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹54,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹6–7L"
+    },
+    "Scholarships": ["UP Govt scholarships", "Merit cum Means"],
+    "Placement Support": {
+      "Average Package": "₹7.5–9.5 LPA",
+      "Top Recruiters": ["Central Govt Services", "AIIMS recruitment"],
+      "Internship": "Mandatory clinical rotation"
+    }
+  },
+  {
+    "Rank": 63,
+    "Name": "Government Medical College, Thrissur",
+    "Type": "Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1981",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM"],
+    "Specializations": [
+      "Internal Medicine", "Orthopedics", "Dermatology", "Psychiatry", "Radiology", "ENT", "OBG"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Trauma Care Unit", "Blood Bank", "Clinical Labs",
+      "Separate UG & PG Hostels", "E-Library"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "120+",
+    "Location": "Thrissur, Kerala",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹5–6L"
+    },
+    "Scholarships": ["State-level Medical Merit Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6–8 LPA",
+      "Top Recruiters": ["Kerala Govt Hospitals", "National Health Mission"],
+      "Internship": "1-year clinical rotation"
+    }
+  },
+  {
+    "Rank": 64,
+    "Name": "Jawaharlal Nehru Medical College, Belgaum",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "KLE Academy of Higher Education and Research",
+    "Established": "1963",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Ph.D"],
+    "Specializations": [
+      "General Surgery", "Anesthesiology", "Orthopedics", "Psychiatry", "Dermatology", "ENT"
+    ],
+    "Facilities": [
+      "KLE Hospital", "Research Centres", "Digital Skill Labs", "Academic Library",
+      "Residential Hostels", "Sports Complex"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "250+",
+    "Location": "Belgaum, Karnataka",
+    "Fees": {
+      "Tuition": "₹16 L/year",
+      "Other": "₹1 L/year",
+      "Total": "₹85–95L"
+    },
+    "Scholarships": ["KLE Trust Merit Scholarships", "Govt EWS"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["KLE Healthcare System", "Apollo", "Manipal"],
+      "Internship": "Mandatory with stipend"
+    }
+  },
+  {
+    "Rank": 65,
+    "Name": "ESIC Medical College, Chennai",
+    "Type": "Government (ESIC)",
+    "Affiliation": "Tamil Nadu Dr. M.G.R. Medical University",
+    "Established": "2013",
+    "Degrees Offered": ["MBBS", "MD"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Dermatology", "Pediatrics", "Radiology"
+    ],
+    "Facilities": [
+      "ESIC Hospital", "Integrated Labs", "Simulation Room", "Academic Block",
+      "Separate UG/PG Hostels", "Recreation Facilities"
+    ],
+    "UG Seats": "125",
+    "PG Seats": "60+",
+    "Location": "KK Nagar, Chennai",
+    "Fees": {
+      "Tuition": "₹24,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1.5–2L"
+    },
+    "Scholarships": ["ESIC parental quota", "Community-based schemes"],
+    "Placement Support": {
+      "Average Package": "₹6–7.5 LPA",
+      "Top Recruiters": ["ESIC Chain", "Govt Schemes"],
+      "Internship": "Mandatory rotating"
+    }
+  },
+  {
+    "Rank": 66,
+    "Name": "MGM Medical College, Indore",
+    "Type": "Government",
+    "Affiliation": "Madhya Pradesh Medical Science University",
+    "Established": "1948",
+    "Degrees Offered": ["MBBS", "MD", "MS", "Diplomas"],
+    "Specializations": [
+      "General Medicine", "Radiology", "Pediatrics", "ENT", "OBG", "Dermatology", "Anesthesiology"
+    ],
+    "Facilities": [
+      "MGM Hospital", "Research Labs", "Trauma Center", "Skill Labs",
+      "Clinical Wards", "Academic Hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Indore, Madhya Pradesh",
+    "Fees": {
+      "Tuition": "₹1.1 L/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5.5–6.5L"
+    },
+    "Scholarships": ["MP Govt Aid", "Merit-Based Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["NHM", "AIIMS", "State Medical Dept"],
+      "Internship": "1-year compulsory rotation"
+    }
+  },
+  {
+    "Rank": 67,
+    "Name": "Smt. NHL Municipal Medical College",
+    "Type": "Government (Municipal Trust)",
+    "Affiliation": "Gujarat University",
+    "Established": "1963",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "Medicine", "ENT", "Pediatrics", "Surgery", "Radiology", "OBG"
+    ],
+    "Facilities": [
+      "Sardar Vallabhbhai Patel Institute", "Skill Labs",
+      "Central Library", "Student Hostels", "Recreation Units"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "100+",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹5,000/year",
+      "Total": "₹3–4L"
+    },
+    "Scholarships": ["Municipal Welfare Trust", "SC/ST OBC Grants"],
+    "Placement Support": {
+      "Average Package": "₹6–7.5 LPA",
+      "Top Recruiters": ["Gujarat State Hospitals", "PHCs"],
+      "Internship": "1-year mandatory"
+    }
+  },
+  {
+    "Rank": 68,
+    "Name": "Government Stanley Medical College",
+    "Type": "Government",
+    "Affiliation": "Tamil Nadu Dr. M.G.R. Medical University",
+    "Established": "1938",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "Plastic Surgery", "Cardiology", "Dermatology", "Neurology",
+      "General Medicine", "ENT", "OBG"
+    ],
+    "Facilities": [
+      "Stanley Hospital", "Super-specialty Blocks", "Libraries",
+      "Research Centres", "Lecture Halls", "PG & UG Hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "250+",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹13,600/year",
+      "Other": "₹5,000/year",
+      "Total": "₹1–2L overall"
+    },
+    "Scholarships": ["TN Govt Schemes", "Need-based Fee Waivers"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["Govt Medical College", "Private Chains"],
+      "Internship": "Rotating internship mandatory"
+    }
+  },
+  {
+    "Rank": 69,
+    "Name": "Andhra Medical College",
+    "Type": "Government",
+    "Affiliation": "Dr. NTR University of Health Sciences",
+    "Established": "1923",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "General Medicine", "Neurology", "OBG", "ENT",
+      "Dermatology", "Urology", "Orthopedics"
+    ],
+    "Facilities": [
+      "King George Hospital", "Super-specialty Wings",
+      "Central Medical Library", "Academic & Exam Blocks",
+      "Girls & Boys Hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "300+",
+    "Location": "Visakhapatnam, Andhra Pradesh",
+    "Fees": {
+      "Tuition": "₹12,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1–2L overall"
+    },
+    "Scholarships": ["AP Govt Reimbursement", "EWS quota"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["Govt Hospitals", "NHM", "PSUs"],
+      "Internship": "Mandatory"
+    }
+  },
+  {
+    "Rank": 70,
+    "Name": "BJ Government Medical College, Pune",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1946",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "Cardiology", "Neurology", "Pulmonology", "Surgery", "OBG",
+      "Radiodiagnosis", "Pathology", "Psychiatry"
+    ],
+    "Facilities": [
+      "Sassoon General Hospital", "Clinical Skills Centre",
+      "Academic Research Labs", "Library", "Hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "300+",
+    "Location": "Pune, Maharashtra",
+    "Fees": {
+      "Tuition": "₹1.1 L/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5.5–6.5L"
+    },
+    "Scholarships": ["State Merit Aid", "Govt Schemes"],
+    "Placement Support": {
+      "Average Package": "₹8–10 LPA",
+      "Top Recruiters": ["Govt of Maharashtra", "Medical Research Councils"],
+      "Internship": "1-year compulsory"
+    }
+  },
+  {
+    "Rank": 71,
+    "Name": "Government Medical College, Baroda",
+    "Type": "Government",
+    "Affiliation": "MS University of Baroda",
+    "Established": "1949",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "General Medicine", "Cardiology", "Neurology", "Pediatrics", "ENT",
+      "OBG", "Orthopedics", "Radiology"
+    ],
+    "Facilities": [
+      "S.S.G. Hospital", "Clinical Skill Centre", "Digital Library",
+      "Research Units", "Separate UG/PG Hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Vadodara, Gujarat",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹5,000/year",
+      "Total": "₹3–4L overall"
+    },
+    "Scholarships": ["Gujarat State Scholarships", "EWS support"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8 LPA",
+      "Top Recruiters": ["Govt of Gujarat", "NHM", "Medical Colleges"],
+      "Internship": "Compulsory 1-year internship"
+    }
+  },
+  {
+    "Rank": 72,
+    "Name": "Government Medical College, Amritsar",
+    "Type": "Government",
+    "Affiliation": "Baba Farid University of Health Sciences",
+    "Established": "1864",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM"],
+    "Specializations": [
+      "General Surgery", "OBG", "Radiology", "Orthopedics", "Dermatology",
+      "Pediatrics", "Anesthesiology"
+    ],
+    "Facilities": [
+      "Govt Medical Hospital", "Simulation Training", "Medical Library",
+      "Lecture Theatres", "On-campus Hostels"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "175+",
+    "Location": "Amritsar, Punjab",
+    "Fees": {
+      "Tuition": "₹1.5 L/year",
+      "Other": "₹20,000/year",
+      "Total": "₹6–7L (MBBS)"
+    },
+    "Scholarships": ["Punjab Govt Post-Matric Aid", "Minority schemes"],
+    "Placement Support": {
+      "Average Package": "₹6.5–9 LPA",
+      "Top Recruiters": ["Govt of Punjab", "Military Medical Services"],
+      "Internship": "Mandatory internship with rotations"
+    }
+  },
+  {
+    "Rank": 73,
+    "Name": "Burdwan Medical College",
+    "Type": "Government",
+    "Affiliation": "West Bengal University of Health Sciences",
+    "Established": "1969",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Pediatrics", "Surgery", "Orthopedics"
+    ],
+    "Facilities": [
+      "BMC Hospital", "Clinical Laboratories", "Central Library",
+      "Hostels", "Anatomy & Pathology Museums"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "120+",
+    "Location": "Burdwan, West Bengal",
+    "Fees": {
+      "Tuition": "₹9,000/year",
+      "Other": "₹5,000/year",
+      "Total": "₹1–2L"
+    },
+    "Scholarships": ["WB Govt aid", "SC/ST grants"],
+    "Placement Support": {
+      "Average Package": "₹6–8 LPA",
+      "Top Recruiters": ["WB Govt Hospitals", "PHC & CHCs"],
+      "Internship": "1-year compulsory"
+    }
+  },
+  {
+    "Rank": 74,
+    "Name": "R.G. Kar Medical College and Hospital",
+    "Type": "Government",
+    "Affiliation": "West Bengal University of Health Sciences",
+    "Established": "1916",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM"],
+    "Specializations": [
+      "Cardiology", "Neurology", "Dermatology", "General Medicine",
+      "OBG", "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "RGKMC Hospital", "Medical Research Lab", "Medical Library",
+      "Simulation Ward", "Boys & Girls Hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "250+",
+    "Location": "Kolkata, West Bengal",
+    "Fees": {
+      "Tuition": "₹9,000/year",
+      "Other": "₹6,000/year",
+      "Total": "₹1.5–2L overall"
+    },
+    "Scholarships": ["Govt of WB", "Merit-based Medical Scholarship"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["Govt Colleges", "ESIC Hospitals"],
+      "Internship": "1-year compulsory clinical rotation"
+    }
+  },
+  {
+    "Rank": 75,
+    "Name": "Dr. B.R. Ambedkar Medical College",
+    "Type": "Private",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1981",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Radiology", "Orthopedics", "Pediatrics"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Medical Simulation Center", "Library",
+      "Skill Labs", "Boys & Girls Hostels", "Lecture Halls"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "90+",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": {
+      "Tuition": "₹9 L/year",
+      "Other": "₹1 L/year",
+      "Total": "₹45–50L"
+    },
+    "Scholarships": ["SC/ST Post-Matric Schemes", "Merit Fee Concession"],
+    "Placement Support": {
+      "Average Package": "₹6–7.5 LPA",
+      "Top Recruiters": ["Private Chains", "Diagnostic Centres", "Hospitals"],
+      "Internship": "Mandatory hospital internship"
+    }
+  },
+  {
+    "Rank": 86,
+    "Name": "Government Medical College, Latur",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "2001",
+    "Degrees Offered": ["MBBS", "MD"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "Orthopedics", "OBG", "ENT", "Dermatology"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Digital Library", "Clinical Labs", "Lecture Theatres", "Student Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "60+",
+    "Location": "Latur, Maharashtra",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5–6L"
+    },
+    "Scholarships": ["State EBC/SC/ST schemes", "MUHS merit scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6–7.5 LPA",
+      "Top Recruiters": ["State Hospitals", "PHCs", "NHM"],
+      "Internship": "1-year mandatory rotation"
+    }
+  },
+  {
+    "Rank": 87,
+    "Name": "Government Medical College, Anantapur",
+    "Type": "Government",
+    "Affiliation": "Dr. NTR University of Health Sciences",
+    "Established": "2000",
+    "Degrees Offered": ["MBBS", "MD"],
+    "Specializations": [
+      "General Medicine", "OBG", "Anesthesiology", "ENT", "Pediatrics", "Radiology"
+    ],
+    "Facilities": [
+      "General Hospital", "Skill Labs", "Anatomy & Physiology Labs", "Library", "Separate Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "60+",
+    "Location": "Anantapur, Andhra Pradesh",
+    "Fees": {
+      "Tuition": "₹12,000/year",
+      "Other": "₹8,000/year",
+      "Total": "₹1.5–2L"
+    },
+    "Scholarships": ["Andhra Pradesh Fee Reimbursement", "Minority/SC/ST/EBC"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["Govt of Andhra Pradesh", "Rural Health Schemes"],
+      "Internship": "Compulsory with clinical rotations"
+    }
+  },
+  {
+    "Rank": 88,
+    "Name": "Nilratan Sircar Medical College",
+    "Type": "Government",
+    "Affiliation": "West Bengal University of Health Sciences",
+    "Established": "1873",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "Cardiology", "Neurology", "Psychiatry", "OBG", "General Medicine", "ENT"
+    ],
+    "Facilities": [
+      "NRS Medical Hospital", "Advanced Simulation Lab", "Lecture Theatres", "Library", "Hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "250+",
+    "Location": "Kolkata, West Bengal",
+    "Fees": {
+      "Tuition": "₹9,000/year",
+      "Other": "₹6,000/year",
+      "Total": "₹1–2L"
+    },
+    "Scholarships": ["West Bengal Govt Aid", "Need-based SC/ST/MOBC Grants"],
+    "Placement Support": {
+      "Average Package": "₹7–9 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Teaching Institutions"],
+      "Internship": "1-year mandatory"
+    }
+  },
+  {
+    "Rank": 89,
+    "Name": "Government Medical College, Kottayam",
+    "Type": "Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1962",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pulmonology", "Pediatrics", "Radiology", "Psychiatry"
+    ],
+    "Facilities": [
+      "Medical College Hospital", "Central Library", "Medical Museums", "Research Block", "Hostels"
+    ],
+    "UG Seats": "175",
+    "PG Seats": "200+",
+    "Location": "Kottayam, Kerala",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["Kerala Social Welfare Schemes", "Academic Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹7–8.5 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Mission Health Projects"],
+      "Internship": "Mandatory 1-year clinical"
+    }
+  },
+  {
+    "Rank": 90,
+    "Name": "Rajah Muthiah Medical College",
+    "Type": "Government Aided (Deemed University)",
+    "Affiliation": "Annamalai University",
+    "Established": "1985",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "ENT", "Pediatrics", "OBG", "Dermatology", "Orthopedics"
+    ],
+    "Facilities": [
+      "University Teaching Hospital", "Simulation Rooms", "Library", "Student Labs", "On-campus Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "130+",
+    "Location": "Chidambaram, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹3 L/year",
+      "Other": "₹50,000/year",
+      "Total": "₹15–18L"
+    },
+    "Scholarships": ["Merit cum Means", "Annamalai University Fee Concession"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8 LPA",
+      "Top Recruiters": ["Private & Govt Hospitals", "University Clinics"],
+      "Internship": "Compulsory for 12 months"
+    }
+  },
+  {
+    "Rank": 91,
+    "Name": "Government Medical College, Thrissur",
+    "Type": "Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1982",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Cardiology", "Pediatrics", "Orthopedics"
+    ],
+    "Facilities": [
+      "Medical College Hospital", "Central Library", "Lecture Theatres",
+      "Clinical Skill Centre", "Boys & Girls Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "120+",
+    "Location": "Thrissur, Kerala",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.5–3.5L"
+    },
+    "Scholarships": ["Kerala Govt Scholarships", "Minority Aid Schemes"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Medical Missions"],
+      "Internship": "1-year compulsory clinical internship"
+    }
+  },
+  {
+    "Rank": 92,
+    "Name": "Government Medical College, Miraj",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1962",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "Radiology", "OBG", "Psychiatry", "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "Miraj Civil Hospital", "Research Labs", "Academic Blocks", "Hostels", "Medical Library"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "100+",
+    "Location": "Sangli, Maharashtra",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5–6L"
+    },
+    "Scholarships": ["MUHS Fee Concessions", "SC/ST/OBC Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6–7.5 LPA",
+      "Top Recruiters": ["State Health Dept", "CHCs & PHCs"],
+      "Internship": "1-year compulsory"
+    }
+  },
+  {
+    "Rank": 93,
+    "Name": "Karnataka Institute of Medical Sciences",
+    "Type": "Government (Autonomous)",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1957",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM"],
+    "Specializations": [
+      "General Medicine", "Neurology", "Pediatrics", "OBG", "ENT", "Radiology"
+    ],
+    "Facilities": [
+      "KIMS Hospital", "Super-Specialty Labs", "Digital Library", "Auditorium", "Sports & Hostels"
+    ],
+    "UG Seats": "200",
+    "PG Seats": "250+",
+    "Location": "Hubballi, Karnataka",
+    "Fees": {
+      "Tuition": "₹60,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5–6.5L"
+    },
+    "Scholarships": ["EWS Fee Waiver", "SC/ST/OBC Aid", "Merit Concessions"],
+    "Placement Support": {
+      "Average Package": "₹7.5–9 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Medical Councils"],
+      "Internship": "1-year mandatory"
+    }
+  },
+  {
+    "Rank": 94,
+    "Name": "Government Medical College, Kozhikode",
+    "Type": "Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1957",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "General Medicine", "OBG", "Neurology", "Cardiology", "ENT", "Pediatrics"
+    ],
+    "Facilities": [
+      "Calicut Medical College Hospital", "Super-Specialty Centre", "Library", "Digital Anatomy Lab", "Separate Hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "350+",
+    "Location": "Kozhikode, Kerala",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["Kerala Medical Scholarships", "Merit-based Grants"],
+    "Placement Support": {
+      "Average Package": "₹8–9.5 LPA",
+      "Top Recruiters": ["Govt & Pvt Hospitals", "Medical Colleges"],
+      "Internship": "Mandatory for MBBS"
+    }
+  },
+  {
+    "Rank": 95,
+    "Name": "Dr. Vaishampayan Memorial Government Medical College",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1963",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "Surgery", "OBG", "Orthopedics", "Radiology", "ENT"
+    ],
+    "Facilities": [
+      "Hospital & OPD", "Skill Development Lab", "Digital Library", "Auditorium", "Canteen", "Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "100+",
+    "Location": "Solapur, Maharashtra",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5–6.5L"
+    },
+    "Scholarships": ["MUHS Aid", "Backward Class Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8 LPA",
+      "Top Recruiters": ["District Hospitals", "PSUs", "Private Healthcare"],
+      "Internship": "1-year internship"
+    }
+  },
+  {
+    "Rank": 96,
+    "Name": "Andaman and Nicobar Islands Institute of Medical Sciences",
+    "Type": "Government (UT Admin)",
+    "Affiliation": "Pondicherry University",
+    "Established": "2015",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "ENT", "OBG", "Orthopedics", "Anesthesia"
+    ],
+    "Facilities": [
+      "ANIIMS Hospital", "Digital Lecture Halls", "Medical Labs", "Library", "Hostels with Mess"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA (UG only)",
+    "Location": "Port Blair, Andaman & Nicobar Islands",
+    "Fees": {
+      "Tuition": "₹60,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["UT Govt Scholarships", "Tribal Welfare Funds"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Health Dept"],
+      "Internship": "Mandatory in UT Health Institutions"
+    }
+  },
+  {
+    "Rank": 97,
+    "Name": "Shri Vasantrao Naik Government Medical College",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1989",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "Surgery", "OBG", "ENT", "Dermatology", "Pediatrics"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Medical Library", "Lecture Complex", "Recreation Area", "Girls/Boys Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "70+",
+    "Location": "Yavatmal, Maharashtra",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5.5–6.5L"
+    },
+    "Scholarships": ["EBC/SC/ST Scholarships", "MUHS Waiver"],
+    "Placement Support": {
+      "Average Package": "₹6.5–7.5 LPA",
+      "Top Recruiters": ["Govt PHCs", "Rural Hospitals"],
+      "Internship": "1-year compulsory"
+    }
+  },
+  {
+    "Rank": 98,
+    "Name": "Rajendra Institute of Medical Sciences",
+    "Type": "Government (Autonomous)",
+    "Affiliation": "Ranchi University",
+    "Established": "1960",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "General Medicine", "Neurosurgery", "OBG", "Orthopedics", "Radiology", "ENT"
+    ],
+    "Facilities": [
+      "RIMS Hospital", "Super-Specialty Wards", "Research Center", "Central Library", "Hostels"
+    ],
+    "UG Seats": "180",
+    "PG Seats": "200+",
+    "Location": "Ranchi, Jharkhand",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["Jharkhand Govt Scholarships", "National SC/ST aid"],
+    "Placement Support": {
+      "Average Package": "₹7.5–9 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Medical Education Boards"],
+      "Internship": "Mandatory 1-year"
+    }
+  },
+  {
+    "Rank": 99,
+    "Name": "Government Medical College, Jalgaon",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "2018",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "GMC Hospital", "Anatomy & Clinical Labs", "Lecture Halls", "Library", "Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Jalgaon, Maharashtra",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹20,000/year",
+      "Total": "₹5–6L"
+    },
+    "Scholarships": ["MUHS Scholarships", "Backward Class Grants"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["Zilla Parishad Hospitals", "State Medical Units"],
+      "Internship": "Mandatory for MBBS"
+    }
+  },
+  {
+    "Rank": 100,
+    "Name": "Maharaja Krishna Chandra Gajapati Medical College",
+    "Type": "Government",
+    "Affiliation": "Berhampur University",
+    "Established": "2005",
+    "Degrees Offered": ["MBBS", "MD"],
+    "Specializations": [
+      "General Medicine", "ENT", "OBG", "Pediatrics", "Anesthesia"
+    ],
+    "Facilities": [
+      "MKCG Medical Hospital", "Clinical Labs", "Library", "Lecture Theatres", "Residential Hostels"
+    ],
+    "UG Seats": "250",
+    "PG Seats": "200+",
+    "Location": "Berhampur, Odisha",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["Odisha SC/ST Welfare", "EWS Schemes"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8 LPA",
+      "Top Recruiters": ["Govt of Odisha", "District Medical Units"],
+      "Internship": "1-year compulsory clinical training"
+    }
+  },
+  {
+    "Rank": 101,
+    "Name": "Government Medical College, Nanded",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1988",
+    "Degrees Offered": ["MBBS", "MD", "MS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Orthopedics", "ENT", "Radiology", "Pediatrics"
+    ],
+    "Facilities": [
+      "Shri Guru Gobind Singhji Hospital", "Clinical Labs", "Digital Lecture Halls", "Library", "Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "100+",
+    "Location": "Nanded, Maharashtra",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5.5–6.5L"
+    },
+    "Scholarships": ["MUHS Fee Waiver", "Govt Caste-Based Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8 LPA",
+      "Top Recruiters": ["State Hospitals", "CHCs/PHCs", "Mission Health"],
+      "Internship": "1-year compulsory clinical rotation"
+    }
+  },
+  {
+    "Rank": 102,
+    "Name": "Indira Gandhi Institute of Medical Sciences",
+    "Type": "Government (Autonomous)",
+    "Affiliation": "IGIMS Patna (Deemed State University)",
+    "Established": "1983",
+    "Degrees Offered": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "Specializations": [
+      "Cardiology", "Neurology", "Nephrology", "Gastroenterology", "General Medicine", "OBG"
+    ],
+    "Facilities": [
+      "IGIMS Hospital", "Super-Specialty Wards", "Simulation Centre", "Library", "Hostels & Research Units"
+    ],
+    "UG Seats": "120",
+    "PG Seats": "200+",
+    "Location": "Patna, Bihar",
+    "Fees": {
+      "Tuition": "₹40,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["Bihar Govt Schemes", "EWS/SC/ST Fellowships"],
+    "Placement Support": {
+      "Average Package": "₹7–9.5 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Research Councils"],
+      "Internship": "Compulsory 1-year internship"
+    }
+  },
+  {
+    "Rank": 103,
+    "Name": "Government Medical College, Bettiah",
+    "Type": "Government",
+    "Affiliation": "Aryabhatta Knowledge University",
+    "Established": "2013",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "Orthopedics", "ENT", "Dermatology"
+    ],
+    "Facilities": [
+      "Govt Hospital", "Academic Labs", "Digital Classrooms", "Library", "Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "Not Applicable",
+    "Location": "Bettiah, Bihar",
+    "Fees": {
+      "Tuition": "₹40,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["Bihar Govt Medical Scholarship", "Minority/EWS Schemes"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["Rural Health Mission", "Govt Hospitals"],
+      "Internship": "1-year compulsory internship"
+    }
+  },
+  {
+    "Rank": 104,
+    "Name": "Government Medical College, Baramati",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "2014",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "Orthopedics", "ENT"
+    ],
+    "Facilities": [
+      "Govt Hospital", "Skill Labs", "Medical Research Unit", "Library", "Modern Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Baramati, Maharashtra",
+    "Fees": {
+      "Tuition": "₹70,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹5.5–6L"
+    },
+    "Scholarships": ["EBC Fee Waiver", "MUHS-Aided Concessions"],
+    "Placement Support": {
+      "Average Package": "₹6.5–7.5 LPA",
+      "Top Recruiters": ["State Hospitals", "PHCs", "NGO Clinics"],
+      "Internship": "Mandatory 12-month internship"
+    }
+  },
+  {
+    "Rank": 105,
+    "Name": "Fakhruddin Ali Ahmed Medical College and Hospital",
+    "Type": "Government",
+    "Affiliation": "Srimanta Sankaradeva University of Health Sciences",
+    "Established": "2012",
+    "Degrees Offered": ["MBBS", "MD"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "ENT", "Anesthesia"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Anatomy & Biochem Labs", "Skill Training Rooms", "Digital Library", "UG Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "60+",
+    "Location": "Barpeta, Assam",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–3L"
+    },
+    "Scholarships": ["Assam State Medical Aid", "NEC Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8 LPA",
+      "Top Recruiters": ["Assam Health Department", "Rural Health Missions"],
+      "Internship": "1-year compulsory internship"
+    }
+  },
+  {
+    "Rank": 106,
+    "Name": "Government Medical College, Nagapattinam",
+    "Type": "Government",
+    "Affiliation": "Tamil Nadu Dr. M.G.R. Medical University",
+    "Established": "2021",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "Medical Hospital", "Basic Science Labs", "Digital Classrooms", "Library", "Separate Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "Not Yet Started",
+    "Location": "Nagapattinam, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹13,600/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1–1.5L"
+    },
+    "Scholarships": ["Tamil Nadu Govt SC/ST & First Graduate Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["Govt Hospitals", "NHM Tamil Nadu"],
+      "Internship": "1-year clinical internship mandatory"
+    }
+  },
+  {
+    "Rank": 107,
+    "Name": "Government Doon Medical College",
+    "Type": "Government",
+    "Affiliation": "Hemwati Nandan Bahuguna Uttarakhand Medical Education University",
+    "Established": "2016",
+    "Degrees Offered": ["MBBS", "MD"],
+    "Specializations": [
+      "General Medicine", "OBG", "Radiology", "Pediatrics", "Orthopedics"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Labs", "Digital Library", "Lecture Halls", "Student Hostels"
+    ],
+    "UG Seats": "125",
+    "PG Seats": "70+",
+    "Location": "Dehradun, Uttarakhand",
+    "Fees": {
+      "Tuition": "₹50,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["Uttarakhand Govt Post-Matric Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8 LPA",
+      "Top Recruiters": ["Govt Hospitals", "State NHM"],
+      "Internship": "Mandatory for MBBS"
+    }
+  },
+  {
+    "Rank": 108,
+    "Name": "Chandulal Chandrakar Memorial Medical College",
+    "Type": "Government (Acquired from Private)",
+    "Affiliation": "Pt. Deendayal Upadhyay Memorial Health Sciences and AYUSH University",
+    "Established": "2013",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "Hospital", "Anatomy & Physiology Labs", "Auditorium", "Boys and Girls Hostels", "Library"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "Not Applicable",
+    "Location": "Durg, Chhattisgarh",
+    "Fees": {
+      "Tuition": "₹40,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["Chhattisgarh State Scholarships", "EBC, SC/ST schemes"],
+    "Placement Support": {
+      "Average Package": "₹6–7.5 LPA",
+      "Top Recruiters": ["District Hospitals", "PHCs", "Govt of CG"],
+      "Internship": "1-year compulsory internship"
+    }
+  },
+  {
+    "Rank": 109,
+    "Name": "Dr. Radhakrishnan Government Medical College, Hamirpur",
+    "Type": "Government",
+    "Affiliation": "Atal Medical and Research University, Himachal Pradesh",
+    "Established": "2020",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "ENT", "Surgery"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Modern Labs", "Skill Development Centre", "Hostels", "Digital Library"
+    ],
+    "UG Seats": "120",
+    "PG Seats": "NA",
+    "Location": "Hamirpur, Himachal Pradesh",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹1.5–2L"
+    },
+    "Scholarships": ["HP Govt Scholarships", "EWS/SC/ST student aid"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["State Hospitals", "Remote Health Programs"],
+      "Internship": "Mandatory for MBBS"
+    }
+  },
+  {
+    "Rank": 110,
+    "Name": "Government Medical College, Mahasamund",
+    "Type": "Government",
+    "Affiliation": "Pt. Deendayal Upadhyay Memorial Health Sciences and AYUSH University",
+    "Established": "2022",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "ENT", "Surgery"
+    ],
+    "Facilities": [
+      "District Hospital", "Medical Labs", "Library", "Lecture Theatres", "Separate Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Mahasamund, Chhattisgarh",
+    "Fees": {
+      "Tuition": "₹40,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["Chhattisgarh Govt Post-Matric Scholarship", "Merit-based concessions"],
+    "Placement Support": {
+      "Average Package": "₹6–7.5 LPA",
+      "Top Recruiters": ["CG Health Dept", "PHCs"],
+      "Internship": "1-year compulsory clinical training"
+    }
+  },
+  {
+    "Rank": 111,
+    "Name": "Government Medical College, Pali",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2018",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Pediatrics", "Orthopedics"
+    ],
+    "Facilities": [
+      "Pali District Hospital", "Digital Library", "Hostels", "Anatomy & Biochem Labs", "AV Lecture Halls"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "NA",
+    "Location": "Pali, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["Rajasthan State Scholarships", "EBC/SC/ST aids"],
+    "Placement Support": {
+      "Average Package": "₹6.5–7.5 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Zila Health Missions"],
+      "Internship": "1-year clinical internship"
+    }
+  },
+  {
+    "Rank": 112,
+    "Name": "Government Medical College, Rajnandgaon",
+    "Type": "Government",
+    "Affiliation": "Pt. Deendayal Upadhyay Memorial Health Sciences and AYUSH University",
+    "Established": "2014",
+    "Degrees Offered": ["MBBS", "MD"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "ENT", "Radiology"
+    ],
+    "Facilities": [
+      "Govt Hospital", "Lecture Complex", "Lab Facilities", "Medical Hostel", "Library"
+    ],
+    "UG Seats": "125",
+    "PG Seats": "60+",
+    "Location": "Rajnandgaon, Chhattisgarh",
+    "Fees": {
+      "Tuition": "₹40,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["Chhattisgarh State Govt Aid", "SC/ST Fellowships"],
+    "Placement Support": {
+      "Average Package": "₹6.5–7.5 LPA",
+      "Top Recruiters": ["Govt of CG", "PHC & CHC Units"],
+      "Internship": "1-year mandatory"
+    }
+  },
+  {
+    "Rank": 113,
+    "Name": "Government Medical College, Kathua",
+    "Type": "Government",
+    "Affiliation": "University of Jammu",
+    "Established": "2019",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "ENT", "Surgery"
+    ],
+    "Facilities": [
+      "District Hospital", "Skill Lab", "Library", "Digital Classrooms", "Separate Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "Not Started",
+    "Location": "Kathua, Jammu & Kashmir",
+    "Fees": {
+      "Tuition": "₹40,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["J&K Post-Matric", "Minority Aid"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["State Hospitals", "Rural Health Missions"],
+      "Internship": "1-year clinical internship"
+    }
+  },
+  {
+    "Rank": 114,
+    "Name": "Government Medical College, Churu",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2018",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "Churu District Hospital", "Skill Development Labs", "Library", "Boys and Girls Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "NA",
+    "Location": "Churu, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["State Govt Medical Aid", "SC/ST Concessions"],
+    "Placement Support": {
+      "Average Package": "₹6.5–7.5 LPA",
+      "Top Recruiters": ["Zila Hospitals", "PHCs"],
+      "Internship": "1-year mandatory internship"
+    }
+  },
+  {
+    "Rank": 115,
+    "Name": "Government Medical College, Dholpur",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2022",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "ENT", "Surgery"
+    ],
+    "Facilities": [
+      "District Hospital", "Smart Classrooms", "Medical Skill Lab", "Central Library", "Separate Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Dholpur, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["RUHS Fee Waiver", "Govt SC/ST/EWS Aid"],
+    "Placement Support": {
+      "Average Package": "₹6–7.5 LPA",
+      "Top Recruiters": ["State Hospitals", "Health Missions"],
+      "Internship": "1-year clinical internship mandatory"
+    }
+  },
+  {
+    "Rank": 116,
+    "Name": "Government Medical College, Dungarpur",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2018",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "Orthopedics", "ENT"
+    ],
+    "Facilities": [
+      "District Hospital", "Skill Labs", "Library", "Digital Classrooms", "Boys and Girls Hostels"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "Not Yet Started",
+    "Location": "Dungarpur, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.25–2.75L"
+    },
+    "Scholarships": ["State Govt Scholarships", "SC/ST/EWS Concessions"],
+    "Placement Support": {
+      "Average Package": "₹6.5–7 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Rural PHCs"],
+      "Internship": "1-year mandatory internship"
+    }
+  },
+  {
+    "Rank": 117,
+    "Name": "Government Medical College, Jhalawar",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2008",
+    "Degrees Offered": ["MBBS", "MD"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Surgery", "Radiology"
+    ],
+    "Facilities": [
+      "Jhalawar Hospital", "Digital Labs", "Hostels", "Central Library", "Simulation Centre"
+    ],
+    "UG Seats": "150",
+    "PG Seats": "100+",
+    "Location": "Jhalawar, Rajasthan",
+    "Fees": {
+      "Tuition": "₹40,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["RUHS Fee Concessions", "State EBC/SC/ST Schemes"],
+    "Placement Support": {
+      "Average Package": "₹6.5–8 LPA",
+      "Top Recruiters": ["RUHS Hospitals", "Medical Camps"],
+      "Internship": "Mandatory 12-month clinical internship"
+    }
+  },
+  {
+    "Rank": 118,
+    "Name": "Government Medical College, Anantnag",
+    "Type": "Government",
+    "Affiliation": "University of Kashmir",
+    "Established": "2019",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "ENT", "Orthopedics"
+    ],
+    "Facilities": [
+      "District Hospital", "Smart Lecture Halls", "Digital Library", "Separate Hostels", "Lab Infrastructure"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "Not Applicable",
+    "Location": "Anantnag, Jammu & Kashmir",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["J&K Minority & EWS Scholarships", "Central Post-Matric Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6.5–7 LPA",
+      "Top Recruiters": ["State Health Services", "Rural NHM"],
+      "Internship": "1-year compulsory"
+    }
+  },
+  {
+    "Rank": 119,
+    "Name": "Government Medical College, Udhampur",
+    "Type": "Government",
+    "Affiliation": "University of Jammu",
+    "Established": "2022",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "ENT", "Surgery"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Modern Classrooms", "Basic Labs", "Library", "Boys & Girls Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Udhampur, Jammu & Kashmir",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["State Medical Aid", "Central SC/ST/EWS Support"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Block PHCs"],
+      "Internship": "Mandatory 1-year internship"
+    }
+  },
+  {
+    "Rank": 120,
+    "Name": "Government Medical College, Barmer",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2019",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Pediatrics", "Orthopedics"
+    ],
+    "Facilities": [
+      "Barmer District Hospital", "Medical Labs", "Library", "Digital Classrooms", "Residential Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Barmer, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.25–2.75L"
+    },
+    "Scholarships": ["RUHS SC/ST/EWS Aid", "State Fee Concessions"],
+    "Placement Support": {
+      "Average Package": "₹6.5–7.5 LPA",
+      "Top Recruiters": ["Govt Hospitals", "State NHM"],
+      "Internship": "1-year compulsory"
+    }
+  },
+  {
+    "Rank": 121,
+    "Name": "Government Medical College, Chittorgarh",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2022",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "Pediatrics", "Orthopedics", "ENT"
+    ],
+    "Facilities": [
+      "District Hospital", "Smart Classrooms", "Medical Labs", "Library", "Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "Not Started",
+    "Location": "Chittorgarh, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹12,000/year",
+      "Total": "₹2.3–2.7L"
+    },
+    "Scholarships": ["RUHS Fee Waivers", "SC/ST/OBC/EWS Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["State Hospitals", "CHCs"],
+      "Internship": "1-year mandatory clinical internship"
+    }
+  },
+  {
+    "Rank": 122,
+    "Name": "Government Medical College, Karauli",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2022",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Pediatrics", "Surgery"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Modern Medical Labs", "Library", "Lecture Theatres", "Boys & Girls Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Karauli, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.2–2.6L"
+    },
+    "Scholarships": ["Govt of Rajasthan Scholarships", "Caste/Income-Based Aids"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["District Hospitals", "NHM Rajasthan"],
+      "Internship": "12-month mandatory internship"
+    }
+  },
+  {
+    "Rank": 123,
+    "Name": "Government Medical College, Hanumangarh",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2023",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Pediatrics", "Orthopedics"
+    ],
+    "Facilities": [
+      "District Hospital", "Basic Science Labs", "Hostels", "Digital Lecture Halls", "Library"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "Not Yet Available",
+    "Location": "Hanumangarh, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹12,000/year",
+      "Total": "₹2.4–2.7L"
+    },
+    "Scholarships": ["RUHS-Affiliated Aid", "SC/ST/EWS/Post-Matric Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6–6.8 LPA",
+      "Top Recruiters": ["Govt PHCs", "Zila Health Offices"],
+      "Internship": "1-year clinical internship"
+    }
+  },
+  {
+    "Rank": 124,
+    "Name": "Government Medical College, Purnea",
+    "Type": "Government",
+    "Affiliation": "Bihar University of Health Sciences",
+    "Established": "2023",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Pediatrics", "Anatomy"
+    ],
+    "Facilities": [
+      "Govt Hospital", "Laboratories", "Library", "Lecture Halls", "Separate Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Purnea, Bihar",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.3L"
+    },
+    "Scholarships": ["Bihar Govt Med Scholarships", "EWS/SC/ST Aid"],
+    "Placement Support": {
+      "Average Package": "₹6–6.5 LPA",
+      "Top Recruiters": ["State Hospitals", "Rural Health Camps"],
+      "Internship": "1-year compulsory internship"
+    }
+  },
+  {
+    "Rank": 125,
+    "Name": "Government Medical College, Churu (Second Campus)",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2023",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "ENT", "Radiology"
+    ],
+    "Facilities": [
+      "New Hospital Building", "Lecture Halls", "Medical Equipment Lab", "Library", "Residential Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Churu, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2.3–2.8L"
+    },
+    "Scholarships": ["Govt of Rajasthan Post-Matric", "EBC/SC/ST/Upliftment Funds"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["Govt Hospitals", "State Medical Teams"],
+      "Internship": "1-year internship required"
+    }
+  },
+  {
+    "Rank": 126,
+    "Name": "Government Medical College, Araria",
+    "Type": "Government",
+    "Affiliation": "Bihar University of Health Sciences",
+    "Established": "2023",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Surgery", "Pediatrics"
+    ],
+    "Facilities": [
+      "Medical Hospital", "Science Labs", "Lecture Complex", "Digital Library", "Boys and Girls Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Araria, Bihar",
+    "Fees": {
+      "Tuition": "₹25,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.4L"
+    },
+    "Scholarships": ["Bihar State Minority/EWS Schemes", "SC/ST/Upliftment Programs"],
+    "Placement Support": {
+      "Average Package": "₹6–6.5 LPA",
+      "Top Recruiters": ["Bihar Health Services", "PHCs & CHCs"],
+      "Internship": "1-year compulsory"
+    }
+  },
+  {
+    "Rank": 127,
+    "Name": "Government Medical College, Banswara",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2022",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Orthopedics", "Radiology"
+    ],
+    "Facilities": [
+      "Teaching Hospital", "Labs", "Library", "Digital Lecture Halls", "Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Banswara, Rajasthan",
+    "Fees": {
+      "Tuition": "₹35,000/year",
+      "Other": "₹12,000/year",
+      "Total": "₹2.4–2.7L"
+    },
+    "Scholarships": ["RUHS-Based Scholarships", "Social Welfare Aid"],
+    "Placement Support": {
+      "Average Package": "₹6–6.8 LPA",
+      "Top Recruiters": ["State Hospitals", "Mobile Medical Units"],
+      "Internship": "1-year clinical posting"
+    }
+  },
+  {
+    "Rank": 128,
+    "Name": "Government Medical College, Balasore",
+    "Type": "Government",
+    "Affiliation": "Odisha University of Health Sciences",
+    "Established": "2017",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "OBG", "ENT", "Pediatrics", "Anesthesia"
+    ],
+    "Facilities": [
+      "Balasore Hospital", "Skill Labs", "Library", "E-Classrooms", "Separate Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "Not Applicable",
+    "Location": "Balasore, Odisha",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["Odisha Govt Aid", "Merit/Minority Scholarships"],
+    "Placement Support": {
+      "Average Package": "₹6–6.5 LPA",
+      "Top Recruiters": ["Odisha Health Mission", "Govt Hospitals"],
+      "Internship": "Compulsory 12-month"
+    }
+  },
+  {
+    "Rank": 129,
+    "Name": "Government Medical College, Koraput",
+    "Type": "Government",
+    "Affiliation": "Odisha University of Health Sciences",
+    "Established": "2017",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "Orthopedics", "ENT"
+    ],
+    "Facilities": [
+      "Koraput Hospital", "Basic and Clinical Labs", "Library", "Skill Development Rooms", "Hostels"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Koraput, Odisha",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹10,000/year",
+      "Total": "₹2–2.4L"
+    },
+    "Scholarships": ["Odisha SC/ST/EWS Scholarship", "Medha Bruti Scheme"],
+    "Placement Support": {
+      "Average Package": "₹6–6.8 LPA",
+      "Top Recruiters": ["PHCs", "State Medical Units"],
+      "Internship": "1-year required"
+    }
+  },
+  {
+    "Rank": 130,
+    "Name": "Government Medical College, Sundargarh",
+    "Type": "Government",
+    "Affiliation": "Odisha University of Health Sciences",
+    "Established": "2022",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": [
+      "General Medicine", "Pediatrics", "OBG", "ENT", "Surgery"
+    ],
+    "Facilities": [
+      "Medical College Hospital", "Smart Labs", "Library", "Lecture Rooms", "Hostel Facilities"
+    ],
+    "UG Seats": "100",
+    "PG Seats": "NA",
+    "Location": "Sundargarh, Odisha",
+    "Fees": {
+      "Tuition": "₹30,000/year",
+      "Other": "₹12,000/year",
+      "Total": "₹2.3–2.6L"
+    },
+    "Scholarships": ["State Post-Matric Scholarships", "Minority Welfare Schemes"],
+    "Placement Support": {
+      "Average Package": "₹6–7 LPA",
+      "Top Recruiters": ["Odisha Health Services", "Govt Clinics"],
+      "Internship": "Mandatory 1-year"
+    }
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+

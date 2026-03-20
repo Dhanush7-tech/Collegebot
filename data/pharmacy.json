@@ -1,0 +1,2330 @@
+[
+   {
+    "Name": "Jamia Hamdard",
+    "Type": "Government",
+    "Affiliation": "AICTE, PCI Approved",
+    "Established": "1989",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacology", "Pharmacognosy", "Pharmaceutical Chemistry", "Clinical Pharmacy"],
+    "Facilities": ["Modern labs", "Central library", "Wi-Fi campus", "Herbal garden", "Auditorium", "Hostels", "Hospital attachment"],
+    "UG Seats": "120",
+    "PG Seats": "60+",
+    "Location": "New Delhi",
+    "Fees": {
+      "Tuition": "₹1.25L/year",
+      "Other": "₹25,000/year",
+      "Total": "₹6–7L for B.Pharm"
+    },
+    "Scholarships": ["Merit-cum-means", "SC/ST scholarships", "Minority scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4–5 LPA",
+      "Top Recruiters": ["Sun Pharma", "GSK", "Dr. Reddy's", "Pfizer", "Biocon"],
+      "Internship Programs": "Mandatory hospital/industry-based internships"
+    },
+    "Rank": 1
+  },
+  {
+    "Name": "Panjab University",
+    "Type": "Government",
+    "Affiliation": "AICTE, PCI Approved",
+    "Established": "1882",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutical Analysis", "Pharmaceutical Biotechnology", "Pharmaceutics"],
+    "Facilities": ["Oldest Pharmacy Dept.", "Herbal garden", "Central library", "Research labs", "Hostels"],
+    "UG Seats": "60",
+    "PG Seats": "30",
+    "Location": "Chandigarh",
+    "Fees": {
+      "Tuition": "₹45,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["Merit scholarships", "ICMR/CSIR grants", "Govt. of Punjab aid"],
+    "Placement Support": {
+      "Average Package": "₹3.5 LPA",
+      "Top Recruiters": ["Cadila", "Sun Pharma", "Cipla"],
+      "Internship Programs": "Research-based summer projects"
+    },
+    "Rank": 2
+  },
+  {
+    "Name": "NIPER Mohali",
+    "Type": "Government (Autonomous)",
+    "Affiliation": "Ministry of Chemicals and Fertilizers, Govt. of India",
+    "Established": "1998",
+    "Degrees Offered": ["M.Pharm", "MS Pharm", "MBA Pharm", "Ph.D"],
+    "Specializations": ["Medicinal Chemistry", "Natural Products", "Clinical Research", "Pharmacoinformatics"],
+    "Facilities": ["World-class research labs", "Patent cell", "Central library", "Bioavailability unit"],
+    "UG Seats": "PG only",
+    "PG Seats": "250+",
+    "Location": "Mohali, Punjab",
+    "Fees": {
+      "Tuition": "₹50K–₹80K/year",
+      "Other": "₹30K approx.",
+      "Total": "₹1.5–2.5L"
+    },
+    "Scholarships": ["GPAT scholarships", "CSIR-JRF/SRF", "DST fellowships"],
+    "Placement Support": {
+      "Average Package": "₹6–9 LPA",
+      "Top Recruiters": ["Dr. Reddy’s", "Sun", "Mylan", "Biocon", "Lupin"],
+      "Internship Programs": "Research thesis & corporate exposure"
+    },
+    "Rank": 3
+  },
+  {
+    "Name": "Institute of Chemical Technology (ICT), Mumbai",
+    "Type": "Government Deemed University",
+    "Affiliation": "NAAC A++, UGC-Autonomous",
+    "Established": "1933",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutical Technology", "Medicinal Chemistry", "Pharmacology"],
+    "Facilities": ["Cutting-edge pharma pilot plants", "Process engineering labs", "Smart classrooms"],
+    "UG Seats": "30–60",
+    "PG Seats": "20–40",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": {
+      "Tuition": "₹85,000/year",
+      "Other": "₹20,000/year",
+      "Total": "₹4.5L approx."
+    },
+    "Scholarships": ["MCM scholarships", "Research projects", "Industry-funded fellowships"],
+    "Placement Support": {
+      "Average Package": "₹5–6 LPA",
+      "Top Recruiters": ["Abbott", "Sun", "Asian Paints", "HUL"],
+      "Internship Programs": "Project-based industrial training"
+    },
+    "Rank": 4
+  },
+  {
+    "Name": "NIPER Hyderabad",
+    "Type": "Government (Autonomous)",
+    "Affiliation": "Dept. of Pharmaceuticals, MoCF, Govt. of India",
+    "Established": "2007",
+    "Degrees Offered": ["M.S. Pharm", "Ph.D"],
+    "Specializations": ["Regulatory Affairs", "Pharmaceutics", "Pharmacology & Toxicology"],
+    "Facilities": ["Academic labs", "Animal house", "Analytical instrumentation lab", "Digital library"],
+    "UG Seats": "PG only",
+    "PG Seats": "150+",
+    "Location": "Hyderabad, Telangana",
+    "Fees": {
+      "Tuition": "₹50,000/year",
+      "Other": "₹15,000/year",
+      "Total": "₹1.2–1.5L"
+    },
+    "Scholarships": ["GPAT-based", "Govt JRF/SRF"],
+    "Placement Support": {
+      "Average Package": "₹5.5 LPA",
+      "Top Recruiters": ["MSN Labs", "Dr. Reddy’s", "Natco", "Biocon"],
+      "Internship Programs": "Thesis + industrial modules"
+    },
+    "Rank": 5
+  },
+  {
+    "Name": "Birla Institute of Technology & Science (BITS), Pilani",
+    "Type": "Private Deemed University",
+    "Affiliation": "UGC, NAAC A+",
+    "Established": "1964",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "M.Pharm+MBA", "Ph.D"],
+    "Specializations": ["Pharmaceutical Chemistry", "Clinical Pharmacy", "Drug Discovery"],
+    "Facilities": ["BITS pharmacy block", "Simulation center", "Hospital affiliations", "Industry-led electives"],
+    "UG Seats": "60",
+    "PG Seats": "30",
+    "Location": "Pilani, Rajasthan",
+    "Fees": {
+      "Tuition": "₹3L/year",
+      "Other": "₹50K/year",
+      "Total": "₹12–14L"
+    },
+    "Scholarships": ["Merit + Need-based", "BITSAA Endowment", "Industry support"],
+    "Placement Support": {
+      "Average Package": "₹6–8 LPA",
+      "Top Recruiters": ["Pfizer", "Abbott", "Mylan"],
+      "Internship Programs": "Practice School (PS-I & PS-II)"
+    },
+    "Rank": 6
+  },
+  {
+    "Name": "Manipal College of Pharmaceutical Sciences",
+    "Type": "Private Deemed University",
+    "Affiliation": "Manipal Academy of Higher Education",
+    "Established": "1963",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmacy Practice", "Clinical Pharmacy", "Industrial Pharmacy"],
+    "Facilities": ["Clinical hospital training", "Smart lab access", "Central library", "Global exchange programs"],
+    "UG Seats": "100",
+    "PG Seats": "50",
+    "Location": "Manipal, Karnataka",
+    "Fees": {
+      "Tuition": "₹2L/year",
+      "Other": "₹40K/year",
+      "Total": "₹8–9L"
+    },
+    "Scholarships": ["Merit scholarships", "Scholar schemes", "Manipal SEAT support"],
+    "Placement Support": {
+      "Average Package": "₹5–6.5 LPA",
+      "Top Recruiters": ["Biocon", "Novartis", "GSK"],
+      "Internship Programs": "Linked to hospital and pharma industry"
+    },
+    "Rank": 7
+  },
+  {
+    "Name": "NIPER Ahmedabad",
+    "Type": "Government",
+    "Affiliation": "Ministry of Chemicals and Fertilizers",
+    "Established": "2007",
+    "Degrees Offered": ["M.S. Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutical Analysis", "Biotechnology", "Pharmaceutical Management"],
+    "Facilities": ["High-end instrumentation lab", "Bioinformatics cell", "Placement cell"],
+    "UG Seats": "PG only",
+    "PG Seats": "120",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": {
+      "Tuition": "₹55K/year",
+      "Other": "₹20K",
+      "Total": "₹1.5–2L"
+    },
+    "Scholarships": ["GPAT fellowships", "Govt. research support"],
+    "Placement Support": {
+      "Average Package": "₹5.5–6 LPA",
+      "Top Recruiters": ["Sun", "Torrent", "Dr. Reddy’s"],
+      "Internship Programs": "Research + pharma training"
+    },
+    "Rank": 8
+  },
+  {
+    "Name": "JSS College of Pharmacy, Ooty",
+    "Type": "Private",
+    "Affiliation": "JSS Academy of Higher Education and Research",
+    "Established": "1980",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy", "Regulatory Affairs"],
+    "Facilities": ["Mountain campus", "Labs", "Library", "Clinical affiliations"],
+    "UG Seats": "100",
+    "PG Seats": "50",
+    "Location": "Ooty, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹1.2L/year",
+      "Other": "₹30K/year",
+      "Total": "₹6L+"
+    },
+    "Scholarships": ["Trust scholarships", "Need-based support"],
+    "Placement Support": {
+      "Average Package": "₹4 LPA",
+      "Top Recruiters": ["Biocon", "Zydus", "MedPlus"],
+      "Internship Programs": "Hospital training & electives"
+    },
+    "Rank": 9
+  },
+  {
+    "Name": "JSS College of Pharmacy, Mysuru",
+    "Type": "Private",
+    "Affiliation": "JSS Academy of Higher Education and Research",
+    "Established": "1973",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Clinical Pharmacy", "Pharmaceutical Chemistry", "Pharmacy Practice"],
+    "Facilities": ["Modern campus", "Lab clusters", "Auditorium", "Digital library", "Hospital linkage"],
+    "UG Seats": "100",
+    "PG Seats": "60",
+    "Location": "Mysuru, Karnataka",
+    "Fees": {
+      "Tuition": "₹1.5L/year",
+      "Other": "₹35K",
+      "Total": "₹7–8L"
+    },
+    "Scholarships": ["JSS Trust aid", "Academic scholarships", "Minority scholarships"],
+    "Placement Support": {
+      "Average Package": "₹5 LPA",
+      "Top Recruiters": ["Dr. Reddy’s", "Pfizer", "Cipla"],
+      "Internship Programs": "Industry-based internships"
+    },
+    "Rank": 10
+  },
+  {
+    "Name": "National Institute of Pharmaceutical Education and Research Guwahati",
+    "Type": "Government",
+    "Affiliation": "Department of Pharmaceuticals, Govt. of India",
+    "Established": "2008",
+    "Degrees Offered": ["M.S. Pharm", "Ph.D"],
+    "Specializations": ["Pharmacology", "Pharmaceutics", "Biotechnology", "Pharmaceutical Analysis"],
+    "Facilities": ["Central instrumentation lab", "Digital classrooms", "Research wings", "Hostels"],
+    "UG Seats": "PG only",
+    "PG Seats": "150",
+    "Location": "Guwahati, Assam",
+    "Fees": {
+      "Tuition": "₹45,000/year",
+      "Other": "₹20,000/year",
+      "Total": "₹1.3–1.5L"
+    },
+    "Scholarships": ["GPAT fellowship", "DST-SERB support"],
+    "Placement Support": {
+      "Average Package": "₹5.5 LPA",
+      "Top Recruiters": ["Intas", "Sun", "Cipla"],
+      "Internship Programs": "Project-based thesis"
+    },
+    "Rank": 11
+  },
+  {
+    "Name": "Annamalai University",
+    "Type": "Government",
+    "Affiliation": "Annamalai University (State Public University)",
+    "Established": "1929",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmacognosy", "Pharmaceutical Analysis", "Pharmaceutics"],
+    "Facilities": ["Green campus", "Traditional labs", "Library", "Scholar hostels"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Chidambaram, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹75,000/year",
+      "Other": "₹15,000",
+      "Total": "₹3.5–4L"
+    },
+    "Scholarships": ["Government scholarships", "Merit-based aid"],
+    "Placement Support": {
+      "Average Package": "₹3.2 LPA",
+      "Top Recruiters": ["Zydus", "Torrent", "Aurobindo"],
+      "Internship Programs": "Hospital-based + field work"
+    },
+    "Rank": 12
+  },
+  {
+    "Name": "SVKM’s Narsee Monjee Institute of Management Studies (NMIMS)",
+    "Type": "Private Deemed University",
+    "Affiliation": "PCI, AICTE, UGC",
+    "Established": "1981",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D"],
+    "Specializations": ["Clinical Pharmacy", "Pharmaceutical Management", "Pharmacognosy"],
+    "Facilities": ["Campus-wide Wi-Fi", "Incubation lab", "Digital classrooms", "Modern hostels"],
+    "UG Seats": "120",
+    "PG Seats": "60",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": {
+      "Tuition": "₹2.25L/year",
+      "Other": "₹60K/year",
+      "Total": "₹12–14L"
+    },
+    "Scholarships": ["NMIMS Merit Scholarships", "Loan support"],
+    "Placement Support": {
+      "Average Package": "₹5–6.5 LPA",
+      "Top Recruiters": ["Pfizer", "Sanofi", "Novartis"],
+      "Internship Programs": "Capstone industry projects"
+    },
+    "Rank": 13
+  },
+  {
+    "Name": "Maharaja Sayajirao University of Baroda",
+    "Type": "Government",
+    "Affiliation": "State University (UGC Approved)",
+    "Established": "1949",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacology"],
+    "Facilities": ["Lab complexes", "Central library", "Playgrounds", "Separate hostels"],
+    "UG Seats": "100",
+    "PG Seats": "32",
+    "Location": "Vadodara, Gujarat",
+    "Fees": {
+      "Tuition": "₹60K/year",
+      "Other": "₹20K",
+      "Total": "₹3–4L"
+    },
+    "Scholarships": ["State-sponsored", "AICTE support"],
+    "Placement Support": {
+      "Average Package": "₹3–4 LPA",
+      "Top Recruiters": ["Sun", "Zydus", "Cadila"],
+      "Internship Programs": "Compulsory summer research"
+    },
+    "Rank": 14
+  },
+  {
+    "Name": "Amrita School of Pharmacy",
+    "Type": "Private",
+    "Affiliation": "Amrita Vishwa Vidyapeetham",
+    "Established": "1997",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Clinical Pharmacy", "Pharmaceutical Chemistry"],
+    "Facilities": ["Amrita hospital tie-up", "Simulation ward", "E-learning library"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Kochi, Kerala",
+    "Fees": {
+      "Tuition": "₹1.5L/year",
+      "Other": "₹30K",
+      "Total": "₹6.5–7L"
+    },
+    "Scholarships": ["Scholarship through SEAT rank", "Internal merit"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Aster DM", "Biocon", "Pfizer"],
+      "Internship Programs": "Linked to in-campus hospital"
+    },
+    "Rank": 15
+  },
+  {
+    "Name": "Birla Institute of Technology, Mesra",
+    "Type": "Private Deemed University",
+    "Affiliation": "UGC, NAAC",
+    "Established": "1955",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutical Analysis", "Pharmacology", "Drug Design"],
+    "Facilities": ["BIT pharmacy block", "Research wings", "ICT-enabled labs"],
+    "UG Seats": "60",
+    "PG Seats": "24",
+    "Location": "Ranchi, Jharkhand",
+    "Fees": {
+      "Tuition": "₹1.25L/year",
+      "Other": "₹35K",
+      "Total": "₹6.5L"
+    },
+    "Scholarships": ["BIT Alumni Fund", "Merit-based tuition waivers"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Cipla", "Novartis", "Torrent"],
+      "Internship Programs": "Pharma + biotech projects"
+    },
+    "Rank": 16
+  },
+  {
+    "Name": "Nirma University, Ahmedabad",
+    "Type": "Private",
+    "Affiliation": "UGC Autonomous",
+    "Established": "2003",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy", "Pharmaceutical Technology"],
+    "Facilities": ["Dedicated pharma labs", "Digital classrooms", "Hostels"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": {
+      "Tuition": "₹1.75L/year",
+      "Other": "₹30K",
+      "Total": "₹8L"
+    },
+    "Scholarships": ["Nirma Talent Grants", "Merit scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4.8 LPA",
+      "Top Recruiters": ["Zydus", "Intas", "Cadila"],
+      "Internship Programs": "Research + practical industry modules"
+    },
+    "Rank": 17
+  },
+  {
+    "Name": "NIPER Raebareli",
+    "Type": "Government",
+    "Affiliation": "Ministry of Chemicals and Fertilizers",
+    "Established": "2008",
+    "Degrees Offered": ["M.S. Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutical Analysis", "Biotechnology", "Pharmacology"],
+    "Facilities": ["Hi-tech labs", "National database access", "Drug discovery wing"],
+    "UG Seats": "PG only",
+    "PG Seats": "100",
+    "Location": "Raebareli, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹40K/year",
+      "Other": "₹20K",
+      "Total": "₹1.2L"
+    },
+    "Scholarships": ["GPAT", "CSIR", "DST grants"],
+    "Placement Support": {
+      "Average Package": "₹5 LPA",
+      "Top Recruiters": ["Biocon", "Lupin", "Macleods"],
+      "Internship Programs": "Compulsory research training"
+    },
+    "Rank": 18
+  },
+  {
+    "Name": "SRM Institute of Science and Technology",
+    "Type": "Private Deemed University",
+    "Affiliation": "UGC, NAAC A++",
+    "Established": "1985",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Regulatory Affairs"],
+    "Facilities": ["Smart classrooms", "R&D labs", "Hostels"],
+    "UG Seats": "120",
+    "PG Seats": "40",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹1.75L/year",
+      "Other": "₹40K",
+      "Total": "₹8.5L"
+    },
+    "Scholarships": ["SRM Founder’s Scholarships", "Merit quotas"],
+    "Placement Support": {
+      "Average Package": "₹4–5 LPA",
+      "Top Recruiters": ["Sun", "Cipla", "Aurobindo"],
+      "Internship Programs": "Industry-integrated semester"
+    },
+    "Rank": 19
+  },
+  {
+    "Name": "Banasthali Vidyapith",
+    "Type": "Private (Women's University)",
+    "Affiliation": "UGC Approved",
+    "Established": "1935",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmacology", "Pharmaceutics", "Pharmacognosy"],
+    "Facilities": ["Campus-wide Wi-Fi", "Women’s hostel", "NSS + R&D support"],
+    "UG Seats": "60",
+    "PG Seats": "20",
+    "Location": "Rajasthan",
+    "Fees": {
+      "Tuition": "₹1.2L/year",
+      "Other": "₹25K",
+      "Total": "₹5–6L"
+    },
+    "Scholarships": ["Women empowerment schemes", "Merit-based waivers"],
+    "Placement Support": {
+      "Average Package": "₹3.5 LPA",
+      "Top Recruiters": ["Glenmark", "Cipla", "Alkem"],
+      "Internship Programs": "Compulsory industry training"
+    },
+    "Rank": 20
+  },
+  {
+    "Name": "Amity University Noida",
+    "Type": "Private",
+    "Affiliation": "AICTE, PCI, UGC",
+    "Established": "2005",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D"],
+    "Specializations": ["Pharmaceutical Chemistry", "Pharmaceutics", "Pharmacognosy"],
+    "Facilities": ["Smart classrooms", "Pharma research labs", "Hostels", "Innovation incubator"],
+    "UG Seats": "120",
+    "PG Seats": "60",
+    "Location": "Noida, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹1.8L/year",
+      "Other": "₹45K",
+      "Total": "₹8.5L–₹9L"
+    },
+    "Scholarships": ["100% Merit Scholarship (Amity), sports scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4–5 LPA",
+      "Top Recruiters": ["Cipla", "Pfizer", "Biocon"],
+      "Internship Programs": "Industry-internship during summer semester"
+    },
+    "Rank": 21
+  },
+  {
+    "Name": "Poona College of Pharmacy, Pune",
+    "Type": "Private",
+    "Affiliation": "Bharati Vidyapeeth Deemed University",
+    "Established": "1981",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutical Chemistry", "Pharmaceutics", "Pharmacognosy"],
+    "Facilities": ["Pharma labs", "Pharmacy museum", "Library", "Wi-Fi campus"],
+    "UG Seats": "100",
+    "PG Seats": "50",
+    "Location": "Pune, Maharashtra",
+    "Fees": {
+      "Tuition": "₹1.4L/year",
+      "Other": "₹30K",
+      "Total": "₹6–7L"
+    },
+    "Scholarships": ["University scholarships", "Reserved category aid"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Glenmark", "Cipla", "Biocon"],
+      "Internship Programs": "Mandatory 6-month internship"
+    },
+    "Rank": 22
+  },
+  {
+    "Name": "Punjabi University",
+    "Type": "Government",
+    "Affiliation": "State Public University",
+    "Established": "1962",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy", "Pharmacology"],
+    "Facilities": ["Govt-funded labs", "Herbal garden", "Hostels", "Sports complex"],
+    "UG Seats": "60",
+    "PG Seats": "30",
+    "Location": "Patiala, Punjab",
+    "Fees": {
+      "Tuition": "₹55,000/year",
+      "Other": "₹20K",
+      "Total": "₹3–3.5L"
+    },
+    "Scholarships": ["Punjab state aid", "SC/ST fellowships"],
+    "Placement Support": {
+      "Average Package": "₹3.2 LPA",
+      "Top Recruiters": ["Sun Pharma", "Zydus", "Intas"],
+      "Internship Programs": "Industry exposure during final year"
+    },
+    "Rank": 23
+  },
+  {
+    "Name": "Bombay College of Pharmacy",
+    "Type": "Private-Aided",
+    "Affiliation": "University of Mumbai",
+    "Established": "1957",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy", "Pharmaceutical Analysis"],
+    "Facilities": ["Heritage labs", "Library", "Digital classrooms", "Hostels"],
+    "UG Seats": "60",
+    "PG Seats": "30",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": {
+      "Tuition": "₹55,000/year",
+      "Other": "₹15K",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["Govt scholarships", "Merit awards"],
+    "Placement Support": {
+      "Average Package": "₹3.8–4.5 LPA",
+      "Top Recruiters": ["Pfizer", "Glenmark", "Novartis"],
+      "Internship Programs": "Compulsory hospital and industry rotation"
+    },
+    "Rank": 24
+  },
+  {
+    "Name": "Delhi Institute of Pharmaceutical Sciences and Research (DIPSAR)",
+    "Type": "Government",
+    "Affiliation": "Delhi Pharmaceutical Sciences and Research University",
+    "Established": "1964",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmaceutical Chemistry", "Pharmacy Practice"],
+    "Facilities": ["Govt labs", "Pharma garden", "Modern library", "Wi-Fi"],
+    "UG Seats": "60",
+    "PG Seats": "40",
+    "Location": "New Delhi",
+    "Fees": {
+      "Tuition": "₹20,000/year",
+      "Other": "₹10,000",
+      "Total": "₹1.5–2L"
+    },
+    "Scholarships": ["Delhi Govt aid", "SC/ST/OBC merit schemes"],
+    "Placement Support": {
+      "Average Package": "₹4–5 LPA",
+      "Top Recruiters": ["Sun", "Mankind", "Dr. Reddy’s"],
+      "Internship Programs": "Govt-mandated + research"
+    },
+    "Rank": 25
+  },
+  {
+    "Name": "Sri Ramachandra Institute of Higher Education and Research",
+    "Type": "Private Deemed University",
+    "Affiliation": "NAAC A++",
+    "Established": "1985",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D"],
+    "Specializations": ["Pharmaceutics", "Clinical Pharmacy", "Regulatory Affairs"],
+    "Facilities": ["Hospital-attached labs", "Skill center", "Digital classrooms", "Wi-Fi"],
+    "UG Seats": "100",
+    "PG Seats": "50",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹2.2L/year",
+      "Other": "₹40K",
+      "Total": "₹10–11L"
+    },
+    "Scholarships": ["Merit grants", "Research fellowships"],
+    "Placement Support": {
+      "Average Package": "₹4.8 LPA",
+      "Top Recruiters": ["Apollo", "Pfizer", "Sun"],
+      "Internship Programs": "6-month hospital-based training"
+    },
+    "Rank": 26
+  },
+  {
+    "Name": "NIPER Kolkata",
+    "Type": "Government",
+    "Affiliation": "Ministry of Chemicals and Fertilizers",
+    "Established": "2007",
+    "Degrees Offered": ["M.S. Pharm", "Ph.D"],
+    "Specializations": ["Pharmacoinformatics", "Pharmaceutics", "Regulatory Affairs"],
+    "Facilities": ["Computational lab", "Research wings", "Residential hostel"],
+    "UG Seats": "PG only",
+    "PG Seats": "100",
+    "Location": "Kolkata, West Bengal",
+    "Fees": {
+      "Tuition": "₹45K/year",
+      "Other": "₹15K",
+      "Total": "₹1.3L–₹1.5L"
+    },
+    "Scholarships": ["GPAT fellowships", "Govt aid"],
+    "Placement Support": {
+      "Average Package": "₹5.2 LPA",
+      "Top Recruiters": ["Lupin", "Biocon", "Intas"],
+      "Internship Programs": "Final semester research"
+    },
+    "Rank": 27
+  },
+  {
+    "Name": "Maharishi Markandeshwar (Deemed to be University)",
+    "Type": "Private",
+    "Affiliation": "UGC, PCI",
+    "Established": "1993",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutical Chemistry", "Pharmacognosy", "Clinical Pharmacy"],
+    "Facilities": ["Central instrumentation", "Auditorium", "Digital library"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Mullana, Haryana",
+    "Fees": {
+      "Tuition": "₹1.5L/year",
+      "Other": "₹35K",
+      "Total": "₹6–7L"
+    },
+    "Scholarships": ["University merit scholarships", "SC/ST/BC aid"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Glenmark", "Mankind", "Zydus"],
+      "Internship Programs": "Included in 4th year curriculum"
+    },
+    "Rank": 28
+  },
+  {
+    "Name": "Lovely Professional University (LPU)",
+    "Type": "Private",
+    "Affiliation": "UGC, PCI",
+    "Established": "2005",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutical Technology", "Regulatory Affairs", "Clinical Pharmacy"],
+    "Facilities": ["Smart campus", "Moot lab", "Hackathons", "Start-up cell"],
+    "UG Seats": "120",
+    "PG Seats": "60",
+    "Location": "Phagwara, Punjab",
+    "Fees": {
+      "Tuition": "₹1.6L/year",
+      "Other": "₹45K",
+      "Total": "₹7–8L"
+    },
+    "Scholarships": ["LPUNEST scholarship", "LPUNEST + Board topper aid"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Nestle", "Sun Pharma", "Dr. Reddy’s"],
+      "Internship Programs": "Mandatory hospital-industry hybrid"
+    },
+    "Rank": 29
+  },
+  {
+    "Name": "SVKM’s Dr. Bhanuben Nanavati College of Pharmacy",
+    "Type": "Private",
+    "Affiliation": "University of Mumbai",
+    "Established": "2004",
+    "Degrees Offered": ["B.Pharm", "M.Pharm"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy", "Pharmaceutical Chemistry"],
+    "Facilities": ["Urban labs", "Smart classes", "Industry linkage"],
+    "UG Seats": "60",
+    "PG Seats": "20",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": {
+      "Tuition": "₹1.25L/year",
+      "Other": "₹30K",
+      "Total": "₹6L"
+    },
+    "Scholarships": ["Minority scholarship", "Merit aid"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Abbott", "Piramal", "GSK"],
+      "Internship Programs": "Final-year project + placement training"
+    },
+    "Rank": 30
+  },
+  {
+    "Name": "Guru Jambheshwar University of Science and Technology",
+    "Type": "Government",
+    "Affiliation": "State Public University",
+    "Established": "1995",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacology", "Pharmaceutical Chemistry"],
+    "Facilities": ["Smart classrooms", "Pharma labs", "Library", "Hostels"],
+    "UG Seats": "60",
+    "PG Seats": "30",
+    "Location": "Hisar, Haryana",
+    "Fees": {
+      "Tuition": "₹50K/year",
+      "Other": "₹15K",
+      "Total": "₹2.5–3L"
+    },
+    "Scholarships": ["State merit scholarships", "Reserved category schemes"],
+    "Placement Support": {
+      "Average Package": "₹3.5 LPA",
+      "Top Recruiters": ["Sun Pharma", "Zydus", "Alkem"],
+      "Internship Programs": "Final semester pharma projects"
+    },
+    "Rank": 31
+  },
+  {
+    "Name": "ISF College of Pharmacy",
+    "Type": "Private",
+    "Affiliation": "Punjab Technical University",
+    "Established": "1984",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutical Biotechnology", "Pharmacognosy", "Pharmaceutics"],
+    "Facilities": ["Wi-Fi campus", "Library", "Modern labs", "Digital tools"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Moga, Punjab",
+    "Fees": {
+      "Tuition": "₹1.2L/year",
+      "Other": "₹30K",
+      "Total": "₹6L–7L"
+    },
+    "Scholarships": ["Private merit schemes", "Govt. quota"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Biocon", "Sun", "Alkem"],
+      "Internship Programs": "Lab + hospital attached"
+    },
+    "Rank": 32
+  },
+  {
+    "Name": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "Type": "Government",
+    "Affiliation": "RTM Nagpur University",
+    "Established": "1923",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy"],
+    "Facilities": ["Old campus labs", "Auditorium", "University library"],
+    "UG Seats": "60",
+    "PG Seats": "30",
+    "Location": "Nagpur, Maharashtra",
+    "Fees": {
+      "Tuition": "₹40K/year",
+      "Other": "₹10K",
+      "Total": "₹2L"
+    },
+    "Scholarships": ["Maharashtra state aid", "Govt merit schemes"],
+    "Placement Support": {
+      "Average Package": "₹3.2 LPA",
+      "Top Recruiters": ["Cipla", "Lupin"],
+      "Internship Programs": "Thesis + placement module"
+    },
+    "Rank": 33
+  },
+  {
+    "Name": "AU College of Pharmaceutical Sciences, Andhra University",
+    "Type": "Government",
+    "Affiliation": "Andhra University",
+    "Established": "1937",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutical Analysis", "Pharmacology"],
+    "Facilities": ["Traditional pharmacy lab", "Library", "Hostels"],
+    "UG Seats": "60",
+    "PG Seats": "25",
+    "Location": "Visakhapatnam, Andhra Pradesh",
+    "Fees": {
+      "Tuition": "₹45K/year",
+      "Other": "₹15K",
+      "Total": "₹2.5L"
+    },
+    "Scholarships": ["Andhra Govt fellowships", "SC/ST quota"],
+    "Placement Support": {
+      "Average Package": "₹3.8 LPA",
+      "Top Recruiters": ["Dr. Reddy’s", "Aurobindo"],
+      "Internship Programs": "Final-year project"
+    },
+    "Rank": 34
+  },
+  {
+    "Name": "Dibrugarh University",
+    "Type": "Government",
+    "Affiliation": "State Public University",
+    "Established": "1965",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmacology", "Pharmaceutics"],
+    "Facilities": ["Academic blocks", "Pharmacy lab", "Central library"],
+    "UG Seats": "60",
+    "PG Seats": "20",
+    "Location": "Dibrugarh, Assam",
+    "Fees": {
+      "Tuition": "₹35K/year",
+      "Other": "₹15K",
+      "Total": "₹2–2.5L"
+    },
+    "Scholarships": ["North East Govt schemes", "Minority scholarships"],
+    "Placement Support": {
+      "Average Package": "₹3.2 LPA",
+      "Top Recruiters": ["Intas", "Torrent"],
+      "Internship Programs": "Govt hospital linkage"
+    },
+    "Rank": 35
+  },
+  {
+    "Name": "Maharshi Dayanand University",
+    "Type": "Government",
+    "Affiliation": "State Public University",
+    "Established": "1976",
+    "Degrees Offered": ["B.Pharm", "M.Pharm"],
+    "Specializations": ["Pharmaceutical Chemistry", "Pharmacology"],
+    "Facilities": ["Library", "Academic block", "Old lab setups"],
+    "UG Seats": "60",
+    "PG Seats": "30",
+    "Location": "Rohtak, Haryana",
+    "Fees": {
+      "Tuition": "₹40K/year",
+      "Other": "₹10K",
+      "Total": "₹2.5L"
+    },
+    "Scholarships": ["State quota aid", "Reserved category schemes"],
+    "Placement Support": {
+      "Average Package": "₹3.0 LPA",
+      "Top Recruiters": ["Zydus", "Cadila"],
+      "Internship Programs": "Final semester internship"
+    },
+    "Rank": 36
+  },
+  {
+    "Name": "KLE College of Pharmacy",
+    "Type": "Private",
+    "Affiliation": "KLE Academy of Higher Education and Research",
+    "Established": "1968",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacy Practice", "Clinical Pharmacy"],
+    "Facilities": ["Hospital-attached", "Research center", "Wi-Fi campus"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Belagavi, Karnataka",
+    "Fees": {
+      "Tuition": "₹1.8L/year",
+      "Other": "₹40K",
+      "Total": "₹8–9L"
+    },
+    "Scholarships": ["KLE Trust scholarships", "State merit grants"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Sun", "Biocon", "Macleods"],
+      "Internship Programs": "6-month clinical rotation"
+    },
+    "Rank": 37
+  },
+  {
+    "Name": "Chitkara University",
+    "Type": "Private",
+    "Affiliation": "UGC Approved",
+    "Established": "2008",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D"],
+    "Specializations": ["Pharmacognosy", "Regulatory Affairs", "Pharmaceutical Technology"],
+    "Facilities": ["Digital learning", "Research labs", "Incubation cell"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Punjab",
+    "Fees": {
+      "Tuition": "₹1.75L/year",
+      "Other": "₹35K",
+      "Total": "₹8–9L"
+    },
+    "Scholarships": ["Chitkara Innovation Grant", "Merit-based waivers"],
+    "Placement Support": {
+      "Average Package": "₹4.6 LPA",
+      "Top Recruiters": ["Nestle", "Sun", "Cadila"],
+      "Internship Programs": "Industry internship module"
+    },
+    "Rank": 38
+  },
+  {
+    "Name": "Shoolini University of Biotechnology and Management Sciences",
+    "Type": "Private",
+    "Affiliation": "UGC Approved, PCI",
+    "Established": "2009",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmaceutical Biotechnology"],
+    "Facilities": ["Digital classrooms", "AI-integrated learning", "Hostels"],
+    "UG Seats": "60",
+    "PG Seats": "20",
+    "Location": "Solan, Himachal Pradesh",
+    "Fees": {
+      "Tuition": "₹1.6L/year",
+      "Other": "₹30K",
+      "Total": "₹6.5–7L"
+    },
+    "Scholarships": ["Merit + entrance test grants", "Innovation awards"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Dr. Reddy’s", "Mankind", "Alkem"],
+      "Internship Programs": "Capstone research projects"
+    },
+    "Rank": 39
+  },
+  {
+    "Name": "Y. B. Chavan College of Pharmacy",
+    "Type": "Private-Aided",
+    "Affiliation": "Savitribai Phule Pune University",
+    "Established": "1989",
+    "Degrees Offered": ["B.Pharm", "M.Pharm"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy"],
+    "Facilities": ["Labs", "Library", "Girls/Boys hostels"],
+    "UG Seats": "100",
+    "PG Seats": "30",
+    "Location": "Aurangabad, Maharashtra",
+    "Fees": {
+      "Tuition": "₹1.2L/year",
+      "Other": "₹25K",
+      "Total": "₹6L"
+    },
+    "Scholarships": ["DTE scholarships", "Govt. merit aid"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Wockhardt", "Ajanta Pharma", "Emcure"],
+      "Internship Programs": "Hospital/industry training"
+    },
+    "Rank": 40
+  },
+  {
+    "Name": "Padmashree Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research",
+    "Type": "Private",
+    "Affiliation": "Savitribai Phule Pune University",
+    "Established": "1990",
+    "Degrees Offered": ["B.Pharm", "M.Pharm"],
+    "Specializations": ["Pharmaceutics", "Pharmaceutical Chemistry"],
+    "Facilities": ["Library", "Laboratories", "Hostels", "Wi-Fi campus"],
+    "UG Seats": "100",
+    "PG Seats": "30",
+    "Location": "Pune, Maharashtra",
+    "Fees": {
+      "Tuition": "₹1.3L/year",
+      "Other": "₹30K",
+      "Total": "₹6.5L"
+    },
+    "Scholarships": ["DTE scholarships", "Minority scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Sun Pharma", "Cipla", "Lupin"],
+      "Internship Programs": "6-month final year training"
+    },
+    "Rank": 41
+  },
+  {
+    "Name": "Sri Padmavathi Mahila Visva Vidyalayam",
+    "Type": "Government (Women's University)",
+    "Affiliation": "UGC Approved",
+    "Established": "1983",
+    "Degrees Offered": ["B.Pharm", "M.Pharm"],
+    "Specializations": ["Pharmaceutics", "Pharmaceutical Chemistry"],
+    "Facilities": ["Library", "Women's hostel", "Labs", "Wi-Fi campus"],
+    "UG Seats": "60",
+    "PG Seats": "20",
+    "Location": "Tirupati, Andhra Pradesh",
+    "Fees": {
+      "Tuition": "₹45K/year",
+      "Other": "₹15K",
+      "Total": "₹2.4L"
+    },
+    "Scholarships": ["State merit aid", "Minority and women scholarships"],
+    "Placement Support": {
+      "Average Package": "₹3.5 LPA",
+      "Top Recruiters": ["Natco", "Biocon", "Aurobindo"],
+      "Internship Programs": "Field and industry-based internship"
+    },
+    "Rank": 42
+  },
+  {
+    "Name": "Vels Institute of Science, Technology & Advanced Studies (VISTAS)",
+    "Type": "Private",
+    "Affiliation": "Deemed to be University (UGC, PCI)",
+    "Established": "1992",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D"],
+    "Specializations": ["Pharmacognosy", "Pharmaceutics", "Clinical Pharmacy"],
+    "Facilities": ["Library", "Labs", "Hostel", "Pharmacy museum"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹1.5L/year",
+      "Other": "₹35K",
+      "Total": "₹7L"
+    },
+    "Scholarships": ["Vels merit scholarship", "Reserved category fee waivers"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Sun Pharma", "Pfizer", "Glenmark"],
+      "Internship Programs": "Hospital-linked clinical training"
+    },
+    "Rank": 43
+  },
+  {
+    "Name": "Guru Ghasidas Vishwavidyalaya",
+    "Type": "Central University",
+    "Affiliation": "UGC Approved",
+    "Established": "1983",
+    "Degrees Offered": ["B.Pharm", "M.Pharm"],
+    "Specializations": ["Pharmaceutical Chemistry", "Pharmaceutics"],
+    "Facilities": ["University labs", "Digital library", "Wi-Fi campus"],
+    "UG Seats": "60",
+    "PG Seats": "20",
+    "Location": "Bilaspur, Chhattisgarh",
+    "Fees": {
+      "Tuition": "₹30K/year",
+      "Other": "₹10K",
+      "Total": "₹1.8L"
+    },
+    "Scholarships": ["Central scholarships", "EWS/SC/ST/BC schemes"],
+    "Placement Support": {
+      "Average Package": "₹3.2 LPA",
+      "Top Recruiters": ["Zydus", "Alkem", "Medley"],
+      "Internship Programs": "Research-based project work"
+    },
+    "Rank": 44
+  },
+  {
+    "Name": "L. M. College of Pharmacy",
+    "Type": "Private-Aided",
+    "Affiliation": "Gujarat Technological University",
+    "Established": "1947",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmacognosy", "Pharmaceutical Chemistry", "Pharmacology"],
+    "Facilities": ["Central instrumentation lab", "Library", "Academic auditorium"],
+    "UG Seats": "100",
+    "PG Seats": "50",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": {
+      "Tuition": "₹1.1L/year",
+      "Other": "₹25K",
+      "Total": "₹5.5L–6L"
+    },
+    "Scholarships": ["GTU merit aid", "Trust scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Cadila", "Intas", "Zydus"],
+      "Internship Programs": "Mandatory pharma industry internship"
+    },
+    "Rank": 45
+  },
+  {
+    "Name": "Integral University",
+    "Type": "Private",
+    "Affiliation": "UGC, PCI",
+    "Established": "2004",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacology", "Pharmaceutical Chemistry"],
+    "Facilities": ["Research labs", "Auditorium", "Girls/Boys hostels", "Digital campus"],
+    "UG Seats": "120",
+    "PG Seats": "40",
+    "Location": "Lucknow, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹1.4L/year",
+      "Other": "₹40K",
+      "Total": "₹7–8L"
+    },
+    "Scholarships": ["Merit-based scholarships", "Minority scholarship", "Fee waivers"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Sun Pharma", "Mankind", "Cipla"],
+      "Internship Programs": "Hospital + industry-based internship"
+    },
+    "Rank": 46
+  },
+  {
+    "Name": "Goa College of Pharmacy",
+    "Type": "Government",
+    "Affiliation": "Goa University",
+    "Established": "1963",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy", "Pharmaceutical Chemistry"],
+    "Facilities": ["Research labs", "Pharmacy museum", "Library", "Wi-Fi campus"],
+    "UG Seats": "60",
+    "PG Seats": "20",
+    "Location": "Panaji, Goa",
+    "Fees": {
+      "Tuition": "₹25K/year",
+      "Other": "₹10K",
+      "Total": "₹1.5L"
+    },
+    "Scholarships": ["Goa DTE scholarships", "Merit and reserved quotas"],
+    "Placement Support": {
+      "Average Package": "₹3.8 LPA",
+      "Top Recruiters": ["Cipla", "Glenmark", "Zydus"],
+      "Internship Programs": "Compulsory industry training"
+    },
+    "Rank": 47
+  },
+  {
+    "Name": "Smt. Kishoritai Bhoyar College of Pharmacy",
+    "Type": "Private",
+    "Affiliation": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "Established": "1997",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacology", "Pharmaceutical Chemistry"],
+    "Facilities": ["Digital library", "Seminar halls", "Labs", "Hostels"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Nagpur, Maharashtra",
+    "Fees": {
+      "Tuition": "₹1.2L/year",
+      "Other": "₹30K",
+      "Total": "₹6L–7L"
+    },
+    "Scholarships": ["Private aid", "SC/ST scholarships", "Institutional waivers"],
+    "Placement Support": {
+      "Average Package": "₹4.1 LPA",
+      "Top Recruiters": ["Zydus", "Glenmark", "Sun Pharma"],
+      "Internship Programs": "Compulsory industry internship"
+    },
+    "Rank": 48
+  },
+  {
+    "Name": "N.G.S.M. Institute of Pharmaceutical Sciences",
+    "Type": "Private",
+    "Affiliation": "NITTE (Deemed to be University)",
+    "Established": "1983",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Clinical Pharmacy", "Pharmaceutical Chemistry"],
+    "Facilities": ["R&D Center", "Wi-Fi campus", "Library", "Digital tools"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Mangaluru, Karnataka",
+    "Fees": {
+      "Tuition": "₹1.5L/year",
+      "Other": "₹40K",
+      "Total": "₹7–8L"
+    },
+    "Scholarships": ["NITTE Scholarships", "Sports quota", "Merit awards"],
+    "Placement Support": {
+      "Average Package": "₹4.3 LPA",
+      "Top Recruiters": ["Biocon", "Mankind", "Aurobindo"],
+      "Internship Programs": "Clinical + community pharmacy training"
+    },
+    "Rank": 49
+  },
+  {
+    "Name": "Noida Institute of Engineering and Technology (Pharmacy Institute)",
+    "Type": "Private",
+    "Affiliation": "AKTU, Lucknow",
+    "Established": "2005",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D"],
+    "Specializations": ["Pharmaceutics", "Pharmaceutical Analysis"],
+    "Facilities": ["Modern labs", "Computer-aided drug design", "Hostels"],
+    "UG Seats": "100",
+    "PG Seats": "30",
+    "Location": "Greater Noida, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹1.2L/year",
+      "Other": "₹25K",
+      "Total": "₹6L"
+    },
+    "Scholarships": ["UP Government scholarships", "Institutional aid"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Cadila", "Cipla", "Sun"],
+      "Internship Programs": "Industry-linked final year training"
+    },
+    "Rank": 50
+  },
+  {
+    "Name": "PSG College of Pharmacy",
+    "Type": "Private",
+    "Affiliation": "Dr. MGR Medical University",
+    "Established": "2001",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutical Chemistry", "Pharmacology", "Pharmaceutics"],
+    "Facilities": ["Hospital-attached labs", "Research centers", "Library", "Auditorium"],
+    "UG Seats": "100",
+    "PG Seats": "50",
+    "Location": "Coimbatore, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹1.6L/year",
+      "Other": "₹30K",
+      "Total": "₹7–8L"
+    },
+    "Scholarships": ["PSG Trust scholarships", "Merit-based aid", "Govt category scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Pfizer", "Sun Pharma", "GSK"],
+      "Internship Programs": "Hospital + industrial training"
+    },
+    "Rank": 51
+  },
+  {
+    "Name": "M.S. Ramaiah University of Applied Sciences",
+    "Type": "Private",
+    "Affiliation": "MSRUAS (Deemed to be University)",
+    "Established": "2013",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmaceutical Analysis", "Regulatory Affairs"],
+    "Facilities": ["Wi-Fi campus", "Smart classrooms", "Labs", "Hostels"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": {
+      "Tuition": "₹1.75L/year",
+      "Other": "₹40K",
+      "Total": "₹8L"
+    },
+    "Scholarships": ["MSR Foundation aid", "Merit-based scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4.6 LPA",
+      "Top Recruiters": ["Biocon", "Mylan", "Medreich"],
+      "Internship Programs": "Research + practice-oriented training"
+    },
+    "Rank": 52
+  },
+  {
+    "Name": "R.C. Patel Institute of Pharmaceutical Education & Research",
+    "Type": "Private",
+    "Affiliation": "North Maharashtra University",
+    "Established": "1992",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacology", "Pharmaceutical Biotechnology"],
+    "Facilities": ["Industry-sponsored labs", "Digital library", "Wi-Fi"],
+    "UG Seats": "100",
+    "PG Seats": "30",
+    "Location": "Shirpur, Maharashtra",
+    "Fees": {
+      "Tuition": "₹1.3L/year",
+      "Other": "₹30K",
+      "Total": "₹6.5L"
+    },
+    "Scholarships": ["Institutional merit aid", "Government scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Sun Pharma", "Wockhardt", "Lupin"],
+      "Internship Programs": "In-house R&D and field training"
+    },
+    "Rank": 53
+  },
+  {
+    "Name": "Chalapathi Institute of Pharmaceutical Sciences",
+    "Type": "Private",
+    "Affiliation": "Acharya Nagarjuna University",
+    "Established": "2004",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmaceutical Analysis", "Pharmacology"],
+    "Facilities": ["Laboratories", "Auditorium", "Library", "Wi-Fi campus"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Guntur, Andhra Pradesh",
+    "Fees": {
+      "Tuition": "₹1.2L/year",
+      "Other": "₹25K",
+      "Total": "₹6.25L"
+    },
+    "Scholarships": ["Andhra Govt aid", "Institutional grants"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Aurobindo", "Hetero", "Dr. Reddy's"],
+      "Internship Programs": "Summer + final year project internship"
+    },
+    "Rank": 54
+  },
+  {
+    "Name": "Raghavendra Institute of Pharmaceutical Education & Research",
+    "Type": "Private",
+    "Affiliation": "JNTU Anantapur",
+    "Established": "2002",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Pharm.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy", "Pharmaceutical Chemistry"],
+    "Facilities": ["Digital labs", "Library", "Seminar hall", "Hostels"],
+    "UG Seats": "100",
+    "PG Seats": "30",
+    "Location": "Anantapur, Andhra Pradesh",
+    "Fees": {
+      "Tuition": "₹1.2L/year",
+      "Other": "₹30K",
+      "Total": "₹6.5L"
+    },
+    "Scholarships": ["EAMCET scholarships", "Merit aid"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Mankind", "Laurus Labs", "Zydus"],
+      "Internship Programs": "Industry-guided research internship"
+    },
+    "Rank": 55
+  },
+  {
+    "Name": "Sam Higginbottom Institute of Agriculture, Technology & Sciences",
+    "Type": "Private (Deemed)",
+    "Affiliation": "SHUATS (Deemed to be University)",
+    "Established": "1910",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutical Chemistry", "Pharmacology", "Pharmaceutics"],
+    "Facilities": ["Green campus", "Lab wings", "Library", "E-resources"],
+    "UG Seats": "100",
+    "PG Seats": "30",
+    "Location": "Prayagraj, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹1.3L/year",
+      "Other": "₹35K",
+      "Total": "₹6.8L"
+    },
+    "Scholarships": ["SHIATS Aid", "Government quota scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Cadila", "Cipla", "GSK"],
+      "Internship Programs": "Mandatory research & hospital internship"
+    },
+    "Rank": 56
+  },
+  {
+    "Name": "College of Pharmacy, Madras Medical College",
+    "Type": "Government",
+    "Affiliation": "The Tamil Nadu Dr. M.G.R. Medical University",
+    "Established": "1980",
+    "Degrees Offered": ["B.Pharm", "M.Pharm", "Ph.D"],
+    "Specializations": ["Pharmaceutics", "Pharmacognosy", "Pharmaceutical Chemistry"],
+    "Facilities": ["Government hospital attached", "Library", "Research labs"],
+    "UG Seats": "60",
+    "PG Seats": "20",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": {
+      "Tuition": "₹20K/year",
+      "Other": "₹10K",
+      "Total": "₹1.5L"
+    },
+    "Scholarships": ["State Govt aid", "SC/ST free-ship"],
+    "Placement Support": {
+      "Average Package": "₹3.8 LPA",
+      "Top Recruiters": ["TNPSC Hospitals", "Government posts", "Private hospitals"],
+      "Internship Programs": "Hospital & compounding training"
+    },
+    "Rank": 57
+  },
+  {
+    "Name": "Subharti Medical College, Meerut",
+    "Type": "Private (Deemed University)",
+    "Affiliation": "State Health University",
+    "Established": "2001",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc", "PhD"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,400-bed teaching hospital", "simulation labs", "central research facilities", "hostels"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Meerut, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹12L–₹25L/year",
+      "Other": "₹1L–₹2L/year",
+      "Total": "₹65L–₹90L (5.5 years)"
+    },
+    "Scholarships": ["Merit-based", "sponsored scholarships", "financial aid support"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 61
+  },
+  {
+    "Name": "Shri B.M. Patil Medical College, Vijayapura",
+    "Type": "Private (Deemed)",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1986",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing", "Paramedical Programs"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,200-bed teaching hospital", "clinical and skill labs", "digital library", "hostels", "sports arena"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Vijayapura, Karnataka",
+    "Fees": {
+      "Tuition": "₹12L–₹25L/year",
+      "Other": "₹1L–₹2L/year",
+      "Total": "₹65L–₹90L (5.5 years)"
+    },
+    "Scholarships": ["Merit awards", "rural-background concessions", "staff wards assistance"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 62
+  },
+  {
+    "Name": "Government Medical College, Thrissur",
+    "Type": "Public Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1982",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,150-bed hospital", "anatomy museum", "central library", "hostels", "skill training labs"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Thrissur, Kerala",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State scholarships", "reserved-category fee waivers"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 63
+  },
+  {
+    "Name": "RMSAIMS Medical College, Rewa",
+    "Type": "Government Medical College",
+    "Affiliation": "State Health University",
+    "Established": "2018",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["600-bed hospital", "clinical labs", "lecture theatres", "hostels", "central library"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Rewa, Madhya Pradesh",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State government scholarships", "free-ship for SC/ST/OBC"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 64
+  },
+  {
+    "Name": "GMC Haldwani",
+    "Type": "Government",
+    "Affiliation": "State Health University",
+    "Established": "2016",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["500+ bed hospital", "clinical labs", "auditorium", "hostels", "research block"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Haldwani, Uttarakhand",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State scholarships", "reserved quotas"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 65
+  },
+  {
+    "Name": "Geetanjali Medical College & Hospital, Udaipur",
+    "Type": "Private (Deemed)",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "2008",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc", "Paramedical Courses"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["2,000-bed hospital", "multi-specialty labs", "simulation suites", "hostels", "research center"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Udaipur, Rajasthan",
+    "Fees": {
+      "Tuition": "₹12L–₹25L/year",
+      "Other": "₹1L–₹2L/year",
+      "Total": "₹65L–₹90L (5.5 years)"
+    },
+    "Scholarships": ["Merit-based", "staff wards", "sports quota"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 66
+  },
+  {
+    "Name": "Government Medical College, Kottayam",
+    "Type": "Government",
+    "Affiliation": "Kerala University of Health Sciences",
+    "Established": "1962",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,200+ bed hospital", "labs", "central library", "hostels", "skill centers"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Kottayam, Kerala",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State scholarships", "reserved-category support"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 67
+  },
+  {
+    "Name": "Calcutta National Medical College, Kolkata",
+    "Type": "Government",
+    "Affiliation": "West Bengal University of Health Sciences",
+    "Established": "1948",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,500-bed hospital", "anatomy museum", "digital library", "hostels", "research labs"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Kolkata, West Bengal",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State merit and reserved-category scholarships"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 68
+  },
+  {
+    "Name": "Shri Guru Ram Rai Institute of Medical & Health Sciences, Dehradun",
+    "Type": "Private (Deemed)",
+    "Affiliation": "State Health University",
+    "Established": "2005",
+    "Degrees Offered": ["MBBS", "MD/MS", "BSc", "Paramedical Programs"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,150-bed hospital", "digital teaching", "labs", "hostels", "university-style campus"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Dehradun, Uttarakhand",
+    "Fees": {
+      "Tuition": "₹12L–₹25L/year",
+      "Other": "₹1L–₹2L/year",
+      "Total": "₹65L–₹90L (5.5 years)"
+    },
+    "Scholarships": ["Merit awards", "sports & staff wards concessions"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 69
+  },
+  {
+    "Name": "Bhaskaracharya Institute of Medical Sciences, Pune",
+    "Type": "Private (Deemed)",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1989",
+    "Degrees Offered": ["MBBS", "MD/MS", "BSc", "Paramedical Courses"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,000-bed hospital", "clinical labs", "central library", "hostels", "digital simulation"],
+    "UG Seats": "",
+    "PG Seats": "",
+    "Location": "Pune, Maharashtra",
+    "Fees": {
+      "Tuition": "₹12L–₹25L/year",
+      "Other": "₹1L–₹2L/year",
+      "Total": "₹65L–₹90L (5.5 years)"
+    },
+    "Scholarships": ["Merit-based", "economic hardship support"],
+    "Placement Support": {
+      "Average Package": "",
+      "Top Recruiters": [""],
+      "Internship Programs": ""
+    },
+    "Rank": 70
+  },
+  {
+    "Name": "Jawahar Lal Nehru Medical College, Ajmer",
+    "Type": "Government",
+    "Affiliation": "Rajasthan University of Health Sciences",
+    "Established": "1965",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["800-bed hospital", "labs", "central library", "hostels", "skill-training facilities"],
+    "UG Seats": "150",
+    "PG Seats": "30",
+    "Location": "Ajmer, Rajasthan",
+    "Fees": {
+      "Tuition": "₹25K/year",
+      "Other": "₹10K/year",
+      "Total": "₹2L"
+    },
+    "Scholarships": ["State scholarship schemes", "reserved-category fee waivers"],
+    "Placement Support": {
+      "Average Package": "₹3.9 LPA",
+      "Top Recruiters": ["Govt Hospitals", "Fortis", "Medanta"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 71
+  },
+  {
+    "Name": "Government Medical College, Mandya",
+    "Type": "Government",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "2005",
+    "Degrees Offered": ["MBBS", "MD/MS"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["600-bed hospital", "clinical labs", "lecture halls", "hostels"],
+    "UG Seats": "150",
+    "PG Seats": "30",
+    "Location": "Mandya, Karnataka",
+    "Fees": {
+      "Tuition": "₹40K/year",
+      "Other": "₹10K/year",
+      "Total": "₹2.5L"
+    },
+    "Scholarships": ["State-level scholarships", "SC/ST/OBC support"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Karnataka Govt Services", "Manipal Hospitals", "Narayana Health"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 72
+  },
+  {
+    "Name": "Government Medical College, Kannauj",
+    "Type": "Government",
+    "Affiliation": "King George's Medical University",
+    "Established": "2012",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["400-bed hospital", "labs", "library", "hostels", "sports complex"],
+    "UG Seats": "100",
+    "PG Seats": "20",
+    "Location": "Kannauj, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹36K/year",
+      "Other": "₹15K/year",
+      "Total": "₹2.2L"
+    },
+    "Scholarships": ["Uttar Pradesh Govt schemes", "minority & SC/ST support"],
+    "Placement Support": {
+      "Average Package": "₹3.8 LPA",
+      "Top Recruiters": ["UP State Hospitals", "Community Clinics", "Apollo"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 73
+  },
+  {
+    "Name": "Dr. Vaishampayan Memorial Government Medical College, Solapur",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1963",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh"],
+    "Specializations": ["General Medicine", "Surgery", "Obstetrics & Gynecology"],
+    "Facilities": ["700-bed hospital", "anatomy labs", "lecture halls", "sports complex"],
+    "UG Seats": "150",
+    "PG Seats": "50",
+    "Location": "Solapur, Maharashtra",
+    "Fees": {
+      "Tuition": "₹60K/year",
+      "Other": "₹25K/year",
+      "Total": "₹4.5L"
+    },
+    "Scholarships": ["State EBC", "Merit quota", "Jain minority scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Ruby Hall", "Wockhardt Hospitals", "Govt Health Dept"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 74
+  },
+  {
+    "Name": "Government Medical College, Shahdol",
+    "Type": "Government",
+    "Affiliation": "Madhya Pradesh Medical Science University",
+    "Established": "2018",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": ["General Medicine", "Pediatrics", "Community Medicine"],
+    "Facilities": ["500-bed hospital", "clinical teaching labs", "central library", "boys/girls hostels"],
+    "UG Seats": "100",
+    "PG Seats": "20",
+    "Location": "Shahdol, Madhya Pradesh",
+    "Fees": {
+      "Tuition": "₹30K/year",
+      "Other": "₹12K/year",
+      "Total": "₹2.1L"
+    },
+    "Scholarships": ["Madhya Pradesh Govt quota", "merit-cum-means", "reserved-category fee waiver"],
+    "Placement Support": {
+      "Average Package": "₹3.5 LPA",
+      "Top Recruiters": ["District Hospitals", "Ayushman Bharat Scheme", "PHC centers"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 75
+  },
+  {
+    "Name": "Saraswati Medical College, Unnao",
+    "Type": "Private",
+    "Affiliation": "Dr. Ram Manohar Lohia Avadh University",
+    "Established": "2016",
+    "Degrees Offered": ["MBBS", "MD/MS"],
+    "Specializations": ["General Medicine", "Surgery", "Orthopedics"],
+    "Facilities": ["700-bed hospital", "lecture theaters", "laboratories", "library", "cafeteria", "hostels"],
+    "UG Seats": "150",
+    "PG Seats": "40",
+    "Location": "Unnao, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹12L/year",
+      "Other": "₹2L/year",
+      "Total": "₹80L"
+    },
+    "Scholarships": ["Private merit grants", "financial hardship waivers"],
+    "Placement Support": {
+      "Average Package": "₹4.3 LPA",
+      "Top Recruiters": ["Apollo", "Fortis", "Private Clinics"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 76
+  },
+  {
+    "Name": "Government Medical College, Ambikapur",
+    "Type": "Government",
+    "Affiliation": "Pt. Deendayal Upadhyay Memorial Health Sciences University",
+    "Established": "2016",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": ["General Medicine", "Community Medicine", "Pediatrics"],
+    "Facilities": ["District hospital", "classroom block", "skills lab", "hostels"],
+    "UG Seats": "125",
+    "PG Seats": "30",
+    "Location": "Ambikapur, Chhattisgarh",
+    "Fees": {
+      "Tuition": "₹45K/year",
+      "Other": "₹15K/year",
+      "Total": "₹3.3L"
+    },
+    "Scholarships": ["Chhattisgarh Govt schemes", "reserved quota"],
+    "Placement Support": {
+      "Average Package": "₹3.7 LPA",
+      "Top Recruiters": ["CG State Hospitals", "AIIMS Raipur", "PHCs"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 77
+  },
+  {
+    "Name": "ESIC Medical College and Hospital, Faridabad",
+    "Type": "Government (ESIC)",
+    "Affiliation": "Pt. B.D. Sharma University of Health Sciences",
+    "Established": "2015",
+    "Degrees Offered": ["MBBS", "MD/MS", "Paramedical Courses"],
+    "Specializations": ["General Medicine", "Surgery", "Anesthesia"],
+    "Facilities": ["500-bed ESIC hospital", "medical museum", "e-classrooms", "research center"],
+    "UG Seats": "125",
+    "PG Seats": "40",
+    "Location": "Faridabad, Haryana",
+    "Fees": {
+      "Tuition": "₹24K/year",
+      "Other": "₹15K/year",
+      "Total": "₹2L"
+    },
+    "Scholarships": ["ESIC quota (IP family)", "SC/ST/EWS fee waivers"],
+    "Placement Support": {
+      "Average Package": "₹4.1 LPA",
+      "Top Recruiters": ["ESIC Hospitals", "CGHS", "Private sector ESIC panel"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 78
+  },
+  {
+    "Name": "Government Medical College, Gondia",
+    "Type": "Government",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "2016",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": ["General Medicine", "Surgery", "Radiology"],
+    "Facilities": ["500-bed hospital", "library", "skills lab", "separate hostels", "lecture halls"],
+    "UG Seats": "150",
+    "PG Seats": "30",
+    "Location": "Gondia, Maharashtra",
+    "Fees": {
+      "Tuition": "₹35K/year",
+      "Other": "₹20K/year",
+      "Total": "₹2.75L"
+    },
+    "Scholarships": ["State quota", "EBC fee relief"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Rural Hospitals", "District Health Offices", "Govt Medical Services"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 79
+  },
+  {
+    "Name": "Government Medical College, Rajnandgaon",
+    "Type": "Government",
+    "Affiliation": "Pt. Deendayal Upadhyay Memorial Health Sciences University",
+    "Established": "2014",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": ["General Medicine", "Pediatrics", "ENT"],
+    "Facilities": ["750-bed hospital", "smart classrooms", "skills lab", "hostel", "academic block"],
+    "UG Seats": "125",
+    "PG Seats": "25",
+    "Location": "Rajnandgaon, Chhattisgarh",
+    "Fees": {
+      "Tuition": "₹40K/year",
+      "Other": "₹18K/year",
+      "Total": "₹2.9L"
+    },
+    "Scholarships": ["CG State scholarship schemes", "reserved seat waivers"],
+    "Placement Support": {
+      "Average Package": "₹3.6 LPA",
+      "Top Recruiters": ["AIIMS Raipur", "District Hospitals", "Rural Health Mission"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 80
+  },
+  {
+    "Name": "Institute of Medical Sciences, Banaras Hindu University (IMS-BHU)",
+    "Type": "Government (Institute of National Importance)",
+    "Affiliation": "BHU (Central University)",
+    "Established": "1960",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing", "PhD"],
+    "Specializations": ["General Medicine", "Surgery", "Radiology", "Dermatology", "Ophthalmology"],
+    "Facilities": ["Multi-specialty hospital", "ICMR-accredited research", "digital classrooms", "hostels"],
+    "UG Seats": "200",
+    "PG Seats": "100",
+    "Location": "Varanasi, Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹15K/year",
+      "Other": "₹5K/year",
+      "Total": "₹1.2L"
+    },
+    "Scholarships": ["National merit", "Institute aid", "reserved category"],
+    "Placement Support": {
+      "Average Package": "₹5.0 LPA",
+      "Top Recruiters": ["BHU Hospital", "AIIMS", "Research Fellowships"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 81
+  },
+  {
+    "Name": "Rajendra Institute of Medical Sciences (RIMS), Ranchi",
+    "Type": "Government",
+    "Affiliation": "State Health University",
+    "Established": "1960",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,100-bed hospital", "simulation labs", "hostels", "research facilities", "trauma centre"],
+    "UG Seats": "150",
+    "PG Seats": "40",
+    "Location": "Ranchi, Jharkhand",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State scholarships", "tribal concessions", "reserved-category aid"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 82
+  },
+  {
+    "Name": "Father Muller Medical College, Mangalore",
+    "Type": "Private (Minority-run)",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1999",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["600-bed hospital", "digital labs", "simulation suites", "hostels"],
+    "UG Seats": "120",
+    "PG Seats": "30",
+    "Location": "Mangalore, Karnataka",
+    "Fees": {
+      "Tuition": "₹12L–₹25L/year",
+      "Other": "₹1L–₹2L/year",
+      "Total": "₹65L–₹90L (5.5 years)"
+    },
+    "Scholarships": ["Minority scholarships", "merit-based aid"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 83
+  },
+  {
+    "Name": "RG Kar Medical College, Kolkata",
+    "Type": "Government",
+    "Affiliation": "West Bengal University of Health Sciences",
+    "Established": "1916",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,200-bed hospital", "central library", "museums", "hostels", "labs"],
+    "UG Seats": "120",
+    "PG Seats": "30",
+    "Location": "Kolkata, West Bengal",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State welfare programs", "reserved quotas"],
+    "Placement Support": {
+      "Average Package": "₹3.5 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 84
+  },
+  {
+    "Name": "Kasturba Medical College, Mangalore",
+    "Type": "Private (Deemed)",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1999",
+    "Degrees Offered": ["MBBS", "MD/MS", "BSc", "Paramedical"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["Teaching hospital", "simulation labs", "library", "hostels", "sports amenities"],
+    "UG Seats": "100",
+    "PG Seats": "40",
+    "Location": "Mangalore, Karnataka",
+    "Fees": {
+      "Tuition": "₹12L–₹25L/year",
+      "Other": "₹1L–₹2L/year",
+      "Total": "₹65L–₹90L (5.5 years)"
+    },
+    "Scholarships": ["Merit", "need-based", "sports awards"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 85
+  },
+  {
+    "Name": "Government Medical College, Amritsar",
+    "Type": "Government",
+    "Affiliation": "Baba Farid University of Health Sciences",
+    "Established": "1947",
+    "Degrees Offered": ["MBBS", "MD/MS", "Diploma", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,200-bed secondary care hospital", "labs", "hostels", "simulation suites"],
+    "UG Seats": "100",
+    "PG Seats": "20",
+    "Location": "Amritsar, Punjab",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State schemes", "OBC/SC/ST concessions"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 86
+  },
+  {
+    "Name": "SKIMS Medical College, Soura (Srinagar)",
+    "Type": "Government (Institute of Excellence)",
+    "Affiliation": "State Health University",
+    "Established": "1973",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "PG Diploma"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["650-bed tertiary hospital", "digital labs", "hostels", "skill centers"],
+    "UG Seats": "120",
+    "PG Seats": "50",
+    "Location": "Soura, Srinagar, J&K",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State scholarships", "reserved-category aid"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 87
+  },
+  {
+    "Name": "Pt. Jawaharlal Nehru Medical College, Raipur",
+    "Type": "Government",
+    "Affiliation": "State Health University",
+    "Established": "1963",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,400-bed hospital", "clinical labs", "simulation facilities", "hostels"],
+    "UG Seats": "150",
+    "PG Seats": "50",
+    "Location": "Raipur, Chhattisgarh",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["State scholarships", "tribal concessions"],
+    "Placement Support": {
+      "Average Package": "₹3.5 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 88
+  },
+  {
+    "Name": "Krishna Institute of Medical Sciences (KIMS), Karad",
+    "Type": "Private (Deemed)",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1984",
+    "Degrees Offered": ["MBBS", "MD/MS", "BSc", "Paramedical Courses"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["800-bed hospital", "skill labs", "research block", "hostels"],
+    "UG Seats": "120",
+    "PG Seats": "50",
+    "Location": "Karad, Maharashtra",
+    "Fees": {
+      "Tuition": "₹12L–₹25L/year",
+      "Other": "₹1L–₹2L/year",
+      "Total": "₹65L–₹90L (5.5 years)"
+    },
+    "Scholarships": ["Merit", "rural merit", "staff-ward concessions"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 89
+  },
+  {
+    "Name": "South Eastern Railway Medical College, Bilaspur",
+    "Type": "Government (Railway-run)",
+    "Affiliation": "State Health University",
+    "Established": "2012",
+    "Degrees Offered": ["MBBS"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["750-bed hospital", "labs", "hostels", "classrooms"],
+    "UG Seats": "150",
+    "PG Seats": "20",
+    "Location": "Bilaspur (Chhattisgarh)",
+    "Fees": {
+      "Tuition": "₹10,000–₹50,000",
+      "Other": "₹10,000–₹20,000",
+      "Total": "₹20,000–₹70,000"
+    },
+    "Scholarships": ["Railway-employee wards", "state reserved-category aid"],
+    "Placement Support": {
+      "Average Package": "₹3.5 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 90
+  },
+  {
+    "Name": "Sri Siddhartha Medical College, Bengaluru",
+    "Type": "Private (Trust-run)",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1988",
+    "Degrees Offered": ["MBBS", "MD/MS", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,250-bed teaching hospital", "labs", "hostels", "library"],
+    "UG Seats": "150",
+    "PG Seats": "30",
+    "Location": "Bengaluru (Karnataka)",
+    "Fees": {
+      "Tuition": "₹12L–₹25L/year",
+      "Other": "₹1L–₹2L/year",
+      "Total": "₹65L–₹90L (5.5 years)"
+    },
+    "Scholarships": ["Merit and rural-background concessions"],
+    "Placement Support": {
+      "Average Package": "₹4.5 LPA",
+      "Top Recruiters": ["Apollo Hospitals", "Fortis", "Max Healthcare"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 91
+  },
+  {
+    "Name": "Kempegowda Institute of Medical Sciences, Bangalore",
+    "Type": "Private",
+    "Affiliation": "Rajiv Gandhi University of Health Sciences",
+    "Established": "1980",
+    "Degrees Offered": ["MBBS", "MD/MS"],
+    "Specializations": ["General Medicine", "Orthopedics", "Pediatrics"],
+    "Facilities": ["Teaching hospital", "Labs", "Conference rooms", "Hostels", "Library"],
+    "UG Seats": "150",
+    "PG Seats": "30",
+    "Location": "Bangalore, Karnataka",
+    "Fees": {
+      "Tuition": "₹15L/year",
+      "Other": "₹2L/year",
+      "Total": "₹85L (5.5 yrs)"
+    },
+    "Scholarships": ["Merit scholarship", "State quota"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["Manipal Hospitals", "Apollo", "Aster"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 92
+  },
+  {
+    "Name": "Seth Gordhandas Sunderdas Medical College, Mumbai",
+    "Type": "Private (Municipal)",
+    "Affiliation": "Maharashtra University of Health Sciences",
+    "Established": "1925",
+    "Degrees Offered": ["MBBS", "MD/MS"],
+    "Specializations": ["General Medicine", "Surgery", "Dermatology"],
+    "Facilities": ["Tertiary hospital", "Research labs", "Museum", "Hostels"],
+    "UG Seats": "150",
+    "PG Seats": "40",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": {
+      "Tuition": "₹20L/year",
+      "Other": "₹1.5L/year",
+      "Total": "₹110L (5.5 yrs)"
+    },
+    "Scholarships": ["Municipal merit scholarship", "Reserved quota"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["KEM Hospital", "Breach Candy Hospital", "Jaslok"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 93
+  },
+  {
+    "Name": "Moti Lal Nehru Medical College, Allahabad",
+    "Type": "Government",
+    "Affiliation": "King George's Medical University",
+    "Established": "1961",
+    "Degrees Offered": ["MBBS", "MD/MS"],
+    "Specializations": ["General Medicine", "Psychiatry", "Community Medicine"],
+    "Facilities": ["400-bed hospital", "Skill labs", "Library", "Hostels"],
+    "UG Seats": "150",
+    "PG Seats": "30",
+    "Location": "Allahabad (Prayagraj), Uttar Pradesh",
+    "Fees": {
+      "Tuition": "₹25K/year",
+      "Other": "₹10K/year",
+      "Total": "₹1.75L (5.5 yrs)"
+    },
+    "Scholarships": ["State government scholarships", "Reserved-category aid"],
+    "Placement Support": {
+      "Average Package": "₹3.8 LPA",
+      "Top Recruiters": ["KGMU", "PGIMER", "Fortis"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 94
+  },
+  {
+    "Name": "Lok Nayak Jai Prakash Narayan National Institute of Criminology & Forensic Science, New Delhi",
+    "Type": "Government",
+    "Affiliation": "Ministry of Home Affairs",
+    "Established": "1972",
+    "Degrees Offered": ["Forensic Science", "Criminology"],
+    "Specializations": ["Digital Forensics", "Toxicology"],
+    "Facilities": ["Crime labs", "Seminar rooms", "Library", "Computer labs"],
+    "UG Seats": "60",
+    "PG Seats": "30",
+    "Location": "New Delhi, Delhi",
+    "Fees": {
+      "Tuition": "₹50K/year",
+      "Other": "₹10K/year",
+      "Total": "₹3.3L (3 yrs)"
+    },
+    "Scholarships": ["Central govt scholarships", "SC/ST/OBC support"],
+    "Placement Support": {
+      "Average Package": "₹5.0 LPA",
+      "Top Recruiters": ["CBI", "NIA", "State Forensic Labs"],
+      "Internship Programs": "Mandatory forensic lab internship"
+    },
+    "Rank": 95
+  },
+  {
+    "Name": "Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER), Puducherry",
+    "Type": "Government (Institute of National Importance)",
+    "Affiliation": "Autonomous under Ministry of Health",
+    "Established": "1823",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing", "PhD"],
+    "Specializations": ["Cardiology", "Neurosurgery", "Endocrinology"],
+    "Facilities": ["Advanced super-specialty hospital", "Research labs", "Auditorium", "Hostels"],
+    "UG Seats": "150",
+    "PG Seats": "90",
+    "Location": "Puducherry",
+    "Fees": {
+      "Tuition": "₹15K/year",
+      "Other": "₹5K/year",
+      "Total": "₹1.1L (5.5 yrs)"
+    },
+    "Scholarships": ["Central govt scholarships", "Reserved-category aid"],
+    "Placement Support": {
+      "Average Package": "₹6.5 LPA",
+      "Top Recruiters": ["AIIMS", "PGIMER", "Research Fellowships"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 96
+  },
+  {
+    "Name": "All India Institute of Medical Sciences (AIIMS), Patna",
+    "Type": "Government (Institute of National Importance)",
+    "Affiliation": "Autonomous under Ministry of Health",
+    "Established": "2004",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing", "PhD"],
+    "Specializations": ["Nephrology", "Neurology", "Oncology"],
+    "Facilities": ["Super-specialty hospital", "Clinical research center", "Library", "Hostels"],
+    "UG Seats": "100",
+    "PG Seats": "80",
+    "Location": "Patna, Bihar",
+    "Fees": {
+      "Tuition": "₹10K/year",
+      "Other": "₹5K/year",
+      "Total": "₹82K (5.5 yrs)"
+    },
+    "Scholarships": ["Central govt scholarships", "Reserved-category aid"],
+    "Placement Support": {
+      "Average Package": "₹5.5 LPA",
+      "Top Recruiters": ["AIIMS New Delhi", "PGIMER", "Research Organizations"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 97
+  },
+  {
+    "Name": "Dr. N.T.R. University of Health Sciences, Vijayawada",
+    "Type": "Government",
+    "Affiliation": "Andhra Pradesh State Government",
+    "Established": "1986",
+    "Degrees Offered": ["MBBS", "MD/MS", "BSc Nursing", "PhD"],
+    "Specializations": ["Community Medicine", "Pediatrics", "Obstetrics & Gynaecology"],
+    "Facilities": ["Affiliated teaching hospitals", "Research labs", "Digital library", "Hostels"],
+    "UG Seats": "120",
+    "PG Seats": "60",
+    "Location": "Vijayawada, Andhra Pradesh",
+    "Fees": {
+      "Tuition": "₹30K/year",
+      "Other": "₹10K/year",
+      "Total": "₹2.2L (5.5 yrs)"
+    },
+    "Scholarships": ["State scholarships", "Reserved-category aid"],
+    "Placement Support": {
+      "Average Package": "₹4.2 LPA",
+      "Top Recruiters": ["NIMS, Visakhapatnam", "Apollo", "Government Health Services"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 98
+  },
+  {
+    "Name": "Calcutta National Medical College, Kolkata",
+    "Type": "Government",
+    "Affiliation": "West Bengal University of Health Sciences",
+    "Established": "1948",
+    "Degrees Offered": ["MBBS", "MD/MS", "DM/MCh", "BSc Nursing"],
+    "Specializations": ["General Medicine", "Surgery", "Community Medicine"],
+    "Facilities": ["1,500-bed hospital", "Anatomy Museum", "Digital Library", "Hostels"],
+    "UG Seats": "250",
+    "PG Seats": "50",
+    "Location": "Kolkata, West Bengal",
+    "Fees": {
+      "Tuition": "₹20K/year",
+      "Other": "₹15K/year",
+      "Total": "₹1.8L (5.5 yrs)"
+    },
+    "Scholarships": ["State merit & reserved-category scholarships"],
+    "Placement Support": {
+      "Average Package": "₹4.0 LPA",
+      "Top Recruiters": ["West Bengal Health Dept", "Apollo", "ESI Hospitals"],
+      "Internship Programs": "Hospital-based compulsory internship"
+    },
+    "Rank": 99
+  },
+  {
+    "Name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",
+    "Type": "Government (Institute of National Importance)",
+    "Affiliation": "Autonomous under Ministry of Health",
+    "Established": "1974",
+    "Degrees Offered": ["MD/MS", "DM/MCh", "PhD"],
+    "Specializations": ["Cardiac Sciences", "Neurology", "Transplant Medicine"],
+    "Facilities": ["Super-specialty hospital", "Research labs", "Library", "Hostels"],
+    "UG Seats": "0",
+    "PG Seats": "150",
+    "Location": "Thiruvananthapuram, Kerala",
+    "Fees": {
+      "Tuition": "₹20K/year",
+      "Other": "₹10K/year",
+      "Total": "₹2.0L (PG)"
+    },
+    "Scholarships": ["Central scholarships", "Research Fellowships"],
+    "Placement Support": {
+      "Average Package": "₹6.0 LPA",
+      "Top Recruiters": ["AIIMS", "NIH", "International Fellowships"],
+      "Internship Programs": "Clinical + Research internship"
+    },
+    "Rank": 100
+  }
+]

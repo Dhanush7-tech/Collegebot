@@ -1,0 +1,43 @@
+{
+  "undergraduate": [
+    "B.Com",
+    "B.Com (Hons)",
+    "B.Com (General)",
+    "B.Com (Corporate Secretaryship)",
+    "B.Com in International Finance",
+    "B.Com with ACCA",
+    "B.Com (Financial Markets)",
+    "B.Com (Accounting and Finance)",
+    "B.Com (Industry Integrated)",
+    "B.Com (Travel and Tourism)",
+    "B.Com (Travel & Tourism)",
+    "B.Com (Program)",
+    "B.Com (Marketing Management)",
+    "B.Com (Banking and Insurance)",
+    "B.Com (Banking & Insurance)",
+    "B.Com (Professional)",
+    "B.Com (ACCA)",
+    "B.Com (Actuarial Studies)",
+    "B.Com (Finance & Accounting)",
+    "B.Com (Computer Applications)",
+    "B.Com (CS)",
+    "B.Com (ISM)",
+    "B.Com (Tourism)",
+    "B.Com (Self-Financed)",
+    "BMS",
+    "BBM",
+    "BBA",
+    "BA (Hons) Economics",
+    "BA Economics",
+    "BA"
+  ],
+  "postgraduate": [
+    "M.Com",
+    "MA Economics",
+    "MBA",
+    "M.Phil Commerce",
+    "PG Diploma in Global Business Operations",
+    "PGDM",
+    "PG Diploma in Banking"
+  ]
+}

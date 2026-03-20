@@ -1,0 +1,2289 @@
+[
+  {
+    "Name": "Indian Institute of Management Ahmedabad",
+    "Type": "Autonomous (Public)",
+    "Established": "1961",
+    "Programs": ["PGP (MBA)", "PGP‑FABM", "PGP‑ABM", "FPM", "Executive MBA"],
+    "Specializations": ["Strategy", "Finance", "Economics", "Marketing", "Operations", "IT"],
+    "Facilities": ["Library", "Computing Center", "Auditorium", "Hostels", "Sports Complex", "Research Centers"],
+    "Seats (PGP)": "408",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": { "Tuition": "₹23.41L", "Other": "₹1.5L", "Total": "₹24.91L" },
+    "Scholarships": ["Merit", "Need-based", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹33 LPA",
+      "Top Recruiters": ["McKinsey", "Bain", "Goldman Sachs", "Google", "P&G", "Amazon"],
+      "Internships": "₹4–8 L stipend"
+    },
+    "Rank (Management)": 1
+  },
+  {
+    "Name": "Indian Institute of Management Bangalore",
+    "Type": "Autonomous (Public)",
+    "Established": "1973",
+    "Programs": ["PGP", "Executive MBA", "PhD", "EPGP", "PGPEM"],
+    "Specializations": ["Finance", "Marketing", "Entrepreneurship", "HR", "Operations", "IS", "Economics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports", "Incubator"],
+    "Seats (PGP)": "420",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹24.60L", "Other": "₹1.4L", "Total": "₹26.0L" },
+    "Scholarships": ["Merit", "Need-based", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹32 LPA",
+      "Top Recruiters": ["Bain", "McKinsey", "Aditya Birla", "Google", "HSBC"],
+      "Internships": "₹3–7 L stipend"
+    },
+    "Rank (Management)": 2
+  },
+  {
+    "Name": "Indian Institute of Management Calcutta",
+    "Type": "Autonomous (Public)",
+    "Established": "1961",
+    "Programs": ["PGP", "PGPEX", "PGPEM", "FPM"],
+    "Specializations": ["Finance", "Marketing", "Economics", "Operations", "Strategic Management"],
+    "Facilities": ["Library", "Computer Center", "Auditorium", "Hostels", "Incubator", "Sports Arena"],
+    "Seats (PGP)": "418",
+    "Location": "Kolkata, West Bengal",
+    "Fees": { "Tuition": "₹22.50L", "Other": "₹1.2L", "Total": "₹23.7L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver", "KVPY fellowship"],
+    "Placement": {
+      "Average Salary": "₹35 LPA",
+      "Top Recruiters": ["McKinsey", "Goldman Sachs", "BCG", "JP Morgan", "Coca‑Cola", "Amazon"],
+      "Internships": "₹6–10 L stipend"
+    },
+    "Rank (Management)": 3
+  },
+  {
+    "Name": "Indian Institute of Management Lucknow",
+    "Type": "Autonomous (Public)",
+    "Established": "1984",
+    "Programs": ["PGP", "PGPEX", "IPMX", "FPM"],
+    "Specializations": ["Finance", "Marketing", "HR", "Operations", "IS"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels", "Sports", "Guest House"],
+    "Seats (PGP)": "350",
+    "Location": "Lucknow, Uttar Pradesh",
+    "Fees": { "Tuition": "₹17.55L", "Other": "₹1.0L", "Total": "₹18.55L" },
+    "Scholarships": ["Merit", "Reserved", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹24 LPA",
+      "Top Recruiters": ["McKinsey", "Accenture", "Nestlé", "HUL", "Ericsson"],
+      "Internships": "₹2–5 L stipend"
+    },
+    "Rank (Management)": 4
+  },
+  {
+    "Name": "Indian Institute of Management Kozhikode",
+    "Type": "Autonomous (Public)",
+    "Established": "1996",
+    "Programs": ["PGP", "PGP‑Liberal", "FPM", "EPGP"],
+    "Specializations": ["Finance", "Marketing", "Public Policy", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Incubator"],
+    "Seats (PGP)": "300",
+    "Location": "Kozhikode, Kerala",
+    "Fees": { "Tuition": "₹18.06L", "Other": "₹0.9L", "Total": "₹18.96L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver", "Minority"],
+    "Placement": {
+      "Average Salary": "₹23 LPA",
+      "Top Recruiters": ["McKinsey", "ITC", "Deloitte", "Amazon", "HUL"],
+      "Internships": "₹3–6 L stipend"
+    },
+    "Rank (Management)": 6
+  },
+  {
+    "Name": "Indian Institute of Management Indore",
+    "Type": "Autonomous (Public)",
+    "Established": "1996",
+    "Programs": ["PGP", "PGP‑IPM", "EPGP", "FPM"],
+    "Specializations": ["Finance", "Marketing", "Strategy", "Operations"],
+    "Facilities": ["Library", "Computer Center", "Auditorium", "Hostels", "Sports"],
+    "Seats (PGP)": "300",
+    "Location": "Indore, Madhya Pradesh",
+    "Fees": { "Tuition": "₹17.60L", "Other": "₹1.0L", "Total": "₹18.60L" },
+    "Scholarships": ["Merit", "Need-based", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹21 LPA",
+      "Top Recruiters": ["McKinsey", "KPMG", "Cipla", "Amazon", "Edelweiss"],
+      "Internships": "₹2–5 L stipend"
+    },
+    "Rank (Management)": 7
+  },
+  {
+    "Name": "Xavier Labour Relations Institute (XLRI), Jamshedpur",
+    "Type": "Private (Jesuit)",
+    "Established": "1949",
+    "Programs": ["PGDM (BM)", "PGDM (HRM)", "PGDM‑Global", "PGprgm"],
+    "Specializations": ["Business Management", "Human Resources", "General Management"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels", "Counseling Center"],
+    "Seats (BM)": "180",
+    "Seats (HRM)": "180",
+    "Location": "Jamshedpur, Jharkhand",
+    "Fees": { "Tuition": "₹23.3L", "Other": "₹1.7L", "Total": "₹25.0L" },
+    "Scholarships": ["Merit", "Diversity", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹25 LPA",
+      "Top Recruiters": ["Microsoft", "Google", "McKinsey", "Genpact", "Amazon"],
+      "Internships": "₹3–5 L stipend"
+    },
+    "Rank (Management)": 5
+  },
+  {
+    "Name": "Management Development Institute, Gurgaon",
+    "Type": "Private (Not-for-profit)",
+    "Established": "1973",
+    "Programs": ["PGP", "PGP‑HRM", "PGP‑IB", "FPM", "EFPM"],
+    "Specializations": ["Marketing", "Finance", "HR", "IB", "Analytics"],
+    "Facilities": ["Library", "Computer Center", "Auditorium", "Hostels", "Sports", "Incubator"],
+    "Seats (PGP)": "260",
+    "Location": "Gurugram, Haryana",
+    "Fees": { "Tuition": "₹19.96L", "Other": "₹1.2L", "Total": "₹21.16L" },
+    "Scholarships": ["Merit", "Reserved", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹22 LPA",
+      "Top Recruiters": ["McKinsey", "Amazon", "HUL", "JPMorgan"],
+      "Internships": "₹3–5 L stipend"
+    },
+    "Rank (Management)": 9
+  },
+  {
+    "Name": "Indian Institute of Management Tiruchirappalli",
+    "Type": "Autonomous (Public)",
+    "Established": "2011",
+    "Programs": ["PGP", "PGP‑IPM", "PGP‑ABM", "FPM", "Executive"],
+    "Specializations": ["Finance", "Marketing", "OB", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Incubator"],
+    "Seats (PGP)": "300",
+    "Location": "Tiruchirappalli, Tamil Nadu",
+    "Fees": { "Tuition": "₹13.40L", "Other": "₹0.9L", "Total": "₹14.3L" },
+    "Scholarships": ["Merit", "Reserved", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹21 LPA",
+      "Top Recruiters": ["McKinsey", "BCG", "Amazon", "HSBC"],
+      "Internships": "₹3–5 L stipend"
+    },
+    "Rank (Management)": 11
+  },
+  {
+    "Name": "Indian Institute of Foreign Trade, New Delhi",
+    "Type": "Autonomous (Public)",
+    "Established": "1963",
+    "Programs": ["MBA‑IB", "PGDM‑IB", "PhD"],
+    "Specializations": ["International Business", "Finance", "Marketing"],
+    "Facilities": ["Library", "Auditorium", "Computer Lab", "Hostels"],
+    "Seats (MBA‑IB)": "154",
+    "Location": "New Delhi, Delhi",
+    "Fees": { "Tuition": "₹18L", "Other": "₹1L", "Total": "₹19L" },
+    "Scholarships": ["Merit", "Reserved"],
+    "Placement": {
+      "Average Salary": "₹18 LPA",
+      "Top Recruiters": ["UN agencies", "KPMG", "Deloitte", "Amazon"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 12
+  },
+  {
+    "Name": "S. P. Jain Institute of Management and Research, Mumbai",
+    "Type": "Private",
+    "Established": "1981",
+    "Programs": ["PGDM", "Global MBA"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Analytics", "Strategy"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "240",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": { "Tuition": "₹23L", "Other": "₹2L", "Total": "₹25L" },
+    "Scholarships": ["Merit", "Reserved"],
+    "Placement": {
+      "Average Salary": "₹16 LPA",
+      "Top Recruiters": ["JP Morgan", "Goldman Sachs", "KPMG"],
+      "Internships": "₹2–4 L stipend"
+    },
+    "Rank (Management)": 13
+  },
+  {
+    "Name": "SVKM’s Narsee Monjee Institute of Management Studies, Mumbai",
+    "Type": "Private (Deemed)",
+    "Established": "1981",
+    "Programs": ["PGDM", "Executive Program"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR", "Analytics"],
+    "Facilities": ["Library", "Computer Center", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "300",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": { "Tuition": "₹17L", "Other": "₹1.5L", "Total": "₹18.5L" },
+    "Scholarships": ["Merit", "Reserved"],
+    "Placement": {
+      "Average Salary": "₹15 LPA",
+      "Top Recruiters": ["HUL", "TCS", "Amazon"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 14
+  },
+  {
+    "Name": "Symbiosis Institute of Business Management, Pune",
+    "Type": "Private (Deemed)",
+    "Established": "1978",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Center", "Auditorium", "Hostels"],
+    "Seats (MBA)": "360",
+    "Location": "Pune, Maharashtra",
+    "Fees": { "Tuition": "₹15L", "Other": "₹1L", "Total": "₹16L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["Cognizant", "IBM", "HUL", "Asian Paints"],
+      "Internships": "₹50–100K stipend"
+    },
+    "Rank (Management)": 15
+  },
+  {
+    "Name": "Indian Institute of Management Ranchi",
+    "Type": "Autonomous (Public)",
+    "Established": "2010",
+    "Programs": ["PGP", "Executive PGP", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (PGP)": "180",
+    "Location": "Ranchi, Jharkhand",
+    "Fees": { "Tuition": "₹17.6L", "Other": "₹1L", "Total": "₹18.6L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Amazon"],
+      "Internships": "₹1.5–2 L stipend"
+    },
+    "Rank (Management)": 16
+  },
+  {
+    "Name": "Indian Institute of Management Rohtak",
+    "Type": "Autonomous (Public)",
+    "Established": "2010",
+    "Programs": ["PGP", "PGP-HRM", "PhD"],
+    "Specializations": ["Strategy", "Marketing", "Finance", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (PGP)": "200",
+    "Location": "Rohtak, Haryana",
+    "Fees": { "Tuition": "₹17L", "Other": "₹1L", "Total": "₹18L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹14 LPA",
+      "Top Recruiters": ["TCS", "Deloitte", "KPMG", "L&T"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 17
+  },
+  {
+    "Name": "S. P. Jain Institute of Management and Research",
+    "Type": "Private",
+    "Established": "1981",
+    "Programs": ["PGDM", "Global MBA"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Analytics", "Strategy"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "240",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": { "Tuition": "₹23L", "Other": "₹2L", "Total": "₹25L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹16 LPA",
+      "Top Recruiters": ["JP Morgan", "Goldman Sachs", "KPMG"],
+      "Internships": "₹2–4 L stipend"
+    },
+    "Rank (Management)": 18
+  },
+  {
+    "Name": "SVKM’s N. M. Institute of Management Studies",
+    "Type": "Private (Deemed)",
+    "Established": "1981",
+    "Programs": ["PGDM", "Executive Program"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR", "Analytics"],
+    "Facilities": ["Library", "Computer Center", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "300",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": { "Tuition": "₹17L", "Other": "₹1.5L", "Total": "₹18.5L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹15 LPA",
+      "Top Recruiters": ["HUL", "TCS", "Amazon"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 19
+  },
+  {
+    "Name": "Symbiosis Institute of Business Management, Pune",
+    "Type": "Private (Deemed)",
+    "Established": "1978",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Center", "Auditorium", "Hostels"],
+    "Seats (MBA)": "360",
+    "Location": "Pune, Maharashtra",
+    "Fees": { "Tuition": "₹15L", "Other": "₹1L", "Total": "₹16L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["Cognizant", "IBM", "HUL", "Asian Paints"],
+      "Internships": "₹0.5–1 L stipend"
+    },
+    "Rank (Management)": 20
+  },
+  {
+    "Name": "Indian Institute of Management Udaipur",
+    "Type": "Autonomous (Public)",
+    "Established": "2011",
+    "Programs": ["PGP", "FPM", "PGP-ABM"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Strategy"],
+    "Facilities": ["Library", "Computer Labs", "Incubator", "Hostels"],
+    "Seats (PGP)": "240",
+    "Location": "Udaipur, Rajasthan",
+    "Fees": { "Tuition": "₹14.3L", "Other": "₹0.9L", "Total": "₹15.2L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹21 LPA",
+      "Top Recruiters": ["BCG", "McKinsey", "Amazon", "HSBC"],
+      "Internships": "₹3–5 L stipend"
+    },
+    "Rank (Management)": 21
+  },
+  {
+    "Name": "Indian Institute of Management Kashipur",
+    "Type": "Autonomous (Public)",
+    "Established": "2011",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "200",
+    "Location": "Kashipur, Uttarakhand",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["EY", "P&G", "HSBC"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 22
+  },
+  {
+    "Name": "Indian Institute of Management Shillong",
+    "Type": "Autonomous (Public)",
+    "Established": "2007",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Strategy", "Analytics"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "180",
+    "Location": "Shillong, Meghalaya",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["TCS", "Wipro", "EY"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 23
+  },
+  {
+    "Name": "Indian Institute of Management Raipur",
+    "Type": "Autonomous (Public)",
+    "Established": "2010",
+    "Programs": ["PGP", "Executive PGP", "FPM"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Strategy"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "180",
+    "Location": "Raipur, Chhattisgarh",
+    "Fees": { "Tuition": "₹17.6L", "Other": "₹1L", "Total": "₹18.6L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["L&T", "Axis Bank", "Tech Mahindra"],
+      "Internships": "₹1.5–2 L stipend"
+    },
+    "Rank (Management)": 24
+  },
+  {
+    "Name": "Indian Institute of Management Bangalore",
+    "Type": "Autonomous (Public)",
+    "Established": "1973",
+    "Programs": ["PGP", "Executive MBA", "PhD", "EPGP", "PGPEM"],
+    "Specializations": ["Finance", "Marketing", "Entrepreneurship", "HR", "Operations", "IS", "Economics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports", "Incubator"],
+    "Seats (PGP)": "420",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹24.6L", "Other": "₹1.4L", "Total": "₹26L" },
+    "Scholarships": ["Merit", "Need-based", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹32 LPA",
+      "Top Recruiters": ["Bain", "McKinsey", "Aditya Birla", "Google", "HSBC"],
+      "Internships": "₹3–7 L stipend"
+    },
+    "Rank (Management)": 25
+  },
+  {
+    "Name": "Great Lakes Institute of Management, Chennai",
+    "Type": "Private",
+    "Established": "2004",
+    "Programs": ["PGPM", "PGDM (Part‑Time)", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Center", "Auditorium", "Hostels"],
+    "Seats (PGPM)": "240",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": { "Tuition": "₹14.5L", "Other": "₹1L", "Total": "₹15.5L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹15 LPA",
+      "Top Recruiters": ["Accenture", "Deloitte", "TCS"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 26
+  },
+  {
+    "Name": "Xavier Labour Relations Institute (XLRI), Jamshedpur",
+    "Type": "Private (Jesuit)",
+    "Established": "1949",
+    "Programs": ["PGDM (BM)", "PGDM (HRM)", "Global PGDM", "FPM"],
+    "Specializations": ["Business Management", "Human Resources", "Analytics"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium", "Counseling Center"],
+    "Seats (BM + HRM)": "360",
+    "Location": "Jamshedpur, Jharkhand",
+    "Fees": { "Tuition": "₹23.3L", "Other": "₹1.7L", "Total": "₹25L" },
+    "Scholarships": ["Merit", "Diversity", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹25 LPA",
+      "Top Recruiters": ["Microsoft", "Google", "McKinsey", "Genpact", "Amazon"],
+      "Internships": "₹3–5 L stipend"
+    },
+    "Rank (Management)": 27
+  },
+  {
+    "Name": "ICFAI Foundation for Higher Education, Hyderabad",
+    "Type": "Private",
+    "Established": "2008",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Finance", "Marketing", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (MBA)": "120",
+    "Location": "Hyderabad, Telangana",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "Sports quota"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "Wipro", "HCL"],
+      "Internships": "₹50K–1L stipend"
+    },
+    "Rank (Management)": 28
+  },
+  {
+    "Name": "Indian Institute of Management Visakhapatnam",
+    "Type": "Autonomous (Public)",
+    "Established": "2015",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "240",
+    "Location": "Visakhapatnam, Andhra Pradesh",
+    "Fees": { "Tuition": "₹13L", "Other": "₹0.8L", "Total": "₹13.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Amazon"],
+      "Internships": "₹1.5–2 L stipend"
+    },
+    "Rank (Management)": 29
+  },
+  {
+    "Name": "Amity University Noida",
+    "Type": "Private",
+    "Established": "2005",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "International Business"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "300",
+    "Location": "Noida, Uttar Pradesh",
+    "Fees": { "Tuition": "₹8L", "Other": "₹1L", "Total": "₹9L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "Reliance", "IBM"],
+      "Internships": "₹50K–1L stipend"
+    },
+    "Rank (Management)": 30
+  },
+  {
+    "Name": "Great Lakes Institute of Management, Chennai",
+    "Type": "Private",
+    "Established": "2004",
+    "Programs": ["PGPM", "PGDM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGPM)": "240",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": { "Tuition": "₹14.5L", "Other": "₹1L", "Total": "₹15.5L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹15 LPA",
+      "Top Recruiters": ["Accenture", "Deloitte", "TCS"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 31
+  },
+  {
+    "Name": "Indian Institute of Management Jammu",
+    "Type": "Autonomous (Public)",
+    "Established": "2016",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Finance", "Marketing", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "180",
+    "Location": "Jammu, J&K",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Tech Mahindra"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 32
+  },
+  {
+    "Name": "Indian Institute of Management Nagpur",
+    "Type": "Autonomous (Public)",
+    "Established": "2015",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "180",
+    "Location": "Nagpur, Maharashtra",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["EY", "P&G", "HSBC"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 33
+  },
+  {
+    "Name": "Indian Institute of Management Sambalpur",
+    "Type": "Autonomous (Public)",
+    "Established": "2015",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Strategy"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "180",
+    "Location": "Sambalpur, Odisha",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Infosys", "TCS", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 34
+  },
+  {
+    "Name": "Indian Institute of Management Bodh Gaya",
+    "Type": "Autonomous (Public)",
+    "Established": "2015",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Rural Management"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "180",
+    "Location": "Bodh Gaya, Bihar",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["TCS", "Amazon", "Infosys"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 35
+  },
+  {
+    "Name": "Indian Institute of Management Sirmaur",
+    "Type": "Autonomous (Public)",
+    "Established": "2015",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "180",
+    "Location": "Sirmaur, Himachal Pradesh",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Infosys", "TCS", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 36
+  },
+  {
+    "Name": "Fore School of Management, New Delhi",
+    "Type": "Private",
+    "Established": "1981",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "New Delhi, Delhi",
+    "Fees": { "Tuition": "₹19L", "Other": "₹1L", "Total": "₹20L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Deloitte", "EY", "HUL"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 38
+  },
+  {
+    "Name": "Institute of Management Technology, Ghaziabad",
+    "Type": "Private (Deemed)",
+    "Established": "1980",
+    "Programs": ["PGDM", "PGDM-IB", "PGDM-HRM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "International Business"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "300",
+    "Location": "Ghaziabad, Uttar Pradesh",
+    "Fees": { "Tuition": "₹19L", "Other": "₹1.2L", "Total": "₹20.2L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹14 LPA",
+      "Top Recruiters": ["Google", "Amazon", "KPMG"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 39
+  },
+  {
+    "Name": "Christ University, Bangalore",
+    "Type": "Private (Deemed)",
+    "Established": "1969",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Finance", "Marketing", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹7L", "Other": "₹0.5L", "Total": "₹7.5L" },
+    "Scholarships": ["Merit", "Sports quotas"],
+    "Placement": {
+      "Average Salary": "₹9 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 40
+  },
+  {
+    "Name": "Tezpur University, Assam",
+    "Type": "Public (Central)",
+    "Established": "1994",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "Tezpur, Assam",
+    "Fees": { "Tuition": "₹2L", "Other": "₹0.5L", "Total": "₹2.5L" },
+    "Scholarships": ["Merit", "ST/SC waiver"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["ONGC", "Coal India", "TCS"],
+      "Internships": "₹0.8–1 L stipend"
+    },
+    "Rank (Management)": 41
+  },
+  {
+    "Name": "Goa Institute of Management, Goa",
+    "Type": "Private (Deemed)",
+    "Established": "1993",
+    "Programs": ["PGDM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "180",
+    "Location": "Goa",
+    "Fees": { "Tuition": "₹12L", "Other": "₹1L", "Total": "₹13L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["TCS", "Cognizant", "L&T"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 42
+  },
+  {
+    "Name": "International Management Institute, Bhubaneswar",
+    "Type": "Private",
+    "Established": "2010",
+    "Programs": ["PGDM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Business Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "180",
+    "Location": "Bhubaneswar, Odisha",
+    "Fees": { "Tuition": "₹13L", "Other": "₹0.8L", "Total": "₹13.8L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["Infosys", "TCS", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 43
+  },
+  {
+    "Name": "Malaviya National Institute of Technology, Jaipur",
+    "Type": "Public (Deemed University)",
+    "Established": "1963",
+    "Programs": ["MBA", "MTech", "PhD"],
+    "Specializations": ["Management", "Engineering"],
+    "Facilities": ["Library", "Computer Centre", "Hostels", "Auditorium"],
+    "Seats (MBA)": "120",
+    "Location": "Jaipur, Rajasthan",
+    "Fees": { "Tuition": "₹10L", "Other": "₹0.8L", "Total": "₹10.8L" },
+    "Scholarships": ["PG scholarships", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹11 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Siemens"],
+      "Internships": "₹1.5–2 L stipend"
+    },
+    "Rank (Management)": 44
+  },
+  {
+    "Name": "International Management Institute, Kolkata",
+    "Type": "Private",
+    "Established": "2010",
+    "Programs": ["PGDM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "180",
+    "Location": "Kolkata, West Bengal",
+    "Fees": { "Tuition": "₹13L", "Other": "₹0.8L", "Total": "₹13.8L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["Infosys", "TCS", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 45
+  },
+  {
+    "Name": "Indian Institute of Technology (ISM) Dhanbad",
+    "Type": "Autonomous (Institute of National Importance)",
+    "Established": "1926 (as ISM), IIT since 2016",
+    "Programs": ["MBA", "MTech", "PhD"],
+    "Specializations": ["Engineering Management", "Finance", "Operations", "Business Analytics"],
+    "Facilities": ["Library", "Computer Centre", "Hostels", "Sports Complex", "Research Labs"],
+    "Seats (MBA)": "120",
+    "Location": "Dhanbad, Jharkhand",
+    "Fees": { "Tuition": "₹7L total", "Other": "₹1L", "Total": "₹8L" },
+    "Scholarships": ["Merit-based", "SC/ST/OBC fee waivers"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "L&T", "Reliance"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 46
+  },
+  {
+    "Name": "Indian Institute of Management Amritsar",
+    "Type": "Autonomous (Public)",
+    "Established": "2015",
+    "Programs": ["PGP", "Executive PGP", "FPM"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Strategy"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "120",
+    "Location": "Amritsar, Punjab",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit-based", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["EY", "KPMG", "Aon"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 47
+  },
+  {
+    "Name": "Banaras Hindu University (Faculty of Management Studies)",
+    "Type": "Central University (Public)",
+    "Established": "1916",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "International Business"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels", "Sports Facilities"],
+    "Seats (MBA)": "120",
+    "Location": "Varanasi, Uttar Pradesh",
+    "Fees": { "Tuition": "₹3L total", "Other": "₹0.5L", "Total": "₹3.5L" },
+    "Scholarships": ["Merit scholarships", "Reserved-category waivers"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["HUL", "ITC", "ICICI"],
+      "Internships": "₹0.5–1 L stipend"
+    },
+    "Rank (Management)": 48
+  },
+  {
+    "Name": "Institute of Rural Management Anand (IRMA)",
+    "Type": "Private (Society-run)",
+    "Established": "1979",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Rural Management", "Finance", "Marketing", "HR", "Agri-business"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels", "Counseling Centre"],
+    "Seats (PGDM)": "262",
+    "Location": "Anand, Gujarat",
+    "Fees": { "Tuition": "₹9L total", "Other": "₹0.5L", "Total": "₹9.5L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹9 LPA",
+      "Top Recruiters": ["Amul", "Tata Trusts", "CRISIL"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 49
+  },
+  {
+    "Name": "Indian Institute of Management Sambalpur",
+    "Type": "Autonomous (Public)",
+    "Established": "2015",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Strategy"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "180",
+    "Location": "Sambalpur, Odisha",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Infosys", "TCS", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 50
+  },
+  {
+    "Name": "National Institute of Technology Tiruchirappalli (MBA)",
+    "Type": "Public (Deemed-to-be University)",
+    "Established": "1964",
+    "Programs": ["MBA", "MTech", "PhD"],
+    "Specializations": ["MBA core", "Finance", "Marketing", "HR"],
+    "Facilities": ["Library", "Computer Centre", "Hostels", "Auditorium"],
+    "Seats (MBA)": "120",
+    "Location": "Tiruchirappalli, Tamil Nadu",
+    "Fees": { "Tuition": "₹3L total", "Other": "₹0.5L", "Total": "₹3.5L" },
+    "Scholarships": ["PG scholarships", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "Flex", "L&T"],
+      "Internships": "₹0.8–1.5 L stipend"
+    },
+    "Rank (Management)": 51
+  },
+  {
+    "Name": "Great Lakes Institute of Management, Gurgaon",
+    "Type": "Private",
+    "Established": "2004",
+    "Programs": ["PGPM", "PGDM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGPM)": "240",
+    "Location": "Gurugram, Haryana",
+    "Fees": { "Tuition": "₹14.5L", "Other": "₹1L", "Total": "₹15.5L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹15 LPA",
+      "Top Recruiters": ["Accenture", "Deloitte", "TCS"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 52
+  },
+  {
+    "Name": "Fore School of Management, New Delhi",
+    "Type": "Private",
+    "Established": "1981",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "New Delhi, Delhi",
+    "Fees": { "Tuition": "₹19L", "Other": "₹1L", "Total": "₹20L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Deloitte", "EY", "HUL"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 53
+  },
+  {
+    "Name": "Chitkara University, Rajpura",
+    "Type": "Private",
+    "Established": "2002",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "Rajpura, Punjab",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "Sports quota"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹0.5–1 L stipend"
+    },
+    "Rank (Management)": 54
+  },
+  {
+    "Name": "Nirma University, Ahmedabad",
+    "Type": "Private",
+    "Established": "2003",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": { "Tuition": "₹7L", "Other": "₹0.5L", "Total": "₹7.5L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Reliance"],
+      "Internships": "₹0.5–1.2 L stipend"
+    },
+    "Rank (Management)": 55
+  },
+  {
+    "Name": "International Management Institute, Kolkata",
+    "Type": "Private",
+    "Established": "2010",
+    "Programs": ["PGDM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "180",
+    "Location": "Kolkata, West Bengal",
+    "Fees": { "Tuition": "₹13L", "Other": "₹0.8L", "Total": "₹13.8L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["Infosys", "TCS", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 56
+  },
+  {
+    "Name": "Indian Institute of Management Sirmaur",
+    "Type": "Autonomous (Public)",
+    "Established": "2015",
+    "Programs": ["PGP", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Hostels", "Auditorium"],
+    "Seats (PGP)": "180",
+    "Location": "Sirmaur, Himachal Pradesh",
+    "Fees": { "Tuition": "₹14L", "Other": "₹0.8L", "Total": "₹14.8L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Infosys", "TCS", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 57
+  },
+  {
+    "Name": "T. A. Pai Management Institute (TAPMI), Manipal",
+    "Type": "Private (Deemed)",
+    "Established": "1980",
+    "Programs": ["PGDM", "Executive PGDM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Business Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "300",
+    "Location": "Manipal, Karnataka",
+    "Fees": { "Tuition": "₹11L", "Other": "₹1L", "Total": "₹12L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹14 LPA",
+      "Top Recruiters": ["EY", "Deloitte", "TCS"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 58
+  },
+  {
+    "Name": "Graphic Era University, Dehradun",
+    "Type": "Private",
+    "Established": "1993",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "Dehradun, Uttarakhand",
+    "Fees": { "Tuition": "₹5L", "Other": "₹0.5L", "Total": "₹5.5L" },
+    "Scholarships": ["Merit", "Sports quota"],
+    "Placement": {
+      "Average Salary": "₹5 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "HCL"],
+      "Internships": "₹0.5–1 L stipend"
+    },
+    "Rank (Management)": 59
+  },
+  {
+    "Name": "Christ University, Bengaluru",
+    "Type": "Private (Deemed)",
+    "Established": "1969",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹7L", "Other": "₹0.5L", "Total": "₹7.5L" },
+    "Scholarships": ["Merit", "Sports quotas"],
+    "Placement": {
+      "Average Salary": "₹9 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 60
+  },
+  {
+    "Name": "Lovely Professional University (LPU)",
+    "Type": "Private",
+    "Established": "2005",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "300",
+    "Location": "Phagwara, Punjab",
+    "Fees": { "Tuition": "₹6L", "Other": "₹1L", "Total": "₹7L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Amazon"],
+      "Internships": "₹0.8–1.2 L stipend"
+    },
+    "Rank (Management)": 61
+  },
+  {
+    "Name": "PSG College of Technology (MBA)",
+    "Type": "Private (Autonomous)",
+    "Established": "1951",
+    "Programs": ["MBA", "MTech", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Centre", "Hostels", "Sports Complex", "Auditorium"],
+    "Seats (MBA)": "120",
+    "Location": "Coimbatore, Tamil Nadu",
+    "Fees": { "Tuition": "₹3L", "Other": "₹0.5L", "Total": "₹3.5L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Siemens"],
+      "Internships": "₹0.8–1.5 L stipend"
+    },
+    "Rank (Management)": 62
+  },
+  {
+    "Name": "Birla Institute of Management Technology (BIMTECH)",
+    "Type": "Private (Deemed)",
+    "Established": "1988",
+    "Programs": ["PGDM", "PGDM-IB", "PGDM-Rural", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "International Business"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "360",
+    "Location": "Greater Noida, UP",
+    "Fees": { "Tuition": "₹18L", "Other": "₹1L", "Total": "₹19L" },
+    "Scholarships": ["Merit", "Reserved category", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹14 LPA",
+      "Top Recruiters": ["Amazon", "HUL", "Cognizant"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 63
+  },
+  {
+    "Name": "Goa Institute of Management (GIM)",
+    "Type": "Private (Deemed)",
+    "Established": "1993",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "Sanquelim, Goa",
+    "Fees": { "Tuition": "₹12L", "Other": "₹1L", "Total": "₹13L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Cognizant"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 64
+  },
+  {
+    "Name": "Alliance University (SOA, Bangalore)",
+    "Type": "Private",
+    "Established": "2010",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "240",
+    "Location": "Bangalore, Karnataka",
+    "Fees": { "Tuition": "₹10L", "Other": "₹0.8L", "Total": "₹10.8L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹9 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "IBM"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 65
+  },
+  {
+    "Name": "Loyola Institute of Business Administration (LIBA)",
+    "Type": "Private (Jesuit)",
+    "Established": "1979",
+    "Programs": ["PGDM", "Executive PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "180",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": { "Tuition": "₹9L", "Other": "₹0.7L", "Total": "₹9.7L" },
+    "Scholarships": ["Merit", "SC/ST waiver", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹10 LPA",
+      "Top Recruiters": ["TCS", "HCL", "Mphasis"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 66
+  },
+  {
+    "Name": "Xavier Institute of Management (XIMB)",
+    "Type": "Private (Jesuit)",
+    "Established": "1964",
+    "Programs": ["MBA", "MBA-HRM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (MBA)": "180",
+    "Location": "Bhubaneswar, Odisha",
+    "Fees": { "Tuition": "₹17L", "Other": "₹1L", "Total": "₹18L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 67
+  },
+  {
+    "Name": "Kalinga Institute of Industrial Technology (KIIT School of Management)",
+    "Type": "Private (Deemed)",
+    "Established": "1992",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "240",
+    "Location": "Bhubaneswar, Odisha",
+    "Fees": { "Tuition": "₹10L", "Other": "₹0.8L", "Total": "₹10.8L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹10 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 68
+  },
+  {
+    "Name": "Jamia Millia Islamia (Centre for Management Studies)",
+    "Type": "Central University (Public)",
+    "Established": "1969",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "New Delhi, Delhi",
+    "Fees": { "Tuition": "₹2L", "Other": "₹0.5L", "Total": "₹2.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "ICICI", "HDFC"],
+      "Internships": "₹0.8–1.2 L stipend"
+    },
+    "Rank (Management)": 69
+  },
+  {
+    "Name": "Panjab University (University Business School)",
+    "Type": "Public (State University)",
+    "Established": "1947",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Chandigarh, Chandigarh",
+    "Fees": { "Tuition": "₹3L", "Other": "₹0.5L", "Total": "₹3.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["HUL", "ITC", "ICICI"],
+      "Internships": "₹0.8–1 L stipend"
+    },
+    "Rank (Management)": 70
+  },
+  {
+    "Name": "FORE School of Management, New Delhi",
+    "Type": "Private",
+    "Established": "1981",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "New Delhi, Delhi",
+    "Fees": { "Tuition": "₹19L", "Other": "₹1L", "Total": "₹20L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Deloitte", "EY", "HUL"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 71
+  },
+  {
+    "Name": "Nirma University (Institute of Management)",
+    "Type": "Private",
+    "Established": "2003",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": { "Tuition": "₹7L", "Other": "₹0.5L", "Total": "₹7.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Reliance"],
+      "Internships": "₹0.5–1.2 L stipend"
+    },
+    "Rank (Management)": 72
+  },
+  {
+    "Name": "Aligarh Muslim University (Department of Management Studies)",
+    "Type": "Central University (Public)",
+    "Established": "1920",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Aligarh, Uttar Pradesh",
+    "Fees": { "Tuition": "₹2L", "Other": "₹0.5L", "Total": "₹2.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "ICICI", "Kotak"],
+      "Internships": "₹0.8–1 L stipend"
+    },
+    "Rank (Management)": 73
+  },
+  {
+    "Name": "ICFAI Foundation for Higher Education, Hyderabad",
+    "Type": "Private",
+    "Established": "2008",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (MBA)": "120",
+    "Location": "Hyderabad, Telangana",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "Sports quota"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "Wipro", "HCL"],
+      "Internships": "₹0.5–1 L stipend"
+    },
+    "Rank (Management)": 74
+  },
+  {
+    "Name": "Institute of Management Technology, Ghaziabad",
+    "Type": "Private (Deemed)",
+    "Established": "1980",
+    "Programs": ["PGDM", "PGDM-IB", "PGDM-HRM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "International Business"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "300",
+    "Location": "Ghaziabad, Uttar Pradesh",
+    "Fees": { "Tuition": "₹19L", "Other": "₹1.2L", "Total": "₹20.2L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹14 LPA",
+      "Top Recruiters": ["Google", "Amazon", "KPMG"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 75
+  },
+  {
+    "Name": "Lovely Professional University (LPU)",
+    "Type": "Private",
+    "Established": "2005",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "300",
+    "Location": "Phagwara, Punjab",
+    "Fees": { "Tuition": "₹6L", "Other": "₹1L", "Total": "₹7L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Amazon"],
+      "Internships": "₹0.8–1.2 L stipend"
+    },
+    "Rank (Management)": 61
+  },
+  {
+    "Name": "PSG College of Technology (MBA)",
+    "Type": "Private (Autonomous)",
+    "Established": "1951",
+    "Programs": ["MBA", "MTech", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Centre", "Hostels", "Sports Complex", "Auditorium"],
+    "Seats (MBA)": "120",
+    "Location": "Coimbatore, Tamil Nadu",
+    "Fees": { "Tuition": "₹3L", "Other": "₹0.5L", "Total": "₹3.5L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Siemens"],
+      "Internships": "₹0.8–1.5 L stipend"
+    },
+    "Rank (Management)": 62
+  },
+  {
+    "Name": "Birla Institute of Management Technology (BIMTECH)",
+    "Type": "Private (Deemed)",
+    "Established": "1988",
+    "Programs": ["PGDM", "PGDM-IB", "PGDM-Rural", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "International Business"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "360",
+    "Location": "Greater Noida, UP",
+    "Fees": { "Tuition": "₹18L", "Other": "₹1L", "Total": "₹19L" },
+    "Scholarships": ["Merit", "Reserved category", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹14 LPA",
+      "Top Recruiters": ["Amazon", "HUL", "Cognizant"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 63
+  },
+  {
+    "Name": "Goa Institute of Management (GIM)",
+    "Type": "Private (Deemed)",
+    "Established": "1993",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "Sanquelim, Goa",
+    "Fees": { "Tuition": "₹12L", "Other": "₹1L", "Total": "₹13L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Cognizant"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 64
+  },
+  {
+    "Name": "Alliance University (SOA, Bangalore)",
+    "Type": "Private",
+    "Established": "2010",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "240",
+    "Location": "Bangalore, Karnataka",
+    "Fees": { "Tuition": "₹10L", "Other": "₹0.8L", "Total": "₹10.8L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹9 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "IBM"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 65
+  },
+  {
+    "Name": "Loyola Institute of Business Administration (LIBA)",
+    "Type": "Private (Jesuit)",
+    "Established": "1979",
+    "Programs": ["PGDM", "Executive PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "180",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": { "Tuition": "₹9L", "Other": "₹0.7L", "Total": "₹9.7L" },
+    "Scholarships": ["Merit", "SC/ST waiver", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹10 LPA",
+      "Top Recruiters": ["TCS", "HCL", "Mphasis"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 66
+  },
+  {
+    "Name": "Xavier Institute of Management (XIMB)",
+    "Type": "Private (Jesuit)",
+    "Established": "1964",
+    "Programs": ["MBA", "MBA-HRM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (MBA)": "180",
+    "Location": "Bhubaneswar, Odisha",
+    "Fees": { "Tuition": "₹17L", "Other": "₹1L", "Total": "₹18L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 67
+  },
+  {
+    "Name": "Kalinga Institute of Industrial Technology (KIIT School of Management)",
+    "Type": "Private (Deemed)",
+    "Established": "1992",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "HR", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "240",
+    "Location": "Bhubaneswar, Odisha",
+    "Fees": { "Tuition": "₹10L", "Other": "₹0.8L", "Total": "₹10.8L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹10 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 68
+  },
+  {
+    "Name": "Jamia Millia Islamia (Centre for Management Studies)",
+    "Type": "Central University (Public)",
+    "Established": "1969",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "New Delhi, Delhi",
+    "Fees": { "Tuition": "₹2L", "Other": "₹0.5L", "Total": "₹2.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "ICICI", "HDFC"],
+      "Internships": "₹0.8–1.2 L stipend"
+    },
+    "Rank (Management)": 69
+  },
+  {
+    "Name": "Panjab University (University Business School)",
+    "Type": "Public (State University)",
+    "Established": "1947",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Chandigarh, Chandigarh",
+    "Fees": { "Tuition": "₹3L", "Other": "₹0.5L", "Total": "₹3.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["HUL", "ITC", "ICICI"],
+      "Internships": "₹0.8–1 L stipend"
+    },
+    "Rank (Management)": 70
+  },
+  {
+    "Name": "FORE School of Management, New Delhi",
+    "Type": "Private",
+    "Established": "1981",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "New Delhi, Delhi",
+    "Fees": { "Tuition": "₹19L", "Other": "₹1L", "Total": "₹20L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Deloitte", "EY", "HUL"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 71
+  },
+  {
+    "Name": "Nirma University (Institute of Management)",
+    "Type": "Private",
+    "Established": "2003",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": { "Tuition": "₹7L", "Other": "₹0.5L", "Total": "₹7.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Reliance"],
+      "Internships": "₹0.5–1.2 L stipend"
+    },
+    "Rank (Management)": 72
+  },
+  {
+    "Name": "Aligarh Muslim University (Department of Management Studies)",
+    "Type": "Central University (Public)",
+    "Established": "1920",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Aligarh, Uttar Pradesh",
+    "Fees": { "Tuition": "₹2L", "Other": "₹0.5L", "Total": "₹2.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "ICICI", "Kotak"],
+      "Internships": "₹0.8–1 L stipend"
+    },
+    "Rank (Management)": 73
+  },
+  {
+    "Name": "ICFAI Foundation for Higher Education, Hyderabad",
+    "Type": "Private",
+    "Established": "2008",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (MBA)": "120",
+    "Location": "Hyderabad, Telangana",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "Sports quota"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "Wipro", "HCL"],
+      "Internships": "₹0.5–1 L stipend"
+    },
+    "Rank (Management)": 74
+  },
+  {
+    "Name": "Institute of Management Technology, Ghaziabad",
+    "Type": "Private (Deemed)",
+    "Established": "1980",
+    "Programs": ["PGDM", "PGDM-IB", "PGDM-HRM", "FPM"],
+    "Specializations": ["Marketing", "Finance", "Operations", "International Business"],
+    "Facilities": ["Library", "Computer Labs", "Hostels", "Auditorium"],
+    "Seats (PGDM)": "300",
+    "Location": "Ghaziabad, Uttar Pradesh",
+    "Fees": { "Tuition": "₹19L", "Other": "₹1.2L", "Total": "₹20.2L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹14 LPA",
+      "Top Recruiters": ["Google", "Amazon", "KPMG"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 75
+  },
+  {
+    "Name": "Chandigarh University",
+    "Type": "Private",
+    "Established": "2012",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "240",
+    "Location": "Chandigarh, Punjab",
+    "Fees": { "Tuition": "₹8L", "Other": "₹1L", "Total": "₹9L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Cognizant"],
+      "Internships": "₹0.8–1 L stipend"
+    },
+    "Rank (Management)": 91
+  },
+  {
+    "Name": "LPU School of Business",
+    "Type": "Private",
+    "Established": "2006",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "300",
+    "Location": "Phagwara, Punjab",
+    "Fees": { "Tuition": "₹6L", "Other": "₹1L", "Total": "₹7L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Amazon"],
+      "Internships": "₹0.8–1.2 L stipend"
+    },
+    "Rank (Management)": 92
+  },
+  {
+    "Name": "Amity University Noida",
+    "Type": "Private",
+    "Established": "2005",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "International Business"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "300",
+    "Location": "Noida, Uttar Pradesh",
+    "Fees": { "Tuition": "₹8L", "Other": "₹1L", "Total": "₹9L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "Reliance", "IBM"],
+      "Internships": "₹50K–1 L stipend"
+    },
+    "Rank (Management)": 93
+  },
+  {
+    "Name": "Panjab University – UBS",
+    "Type": "Public (State)",
+    "Established": "1947",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Chandigarh",
+    "Fees": { "Tuition": "₹3L", "Other": "₹0.5L", "Total": "₹3.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["HUL", "ITC", "ICICI"],
+      "Internships": "₹0.8–1 L stipend"
+    },
+    "Rank (Management)": 94
+  },
+  {
+    "Name": "FORE School of Management",
+    "Type": "Private",
+    "Established": "1981",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "New Delhi",
+    "Fees": { "Tuition": "₹19L", "Other": "₹1L", "Total": "₹20L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Deloitte", "EY", "HUL"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 95
+  },
+  {
+    "Name": "Nirma University – Institute of Management",
+    "Type": "Private",
+    "Established": "2003",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": { "Tuition": "₹7L", "Other": "₹0.5L", "Total": "₹7.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Reliance"],
+      "Internships": "₹0.5–1.2 L stipend"
+    },
+    "Rank (Management)": 96
+  },
+  {
+    "Name": "Aligarh Muslim University – Dept. of Mgmt Studies",
+    "Type": "Public (Central)",
+    "Established": "1920",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Lab", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Aligarh, Uttar Pradesh",
+    "Fees": { "Tuition": "₹2L", "Other": "₹0.5L", "Total": "₹2.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "ICICI", "Kotak"],
+      "Internships": "₹0.8–1 L stipend"
+    },
+    "Rank (Management)": 97
+  },
+  {
+    "Name": "Amity International Business School",
+    "Type": "Private",
+    "Established": "2005",
+    "Programs": ["MBA", "International MBA"],
+    "Specializations": ["International Business", "Marketing", "Finance", "HR"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "200",
+    "Location": "Noida, Uttar Pradesh",
+    "Fees": { "Tuition": "₹9L", "Other": "₹1L", "Total": "₹10L" },
+    "Scholarships": ["Merit", "International student scholarships"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["IBM", "Cognizant", "Microsoft"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 98
+  },
+  {
+    "Name": "PSG College of Technology – Dept. of Mgmt",
+    "Type": "Private (Autonomous)",
+    "Established": "1951",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Centre", "Hostels", "Sports Complex", "Auditorium"],
+    "Seats (MBA)": "120",
+    "Location": "Coimbatore, Tamil Nadu",
+    "Fees": { "Tuition": "₹3L", "Other": "₹0.5L", "Total": "₹3.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "L&T", "Siemens"],
+      "Internships": "₹0.8–1.5 L stipend"
+    },
+    "Rank (Management)": 99
+  },
+  {
+    "Name": "Institute for Financial Management and Research (IFMR), Chennai",
+    "Type": "Private (Deemed)",
+    "Established": "1970",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Finance", "Analytics", "Marketing", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "120",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": { "Tuition": "₹9L", "Other": "₹1L", "Total": "₹10L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["EY", "KPMG", "HDFC"],
+      "Internships": "₹1.5–2 L stipend"
+    },
+    "Rank (Management)": 100
+  },
+  {
+    "Name": "Amrita School of Business, Coimbatore",
+    "Type": "Private (Deemed)",
+    "Established": "1996",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Finance", "Marketing", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Spiritual Center"],
+    "Seats (MBA)": "180",
+    "Location": "Coimbatore, Tamil Nadu",
+    "Fees": { "Tuition": "₹8L", "Other": "₹1L", "Total": "₹9L" },
+    "Scholarships": ["Merit", "SC/ST waiver", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹11 LPA",
+      "Top Recruiters": ["TCS", "Accenture", "HCL"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 101
+  },
+  {
+    "Name": "School of Management, BML Munjal University",
+    "Type": "Private",
+    "Established": "2014",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Finance", "Strategy", "Marketing", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Research Centre"],
+    "Seats (MBA)": "120",
+    "Location": "Gurugram, Haryana",
+    "Fees": { "Tuition": "₹10L", "Other": "₹1L", "Total": "₹11L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹10 LPA",
+      "Top Recruiters": ["EY", "Accenture", "TCS"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 102
+  },
+  {
+    "Name": "Jaipuria Institute of Management, Lucknow",
+    "Type": "Private",
+    "Established": "2004",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "240",
+    "Location": "Lucknow, Uttar Pradesh",
+    "Fees": { "Tuition": "₹8L", "Other": "₹1L", "Total": "₹9L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "HCL", "Infosys"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 103
+  },
+  {
+    "Name": "Chitkara University – School of Business",
+    "Type": "Private",
+    "Established": "2002",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "Rajpura, Punjab",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "Sports quota"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹0.5–1 L stipend"
+    },
+    "Rank (Management)": 104
+  },
+  {
+    "Name": "Symbiosis Institute of Business Management, Bengaluru",
+    "Type": "Private (Deemed)",
+    "Established": "2008",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹15L", "Other": "₹1L", "Total": "₹16L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["Cisco", "IBM", "Accenture"],
+      "Internships": "₹1.5–2 L stipend"
+    },
+    "Rank (Management)": 105
+  },
+  {
+    "Name": "SVKM’s NMIMS Bengaluru",
+    "Type": "Private (Deemed)",
+    "Established": "2008",
+    "Programs": ["MBA", "MBA in Sports Management", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Analytics", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹16L", "Other": "₹1L", "Total": "₹17L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["Microsoft", "Amazon", "Citi"],
+      "Internships": "₹1.5–2 L stipend"
+    },
+    "Rank (Management)": 106
+  },
+  {
+    "Name": "MICA Ahmedabad",
+    "Type": "Private (Deemed)",
+    "Established": "1991",
+    "Programs": ["PGDM‑CM", "FPM"],
+    "Specializations": ["Marketing", "Communications", "Digital Media", "HR"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Media Labs"],
+    "Seats (PGDM‑CM)": "180",
+    "Location": "Ahmedabad, Gujarat",
+    "Fees": { "Tuition": "₹16L", "Other": "₹1L", "Total": "₹17L" },
+    "Scholarships": ["Merit", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹15 LPA",
+      "Top Recruiters": ["Ogilvy", "WPP", "Google", "Amazon"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 107
+  },
+  {
+    "Name": "XIME Bengaluru",
+    "Type": "Private",
+    "Established": "1991",
+    "Programs": ["PGDM", "PGDM‑Executive"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹12L", "Other": "₹1L", "Total": "₹13L" },
+    "Scholarships": ["Merit", "Sports"],
+    "Placement": {
+      "Average Salary": "₹11 LPA",
+      "Top Recruiters": ["Infosys", "TCS", "Accenture"],
+      "Internships": "₹1.2–1.8 L stipend"
+    },
+    "Rank (Management)": 108
+  },
+  {
+    "Name": "ASM Group of Institutes, Pune",
+    "Type": "Private",
+    "Established": "1999",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "120",
+    "Location": "Pune, Maharashtra",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹6 LPA",
+      "Top Recruiters": ["TCS", "Cognizant", "IBM"],
+      "Internships": "₹0.8–1.2 L stipend"
+    },
+    "Rank (Management)": 109
+  },
+  {
+    "Name": "Welingkar Mumbai",
+    "Type": "Private (Deemed)",
+    "Established": "1977",
+    "Programs": ["PGDM", "PhD", "Executive PGDM"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "240",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": { "Tuition": "₹10L", "Other": "₹1L", "Total": "₹11L" },
+    "Scholarships": ["Merit", "Need-based", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹9 LPA",
+      "Top Recruiters": ["TCS", "Amazon", "HDFC"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 110
+  },
+  {
+    "Name": "Dayananda Sagar Institutions, Bengaluru",
+    "Type": "Private",
+    "Established": "1960",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Finance", "Marketing", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "Sports"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹0.8–1 L stipend"
+    },
+    "Rank (Management)": 111
+  },
+  {
+    "Name": "Christ Deemed to be University, Delhi NCR",
+    "Type": "Private (Deemed)",
+    "Established": "2008",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Delhi NCR",
+    "Fees": { "Tuition": "₹7L", "Other": "₹0.5L", "Total": "₹7.5L" },
+    "Scholarships": ["Merit", "Need-based", "Sports"],
+    "Placement": {
+      "Average Salary": "₹9 LPA",
+      "Top Recruiters": ["TCS", "IBM", "Accenture"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 112
+  },
+  {
+    "Name": "Sri Balaji Society Pune (SIBM Pune)",
+    "Type": "Private (Deemed)",
+    "Established": "1978",
+    "Programs": ["MBA", "PhD", "Executive"],
+    "Specializations": ["Marketing", "Finance", "HR", "Analytics", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Pune, Maharashtra",
+    "Fees": { "Tuition": "₹16L", "Other": "₹1L", "Total": "₹17L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["Amazon", "TCS", "HUL"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 113
+  },
+  {
+    "Name": "UPES Dehradun",
+    "Type": "Private (Deemed)",
+    "Established": "2003",
+    "Programs": ["MBA", "MBA in International Business", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Energy Management"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "180",
+    "Location": "Dehradun, Uttarakhand",
+    "Fees": { "Tuition": "₹8L", "Other": "₹0.5L", "Total": "₹8.5L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹9 LPA",
+      "Top Recruiters": ["Reliance", "TCS", "Deloitte"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 114
+  },
+  {
+    "Name": "KIIT School of Management – MBA",
+    "Type": "Private (Deemed)",
+    "Established": "1992",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Analytics", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "240",
+    "Location": "Bhubaneswar, Odisha",
+    "Fees": { "Tuition": "₹10L", "Other": "₹0.8L", "Total": "₹10.8L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹10 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 115
+  },
+  {
+    "Name": "GITAM School of Business, Visakhapatnam",
+    "Type": "Private (Deemed)",
+    "Established": "2009",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "Visakhapatnam, Andhra Pradesh",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "Wipro", "Tech Mahindra"],
+      "Internships": "₹0.8–1.2 L stipend"
+    },
+    "Rank (Management)": 116
+  },
+  {
+    "Name": "Amity Global Business School, Mumbai",
+    "Type": "Private",
+    "Established": "2002",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "International Business"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "200",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": { "Tuition": "₹9L", "Other": "₹1L", "Total": "₹10L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "Reliance", "IBM"],
+      "Internships": "₹0.8–1.2 L stipend"
+    },
+    "Rank (Management)": 117
+  },
+  {
+    "Name": "Bennett University School of Management",
+    "Type": "Private",
+    "Established": "2016",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "Greater Noida, UP",
+    "Fees": { "Tuition": "₹12L", "Other": "₹1L", "Total": "₹13L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "KPMG"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 118
+  },
+  {
+    "Name": "Symbiosis School of Banking and Finance, Pune",
+    "Type": "Private (Deemed)",
+    "Established": "2012",
+    "Programs": ["MBA Banking & Finance", "PhD"],
+    "Specializations": ["Banking", "Finance", "Risk Management"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA B&F)": "120",
+    "Location": "Pune, Maharashtra",
+    "Fees": { "Tuition": "₹11L", "Other": "₹1L", "Total": "₹12L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹13 LPA",
+      "Top Recruiters": ["ICICI", "Kotak", "HDFC"],
+      "Internships": "₹1.5–2 L stipend"
+    },
+    "Rank (Management)": 119
+  },
+  {
+    "Name": "IME Bangalore",
+    "Type": "Private",
+    "Established": "1995",
+    "Programs": ["PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations", "Analytics"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹11L", "Other": "₹1L", "Total": "₹12L" },
+    "Scholarships": ["Merit", "Sports", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹10 LPA",
+      "Top Recruiters": ["TCS", "Accenture", "EY"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 120
+  },
+  {
+    "Name": "IFIM Business School, Bengaluru",
+    "Type": "Private",
+    "Established": "1995",
+    "Programs": ["PGDM", "Executive PGDM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹10L", "Other": "₹1L", "Total": "₹11L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹11 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "HDFC"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 121
+  },
+  {
+    "Name": "Christ EV Business School, Bengaluru",
+    "Type": "Private (Deemed)",
+    "Established": "2008",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Analytics", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹15L", "Other": "₹1L", "Total": "₹16L" },
+    "Scholarships": ["Merit", "Sports", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["Amazon", "Cisco", "IBM"],
+      "Internships": "₹1.5–2 L stipend"
+    },
+    "Rank (Management)": 122
+  },
+  {
+    "Name": "XIME Chennai",
+    "Type": "Private",
+    "Established": "1994",
+    "Programs": ["PGDM", "PGDM‑Executive", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "Chennai, Tamil Nadu",
+    "Fees": { "Tuition": "₹12L", "Other": "₹1L", "Total": "₹13L" },
+    "Scholarships": ["Merit", "Sports"],
+    "Placement": {
+      "Average Salary": "₹11 LPA",
+      "Top Recruiters": ["Infosys", "TCS", "HDFC"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 123
+  },
+  {
+    "Name": "DIT University School of Management, Dehradun",
+    "Type": "Private",
+    "Established": "2013",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Sports Complex"],
+    "Seats (MBA)": "120",
+    "Location": "Dehradun, Uttarakhand",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver", "Sports"],
+    "Placement": {
+      "Average Salary": "₹8 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "HCL"],
+      "Internships": "₹1–1.2 L stipend"
+    },
+    "Rank (Management)": 124
+  },
+  {
+    "Name": "BIMTECH Mumbai",
+    "Type": "Private (Deemed)",
+    "Established": "1988",
+    "Programs": ["PGDM", "PGDM-IB", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "International Business"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "360",
+    "Location": "Mumbai, Maharashtra",
+    "Fees": { "Tuition": "₹18L", "Other": "₹1L", "Total": "₹19L" },
+    "Scholarships": ["Merit", "Reserved category", "Need-based"],
+    "Placement": {
+      "Average Salary": "₹14 LPA",
+      "Top Recruiters": ["Amazon", "HUL", "Cognizant"],
+      "Internships": "₹2–3 L stipend"
+    },
+    "Rank (Management)": 125
+  },
+  {
+    "Name": "Globsyn Business School, Kolkata",
+    "Type": "Private",
+    "Established": "2002",
+    "Programs": ["PGDM", "PGDM‑Executive"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (PGDM)": "180",
+    "Location": "Kolkata, West Bengal",
+    "Fees": { "Tuition": "₹6L", "Other": "₹0.5L", "Total": "₹6.5L" },
+    "Scholarships": ["Merit", "Sports"],
+    "Placement": {
+      "Average Salary": "₹7 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹0.8–1.2 L stipend"
+    },
+    "Rank (Management)": 126
+  },
+  {
+    "Name": "IIM Udaipur Bengaluru Campus",
+    "Type": "Autonomous (Public)",
+    "Established": "2019",
+    "Programs": ["PGP", "FPM", "Executive PGP"],
+    "Specializations": ["Finance", "Marketing", "Operations", "Strategy"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels", "Incubator"],
+    "Seats (PGP)": "240",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹14.3L", "Other": "₹0.9L", "Total": "₹15.2L" },
+    "Scholarships": ["Merit", "SC/ST/OBC waiver"],
+    "Placement": {
+      "Average Salary": "₹21 LPA",
+      "Top Recruiters": ["BCG", "McKinsey", "Amazon", "HSBC"],
+      "Internships": "₹3–5 L stipend"
+    },
+    "Rank (Management)": 127
+  },
+  {
+    "Name": "XIM Bengaluru",
+    "Type": "Private (Jesuit)",
+    "Established": "2012",
+    "Programs": ["MBA", "MBA-HRM", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "180",
+    "Location": "Bengaluru, Karnataka",
+    "Fees": { "Tuition": "₹14L", "Other": "₹1L", "Total": "₹15L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹12 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "Wipro"],
+      "Internships": "₹1–2 L stipend"
+    },
+    "Rank (Management)": 128
+  },
+  {
+    "Name": "St. Xavier’s University Delhi – School of Business",
+    "Type": "Private",
+    "Established": "2011",
+    "Programs": ["MBA", "Executive MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "120",
+    "Location": "Delhi NCR",
+    "Fees": { "Tuition": "₹9L", "Other": "₹0.5L", "Total": "₹9.5L" },
+    "Scholarships": ["Merit", "SC/ST waiver", "Sports"],
+    "Placement": {
+      "Average Salary": "₹10 LPA",
+      "Top Recruiters": ["TCS", "Infosys", "HDFC"],
+      "Internships": "₹1–1.5 L stipend"
+    },
+    "Rank (Management)": 129
+  },
+  {
+    "Name": "KVASU College of Management & Technology",
+    "Type": "Public (State)",
+    "Established": "1971",
+    "Programs": ["MBA", "PhD"],
+    "Specializations": ["Marketing", "Finance", "HR", "Operations"],
+    "Facilities": ["Library", "Computer Labs", "Auditorium", "Hostels"],
+    "Seats (MBA)": "60",
+    "Location": "Thrissur, Kerala",
+    "Fees": { "Tuition": "₹1.5L", "Other": "₹0.3L", "Total": "₹1.8L" },
+    "Scholarships": ["Merit", "SC/ST waiver"],
+    "Placement": {
+      "Average Salary": "₹4 LPA",
+      "Top Recruiters": ["Federal Bank", "TCS", "Infosys"],
+      "Internships": "₹0.5–0.8 L stipend"
+    },
+    "Rank (Management)": 130
+  }
+]

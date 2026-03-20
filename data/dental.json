@@ -1,0 +1,2607 @@
+[ 
+  {
+    "rank": 1,
+    "name": "Saveetha Institute of Medical and Technical Sciences",
+    "location": "Chennai, Tamil Nadu",
+    "established": 2005,
+    "type": "Private (Deemed University)",
+    "affiliation": "UGC, DCI",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Prosthodontics", "Orthodontics", "Periodontics", "Endodontics"],
+      "Postgraduate": ["Oral Medicine", "Oral Surgery", "Pedodontics", "Public Health Dentistry", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹5,00,000",
+    "scholarships": ["Merit-based fee waivers", "Need-based concessions", "Research fellowships"],
+    "placements": {
+      "average_package": "₹8.5 LPA",
+      "top_recruiters": ["Saveetha Dental Hospital", "Apollo Dental", "Research Labs", "Private Clinics"],
+      "placement_rate": "98%"
+    },
+    "infrastructure": {
+      "hostels": "AC/Non-AC with mess, gym, study halls",
+      "library": "Digital library, over 15,000 dental titles, journals",
+      "labs": "Advanced clinical simulation labs, dental research labs, phantom head labs",
+      "hospital": "Multispecialty dental hospital with over 2,000 patients daily"
+    },
+    "notable_alumni": ["Dr. Rakshitha Raj", "Dr. Praveen N"]
+  },
+  {
+    "rank": 2,
+    "name": "Manipal College of Dental Sciences, Manipal",
+    "location": "Manipal, Karnataka",
+    "established": 1965,
+    "type": "Private (Deemed University)",
+    "affiliation": "Manipal Academy of Higher Education",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Prosthodontics", "Orthodontics", "Conservative Dentistry"],
+      "Postgraduate": ["MDS in 9 Specialties", "PhD in Dental Sciences"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹5,85,000 (BDS)",
+    "scholarships": ["MAHE Scholarships", "Freeships for top NEET scorers", "Alumni support schemes"],
+    "placements": {
+      "average_package": "₹8.2 LPA",
+      "top_recruiters": ["MCODS Hospital", "Colgate", "Oral-B", "Dental chains"],
+      "placement_rate": "95%"
+    },
+    "infrastructure": {
+      "hostels": "Separate hostel blocks with mess, internet, laundry",
+      "library": "E-resources, access to SCOPUS and international journals",
+      "labs": "Digital dentistry lab, simulation lab, research centre",
+      "hospital": "In-house dental hospital treating thousands monthly"
+    },
+    "notable_alumni": ["Dr. Girish Rao", "Dr. Akhila Vasudev"]
+  },
+  {
+    "rank": 3,
+    "name": "Maulana Azad Institute of Dental Sciences",
+    "location": "New Delhi, Delhi",
+    "established": 1983,
+    "type": "Government",
+    "affiliation": "University of Delhi",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Public Health Dentistry", "Oral Pathology", "Conservative Dentistry"],
+      "Postgraduate": ["Oral Medicine", "Orthodontics", "Periodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹15,000 – ₹30,000",
+    "scholarships": ["Central government scholarships", "Delhi SC/ST/OBC schemes"],
+    "placements": {
+      "average_package": "₹10 LPA (Govt. + Private options)",
+      "top_recruiters": ["Delhi Govt Hospitals", "AIIMS Dental", "Private Clinics"],
+      "placement_rate": "99%"
+    },
+    "infrastructure": {
+      "hostels": "Government hostels near Lok Nayak Hospital",
+      "library": "National Medical Library access",
+      "labs": "Research labs, CBCT, Oral Diagnosis units",
+      "hospital": "Operates with Lok Nayak Hospital with high patient footfall"
+    },
+    "notable_alumni": ["Dr. Ritu Duggal", "Dr. Puneet Batra"]
+  },
+  {
+    "rank": 4,
+    "name": "King George’s Medical University – Dental Faculty",
+    "location": "Lucknow, Uttar Pradesh",
+    "established": 1951,
+    "type": "Government",
+    "affiliation": "KGMU (Autonomous)",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["Orthodontics", "Oral Medicine", "Prosthodontics"],
+      "Postgraduate": ["Oral Pathology", "Periodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹30,000",
+    "scholarships": ["UP State Aid", "Govt. of India Scholarships"],
+    "placements": {
+      "average_package": "₹9 LPA",
+      "top_recruiters": ["Govt Dental Units", "Private Hospitals"],
+      "placement_rate": "90%"
+    },
+    "infrastructure": {
+      "hostels": "Govt hostel accommodation available",
+      "library": "Central Library with historic & digital records",
+      "labs": "Clinical training labs, dental radiology unit",
+      "hospital": "Integrated with KGMU’s medical facilities"
+    },
+    "notable_alumni": ["Dr. Rajesh Sinha"]
+  },
+  {    
+    "rank": 5,
+    "name": "Dr. D. Y. Patil Vidyapeeth, Pune",
+    "location": "Pune, Maharashtra",
+    "established": "2003 (dental wing)",
+    "type": "Private Deemed University",
+    "affiliation": "DY Patil University",
+    "degrees_offered": ["BDS", "MDS", "Fellowship", "PhD"],
+    "courses": {
+      "Undergraduate": ["Community Dentistry", "Pedodontics", "Endodontics"],
+      "Postgraduate": ["All 9 DCI-approved MDS specialties"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹5,25,000",
+    "scholarships": ["Merit scholarships", "EWS concessions"],
+    "placements": {
+      "average_package": "₹7.5 LPA",
+      "top_recruiters": ["DPU Hospital", "Dental startups", "Health NGOs"],
+      "placement_rate": "92%"
+    },
+    "infrastructure": {
+      "hostels": "AC hostels with modern amenities",
+      "library": "Digital access, rare dental archives",
+      "labs": "Phantom labs, clinical simulation, research cell",
+      "hospital": "DY Patil Dental Hospital with modern equipment"
+    },
+    "notable_alumni": ["Dr. Sneha Patil", "Dr. Arjun Khade"]
+  },
+  {
+    "rank": 6,
+    "name": "A. B. Shetty Memorial Institute of Dental Sciences",
+    "location": "Mangalore, Karnataka",
+    "established": 1985,
+    "type": "Private",
+    "affiliation": "NITTE University",
+    "degrees_offered": ["BDS", "MDS", "Fellowship", "PhD"],
+    "courses": {
+      "Undergraduate": ["Orthodontics", "Oral Surgery", "Public Health Dentistry"],
+      "Postgraduate": ["Prosthodontics", "Periodontics", "Endodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹5,00,000",
+    "scholarships": ["Merit-based", "Minority Community Support"],
+    "placements": {
+      "average_package": "₹6.8 LPA",
+      "top_recruiters": ["ABSMIDS Hospital", "Colgate India", "Dental Ventures"],
+      "placement_rate": "90%"
+    },
+    "infrastructure": {
+      "hostels": "Separate blocks for boys/girls with Wi-Fi",
+      "library": "E-journals, PubMed, DCI resources",
+      "labs": "CBCT-equipped radiology, implants training",
+      "hospital": "NITTE Dental Hospital with 500+ chairs"
+    },
+    "notable_alumni": ["Dr. Naveen Shetty", "Dr. Suma Raj"]
+  },
+  {
+    "rank": 7,
+    "name": "SRM Dental College",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1996,
+    "type": "Private",
+    "affiliation": "SRM Institute of Science and Technology",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["Prosthodontics", "Oral Pathology", "Public Health"],
+      "Postgraduate": ["All 9 MDS disciplines"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4,75,000",
+    "scholarships": ["SRM Merit Scholarship", "Govt funding"],
+    "placements": {
+      "average_package": "₹6.5 LPA",
+      "top_recruiters": ["SRM Hospitals", "Max Healthcare", "Startups"],
+      "placement_rate": "88%"
+    },
+    "infrastructure": {
+      "hostels": "Fully Wi-Fi enabled, AC optional",
+      "library": "Digital e-journals, DCI compliance",
+      "labs": "Orthodontics labs, endodontics simulation",
+      "hospital": "SRM General & Dental Hospital attached"
+    },
+    "notable_alumni": ["Dr. Anushree Seth", "Dr. A. K. Ram"]
+  },
+  {
+    "rank": 8,
+    "name": "Jamia Millia Islamia - Faculty of Dentistry",
+    "location": "New Delhi",
+    "established": 2009,
+    "type": "Public",
+    "affiliation": "Jamia Millia Islamia University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Orthodontics", "Community Dentistry"],
+      "Postgraduate": ["Conservative Dentistry", "Pedodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹12,000 – ₹15,000",
+    "scholarships": ["Jamia Scholarships", "Minority Welfare", "National Scholarship Portal"],
+    "placements": {
+      "average_package": "₹8.2 LPA",
+      "top_recruiters": ["Govt Hospitals", "Jamia Dental Hospital", "Private Practice"],
+      "placement_rate": "96%"
+    },
+    "infrastructure": {
+      "hostels": "Limited hostels, well-equipped",
+      "library": "Medical-dental integrated library",
+      "labs": "Pre-clinical labs, CBCT and radiology",
+      "hospital": "On-campus dental clinic"
+    },
+    "notable_alumni": ["Dr. Zainab Saifi", "Dr. Sameer Khan"]
+  },
+  {
+    "rank": 9,
+    "name": "Siksha O Anusandhan – Institute of Dental Sciences",
+    "location": "Bhubaneswar, Odisha",
+    "established": 2006,
+    "type": "Private Deemed University",
+    "affiliation": "SOA University",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["General Pathology", "Dental Materials", "Radiology"],
+      "Postgraduate": ["Orthodontics", "Oral Medicine", "Periodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3,80,000",
+    "scholarships": ["SOA Merit Aid", "EWS Studentship"],
+    "placements": {
+      "average_package": "₹6.2 LPA",
+      "top_recruiters": ["Dental Chains", "Hospitals", "Research Labs"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels with security",
+      "library": "Full-text e-journals, Wiley, Elsevier access",
+      "labs": "CAD/CAM Lab, Dental Imaging Lab",
+      "hospital": "Fully equipped Dental Hospital with OPD & in-patient services"
+    },
+    "notable_alumni": ["Dr. A. Nayak"]
+  },
+  {
+    "rank": 10,
+    "name": "Sri Ramachandra Institute of Higher Education and Research",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1995,
+    "type": "Private Deemed University",
+    "affiliation": "Sri Ramachandra University",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["Prosthodontics", "Dental Materials", "Radiology"],
+      "Postgraduate": ["Oral Pathology", "Public Health Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹6,00,000",
+    "scholarships": ["Internal merit fellowships"],
+    "placements": {
+      "average_package": "₹7.5 LPA",
+      "top_recruiters": ["Apollo White", "Ramachandra Hospital", "Private clinics"],
+      "placement_rate": "92%"
+    },
+    "infrastructure": {
+      "hostels": "Modern hostels with AC rooms",
+      "library": "One of India’s largest health science libraries",
+      "labs": "Dental labs, tissue engineering, CBCT",
+      "hospital": "Advanced dental hospital with 100+ chairs"
+    },
+    "notable_alumni": ["Dr. Karthik Raj"]
+  },
+  {
+    "rank": 11,
+    "name": "Manipal College of Dental Sciences, Mangalore",
+    "location": "Mangalore, Karnataka",
+    "established": 1987,
+    "type": "Private",
+    "affiliation": "MAHE",
+    "degrees_offered": ["BDS", "MDS"],
+    "average_fee_per_year": "₹5,85,000",
+    "placement_rate": "93%"
+  },
+  {
+    "rank": 12,
+    "name": "JSS Dental College and Hospital",
+    "location": "Mysuru, Karnataka",
+    "established": 1986,
+    "type": "Private Deemed",
+    "affiliation": "JSS Academy of Higher Education",
+    "degrees_offered": ["BDS", "MDS"],
+    "average_fee_per_year": "₹4,50,000",
+    "placement_rate": "88%"
+  },
+  {
+    "rank": 13,
+    "name": "SDM College of Dental Sciences",
+    "location": "Dharwad, Karnataka",
+    "established": 1986,
+    "type": "Private",
+    "affiliation": "Rajiv Gandhi University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "average_fee_per_year": "₹4,20,000",
+    "placement_rate": "85%"
+  },
+  {
+    "rank": 14,
+    "name": "Amrita School of Dentistry",
+    "location": "Kochi, Kerala",
+    "established": 2003,
+    "type": "Private Deemed",
+    "affiliation": "Amrita Vishwa Vidyapeetham",
+    "degrees_offered": ["BDS", "MDS"],
+    "average_fee_per_year": "₹4,80,000",
+    "placement_rate": "86%"
+  },
+  {
+    "rank": 15,
+    "name": "Government Dental College, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "established": 1968,
+    "type": "Government",
+    "affiliation": "MUHS",
+    "degrees_offered": ["BDS", "MDS"],
+    "average_fee_per_year": "₹15,000",
+    "placement_rate": "89%"
+  },
+  {
+    "rank": 16,
+    "name": "M. S. Ramaiah University of Applied Sciences",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private Deemed",
+    "score": 57.98,
+    "affiliation": "M. S. Ramaiah University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Conservative Dentistry", "Oral Surgery", "Public Health Dentistry"],
+      "Postgraduate": ["Orthodontics", "Endodontics", "Periodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.5 lakhs",
+    "scholarships": ["University Merit", "State govt schemes"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["MSRUAS Dental Hospital", "Private clinics", "Institutions"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "hostels": "On‑campus AC/NAC with dining & gym",
+      "library": "Digital journals, DCI materials",
+      "labs": "Simulation labs, phantom head clinics",
+      "hospital": "MSRUAS Dental & Medical hospital"
+    }
+  },
+  {
+    "rank": 17,
+    "name": "Banaras Hindu University – Faculty of Dental Sciences",
+    "location": "Varanasi, Uttar Pradesh",
+    "type": "Government Central",
+    "score": 55.69,
+    "affiliation": "BHU",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Prosthodontics"],
+      "Postgraduate": ["Orthodontics", "Oral Pathology"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹25,000",
+    "scholarships": ["Central scholarships", "SC/ST/OBC"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["BHU Dental Hospital", "Govt clinics"],
+      "placement_rate": "90%"
+    },
+    "infrastructure": {
+      "hostels": "Separate halls for undergrad/postgrad",
+      "library": "Access to BHU Medical Library",
+      "labs": "Clinical, radiology labs",
+      "hospital": "SVDental Hospital, BHU"
+    }
+  },
+  {
+    "rank": 18,
+    "name": "Aligarh Muslim University – Faculty of Dentistry",
+    "location": "Aligarh, Uttar Pradesh",
+    "type": "Government Central",
+    "score": 55.33,
+    "affiliation": "AMU",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Community Dentistry", "Oral Surgery"],
+      "Postgraduate": ["Prosthodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹30,000",
+    "scholarships": ["AMU scholarships", "Minority scholarships"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["AMU Dental Clinic", "Private hospitals"],
+      "placement_rate": "88%"
+    },
+    "infrastructure": {
+      "hostels": "Hostels within AMU campus",
+      "library": "DCI‑accredited library resources",
+      "labs": "Clinical & research labs",
+      "hospital": "AMU Hospital attached"
+    }
+  },
+  {
+    "rank": 19,
+    "name": "Government Dental College, Bengaluru",
+    "location": "Bengaluru, Karnataka",
+    "type": "Government State",
+    "score": 54.95,
+    "affiliation": "Rajiv Gandhi University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Pedodontics"],
+      "Postgraduate": ["Orthodontics", "Oral Pathology"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹10,000",
+    "scholarships": ["Karnataka govt SC/ST/OBC"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Kalaburagi hospitals", "State govt clinics"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "GH hostel via state government",
+      "library": "Old law & medical resources",
+      "labs": "College labs, patient clinics",
+      "hospital": "Attached Govt Dental Hospital"
+    },
+    "history": "First dental college in Karnataka, established 1958" 
+  },
+  {
+    "rank": 20,
+    "name": "Dr. M. G. R. Educational and Research Institute – Faculty of Dentistry",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private Deemed",
+    "score": 54.52,
+    "affiliation": "Dr. MGR University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Public Health Dentistry", "Prosthodontics"],
+      "Postgraduate": ["Periodontics", "Endodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.5 lakhs",
+    "scholarships": ["Merit scholarships"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["MGR Dental Hospital", "Private clinics"],
+      "placement_rate": "87%"
+    },
+    "infrastructure": {
+      "hostels": "On‑campus housing available",
+      "library": "Integrated health sciences library",
+      "labs": "CBCT core labs, simulation rooms",
+      "hospital": "In‑house dental hospital"
+    }
+  },
+  {
+    "rank": 21,
+    "name": "Government Dental College, Thiruvananthapuram",
+    "location": "Thiruvananthapuram, Kerala",
+    "type": "Government State",
+    "score": 53.91,
+    "affiliation": "Kerala University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Community Dentistry", "Oral Surgery"],
+      "Postgraduate": ["Orthodontics", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹5,000",
+    "scholarships": ["Kerala govt SC/ST/OBC"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Govt health wings", "Kerala dental clinics"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "hostels": "State govt hostels",
+      "library": "College with Kerala govt support",
+      "labs": "Clinical training labs",
+      "hospital": "Govt Dental Hospital"
+    }
+  },
+  {
+    "rank": 22,
+    "name": "Kalinga Institute of Industrial Technology – Dental Sciences",
+    "location": "Bhubaneswar, Odisha",
+    "type": "Private Deemed",
+    "score": 53.89,
+    "affiliation": "KIIT University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Conservative Dentistry"],
+      "Postgraduate": ["Periodontics", "Orthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4 lakhs",
+    "scholarships": ["KIIT merit aid"],
+    "placements": {
+      "average_package": "₹4.8 LPA",
+      "top_recruiters": ["KIIT Dental Care", "Private clinics"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "hostels": "Modern residential blocks",
+      "library": "KIIT central e‑resources",
+      "labs": "Dental simulation centers",
+      "hospital": "KIIT Dental Hospital facilities"
+    }
+  },
+  {
+    "rank": 23,
+    "name": "Postgraduate Institute of Dental Sciences",
+    "location": "Rohtak, Haryana",
+    "type": "Government State",
+    "score": 53.78,
+    "affiliation": "Pt. B. D. Sharma University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Pediatric Dentistry"],
+      "Postgraduate": ["Orthodontics", "Oral Pathology"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹15,000",
+    "scholarships": ["Haryana govt schemes"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["PGIDS Hospital", "Govt dental wings"],
+      "placement_rate": "88%"
+    },
+    "infrastructure": {
+      "hostels": "State govt hostels",
+      "library": "PG medical library",
+      "labs": "Advanced clinical labs",
+      "hospital": "On‑campus dental hospital"
+    }
+  },
+  {
+    "rank": 24,
+    "name": "Datta Meghe Institute of Medical Sciences – Dental College & Hospital",
+    "location": "Wardha, Maharashtra",
+    "type": "Private Deemed",
+    "score": 53.64,
+    "affiliation": "DMIMS",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Surgery", "Prosthodontics"],
+      "Postgraduate": ["Orthodontics", "Periodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.2 lakhs",
+    "scholarships": ["DMIMS merit aid", "EWS support"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["DMIMS hospital", "Rural health NGOs"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "Campus hostels",
+      "library": "Medical-dental digital library",
+      "labs": "Clinical & simulation labs",
+      "hospital": "Attached multi‑specialty hospital"
+    }
+  },
+  {
+    "rank": 25,
+    "name": "Government Dental College, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "type": "Government State",
+    "score": 53.54,
+    "affiliation": "MUHS",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Public Health Dentistry", "Oral Surgery"],
+      "Postgraduate": ["Pedodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹8,000",
+    "scholarships": ["Maharashtra govt schemes"],
+    "placements": {
+      "average_package": "₹4.3 LPA",
+      "top_recruiters": ["KEM Hospital", "Municipal dental clinics"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "hostels": "Govt-provided hostels",
+      "library": "MUHS dental records",
+      "labs": "Clinical labs with high patient load",
+      "hospital": "MGH attached hospital"
+    }
+  },
+  {
+    "rank": 26,
+    "name": "Yenepoya Dental College",
+    "location": "Mangaluru, Karnataka",
+    "type": "Private Deemed",
+    "score": 53.32,
+    "affiliation": "Yenepoya University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Periodontics"],
+      "Postgraduate": ["Orthodontics", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.0 lakhs",
+    "scholarships": ["Yenepoya merit aid"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Yenepoya Dental Hospital", "Private practices"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "hostels": "On‑campus hostels with dining",
+      "library": "E-journals including PubMed",
+      "labs": "Digital dental labs",
+      "hospital": "Yenepoya multi‑specialty hospital"
+    }
+  },
+  {
+    "rank": 27,
+    "name": "Panjab University – School of Dental Sciences",
+    "location": "Chandigarh",
+    "type": "Government University",
+    "score": 52.99,
+    "affiliation": "Panjab University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Oral Surgery"],
+      "Postgraduate": ["Orthodontics", "Public Health Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹20,000",
+    "scholarships": ["PU Merit Scholarships", "State govt aid"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["CH Dental Hospital", "Govt clinics"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "hostels": "University hostels",
+      "library": "PU central library with e-access",
+      "labs": "Clinical training labs",
+      "hospital": "On-site dental facility"
+    }
+  },
+  {
+    "rank": 28,
+    "name": "Nair Hospital Dental College",
+    "location": "Mumbai, Maharashtra",
+    "type": "Government Municipal",
+    "score": 52.92,
+    "affiliation": "MUHS",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Surgery", "Pedodontics"],
+      "Postgraduate": ["Orthodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹10,000",
+    "scholarships": ["Maharashtra govt schemes"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["Nair Hospital", "Municipal clinics"],
+      "placement_rate": "88%"
+    },
+    "infrastructure": {
+      "hostels": "Limited hostel capacity",
+      "library": "Hospital affiliated library",
+      "labs": "Clinical labs, high patient turnover",
+      "hospital": "Nair Hospital dental wing"
+    }
+  },
+  {
+    "rank": 29,
+    "name": "KLE Vishwanath Katti Institute of Dental Sciences",
+    "location": "Belgaum, Karnataka",
+    "type": "Private",
+    "score": 52.84,
+    "affiliation": "KLE University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Orthodontics", "Oral Medicine"],
+      "Postgraduate": ["Periodontics", "Oral Pathology"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.8 lakhs",
+    "scholarships": ["KLE merit aid"],
+    "placements": {
+      "average_package": "₹4.1 LPA",
+      "top_recruiters": ["KLE Institute Dental Hospital", "Region clinics"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "Campus residential facilities",
+      "library": "KLE central library",
+      "labs": "Simulation and clinical labs",
+      "hospital": "On-campus dental hospital"
+    }
+  },
+  {
+    "rank": 30,
+    "name": "Christian Dental College",
+    "location": "Ludhiana, Punjab",
+    "type": "Private",
+    "score": 52.72,
+    "affiliation": "Baba Farid University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Prosthodontics", "Oral Pathology"],
+      "Postgraduate": ["Orthodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.2 lakhs",
+    "scholarships": ["CDC merit and need scholarships"],
+    "placements": {
+      "average_package": "₹4.3 LPA",
+      "top_recruiters": ["CDC Hospital", "Private dental chains"],
+      "placement_rate": "83%"
+    },
+    "infrastructure": {
+      "hostels": "Separate hostels with dining",
+      "library": "College library with e-resources",
+      "labs": "Clinical simulation & labs",
+      "hospital": "CDC referral hospital"
+    }
+  },
+  {
+    "rank": 31,
+    "name": "Sri Dharmasthala Manjunatheswara College of Dental Sciences & Hospital",
+    "location": "Dharwad, Karnataka",
+    "type": "Private Deemed",
+    "score": 52.67,
+    "affiliation": "Rajiv Gandhi University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Pediatric Dentistry", "Periodontology"],
+      "Postgraduate": ["Prosthodontics", "Conservative Dentistry", "Orthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.8 lakhs",
+    "scholarships": ["Merit Scholarships", "State Government Scholarships"],
+    "placements": {
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["SDM Dental Hospital", "Rural Health Missions", "Apollo Dental"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "hostels": "Well-maintained AC/non-AC hostels with Wi-Fi and mess",
+      "library": "Digital access to dental journals and research archives",
+      "labs": "Dedicated labs for each department with advanced equipment",
+      "hospital": "On-campus 300+ chair hospital with real-time patient exposure"
+    }
+  },
+  {
+    "rank": 32,
+    "name": "SRM Dental College, Kattankulathur",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private",
+    "score": 52.13,
+    "affiliation": "SRM Institute of Science and Technology",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Orthodontics", "Conservative Dentistry"],
+      "Postgraduate": ["Oral Surgery", "Oral Pathology", "Public Health Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.5 lakhs",
+    "scholarships": ["Merit-Based Fee Waiver", "SRM Founder’s Scholarship"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["SRM Health", "Clove Dental", "Star Dental"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "hostels": "Modern hostels with Wi-Fi, gym, indoor games, and mess",
+      "library": "Central medical library with online resource access",
+      "labs": "Simulation labs with digital radiography and phantom heads",
+      "hospital": "600-chair teaching hospital on-site"
+    }
+  },
+  {
+    "rank": 33,
+    "name": "Bapuji Dental College and Hospital",
+    "location": "Davangere, Karnataka",
+    "type": "Private",
+    "score": 50.86,
+    "affiliation": "Rajiv Gandhi University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["Oral Surgery", "Oral Pathology"],
+      "Postgraduate": ["Pedodontics", "Periodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.5 lakhs",
+    "scholarships": ["Institutional Scholarship for Top Performers"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Apollo Dental", "Private Clinics", "Academic Institutes"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "Separate hostels with secure access and full amenities",
+      "library": "More than 10,000 books and e-journals, including clinical cases",
+      "labs": "Modern labs for endodontics, prosthodontics, and orthodontics",
+      "hospital": "Multi-specialty dental hospital with 450+ chairs"
+    }
+  },
+  {
+    "rank": 34,
+    "name": "Army College of Dental Sciences",
+    "location": "Secunderabad, Telangana",
+    "type": "Private (Army Welfare Education Society)",
+    "score": 49.38,
+    "affiliation": "Kaloji Narayana Rao University of Health Sciences",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Public Health Dentistry", "Oral Medicine and Radiology"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹7.0 lakhs",
+    "scholarships": ["Army Quota Scholarships", "Wards of Servicemen Concessions"],
+    "placements": {
+      "average_package": "₹5.0 LPA",
+      "top_recruiters": ["Armed Forces Medical Services", "Columbia Asia Dental"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "hostels": "Secured hostel for boys and girls with military-grade discipline",
+      "library": "Dedicated dental and medical science library with study cubicles",
+      "labs": "Latest equipment for radiology, prosthodontics, oral pathology",
+      "hospital": "In-house dental hospital for clinical training and patient care"
+    }
+  },
+  {
+    "rank": 35,
+    "name": "Maharishi Markandeshwar College of Dental Sciences and Research",
+    "location": "Mullana, Haryana",
+    "type": "Private Deemed",
+    "score": 47.78,
+    "affiliation": "Maharishi Markandeshwar (Deemed to be University)",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Periodontics"],
+      "Postgraduate": ["Endodontics", "Public Health Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["MMU Scholarships", "SC/ST State Quota Aid"],
+    "placements": {
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["MMU Dental Hospital", "Max Healthcare"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "Fully furnished hostels with 24x7 security and mess",
+      "library": "Large academic library with dental case archives",
+      "labs": "Advanced clinical and pre-clinical labs",
+      "hospital": "Dedicated hospital with integrated dental and surgical wings"
+    }
+  },
+  {
+    "rank": 36,
+    "name": "Amrita School of Dentistry",
+    "location": "Kochi, Kerala",
+    "type": "Private Deemed",
+    "score": 46.90,
+    "affiliation": "Amrita Vishwa Vidyapeetham",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine and Radiology", "Oral Pathology"],
+      "Postgraduate": ["Orthodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.8 lakhs",
+    "scholarships": ["Need-based and Merit-based Institutional Aid"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["Amrita Hospitals", "Private Chains", "Academic Institutions"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "hostels": "Wi-Fi enabled hostels with sports and study lounges",
+      "library": "Online access to Scopus, PubMed, and 50+ dental journals",
+      "labs": "CBCT-equipped radiology and biomaterial research labs",
+      "hospital": "Super-specialty dental care hospital with 300+ OPDs/day"
+    }
+  },
+  {
+    "rank": 37,
+    "name": "Pacific Dental College and Hospital",
+    "location": "Udaipur, Rajasthan",
+    "type": "Private",
+    "score": 45.32,
+    "affiliation": "Pacific University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Community Dentistry", "Conservative Dentistry"],
+      "Postgraduate": ["Prosthodontics", "Pedodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.0 lakhs",
+    "scholarships": ["Pacific Merit Grant", "Minority Aid"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Pacific Dental Clinic", "Rural NGOs"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "hostels": "On-campus separate hostels with canteen and gym",
+      "library": "Digital and physical dental references, casebooks",
+      "labs": "Practical labs for every year with real-patient access",
+      "hospital": "Tertiary care unit with daily OPDs and satellite clinics"
+    }
+  },
+  {
+    "rank": 38,
+    "name": "Jamia Millia Islamia – Faculty of Dentistry",
+    "location": "New Delhi",
+    "type": "Government Central",
+    "score": 45.01,
+    "affiliation": "Jamia Millia Islamia University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Pediatric and Preventive Dentistry"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹12,000",
+    "scholarships": ["Jamia Merit Aid", "Minority Community Grants"],
+    "placements": {
+      "average_package": "₹4.6 LPA",
+      "top_recruiters": ["Govt Dental Clinics", "Research Institutes"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "hostels": "University hostels for both boys and girls",
+      "library": "Part of JMI Central Library with e‑learning resources",
+      "labs": "Well‑equipped clinical labs",
+      "hospital": "In-house dental wing with direct patient care exposure"
+    }
+  },
+  {
+    "rank": 39,
+    "name": "Christian Dental College",
+    "location": "Ludhiana, Punjab",
+    "type": "Private (Christian Minority)",
+    "score": 44.84,
+    "affiliation": "Baba Farid University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Periodontology", "Oral Surgery"],
+      "Postgraduate": ["Orthodontics", "Public Health Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.2 lakhs",
+    "scholarships": ["Minority Aid", "Merit Scholarship Fund"],
+    "placements": {
+      "average_package": "₹4.3 LPA",
+      "top_recruiters": ["Christian Medical College Hospital", "Private Dental Chains"],
+      "placement_rate": "83%"
+    },
+    "infrastructure": {
+      "hostels": "Secured hostels with pastoral support",
+      "library": "Modern library with e-resources and dental archives",
+      "labs": "Clinical simulation and prosthetics training facilities",
+      "hospital": "Attached hospital for interdisciplinary training"
+    }
+  },
+  {
+    "rank": 40,
+    "name": "College of Dental Sciences",
+    "location": "Davangere, Karnataka",
+    "type": "Private",
+    "score": 44.12,
+    "affiliation": "Rajiv Gandhi University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Public Health Dentistry", "Oral Medicine"],
+      "Postgraduate": ["Orthodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.6 lakhs",
+    "scholarships": ["Merit Scholarship", "Govt SC/ST Welfare Aid"],
+    "placements": {
+      "average_package": "₹3.9 LPA",
+      "top_recruiters": ["Apollo Dental", "Narayana Hrudayalaya"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "hostels": "Separate UG/PG hostels with indoor games",
+      "library": "Digitized library with access to DCI standards",
+      "labs": "All major specialties equipped with phantom heads",
+      "hospital": "600+ OPDs/day on-campus hospital"
+    }
+  },
+  {
+    "rank": 41,
+    "name": "Institute of Medical Sciences – Faculty of Dental Sciences (BHU)",
+    "location": "Varanasi, Uttar Pradesh",
+    "type": "Government Central",
+    "score": 43.78,
+    "affiliation": "Banaras Hindu University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Conservative Dentistry"],
+      "Postgraduate": ["Orthodontics", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹25,000",
+    "scholarships": ["BHU Central Scholarships", "Govt Schemes"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Govt Hospitals", "Academic Institutions"],
+      "placement_rate": "92%"
+    },
+    "infrastructure": {
+      "hostels": "Separate PG hostels inside campus",
+      "library": "Access to BHU Medical Library and online databases",
+      "labs": "Simulation, prosthodontic and radiological labs",
+      "hospital": "SVDH attached hospital"
+    }
+  },
+  {
+    "rank": 42,
+    "name": "A. B. Shetty Memorial Institute of Dental Sciences",
+    "location": "Mangaluru, Karnataka",
+    "type": "Private",
+    "score": 43.45,
+    "affiliation": "NITTE University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Public Health Dentistry", "Pedodontics"],
+      "Postgraduate": ["Oral Surgery", "Orthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.9 lakhs",
+    "scholarships": ["University Merit Scholarship", "EWS Concessions"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["NITTE Hospitals", "Private Multispecialty Clinics"],
+      "placement_rate": "84%"
+    },
+    "infrastructure": {
+      "hostels": "Residential hostels with Wi-Fi, mess and gym",
+      "library": "Advanced digital library with simulation support",
+      "labs": "Interdisciplinary dental training labs",
+      "hospital": "Super-specialty dental hospital with advanced CBCT"
+    }
+  },
+  {
+    "rank": 43,
+    "name": "KLE VK Institute of Dental Sciences",
+    "location": "Belagavi, Karnataka",
+    "type": "Private Deemed",
+    "score": 42.81,
+    "affiliation": "KLE Academy of Higher Education and Research",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Oral Surgery"],
+      "Postgraduate": ["Periodontics", "Oral Medicine"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.9 lakhs",
+    "scholarships": ["KLE Academic Excellence Fund", "Govt Aid"],
+    "placements": {
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["KLE Hospital", "Dental Chains"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "AC/non-AC blocks with study rooms",
+      "library": "Modern medical-dental learning center",
+      "labs": "Digital labs with CAD-CAM integration",
+      "hospital": "Integrated hospital with 350+ dental chairs"
+    }
+  },
+  {
+    "rank": 44,
+    "name": "Saveetha Dental College",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private Deemed",
+    "score": 42.52,
+    "affiliation": "Saveetha Institute of Medical and Technical Sciences",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["All 9 Dental Specialties"],
+      "Postgraduate": ["All MDS specializations"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.6 lakhs",
+    "scholarships": ["Saveetha University Grants"],
+    "placements": {
+      "average_package": "₹5.0 LPA",
+      "top_recruiters": ["Saveetha Dental Hospitals", "Dental Corporates"],
+      "placement_rate": "87%"
+    },
+    "infrastructure": {
+      "hostels": "Smart hostels with laundry, cafeteria",
+      "library": "One of Asia’s largest dental libraries",
+      "labs": "CBCT, CAD-CAM, laser dentistry labs",
+      "hospital": "ISO certified 600-chair dental hospital"
+    }
+  },
+  {
+    "rank": 45,
+    "name": "Siksha 'O' Anusandhan – Institute of Dental Sciences",
+    "location": "Bhubaneswar, Odisha",
+    "type": "Private Deemed",
+    "score": 42.41,
+    "affiliation": "SOA University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Orthodontics", "Pedodontics"],
+      "Postgraduate": ["Prosthodontics", "Public Health Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.5 lakhs",
+    "scholarships": ["SOA Merit Aid", "EWS and SC/ST Schemes"],
+    "placements": {
+      "average_package": "₹4.1 LPA",
+      "top_recruiters": ["SOA Hospitals", "Private Practices"],
+      "placement_rate": "79%"
+    },
+    "infrastructure": {
+      "hostels": "Modern amenities with smart-card access",
+      "library": "Digital + traditional library system",
+      "labs": "Simulation labs and community dental van",
+      "hospital": "Dental hospital with outreach programs"
+    }
+  },
+  {
+    "rank": 46,
+    "name": "M. S. Ramaiah University of Applied Sciences – Faculty of Dental Sciences",
+    "location": "Bangalore, Karnataka",
+    "type": "Private University",
+    "score": 42.20,
+    "affiliation": "M. S. Ramaiah University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Oral Pathology", "Periodontology"],
+      "Postgraduate": ["Prosthodontics", "Oral Surgery", "Pedodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.5 lakhs",
+    "scholarships": ["Institutional Merit Scholarships", "State Welfare Schemes"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["MS Ramaiah Dental Hospital", "Private Clinics", "Startups"],
+      "placement_rate": "84%"
+    },
+    "infrastructure": {
+      "hostels": "Well-furnished, in-campus with 24x7 power and Wi-Fi",
+      "library": "E-library with dental archives and case studies",
+      "labs": "CAD/CAM labs, laser and implantology training units",
+      "hospital": "Fully equipped dental hospital with clinical case exposure"
+    }
+  },
+  {
+    "rank": 47,
+    "name": "Dr. D. Y. Patil Vidyapeeth – Dr. D. Y. Patil Dental College & Hospital",
+    "location": "Pune, Maharashtra",
+    "type": "Private Deemed",
+    "score": 41.87,
+    "affiliation": "DPU Pune",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["Conservative Dentistry", "Orthodontics"],
+      "Postgraduate": ["Oral Pathology", "Periodontics", "Public Health Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.6 lakhs",
+    "scholarships": ["DPU Fee Concession", "Social Welfare Department Aid"],
+    "placements": {
+      "average_package": "₹4.8 LPA",
+      "top_recruiters": ["DPU Healthcare", "Clove Dental", "Aspen Dental"],
+      "placement_rate": "88%"
+    },
+    "infrastructure": {
+      "hostels": "AC hostels with mess, laundry and gym",
+      "library": "Wi-Fi enabled, digital repository + DCI standards archive",
+      "labs": "Endodontic microscopes, laser dentistry labs",
+      "hospital": "Multispecialty dental hospital with CBCT and 3D imaging"
+    }
+  },
+  {
+    "rank": 48,
+    "name": "Nair Hospital Dental College",
+    "location": "Mumbai, Maharashtra",
+    "type": "Government",
+    "score": 41.65,
+    "affiliation": "Maharashtra University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Pediatric Dentistry"],
+      "Postgraduate": ["Orthodontics", "Oral and Maxillofacial Surgery"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹30,000",
+    "scholarships": ["SC/ST/OBC/EWS Scholarships", "State Merit Scholarship"],
+    "placements": {
+      "average_package": "₹5.0 LPA",
+      "top_recruiters": ["BMC Hospitals", "Tata Memorial", "Government Clinics"],
+      "placement_rate": "91%"
+    },
+    "infrastructure": {
+      "hostels": "In-campus government hostels with mess and common rooms",
+      "library": "Medical-dental resource library with thesis bank",
+      "labs": "Renovated labs with clinical exposure and cadaveric dissections",
+      "hospital": "Dental wing of Topiwala Nair Medical College and Hospital"
+    }
+  },
+  {
+    "rank": 49,
+    "name": "Siksha ‘O’ Anusandhan – Institute of Dental Sciences",
+    "location": "Bhubaneswar, Odisha",
+    "type": "Private Deemed",
+    "score": 41.52,
+    "affiliation": "SOA University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Public Health Dentistry"],
+      "Postgraduate": ["Prosthodontics", "Pediatric Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.4 lakhs",
+    "scholarships": ["SOA Merit Waiver", "State SC/ST Aid"],
+    "placements": {
+      "average_package": "₹4.1 LPA",
+      "top_recruiters": ["SOA Dental Hospital", "Private Clinics", "Dental Startups"],
+      "placement_rate": "81%"
+    },
+    "infrastructure": {
+      "hostels": "In-campus secure hostels with gym, canteen",
+      "library": "Dental and allied health science e-library",
+      "labs": "Implantology unit, prosthetics, and orthodontics labs",
+      "hospital": "Teaching hospital with outreach camps and OPD"
+    }
+  },
+  {
+    "rank": 50,
+    "name": "Aligarh Muslim University – Dr. Z. A. Dental College",
+    "location": "Aligarh, Uttar Pradesh",
+    "type": "Government Central University",
+    "score": 41.15,
+    "affiliation": "Aligarh Muslim University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Surgery", "Orthodontics", "Periodontology"],
+      "Postgraduate": ["Oral Pathology", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹10,000",
+    "scholarships": ["Central Minority Scholarships", "AMU General Scholarship Fund"],
+    "placements": {
+      "average_package": "₹5.0 LPA",
+      "top_recruiters": ["Govt Health Services", "Medical Colleges", "Academic Bodies"],
+      "placement_rate": "90%"
+    },
+    "infrastructure": {
+      "hostels": "University hostels with subsidized food and Wi-Fi",
+      "library": "University main library access plus dental-specific resources",
+      "labs": "Clinical labs, surgical simulation, implant and laser tech",
+      "hospital": "Multi-winged dental hospital integrated with JN Medical College"
+    }
+  },
+  {
+    "rank": 51,
+    "name": "Sri Ramachandra Institute of Higher Education and Research – Faculty of Dental Sciences",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private Deemed",
+    "score": 40.72,
+    "affiliation": "Sri Ramachandra University",
+    "degrees_offered": ["BDS", "MDS", "PhD"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Conservative Dentistry"],
+      "Postgraduate": ["Oral Medicine", "Pediatric Dentistry", "Periodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.8 lakhs",
+    "scholarships": ["Merit-cum-Means", "Trust Scholarships"],
+    "placements": {
+      "average_package": "₹4.7 LPA",
+      "top_recruiters": ["SRMC Hospitals", "Private Multispecialty Clinics"],
+      "placement_rate": "86%"
+    },
+    "infrastructure": {
+      "hostels": "Well-managed residences with modern amenities",
+      "library": "Central digital library, dental case report bank",
+      "labs": "CBCT, CAD-CAM, Endodontic microscopy labs",
+      "hospital": "600+ chair modern dental hospital"
+    }
+  },
+  {
+    "rank": 52,
+    "name": "College of Dental Sciences",
+    "location": "Davangere, Karnataka",
+    "type": "Private",
+    "score": 40.35,
+    "affiliation": "RGUHS",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Pediatric Dentistry", "Public Health Dentistry"],
+      "Postgraduate": ["Orthodontics", "Oral Surgery", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.6 lakhs",
+    "scholarships": ["Institutional Fee Waiver", "Minority Welfare Schemes"],
+    "placements": {
+      "average_package": "₹3.9 LPA",
+      "top_recruiters": ["Clove Dental", "Apollo White Dental", "Startups"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "Secured, separate UG and PG hostels",
+      "library": "Updated with latest journals and digital access",
+      "labs": "Phantom head labs, radiology and prosthodontics units",
+      "hospital": "Clinical training with rural and urban OPD exposure"
+    }
+  },
+  {
+    "rank": 53,
+    "name": "Panjab University – Dr. Harvansh Singh Judge Institute of Dental Sciences & Hospital",
+    "location": "Chandigarh",
+    "type": "Government University",
+    "score": 39.94,
+    "affiliation": "Panjab University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Public Health Dentistry"],
+      "Postgraduate": ["Orthodontics", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹12,000",
+    "scholarships": ["PU Merit Aid", "EWS/SC/ST Scholarships"],
+    "placements": {
+      "average_package": "₹4.4 LPA",
+      "top_recruiters": ["Govt Hospitals", "Private Practices"],
+      "placement_rate": "88%"
+    },
+    "infrastructure": {
+      "hostels": "On-campus with mess, Wi-Fi, and security",
+      "library": "Dental and medical shared resources",
+      "labs": "Modern equipment for all departments",
+      "hospital": "Attached with OPDs and research wing"
+    }
+  },
+  {
+    "rank": 54,
+    "name": "Pacific Dental College & Research Centre",
+    "location": "Udaipur, Rajasthan",
+    "type": "Private",
+    "score": 39.46,
+    "affiliation": "Pacific University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Conservative Dentistry", "Oral Pathology"],
+      "Postgraduate": ["Oral Surgery", "Pedodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Pacific Merit Scheme", "State Govt Concession"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Pacific Group Clinics", "Govt Health Missions"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "hostels": "Separate hostels with laundry and mess",
+      "library": "E-library and dedicated dental section",
+      "labs": "Well-equipped endodontic and prosthodontic labs",
+      "hospital": "Multi-departmental dental hospital"
+    }
+  },
+  {
+    "rank": 55,
+    "name": "Government Dental College, Bengaluru",
+    "location": "Bengaluru, Karnataka",
+    "type": "Government",
+    "score": 39.02,
+    "affiliation": "Rajiv Gandhi University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Pedodontics", "Public Health"],
+      "Postgraduate": ["Orthodontics", "Prosthodontics", "Oral Pathology"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹10,000",
+    "scholarships": ["Karnataka SC/ST/OBC Scholarships"],
+    "placements": {
+      "average_package": "₹4.1 LPA",
+      "top_recruiters": ["State Govt Clinics", "District Hospitals"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "State-run hostels with boarding",
+      "library": "Extensive medical archives with digital access",
+      "labs": "Clinical training labs with simulation facilities",
+      "hospital": "Attached Govt Dental Hospital with 250 chairs"
+    }
+  },
+  {
+    "rank": 56,
+    "name": "IMS Unison University – School of Dentistry",
+    "location": "Dehradun, Uttarakhand",
+    "type": "Private",
+    "score": 38.55,
+    "affiliation": "IMS Unison University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Conservative Dentistry", "Oral Surgery"],
+      "Postgraduate": ["Periodontics", "Pedodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.8 lakhs",
+    "scholarships": ["Merit Scholarships", "Academic Waivers"],
+    "placements": {
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["IMS Hospital", "Private Clinics"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "hostels": "Modern hostels with study & recreation rooms",
+      "library": "E-library with dental & allied health journals",
+      "labs": "Digital radiography, phantom head labs",
+      "hospital": "Campus dental hospital with OPD & IPD services"
+    }
+  },
+  {
+    "rank": 57,
+    "name": "Kalinga Institute of Industrial Technology – Dental Sciences",
+    "location": "Bhubaneswar, Odisha",
+    "type": "Private Deemed",
+    "score": 38.12,
+    "affiliation": "KIIT University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Pediatric Dentistry", "Oral Pathology"],
+      "Postgraduate": ["Orthodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.9 lakhs",
+    "scholarships": ["KIIT Merit Waivers"],
+    "placements": {
+      "average_package": "₹4.1 LPA",
+      "top_recruiters": ["KIIT Dental Hospital", "Apollo Clinics"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "Campus hostels with gym & mess",
+      "library": "Central library with dental references",
+      "labs": "CBCT and simulation-based labs",
+      "hospital": "On-site multi-specialty dental hospital"
+    }
+  },
+  {
+    "rank": 58,
+    "name": "Dr. D. Y. Patil Vidyapeeth – Dental College, Pimpri",
+    "location": "Pune, Maharashtra",
+    "type": "Private Deemed",
+    "score": 37.85,
+    "affiliation": "DPU Pune",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Allied dental foundation courses including oral biology"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹4.5 lakhs",
+    "scholarships": ["Fee concessions for NEET rank holders"],
+    "placements": {
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["DPU Dental Hospital", "Local SME Clinics"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "hostels": "Separate gender hostels with mess facilities",
+      "library": "DPU central library with dental section",
+      "labs": "Pre-clinical and clinical labs with AFM",
+      "hospital": "Teaching dental hospital with 200 chairs"
+    }
+  },
+  {
+    "rank": 59,
+    "name": "Sri Ramachandra Institute – Dental College, Porur",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private Deemed",
+    "score": 37.42,
+    "affiliation": "Sri Ramachandra University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Community Dentistry"],
+      "Postgraduate": ["Orthodontics", "Oral Surgery"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.7 lakhs",
+    "scholarships": ["University Merit Scholarships"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["SRMC Dental Hospital", "Corporate Clinics"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels with recreation center",
+      "library": "Wide collection of dental textbooks & journals",
+      "labs": "Clinical, simulation & research labs",
+      "hospital": "Advanced dental hospital with CBCT"
+    }
+  },
+  {
+    "rank": 60,
+    "name": "JSS Dental College & Hospital",
+    "location": "Mysuru, Karnataka",
+    "type": "Private Deemed",
+    "score": 37.05,
+    "affiliation": "JSS Academy of Higher Education",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Pediatric Dentistry", "Prosthodontics"],
+      "Postgraduate": ["Periodontics", "Oral Medicine"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹4.3 lakhs",
+    "scholarships": ["JSS merit-scholarships"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["JSS Hospital", "Private Clinics"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "Separate male/female hostels",
+      "library": "E-library with subject-specific journals",
+      "labs": "Full-suite simulation and clinical labs",
+      "hospital": "On-campus tertiary dental hospital"
+    }
+  },
+  {
+    "rank": 61,
+    "name": "Yenepoya Dental College – Yenepoya University",
+    "location": "Mangaluru, Karnataka",
+    "type": "Private Deemed",
+    "score": 36.65,
+    "affiliation": "Yenepoya University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Surgery", "Preventive Dentistry"],
+      "Postgraduate": ["Conservative Dentistry", "Orthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.9 lakhs",
+    "scholarships": ["Yenepoya Merit Award"],
+    "placements": {
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["Yenepoya Dental Hospital", "Corporate Clinics"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "hostels": "Spacious campus hostels with mess",
+      "library": "Fully digitized with PubMed access",
+      "labs": "CBCT, prosthodontics and endodontics labs",
+      "hospital": "Teaching hospital connected with university medical center"
+    }
+  },
+  {
+    "rank": 62,
+    "name": "Government Dental College, Thiruvananthapuram",
+    "location": "Thiruvananthapuram, Kerala",
+    "type": "Government State",
+    "score": 36.25,
+    "affiliation": "Kerala University of Health Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Public Health Dentistry", "Pediatric Dentistry"],
+      "Postgraduate": ["Periodontics", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹5,000",
+    "scholarships": ["Kerala SC/ST/EWS Scholarships"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["State Dental Clinics", "Govt Hospitals"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "hostels": "Government-run separate hostels",
+      "library": "College library with medical archives",
+      "labs": "Clinical and radiological training labs",
+      "hospital": "Adjacent Govt Dental Hospital"
+    }
+  },
+  {
+    "rank": 63,
+    "name": "M. G. R. Dental College (Chennai)",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private Deemed",
+    "score": 35.98,
+    "affiliation": "MGR University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Public Health Dentistry"],
+      "Postgraduate": ["Orthodontics", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.8 lakhs",
+    "scholarships": ["Merit Scholarships"],
+    "placements": {
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["MGR Dental Hospital", "Private Dental Chains"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "hostels": "Secure campus hostels with mess facility",
+      "library": "Multi-disciplinary digital library",
+      "labs": "CBCT and endodontics simulation labs",
+      "hospital": "300-chair dental hospital on campus"
+    }
+  },
+  {
+    "rank": 64,
+    "name": "Bapuji Dental College & Hospital (Davangere)",
+    "location": "Davangere, Karnataka",
+    "type": "Private Deemed",
+    "score": 35.60,
+    "affiliation": "RGUHS",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Orthodontics", "Oral Surgery"],
+      "Postgraduate": ["Periodontics", "Public Health Dentistry"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.5 lakhs",
+    "scholarships": ["Merit Waivers & SC/ST Aid"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Apollo Hospitals", "Rural NGO Clinics"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "hostels": "AC/non-AC hostels with recreation areas",
+      "library": "Digital e-book access + physical archives",
+      "labs": "Clinical skill labs with mannequins",
+      "hospital": "500-chair teaching hospital"
+    }
+  },
+  {
+    "rank": 65,
+    "name": "Institute of Dental Sciences, IMS BHU",
+    "location": "Varanasi, Uttar Pradesh",
+    "type": "Government Central",
+    "score": 35.20,
+    "affiliation": "Banaras Hindu University",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Conservative Dentistry"],
+      "Postgraduate": ["Pedodontics", "Periodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹25,000",
+    "scholarships": ["BHU Scholarships", "Central Govt Schemes"],
+    "placements": {
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["Govt Hospitals", "Academic Institutes"],
+      "placement_rate": "89%"
+    },
+    "infrastructure": {
+      "hostels": "On-campus PG hostels",
+      "library": "Medical library with digital archives",
+      "labs": "Simulated clinical environment labs",
+      "hospital": "SV Memorial Dental Hospital"
+    }
+  },
+  {
+    "rank": 66,
+    "name": "Gangothri Dental College and Hospital",
+    "location": "Bangalore, Karnataka",
+    "type": "Private",
+    "score": 34.75,
+    "affiliation": "Gangothri Educational Trust",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Surgery", "Oral Pathology"],
+      "Postgraduate": ["Prosthodontics", "Orthodontics"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.4 lakhs",
+    "scholarships": ["Institutional Merit Aid"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Gangothri Dental Hospital", "City Clinics"],
+      "placement_rate": "76%"
+    },
+    "infrastructure": {
+      "hostels": "Hostels with common dining and recreation",
+      "library": "Dental books and e-journal access",
+      "labs": "Phantom labs and radiology facilities",
+      "hospital": "Teaching hospital with 150 chairs"
+    }
+  },
+  {
+    "rank": 67,
+    "name": "ITS Dental College, Muradnagar",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "type": "Private",
+    "score": 34.10,
+    "affiliation": "Dewar Institute of Higher Education",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Basic dental sciences", "Clinical dentistry"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Merit-based fee exemptions"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Local dental clinics", "Imaging centers"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "Residential quarters with dining hall",
+      "library": "Basic dental textbooks + e-access",
+      "labs": "Skill labs with phantom models",
+      "hospital": "Attached outpatient dental clinic"
+    }
+  },
+  {
+    "rank": 68,
+    "name": "Punjab Dental College, Amritsar",
+    "location": "Amritsar, Punjab",
+    "type": "Private",
+    "score": 33.65,
+    "affiliation": "Adesh University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Orthodontics", "Oral Surgery"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.1 lakhs",
+    "scholarships": ["University Merit Scholarships", "Minority Aid"],
+    "placements": {
+      "average_package": "₹3.9 LPA",
+      "top_recruiters": ["Local Hospitals", "Private Clinics"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "hostels": "Hostels with mess, recreation room",
+      "library": "Dental reference collection",
+      "labs": "Simulation and radiology",
+      "hospital": "Teaching dental hospital with OPD"
+    }
+  },
+  {
+    "rank": 69,
+    "name": "Sri Aurobindo College of Dentistry",
+    "location": "Indore, Madhya Pradesh",
+    "type": "Private",
+    "score": 33.22,
+    "affiliation": "Sri Aurobindo Institute",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Comprehensive dental curriculum"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.0 lakhs",
+    "scholarships": ["Merit & SC/ST waivers"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Local Clinics", "Regional Hospitals"],
+      "placement_rate": "72%"
+    },
+    "infrastructure": {
+      "hostels": "Separate hostels with Wi-Fi",
+      "library": "Basic textbooks + e-resources",
+      "labs": "Practitioner labs with modern tools",
+      "hospital": "Teaching outpatient dental hospital"
+    }
+  },
+  {
+    "rank": 70,
+    "name": "Raja Rajeswari Dental College and Hospital",
+    "location": "Bangalore, Karnataka",
+    "type": "Private",
+    "score": 32.80,
+    "affiliation": "Ramaiah University of Applied Sciences",
+    "degrees_offered": ["BDS", "MDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Conservative Dentistry"],
+      "Postgraduate": ["Prosthodontics", "Oral Pathology"]
+    },
+    "entrance_exam": "NEET UG / NEET MDS",
+    "average_fee_per_year": "₹3.6 lakhs",
+    "scholarships": ["Institutional awards", "State EWS quota"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Raja Rajeswari Dental Hospital", "Dental Chains"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "hostels": "AC/NAC hostels with canteen facilities",
+      "library": "Dental and multidisciplinary references",
+      "labs": "Clinical and radiography labs",
+      "hospital": "Graduate-level dental hospital with 200 chairs"
+    }
+  },
+  {
+    "rank": 71,
+    "name": "IDS – Institute of Dental Sciences, Bareilly",
+    "location": "Bareilly, Uttar Pradesh",
+    "type": "Private",
+    "score": 32.45,
+    "affiliation": "IIMT University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Oral Surgery", "Preventive Dentistry"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["University Merit Waivers"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Local Private Clinics"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "Gender-based hostels with security",
+      "library": "Basic dental text library",
+      "labs": "Clinical skill lab with phantom heads",
+      "hospital": "Teaching dental OPD unit"
+    }
+  },
+  {
+    "rank": 72,
+    "name": "Mohammad Ali Jauhar Dental College & Hospital",
+    "location": "Rampur, Uttar Pradesh",
+    "type": "Private",
+    "score": 32.10,
+    "affiliation": "Mohammad Ali Jauhar University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["All standard BDS subjects"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.1 lakhs",
+    "scholarships": ["Minority Scholarships"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Area Hospitals"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "Modest hostels with mess",
+      "library": "Limited dental collection",
+      "labs": "Clinical and prep labs",
+      "hospital": "Attached college hospital"
+    }
+  },
+  {
+    "rank": 73,
+    "name": "GDC – Government Dental College, Silchar",
+    "location": "Silchar, Assam",
+    "type": "Government",
+    "score": 31.78,
+    "affiliation": "Srimanta Sankaradeva University of Health Sciences",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Pedodontics"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹8,000",
+    "scholarships": ["Assam Government Aid"],
+    "placements": {
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["State Dental Clinics"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "hostels": "State-run hostel accommodation",
+      "library": "College reading room and journals",
+      "labs": "Basic clinical labs",
+      "hospital": "Attached dental unit"
+    }
+  },
+  {
+    "rank": 74,
+    "name": "Modern Dental College & Research Centre, Indore",
+    "location": "Indore, Madhya Pradesh",
+    "type": "Private",
+    "score": 31.40,
+    "affiliation": "Modern Education Society",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Comprehensive BDS syllabus"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Institutional Merit Scholarships"],
+    "placements": {
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["City dental clinics"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels with modern amenities",
+      "library": "Dental reference section and e-journals",
+      "labs": "Phantom labs and sterilization room",
+      "hospital": "Attached dental OPD"
+    }
+  },
+  {
+    "rank": 75,
+    "name": "Krishna Institute of Dental Sciences, Karad",
+    "location": "Karad, Maharashtra",
+    "type": "Private",
+    "score": 31.05,
+    "affiliation": "KRISHNA Institute",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["BDS specializations"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.1 lakhs",
+    "scholarships": ["Regional Merit Scholarships"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Local dental centres"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "Separate, secure hostels",
+      "library": "Reference books and journals",
+      "labs": "Clinical and endodontics labs",
+      "hospital": "Teaching hospital with OPD"
+    }
+  },
+  {
+    "rank": 76,
+    "name": "Amal Jyothi College of Dental Sciences & Hospital",
+    "location": "Kanjirappally, Kerala",
+    "type": "Private",
+    "score": 30.72,
+    "affiliation": "MG University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Full range of BDS subjects"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.0 lakhs",
+    "scholarships": ["Institutional Merit Aids"],
+    "placements": {
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["Kerala clinics"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "Hostels with study and leisure spaces",
+      "library": "Basic dental library",
+      "labs": "Phantom and practical labs",
+      "hospital": "Teaching dental hospital"
+    }
+  },
+  {
+    "rank": 77,
+    "name": "Hi-Tech Dental College & Hospital, Bhubaneswar",
+    "location": "Bhubaneswar, Odisha",
+    "type": "Private",
+    "score": 30.40,
+    "affiliation": "Hi-Tech Group of Institutions",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Core BDS curriculum"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Institutional Merit"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["City hospitals"],
+      "placement_rate": "72%"
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels with amenities",
+      "library": "Institute library with dental texts",
+      "labs": "Clinical and prosthodontics labs",
+      "hospital": "Teaching hospital with OPD facility"
+    }
+  },
+  {
+    "rank": 78,
+    "name": "Karnataka Dental College, Bengaluru",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private",
+    "score": 30.10,
+    "affiliation": "Peninsula Foundation",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Standard BDS program"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.3 lakhs",
+    "scholarships": ["Merit scholarships"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Private dental chains"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "Hostels with common facilities",
+      "library": "Dental references & e-resources",
+      "labs": "Basic clinical labs",
+      "hospital": "Connected dental OPD"
+    }
+  },
+  {
+    "rank": 79,
+    "name": "R. R. Dental College & Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "type": "Private",
+    "score": 29.75,
+    "affiliation": "Ramaiah University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Full BDS course"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.4 lakhs",
+    "scholarships": ["Institutional Merit"],
+    "placements": {
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["Graduation-level clinics"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "Modern hostels with mess",
+      "library": "Institution library",
+      "labs": "Clinical practice labs",
+      "hospital": "Dental hospital on campus"
+    }
+  },
+  {
+    "rank": 80,
+    "name": "Noble Dental College & Hospital, Patna",
+    "location": "Patna, Bihar",
+    "type": "Private",
+    "score": 29.40,
+    "affiliation": "Noble Group of Institutions",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Core BDS curriculum"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Merit waivers"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["State clinics"],
+      "placement_rate": "66%"
+    },
+    "infrastructure": {
+      "hostels": "In-campus hostels",
+      "library": "Dental reference library",
+      "labs": "Clinical and sterilization labs",
+      "hospital": "Teaching dental hospital"
+    }
+  },
+  {
+    "rank": 81,
+    "name": "Patna Dental College & Hospital",
+    "location": "Patna, Bihar",
+    "type": "Government",
+    "score": 29.10,
+    "affiliation": "Bihar University of Health Sciences",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Public Health Dentistry", "Orthodontics"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹15,000",
+    "scholarships": ["State Govt Scholarships"],
+    "placements": {
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["State Hospitals"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "hostels": "Government-run hostels",
+      "library": "Old medical-dental archives",
+      "labs": "Clinical labs",
+      "hospital": "Attached state dental wing"
+    }
+  },
+  {
+    "rank": 82,
+    "name": "Subharti Dental College & Hospital",
+    "location": "Meerut, Uttar Pradesh",
+    "type": "Private",
+    "score": 28.85,
+    "affiliation": "Chaudhary Charan Singh University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Oral Surgery", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.0 lakhs",
+    "scholarships": ["University Merit"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Regional Clinics"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels",
+      "library": "Dental section in central library",
+      "labs": "Phantom head and radiology labs",
+      "hospital": "Teaching dental hospital"
+    }
+  },
+  {
+    "rank": 83,
+    "name": "Easwari Dental College & Hospital",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private",
+    "score": 28.55,
+    "affiliation": "SRM IST",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["All BDS subjects"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Merit Scholarships"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["SRM Dental Clinics"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "Hostels with common areas",
+      "library": "Dental reference section",
+      "labs": "Clinical training labs",
+      "hospital": "Mini dental hospital within campus"
+    }
+  },
+  {
+    "rank": 84,
+    "name": "Bhagawan Mahavir Institute of Dental Sciences, Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "type": "Private",
+    "score": 28.30,
+    "affiliation": "Bhagwan Mahavir University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Core BDS coursework"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.1 lakhs",
+    "scholarships": ["Merit Aid"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Hyderabad clinics"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "Campus hostels with dining",
+      "library": "Dental textbook collection",
+      "labs": "Basic clinical labs",
+      "hospital": "Dental OPD on campus"
+    }
+  },
+  {
+    "rank": 85,
+    "name": "Yin Dental College & Hospital, Vadodara",
+    "location": "Vadodara, Gujarat",
+    "type": "Private",
+    "score": 27.95,
+    "affiliation": "Maharaja Sayajirao University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Core dental disciplines"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.0 lakhs",
+    "scholarships": ["Institutional need-based"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Vadodara clinics"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "Separate gender hostels",
+      "library": "Dental references and e-books",
+      "labs": "Clinical skill labs",
+      "hospital": "Teaching hospital with OPD"
+    }
+  },
+  {
+    "rank": 86,
+    "name": "Modern Dental College, Indore",
+    "location": "Indore, Madhya Pradesh",
+    "type": "Private",
+    "score": 27.62,
+    "affiliation": "Modern Education Society",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Complete BDS curriculum"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.1 lakhs",
+    "scholarships": ["Merit Waivers", "State SC/ST Aid"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["City Dental Clinics"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "Shared residential hostels",
+      "library": "Updated dental-focused references",
+      "labs": "Clinical and preclinical labs",
+      "hospital": "On-site OPD teaching hospital"
+    }
+  },
+  {
+    "rank": 87,
+    "name": "Pushpagiri College of Dental Sciences, Thiruvalla",
+    "location": "Thiruvalla, Kerala",
+    "type": "Private",
+    "score": 27.30,
+    "affiliation": "Kerala University of Health Sciences",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Public Health Dentistry", "Oral Surgery"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.0 lakhs",
+    "scholarships": ["Institutional Merit Scholarships"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Pushpagiri Hospital Clinics"],
+      "placement_rate": "69%"
+    },
+    "infrastructure": {
+      "hostels": "Campus hostels with study lounges",
+      "library": "Dental_RESOURCE_COLLECTION",
+      "labs": "Clinical and sterilization facilities",
+      "hospital": "Teaching dental OPD unit"
+    }
+  },
+  {
+    "rank": 88,
+    "name": "Coorg Institute of Dental Sciences, Virajpet",
+    "location": "Virajpet, Karnataka",
+    "type": "Private",
+    "score": 26.98,
+    "affiliation": "Rajiv Gandhi University of Health Sciences",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Core BDS disciplines"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Institutional Merit Aid"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Coorg Institute Dental Hospital"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "Shared hostels with mess",
+      "library": "Dental books & journals",
+      "labs": "Clinical and radiology labs",
+      "hospital": "Teaching OPD dental hospital"
+    }
+  },
+  {
+    "rank": 89,
+    "name": "Dawoodbhoy Institute of Research Dental Sciences, Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private",
+    "score": 26.75,
+    "affiliation": "University of Madras",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Comprehensive BDS syllabus"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Institutional Scholarships"],
+    "placements": {
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["Dawoodbhoy Dental Hospital"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "Hostels with mess and recreation",
+      "library": "Dental textbook and e-journals",
+      "labs": "Phantom and clinical labs",
+      "hospital": "In-campus dental OPD"
+    }
+  },
+  {
+    "rank": 90,
+    "name": "K.J. Somaiya Dental College & Research Centre, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "type": "Private",
+    "score": 26.40,
+    "affiliation": "Somaiya Vidyavihar University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Oral Medicine", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.5 lakhs",
+    "scholarships": ["Merit Scholarships"],
+    "placements": {
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["SVC Dental Hospital"],
+      "placement_rate": "71%"
+    },
+    "infrastructure": {
+      "hostels": "Urban hostels with mess facility",
+      "library": "Dental-section of central library",
+      "labs": "Clinical and cosmetic dentistry labs",
+      "hospital": "In-house dental hospital with OPD"
+    }
+  },
+  {
+    "rank": 91,
+    "name": "Surendera Dental College & Research Centre, Sri Ganganagar",
+    "location": "Sri Ganganagar, Rajasthan",
+    "type": "Private",
+    "score": 26.18,
+    "affiliation": "Surendera University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Core BDS coursework"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.1 lakhs",
+    "scholarships": ["Need‑based Aid"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["District Clinics"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "On‑campus hostels with mess",
+      "library": "Dental references & e‑resources",
+      "labs": "Clinical labs",
+      "hospital": "Teaching OPD"
+    }
+  },
+  {
+    "rank": 92,
+    "name": "BBA Dental College & Hospital, Lucknow",
+    "location": "Lucknow, Uttar Pradesh",
+    "type": "Private",
+    "score": 25.82,
+    "affiliation": "BBA University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Full BDS subjects"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.3 lakhs",
+    "scholarships": ["University Merit Waivers"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["City dental clinics"],
+      "placement_rate": "69%"
+    },
+    "infrastructure": {
+      "hostels": "Residential hostels",
+      "library": "Library with dental books",
+      "labs": "Clinical and phantom labs",
+      "hospital": "Attached dental OPD"
+    }
+  },
+  {
+    "rank": 93,
+    "name": "Patna Dental College (duplicate removed)",
+    "note": "Excluded due to prior coverage."
+  },
+  {
+    "rank": 93,
+    "name": "Chaudhary Dental College & Hospital, Meerut",
+    "location": "Meerut, Uttar Pradesh",
+    "type": "Private",
+    "score": 25.40,
+    "affiliation": "Dr. B. R. Ambedkar University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Oral and Maxillofacial Surgery", "Conservative Dentistry"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Merit Scholarships"],
+    "placements": {
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["Local private clinics"],
+      "placement_rate": "67%"
+    },
+    "infrastructure": {
+      "hostels": "On‑campus hostels",
+      "library": "Dental textbooks and e-access",
+      "labs": "Basic clinical labs",
+      "hospital": "Attached teaching hospital"
+    }
+  },
+  {
+    "rank": 94,
+    "name": "Santosh Dental College, Ghaziabad",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "type": "Private",
+    "score": 25.15,
+    "affiliation": "Santosh University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Conservative Dentistry", "Prosthodontics"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.4 lakhs",
+    "scholarships": ["University Merit"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Santosh Hospital Clinics"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "Hostels with dining and study rooms",
+      "library": "Dental section in central library",
+      "labs": "Clinical and phantom head labs",
+      "hospital": "On‑campus dental hospital"
+    }
+  },
+  {
+    "rank": 95,
+    "name": "Oriental Dental College, Bhopal",
+    "location": "Bhopal, Madhya Pradesh",
+    "type": "Private",
+    "score": 24.85,
+    "affiliation": "Oriental University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Full BDS curriculum"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Merit Aid"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["City Clinics"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "On‑campus hostels",
+      "library": "Dental references",
+      "labs": "Clinical training labs",
+      "hospital": "Attached dental hospital"
+    }
+  },
+  {
+    "rank": 96,
+    "name": "Prin. Dr. D. Y. Patil Dental College, Pimpri (duplicate removed)",
+    "note": "Excluded to avoid duplication."
+  },
+  {
+    "rank": 96,
+    "name": "Bhagawan Dental College & Hospital, Nellore",
+    "location": "Nellore, Andhra Pradesh",
+    "type": "Private",
+    "score": 24.50,
+    "affiliation": "BV Society",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Comprehensive BDS program"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.1 lakhs",
+    "scholarships": ["Institutional Scholarships"],
+    "placements": {
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["Nellore Dental Clinics"],
+      "placement_rate": "67%"
+    },
+    "infrastructure": {
+      "hostels": "Shared hostels with meals",
+      "library": "Dental collection with e-journals",
+      "labs": "Clinical and prosthodontic labs",
+      "hospital": "On‑campus teaching unit"
+    }
+  },
+  {
+    "rank": 97,
+    "name": "Vydehi Institute of Dental Sciences and Research Centre",
+    "location": "Bangalore, Karnataka",
+    "type": "Private",
+    "score": 24.15,
+    "affiliation": "Vydehi University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Oral Pathology", "Endodontics"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.5 lakhs",
+    "scholarships": ["Merit Scholarships"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Vydehi Hospitals"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "hostels": "Residential hostels with amenities",
+      "library": "Modern dental library",
+      "labs": "Clinical and simulation labs",
+      "hospital": "Teaching dental hospital with OPD"
+    }
+  },
+  {
+    "rank": 98,
+    "name": "Meenakshi Ammal Dental College & Hospital, Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private",
+    "score": 23.80,
+    "affiliation": "Meenakshi University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Basic BDS subjects"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.3 lakhs",
+    "scholarships": ["Merit Waivers"],
+    "placements": {
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["Meenakshi Hospital Clinics"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "Campus hostels with security",
+      "library": "Dental reference section",
+      "labs": "Clinical labs and phantom models",
+      "hospital": "Teaching OPD dental unit"
+    }
+  },
+  {
+    "rank": 99,
+    "name": "Motiwala Educational & Welfare Trust Dental College & Hospital, Nashik",
+    "location": "Nashik, Maharashtra",
+    "type": "Private",
+    "score": 23.40,
+    "affiliation": "MEW Trust",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Comprehensive BDS syllabus"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.2 lakhs",
+    "scholarships": ["Merit Waivers"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Nashik Clinics"],
+      "placement_rate": "69%"
+    },
+    "infrastructure": {
+      "hostels": "Hostels with dining hall",
+      "library": "Dental references & journals",
+      "labs": "Clinical training centers",
+      "hospital": "On‑campus dental OPD"
+    }
+  },
+  {
+    "rank": 100,
+    "name": "ICDR – Institute of Dental Sciences & Research, Lucknow",
+    "location": "Lucknow, Uttar Pradesh",
+    "type": "Private",
+    "score": 23.10,
+    "affiliation": "Chaudhary Charan Singh University",
+    "degrees_offered": ["BDS"],
+    "courses": {
+      "Undergraduate": ["Core BDS curriculum"]
+    },
+    "entrance_exam": "NEET UG",
+    "average_fee_per_year": "₹3.3 lakhs",
+    "scholarships": ["Merit Aid"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["City Clinics"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "hostels": "Separate campus hostels",
+      "library": "Dental reference collection",
+      "labs": "Teaching clinics and labs",
+      "hospital": "On‑campus dental teaching facility"
+    }
+  }
+]

@@ -1,0 +1,3084 @@
+[
+  {
+    "rank": 1,
+    "name": "Indian Institute of Technology Roorkee",
+    "location": "Roorkee, Uttarakhand",
+    "type": "Government (IIT)",
+    "score": 84.92,
+    "established": 1847,
+    "degrees_offered": ["B.Arch", "M.Arch", "PhD"],
+    "entrance_exam": ["JEE Main Paper II", "GATE", "CEED"],
+    "annual_fees": "₹24,480 – ₹1,04,600",
+    "scholarships": ["Merit scholarships", "Govt SC/ST/OBC stipends"],
+    "placements": {
+      "average_package": "₹10 LPA",
+      "top_recruiters": ["Architectural firms", "Construction/Urban planning companies"],
+      "placement_rate": "90%"
+    },
+    "infrastructure": {
+      "studios": "Spacious design studios with individual workstations",
+      "labs": "Digital fabrication lab, VR lab, model-making workshops",
+      "library": "Central library + specialized architecture/reference section",
+      "hostels": "On-campus hostels with mess and recreational facilities"
+    }
+  },
+  {
+    "rank": 2,
+    "name": "Indian Institute of Technology Kharagpur",
+    "location": "Kharagpur, West Bengal",
+    "type": "Government (IIT)",
+    "score": 80.71,
+    "established": 1951,
+    "degrees_offered": ["B.Arch", "M.Arch", "PhD"],
+    "entrance_exam": ["JEE Main Paper II", "GATE", "CEED"],
+    "annual_fees": "₹2,00,000",
+    "scholarships": ["IITK merit-based fellowships", "Govt scholarships"],
+    "placements": {
+      "average_package": "₹9.5 LPA",
+      "top_recruiters": ["Architectural & design firms", "Urban planners"],
+      "placement_rate": "88%"
+    },
+    "infrastructure": {
+      "studios": "Dedicated design studios with display areas",
+      "labs": "CAD/CAM, digital fabrication, environmental testing labs",
+      "library": "Architecture library + digital learning tools",
+      "hostels": "Comprehensive residential facilities"
+    }
+  },
+  {
+    "rank": 3,
+    "name": "National Institute of Technology Calicut",
+    "location": "Kozhikode, Kerala",
+    "type": "Government (NIT)",
+    "score": 79.51,
+    "established": 1999,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹99,886 – ₹1,25,000",
+    "scholarships": ["NITC merit scholarships", "State govt aid"],
+    "placements": {
+      "average_package": "₹8 LPA",
+      "top_recruiters": ["Architecture firms", "Consultancies"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "studios": "Student-centric studios with plenary zones",
+      "labs": "Model-making, materials lab, digital studio",
+      "library": "Departmental collections + access to campus library",
+      "hostels": "On-site hostels with dedicated architecture blocks"
+    }
+  },
+  {
+    "rank": 4,
+    "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "location": "Howrah, West Bengal",
+    "type": "Government (IIEST)",
+    "score": 69.71,
+    "established": "1856 (as engineering college)",
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "Approx. ₹1.42 LPA",
+    "scholarships": ["Central govt and state scholarships"],
+    "placements": {
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["Planning firms", "Public infrastructure agencies"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Spacious studios with exposure to historic campus",
+      "labs": "Material testing, workshop, digital design labs",
+      "library": "Central and subject-specific collections",
+      "hostels": "Separate UG hostels with communities"
+    }
+  },
+  {
+    "rank": 5,
+    "name": "School of Planning and Architecture, New Delhi",
+    "location": "New Delhi",
+    "type": "Deemed to be University (Institute of National Importance)",
+    "score": 69.00,
+    "established": 1941,
+    "degrees_offered": ["B.Arch", "B.Planning", "M.Arch", "M.Plan", "PhD"],
+    "entrance_exam": ["JEE Main Paper II", "GATE", "SPAP written test"],
+    "annual_fees": "₹2.36 L – ₹3.70 L",
+    "scholarships": ["Ministry of Education fellowships", "Merit-cum-Means"],
+    "placements": {
+      "average_package": "₹12 LPA",
+      "top_recruiters": ["International design firms", "Planning agencies", "NGOs"],
+      "placement_rate": "95%"
+    },
+    "infrastructure": {
+      "studios": "Award-winning studio blocks, exhibition spaces",
+      "labs": "GIS, urban design, material lab, VR studio",
+      "library": "One of the most extensive architecture collections in India",
+      "hostels": "On-campus but limited; priority to UG"
+    }
+  },
+  {
+    "rank": 6,
+    "name": "CEPT University",
+    "location": "Ahmedabad, Gujarat",
+    "type": "Private University",
+    "score": 67.23,
+    "established": 1962,
+    "degrees_offered": ["B.Arch", "B.Planning", "M.Arch", "M.Plan", "PhD"],
+    "entrance_exam": ["CEPTAP", "GATE", "CAT for design"],
+    "annual_fees": "₹3.99 L – ₹8.38 L",
+    "scholarships": ["AES merit scholarships", "OBC/SC/ST state aid"],
+    "placements": {
+      "average_package": "₹9 LPA",
+      "top_recruiters": ["Architectural firms", "Urban planning consultancies"],
+      "placement_rate": "89%"
+    },
+    "infrastructure": {
+      "studios": "Renowned studios with strong built heritage focus",
+      "labs": "Structural testing, materials, heritage conservation labs",
+      "library": "Specialist library with historical archives",
+      "hostels": "On-campus hostels with full facilities"
+    }
+  },
+  {
+    "rank": 7,
+    "name": "Jamia Millia Islamia – Faculty of Architecture & Ekistics",
+    "location": "New Delhi",
+    "type": "Central University",
+    "score": 66.21,
+    "established": 1947,
+    "degrees_offered": ["B.Arch", "B.Plan", "M.Arch", "PhD"],
+    "entrance_exam": ["JEE Main Paper II", "NATA"],
+    "annual_fees": "₹12,610 – ₹3,02,699",
+    "scholarships": ["Minority & central govt schemes"],
+    "placements": {
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["Architecture & planning firms", "Government agencies"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "studios": "Dedicated architecture studios in main arts campus",
+      "labs": "Drawing, model-making, survey labs",
+      "library": "Faculty library + central university resources",
+      "hostels": "Separate hostels with affordable mess"
+    }
+  },
+  {
+    "rank": 8,
+    "name": "National Institute of Technology Tiruchirappalli",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "type": "Government (NIT)",
+    "score": 65.08,
+    "established": 1964,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.40 L – ₹6.25 L",
+    "scholarships": ["NIT Trichy merit schemes", "Govt reserves"],
+    "placements": {
+      "average_package": "₹8 LPA",
+      "top_recruiters": ["Consulting firms", "Construction firms"],
+      "placement_rate": "84%"
+    },
+    "infrastructure": {
+      "studios": "Integrated studios with engineering collaboration",
+      "labs": "Materials, digital fabrication, surveying labs",
+      "library": "Central and departmental architecture collections",
+      "hostels": "Spacious hostels with good amenities"
+    }
+  },
+  {
+    "rank": 9,
+    "name": "Aligarh Muslim University – Department of Architecture",
+    "location": "Aligarh, Uttar Pradesh",
+    "type": "Central University",
+    "score": 62.38,
+    "established": 1920,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["JEE Main Paper II", "NATA"],
+    "annual_fees": "₹20,000 approx.",
+    "scholarships": ["Minority & AMU merit scholarships"],
+    "placements": {
+      "average_package": "₹6.5 LPA",
+      "top_recruiters": ["Architecture firms", "Heritage conservation bodies"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Dedicated studio blocks within arts faculty",
+      "labs": "Workshop & material labs",
+      "library": "Faculty library + UNION central library",
+      "hostels": "Residential halls for students"
+    }
+  },
+  {
+    "rank": 10,
+    "name": "College of Engineering Trivandrum – Department of Architecture",
+    "location": "Thiruvananthapuram, Kerala",
+    "type": "Government College",
+    "score": 56.54,
+    "established": 1939,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["KEAM / JEE Main Paper II"],
+    "annual_fees": "₹56,000",
+    "scholarships": ["Kerala govt merit/stipend"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Architectural firms", "Construction companies"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Studio-centric curriculum with site visits",
+      "labs": "Hands-on workshop & materials labs",
+      "library": "Well-curated architecture section",
+      "hostels": "On-campus hostels with active student culture"
+    }
+  },
+  {
+    "rank": 11,
+    "name": "Manipal Academy of Higher Education – School of Architecture and Planning",
+    "location": "Udupi, Karnataka",
+    "type": "Deemed",
+    "score": 53.13,
+    "established": 2011,
+    "degrees_offered": ["B.Arch", "M.Plan", "M.Arch"],
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹5–6 LPA",
+    "scholarships": ["MAHE merit scholarships"],
+    "placements": {
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["Design firms", "Urban planners"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "studios": "Wi-Fi-equipped studios with display areas",
+      "labs": "Digital design & materials labs",
+      "library": "E-library access + architecture journal archive",
+      "hostels": "Modern hostels with sports/recreation"
+    }
+  },
+  {
+    "rank": 12,
+    "name": "Birla Institute of Technology, Ranchi – Department of Architecture",
+    "location": "Ranchi, Jharkhand",
+    "type": "Deemed",
+    "score": 54.43,
+    "established": "1955 (BIT)",
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["JEE Main Paper II", "BITSAT"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["Deemed university scholarships", "State aid"],
+    "placements": {
+      "average_package": "₹6.5 LPA",
+      "top_recruiters": ["Architecture & construction firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Cross-disciplinary studios with engineering integration",
+      "labs": "Model-making, CAD/CAM labs",
+      "library": "Institutional library with design resources",
+      "hostels": "On-campus accommodation"
+    }
+  },
+  {
+    "rank": 13,
+    "name": "BMS College of Architecture",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private",
+    "score": 54.21,
+    "established": 1979,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["College merit scholarships"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Local/International firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Urban design studios with project walls",
+      "labs": "Ceramics, clay modeling, and CAD labs",
+      "library": "Dedicated architecture library",
+      "hostels": "Nearby private hostels with mess facilities"
+    }
+  },
+  {
+    "rank": 14,
+    "name": "Maulana Azad National Institute of Technology (MANIT) Bhopal – Department of Architecture",
+    "location": "Bhopal, Madhya Pradesh",
+    "type": "Government (NIT)",
+    "score": 53.64,
+    "established": 1960,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["NIT MANIT merit/sc"],
+    "placements": {
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["Construction & design firms"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "studios": "Part of engineering campus with design corridors",
+      "labs": "Material physics, workshop labs",
+      "library": "Engineering library with architecture holdings",
+      "hostels": "Large residential hostels"
+    }
+  },
+  {
+    "rank": 15,
+    "name": "National Institute of Technology Hamirpur – Architecture",
+    "location": "Hamirpur, Himachal Pradesh",
+    "type": "Government (NIT)",
+    "score": 51.54,
+    "established": 1986,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.4 LPA",
+    "scholarships": ["NIT Hamirpur merit & govt"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Regional planning and design firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Integrated architecture studios",
+      "labs": "Materials and model-making facilities",
+      "library": "Central library with architecture section",
+      "hostels": "Residential hostels in H.P. climate"
+    }
+  },
+  {
+    "rank": 16,
+    "name": "Thiagarajar College of Engineering – Department of Architecture",
+    "location": "Madurai, Tamil Nadu",
+    "type": "Autonomous (Govt Aided)",
+    "score": 52.09,
+    "established": 1957,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹1.5 LPA",
+    "scholarships": ["SC/ST/OBC state scholarships"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Architectural firms", "Construction companies"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Well-ventilated studios with material display",
+      "labs": "Workshop & drafting labs",
+      "library": "Departmental resource center",
+      "hostels": "Campus hostels with mess"
+    }
+  },
+  {
+    "rank": 17,
+    "name": "Anna University – School of Architecture and Planning",
+    "location": "Chennai, Tamil Nadu",
+    "type": "State University",
+    "score": 52.08,
+    "established": 1957,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["TNEA counseling (based on NATA/JEE)"],
+    "annual_fees": "₹1.2 LPA",
+    "scholarships": ["State govt merit scholarships"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Design/Architectural firms"],
+      "placement_rate": "72%"
+    },
+    "infrastructure": {
+      "studios": "Collab studios with civil engineering",
+      "labs": "Structural, materials labs",
+      "library": "University central library",
+      "hostels": "University hostels"
+    }
+  },
+  {
+    "rank": 18,
+    "name": "School of Planning and Architecture Bhopal",
+    "location": "Bhopal, Madhya Pradesh",
+    "type": "Central University",
+    "score": 61.99,
+    "established": 2008,
+    "degrees_offered": ["B.Arch", "B.Planning", "M.Arch", "M.Plan"],
+    "entrance_exam": ["JEE Main Paper II", "GATE"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Central govt fellowships"],
+    "placements": {
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["Urban planners", "Architectural consultancies"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "studios": "Dedicated architecture/planning studios",
+      "labs": "GIS, Materials, Digital labs",
+      "library": "Specialized architecture planning collection",
+      "hostels": "On-campus hostels with mess"
+    }
+  },
+  {
+    "rank": 19,
+    "name": "Nirma University – School of Architecture",
+    "location": "Ahmedabad, Gujarat",
+    "type": "Private",
+    "score": 57.69,
+    "established": 2003,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["JEE Main Paper II", "NATA"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["University merit scholarships"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Local architecture firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Large studios with digital drafting facilities",
+      "labs": "Materials and model-making labs",
+      "library": "Architecture and design collection",
+      "hostels": "On-campus hostels"
+    }
+  },
+  {
+    "rank": 20,
+    "name": "Birla Institute of Technology – Department of Architecture",
+    "location": "Ranchi, Jharkhand",
+    "type": "Deemed",
+    "score": 57.21,
+    "established": 2002,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["JEE Main Paper II", "BITSAT"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["Deemed university merit scholarships"],
+    "placements": {
+      "average_package": "₹6.5 LPA",
+      "top_recruiters": ["Construction firms", "Design consultancies"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "studios": "Well‑equipped design studios",
+      "labs": "CAD/CAM and materials labs",
+      "library": "Architecture section in central library",
+      "hostels": "Residential halls"
+    }
+  },
+  {
+    "rank": 21,
+    "name": "M. S. Ramaiah Institute of Technology – Architecture Division",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private",
+    "score": 57.01,
+    "established": 1992,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹2.8 LPA",
+    "scholarships": ["Institution merit scholarships"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Bangalore-based firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Design studios with collaborative zones",
+      "labs": "Digital fabrication and model labs",
+      "library": "Technical collection with architecture books",
+      "hostels": "Campus hostels with amenities"
+    }
+  },
+  {
+    "rank": 22,
+    "name": "Dr. M. G. R. Educational and Research Institute – School of Architecture",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private Deemed",
+    "score": 56.31,
+    "established": 2000,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["NATA"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["MGRE merit scholarships"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Chennai planning firms"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Well‑ventilated studio spaces",
+      "labs": "Materials and digital labs",
+      "library": "Institutional architecture library",
+      "hostels": "On-campus with dining"
+    }
+  },
+  {
+    "rank": 23,
+    "name": "BMS College of Architecture",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private",
+    "score": 56.04,
+    "established": 1979,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["College merit scholarships"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Bangalore firms", "Design studios"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Urban design studios with exhibition area",
+      "labs": "Clay modeling, ceramics, CAD labs",
+      "library": "Dedicated architecture library",
+      "hostels": "Private hostels nearby"
+    }
+  },
+  {
+    "rank": 24,
+    "name": "Lovely Professional University – School of Architecture & Design",
+    "location": "Phagwara, Punjab",
+    "type": "Private",
+    "score": 55.86,
+    "established": 2006,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["NATA", "LPUNEST"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["LPU merit scholarships"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Design consultancies"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "studios": "Spacious studios with digital tools",
+      "labs": "Workshop & materials lab",
+      "library": "Large central library with design section",
+      "hostels": "Extensive residential blocks"
+    }
+  },
+  {
+    "rank": 25,
+    "name": "Amity University – School of Architecture & Planning",
+    "location": "Kolkata, West Bengal",
+    "type": "Private",
+    "score": 54.71,
+    "established": 2003,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["AUCET", "NATA"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["Amity merit scholarships"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Consultancies and firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Modern studios with display areas",
+      "labs": "Digital design & model-making labs",
+      "library": "Architecture section in central library",
+      "hostels": "Campus hostels with amenities"
+    }
+  },
+  {
+    "rank": 26,
+    "name": "Thiagarajar College of Engineering – Department of Architecture",
+    "location": "Madurai, Tamil Nadu",
+    "type": "Autonomous (Govt Aided)",
+    "score": 54.71,
+    "established": 1957,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹1.5 LPA",
+    "scholarships": ["State and institutional scholarships"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Chennai & Madurai firms"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Ventilated studios with material displays",
+      "labs": "Drafting, model, and material labs",
+      "library": "Departmental resource center",
+      "hostels": "On-campus hostels"
+    }
+  },
+  {
+    "rank": 27,
+    "name": "National Institute of Technology Patna – Architecture",
+    "location": "Patna, Bihar",
+    "type": "Government (NIT)",
+    "score": 54.19,
+    "established": 2015,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.4 LPA",
+    "scholarships": ["NIT Patna merit and scholarships"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Regional planning & design firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Integrated architecture studios",
+      "labs": "Digital fabrication & drafting labs",
+      "library": "Central library with architecture section",
+      "hostels": "Residential hostels"
+    }
+  },
+  {
+    "rank": 28,
+    "name": "Manipal School of Architecture & Planning, MAHE",
+    "location": "Udupi, Karnataka",
+    "type": "Deemed University",
+    "score": 53.21,
+    "established": 2006,
+    "degrees_offered": ["B.Arch", "M.Plan"],
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹5 LPA",
+    "scholarships": ["MAHE merit scholarships"],
+    "placements": {
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["Design/Urban planning firms"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "studios": "Wi‑Fi integrated studios",
+      "labs": "Digital design & materials labs",
+      "library": "E-resource and journal access",
+      "hostels": "Modern on-campus residences"
+    }
+  },
+  {
+    "rank": 29,
+    "name": "Guru Gobind Singh Indraprastha University – School of Architecture",
+    "location": "New Delhi",
+    "type": "State University",
+    "score": 52.73,
+    "established": 2017,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II", "IPU CET"],
+    "annual_fees": "₹3.9 LPA",
+    "scholarships": ["IPU merit and SC/ST schemes"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Delhi‑NCR design firms"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Urban studios in city campus",
+      "labs": "Model and drafting labs",
+      "library": "University central library",
+      "hostels": "Limited on-campus housing"
+    }
+  },
+  {
+    "rank": 30,
+    "name": "Chandigarh College of Architecture (CCA)",
+    "location": "Chandigarh, Chandigarh",
+    "type": "Government",
+    "score": 52.60,
+    "established": 1961,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["NATA"],
+    "annual_fees": "₹1 LPA",
+    "scholarships": ["Govt merit-based scholarships"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Le Corbusier heritage firms", "Urban design consultancies"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "studios": "Heritage studio spaces; annual 'Archo' festival" ,
+      "labs": "Model-making, workshop & exhibition labs",
+      "library": "Dedicated architecture library",
+      "hostels": "On-campus hostels"
+    },
+    "annual_events": ["Corbu Day", "Archo festival"] 
+  },
+  {
+    "rank": 31,
+    "name": "Shri Mata Vaishno Devi University – School of Architecture",
+    "location": "Katra, Jammu & Kashmir",
+    "type": "Government (Deemed)",
+    "score": 52.59,
+    "established": 2001,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["JEE Main Paper II", "NATA"],
+    "annual_fees": "₹1.2 LPA",
+    "scholarships": ["State & central government scholarships"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Regional design firms"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Studio blocks with heritage and landscape focus",
+      "labs": "Materials workshop and model-making studios",
+      "library": "Architecture collection within central library",
+      "hostels": "On-campus hostels with scenic campus views"
+    }
+  },
+  {
+    "rank": 32,
+    "name": "National Institute of Technology Hamirpur – Architecture",
+    "location": "Hamirpur, Himachal Pradesh",
+    "type": "Government (NIT)",
+    "score": 52.58,
+    "established": 1986,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.4 LPA",
+    "scholarships": ["NIT merit & state scholarships"],
+    "placements": {
+      "average_package": "₹6.2 LPA",
+      "top_recruiters": ["Regional firms", "Planning agencies"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Integrated with engineering and planning streams",
+      "labs": "Material testing and workshop labs",
+      "library": "Campus library with architecture section",
+      "hostels": "Residential hostels in hill campus"
+    }
+  },
+  {
+    "rank": 33,
+    "name": "Manipal University Jaipur – School of Architecture",
+    "location": "Jaipur, Rajasthan",
+    "type": "Private University",
+    "score": 51.60,
+    "established": 2011,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["JEE Main Paper II", "NATA"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["MUJ merit & need-based scholarships"],
+    "placements": {
+      "average_package": "₹5.8 LPA",
+      "top_recruiters": ["Design consultancies", "Construction firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Modern studios with CAD/CAM facilities",
+      "labs": "Model-making, digital fabrication labs",
+      "library": "Architecture section in central library",
+      "hostels": "Seasonal climate-controlled hostels"
+    }
+  },
+  {
+    "rank": 34,
+    "name": "Anna University – School of Architecture and Planning",
+    "location": "Chennai, Tamil Nadu",
+    "type": "State University",
+    "score": 51.16,
+    "established": 1957,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["TNEA (via NATA/JEE)"],
+    "annual_fees": "₹1.2 LPA",
+    "scholarships": ["State merit scholarships"],
+    "placements": {
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["Chennai design firms", "Construction companies"],
+      "placement_rate": "72%"
+    },
+    "infrastructure": {
+      "studios": "Interdisciplinary studios with engineering synergy",
+      "labs": "Structural, materials, drafting labs",
+      "library": "Central engineering library with architecture section",
+      "hostels": "Campus hostels with food mess"
+    }
+  },
+  {
+    "rank": 35,
+    "name": "Chitkara University – School of Planning & Architecture",
+    "location": "Rajpura, Punjab",
+    "type": "Private University",
+    "score": 50.96,
+    "established": 2008,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["JEE Main Paper II", "NATA"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["University merit scholarships"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Corporate firms", "Housing developers"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Contemporary studios with exhibition areas",
+      "labs": "Drafting, digital, materials labs",
+      "library": "Dedicated architecture section",
+      "hostels": "Modern hostels with amenities"
+    }
+  },
+  {
+    "rank": 36,
+    "name": "National Institute of Technology Raipur – Architecture",
+    "location": "Raipur, Chhattisgarh",
+    "type": "Government (NIT)",
+    "score": 50.63,
+    "established": 2005,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.4 LPA",
+    "scholarships": ["NIT merit & state"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Consulting and construction firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Engineering-integrated planning studios",
+      "labs": "Materials and model labs",
+      "library": "Campus central library with architecture section",
+      "hostels": "On-campus hostels"
+    }
+  },
+  {
+    "rank": 37,
+    "name": "Anant National University – School of Architecture",
+    "location": "Ahmedabad, Gujarat",
+    "type": "Private University",
+    "score": 49.53,
+    "established": 2011,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II", "NATA"],
+    "annual_fees": "₹3.5 LPA",
+    "scholarships": ["Anant merit scholarships"],
+    "placements": {
+      "average_package": "₹6.5 LPA",
+      "top_recruiters": ["Design consultancies", "Fellowship agencies"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "studios": "Research-driven studios and built environment labs",
+      "labs": "Digital fabrication, materials labs",
+      "library": "Specialist built-environment library",
+      "hostels": "Campus residences with communal spaces"
+    }
+  },
+  {
+    "rank": 38,
+    "name": "BMS School of Architecture – Yelahanka",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private (part of BMS institutions)",
+    "score": 49.47,
+    "established": 2018,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹2.8 LPA",
+    "scholarships": ["BMS merit scholarships"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Local Bangalore firms"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Modern studios with display panels",
+      "labs": "CAD, modeling labs",
+      "library": "Institutional central library",
+      "hostels": "Nearby private hostels"
+    }
+  },
+  {
+    "rank": 39,
+    "name": "Gandhi Institute of Technology and Management – Architecture",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "type": "Private University",
+    "score": 48.99,
+    "established": 2017,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["GITAM merit scholarships"],
+    "placements": {
+      "average_package": "₹5.8 LPA",
+      "top_recruiters": ["Urban development consultancies"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Integrated studios in engineering campus",
+      "labs": "Digital and materials labs",
+      "library": "Campus central library",
+      "hostels": "Residential hostels"
+    }
+  },
+  {
+    "rank": 40,
+    "name": "B. S. Abdur Rahman Crescent Institute – Architecture",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private",
+    "score": 47.53,
+    "established": 2008,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["NATA"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["Minority institute scholarships"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Chennai design and construction firms"],
+      "placement_rate": "74%"
+    },
+    "infrastructure": {
+      "studios": "Contemporary studios in new campus",
+      "labs": "Workshop and materials labs",
+      "library": "Institutional library",
+      "hostels": "On-campus hostels"
+    }
+  },
+  {
+    "rank": 41,
+    "name": "Visvesvaraya National Institute of Technology Nagpur – Architecture",
+    "location": "Nagpur, Maharashtra",
+    "type": "Government (NIT)",
+    "score": 63.05,
+    "established": "1960 (Architecture dept later)",
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.2 LPA",
+    "scholarships": ["NITNN merit/stipends"],
+    "placements": {
+      "average_package": "₹6.5 LPA",
+      "top_recruiters": ["Regional and national firms"],
+      "placement_rate": "83%"
+    },
+    "infrastructure": {
+      "studios": "Integrated studios with engineering integration",
+      "labs": "Materials and CAD labs",
+      "library": "Central library with architecture section",
+      "hostels": "On-campus hostels"
+    }
+  },
+  {
+    "rank": 42,
+    "name": "SRM Institute of Science and Technology – Department of Architecture",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private Deemed",
+    "score": 61.83,
+    "established": 2005,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["SRMJEEE (Architecture) / NATA"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["SRM merit scholarships"],
+    "placements": {
+      "average_package": "₹6.8 LPA",
+      "top_recruiters": ["Corporate design and consulting firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Fully equipped studios with digital tools",
+      "labs": "Model-making, materials, digital labs",
+      "library": "Academic central library",
+      "hostels": "On-campus hostels"
+    }
+  },
+  {
+    "rank": 43,
+    "name": "Chandigarh University – School of Architecture & Design",
+    "location": "Mohali, Punjab",
+    "type": "Private",
+    "score": 61.47,
+    "established": 2012,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "entrance_exam": ["CUET (Architecture) / NATA"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["University merit scholarships"],
+    "placements": {
+      "average_package": "₹6.2 LPA",
+      "top_recruiters": ["Design consultancies", "Construction firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Studio with digital drafting zones",
+      "labs": "Material, digital fabrication labs",
+      "library": "University central library with design section",
+      "hostels": "Modern on-campus hostels"
+    }
+  },
+  {
+    "rank": 44,
+    "name": "Malaviya National Institute of Technology Jaipur – Architecture",
+    "location": "Jaipur, Rajasthan",
+    "type": "Government (NIT)",
+    "score": 60.79,
+    "established": 1963,
+    "degrees_offered": ["B.Arch"],
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.4 LPA",
+    "scholarships": ["NIT MNIT merit & govt"],
+    "placements": {
+      "average_package": "₹6.7 LPA",
+      "top_recruiters": ["MNCs, public sector consultancies"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "studios": "Planning integrated studios",
+      "labs": "Environmental, materials labs",
+      "library": "Central library with architecture resources",
+      "hostels": "On-campus hostels"
+    }
+  },
+  {
+    "rank": 45,
+    "name": "School of Planning and Architecture Vijayawada",
+    "location": "Vijayawada, Andhra Pradesh",
+    "type": "Central University",
+    "score": 60.40,
+    "established": 2008,
+    "degrees_offered": ["B.Planning", "B.Arch", "M.Plan"],
+    "entrance_exam": ["JEE Main Paper II", "GATE"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["MHRD scholarships"],
+    "placements": {
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["Urban planners", "Architectural firms"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "studios": "Purpose-built planning studios",
+      "labs": "GIS, Materials, Digital labs",
+      "library": "Specialized collection in planning",
+      "hostels": "On-campus hostels"
+    }
+  },
+  {
+    "rank": 46,
+    "name": "Hindustan Institute of Technology and Science – Department of Architecture",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private Deemed",
+    "score": 49.92,
+    "established": 1990,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Design Studio I–VIII",
+        "Building Materials & Construction",
+        "History of Architecture",
+        "Environmental Studies",
+        "Professional Practice"
+      ]
+    },
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["HITS merit scholarships"],
+    "research_centers": ["Centre for Sustainable Built Environment"],
+    "faculty_count": 25,
+    "notable_faculty": ["Dr. S. Krishnan – Vernacular Architecture"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Local architecture firms", "Construction companies"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Digitally equipped CAD/CAM studios",
+      "labs": "Model‑making, materials lab",
+      "library": "Architecture section in central library",
+      "hostels": "On‑campus hostels with recreational spaces"
+    },
+    "annual_events": ["HITS ArchFest", "Design Expo"]
+  },
+  {
+    "rank": 47,
+    "name": "Queen Mary's College – Department of Architecture",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Government Women’s College",
+    "score": 54.87,
+    "established": 1914,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Design Principles",
+        "Building Drawing",
+        "Basic Construction Techniques",
+        "Site Planning",
+        "Professional Studies"
+      ]
+    },
+    "entrance_exam": ["TNEA based on NATA"],
+    "annual_fees": "₹30,000",
+    "scholarships": ["State govt scholarships"],
+    "faculty_count": 10,
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Chennai urban design firms"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "studios": "Studio blocks for women architects",
+      "labs": "Hands-on model‑making lab",
+      "library": "College library with architecture collection",
+      "hostels": "Women's hostels on campus"
+    },
+    "annual_events": ["Women in Design Symposium"]
+  },
+  {
+    "rank": 48,
+    "name": "I.C. College of Home Science – Architecture Program",
+    "location": "Hisar, Haryana",
+    "type": "Government College",
+    "score": 54.85,
+    "established": 1948,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Interior Design Basics",
+        "Residential Planning",
+        "Materials & Finishes",
+        "Drawing & Presentation Skills",
+        "Project Work"
+      ]
+    },
+    "entrance_exam": ["State CET"],
+    "annual_fees": "₹40,000",
+    "scholarships": ["Haryana govt scholarships"],
+    "faculty_count": 8,
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Local design studios"],
+      "placement_rate": "65%"
+    },
+    "infrastructure": {
+      "studios": "Integrated studio lab",
+      "labs": "Model‑making & drafting lab",
+      "library": "Home-science dept library with design section",
+      "hostels": "College women's hostel"
+    },
+    "annual_events": ["ICC Design Fair"]
+  },
+  {
+    "rank": 49,
+    "name": "Sri Guru Tegh Bahadur Khalsa College – B.Arch",
+    "location": "Delhi, Delhi",
+    "type": "Government College",
+    "score": 54.83,
+    "established": 1951,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio Design I–VIII",
+        "Building Structures",
+        "History of Architecture",
+        "Urban Planning",
+        "Electives (Landscape, Conservation)"
+      ]
+    },
+    "entrance_exam": ["JEE Main Paper II", "NATA"],
+    "annual_fees": "₹20,000",
+    "scholarships": ["DU scholarships"],
+    "faculty_count": 15,
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Delhi‑NCR design firms"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Urban-design-focused studios",
+      "labs": "Drafting & modelling lab",
+      "library": "Central DU library",
+      "hostels": "On‑campus women’s hostel"
+    },
+    "annual_events": ["TU Beaux-Arts", "Khaneya Festival"]
+  },
+  {
+    "rank": 50,
+    "name": "Alagappa Government Arts College – Architecture Dept.",
+    "location": "Karaikudi, Tamil Nadu",
+    "type": "Government College",
+    "score": 54.76,
+    "established": 1947,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Basics of Architectural Design",
+        "Construction Methods",
+        "Site Planning",
+        "Environmental Studies",
+        "Professional Practice"
+      ]
+    },
+    "entrance_exam": ["State counselling"],
+    "annual_fees": "₹25,000",
+    "scholarships": ["State gov’t scholarships"],
+    "faculty_count": 7,
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Local planning agencies"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "studios": "Lecture-studio hybrid spaces",
+      "labs": "Material testing lab",
+      "library": "Arts college library",
+      "hostels": "Mixed campus hostels"
+    },
+    "annual_events": ["Alagappa Design Week"]
+  },
+  {
+    "rank": 51,
+    "name": "St. Joseph’s College of Commerce – Architecture program",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private College",
+    "score": 54.58,
+    "established": 1882,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Architectural Graphics",
+        "Computer‑Aided Design",
+        "Basics of Structures",
+        "Interior Architecture",
+        "Project Showcase"
+      ]
+    },
+    "entrance_exam": ["KCET"],
+    "annual_fees": "₹50,000",
+    "scholarships": ["College merit scholarships"],
+    "faculty_count": 6,
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Local design consultancies"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "studios": "Drafting studios",
+      "labs": "Computer‑aided design lab",
+      "library": "College central library",
+      "hostels": "Boys and girls hostels"
+    },
+    "annual_events": ["SJCC Design Exhibition"]
+  },
+  {
+    "rank": 52,
+    "name": "Women’s Christian College – Architecture Stream",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private Women’s College",
+    "score": 54.57,
+    "established": 1915,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Design Thinking",
+        "Model-making",
+        "Creative Presentation",
+        "Order & Space",
+        "Heritage Conservation Basics"
+      ]
+    },
+    "entrance_exam": ["TNEA"],
+    "annual_fees": "₹60,000",
+    "scholarships": ["Women’s education schemes"],
+    "faculty_count": 8,
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Regional firms"],
+      "placement_rate": "68%"
+    },
+    "infrastructure": {
+      "studios": "Studio spaces for female students",
+      "labs": "Model-making and drafting space",
+      "library": "College library with design focus",
+      "hostels": "On-campus women’s hostel"
+    },
+    "annual_events": ["WCC Design Week"]
+  },
+  {
+    "rank": 53,
+    "name": "Ramjas College – Architecture offering",
+    "location": "Delhi, Delhi",
+    "type": "Government College",
+    "score": 54.47,
+    "established": 1917,
+    "degrees_offered": ["Certificate in Architecture"],
+    "courses": {
+      "Certificate": [
+        "Introduction to Architecture",
+        "Basic Drafting",
+        "Digital Graphics",
+        "Materials & Construction Basics",
+        "Mini Design Project"
+      ]
+    },
+    "entrance_exam": ["DU entrance"],
+    "annual_fees": "₹20,000",
+    "scholarships": ["DU scholarships"],
+    "faculty_count": 5,
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Local studios"],
+      "placement_rate": "65%"
+    },
+    "infrastructure": {
+      "studios": "Art studios",
+      "labs": "CAD lab",
+      "library": "Central DU library",
+      "hostels": "Residential hostels"
+    },
+    "annual_events": ["Ramjas Festival"]
+  },
+  {
+    "rank": 54,
+    "name": "Shyam Lal College – Architecture Courses",
+    "location": "Delhi, Delhi",
+    "type": "Government College",
+    "score": 54.44,
+    "established": 1964,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Design Studio I–II",
+        "Building Design",
+        "Presentation Techniques",
+        "Interior Basics",
+        "Environment Design"
+      ]
+    },
+    "entrance_exam": ["DU entrance"],
+    "annual_fees": "₹25,000",
+    "scholarships": ["State & DU aid"],
+    "faculty_count": 6,
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Delhi NCR consultancies"],
+      "placement_rate": "66%"
+    },
+    "infrastructure": {
+      "studios": "Studio rooms with drafting boards",
+      "labs": "CAD/CAM lab",
+      "library": "College library",
+      "hostels": "University hostels"
+    },
+    "annual_events": ["Shyam Lal Arch-Xpo"]
+  },
+  {
+    "rank": 55,
+    "name": "Ayya Nadar Janaki Ammal College – Architecture",
+    "location": "Sivakasi, Tamil Nadu",
+    "type": "Private College",
+    "score": 54.41,
+    "established": 1963,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Architectural Graphics",
+        "Spatial Concepts",
+        "Materials & Finishes",
+        "Building Systems",
+        "Project Showcase"
+      ]
+    },
+    "entrance_exam": ["State counselling"],
+    "annual_fees": "₹45,000",
+    "scholarships": ["Institutional scholarships"],
+    "faculty_count": 7,
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Local engineering firms"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "studios": "Drafting and model labs",
+      "labs": "Computer‑aided design workshop",
+      "library": "College library",
+      "hostels": "On‑campus hostels"
+    },
+    "annual_events": ["ANJAC ArchDay"]
+  },
+  {
+    "rank": 56,
+    "name": "Shivaji College – Architecture Certificate",
+    "location": "Delhi, Delhi",
+    "type": "Government College",
+    "score": 54.27,
+    "established": 1961,
+    "degrees_offered": ["Certificate in Architecture"],
+    "courses": {
+      "Certificate": [
+        "Basics of Architecture",
+        "Digital and Manual Graphics",
+        "Materials Workshop",
+        "Environmental Sketching",
+        "Mini Project"
+      ]
+    },
+    "entrance_exam": ["DU entrance"],
+    "annual_fees": "₹25,000",
+    "scholarships": ["DU aid"],
+    "faculty_count": 4,
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Regional studios"],
+      "placement_rate": "65%"
+    },
+    "infrastructure": {
+      "studios": "Art and design studios",
+      "labs": "CAD lab",
+      "library": "College library",
+      "hostels": "University hostels"
+    },
+    "annual_events": ["Shivaji ArchFT"]
+  },
+  {
+    "rank": 57,
+    "name": "Sri Ramakrishna Mission Vidyalaya Coll. – Architecture Stream",
+    "location": "Coimbatore, Tamil Nadu",
+    "type": "Private College",
+    "score": 54.24,
+    "established": 1966,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Design Principles",
+        "Vernacular Studies",
+        "Structural Basics",
+        "Presentation and Modelling",
+        "Project Work"
+      ]
+    },
+    "entrance_exam": ["State counselling"],
+    "annual_fees": "₹40,000",
+    "scholarships": ["Mission trust scholarships"],
+    "faculty_count": 6,
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Local firms"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "studios": "Studio rooms with drafting tools",
+      "labs": "Material lab",
+      "library": "Institutional library",
+      "hostels": "On‑campus hostels"
+    },
+    "annual_events": ["RKM ArchVision"]
+  },
+  {
+    "rank": 58,
+    "name": "Sacred Heart College – Architecture diploma",
+    "location": "Kochi, Kerala",
+    "type": "Private College",
+    "score": 54.21,
+    "established": 1940,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Sketching and Drawing Foundation",
+        "Building Construction Basics",
+        "Computer Drafting",
+        "Model-making Techniques",
+        "Project Showcase"
+      ]
+    },
+    "entrance_exam": ["State counselling"],
+    "annual_fees": "₹50,000",
+    "scholarships": ["Merit scholarships"],
+    "faculty_count": 5,
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Kerala planners"],
+      "placement_rate": "72%"
+    },
+    "infrastructure": {
+      "studios": "Art/design studios",
+      "labs": "Drafting & CAD",
+      "library": "College library",
+      "hostels": "On-campus hostel"
+    },
+    "annual_events": ["Sacred Heart ArchFest"]
+  },
+  {
+    "rank": 59,
+    "name": "Midnapore College – Architecture offering",
+    "location": "Midnapore, West Bengal",
+    "type": "Government College",
+    "score": 54.20,
+    "established": 1873,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Design Studio Basics",
+        "Drawing & Graphics",
+        "Digital Tools",
+        "Building Materials",
+        "Mini Architectural Project"
+      ]
+    },
+    "entrance_exam": ["State CET"],
+    "annual_fees": "₹30,000",
+    "scholarships": ["State govt"],
+    "faculty_count": 5,
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Regional firms"],
+      "placement_rate": "65%"
+    },
+    "infrastructure": {
+      "studios": "Studio labs",
+      "labs": "CAD workshop",
+      "library": "College library",
+      "hostels": "University hostels"
+    },
+    "annual_events": ["Midnapore Design Camp"]
+  },
+  {
+    "rank": 60,
+    "name": "Dhanalakshmi Srinivasan Coll. – Architecture",
+    "location": "Perambalur, Tamil Nadu",
+    "type": "Private Women’s College",
+    "score": 54.09,
+    "established": 1994,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": [
+        "Drafting & Presentation",
+        "Spatial Concepts",
+        "Computer Drafting",
+        "Basic Construction",
+        "Final Project"
+      ]
+    },
+    "entrance_exam": ["State counselling"],
+    "annual_fees": "₹40,000",
+    "scholarships": ["Women’s education scholarships"],
+    "faculty_count": 5,
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Local planners"],
+      "placement_rate": "70%"
+    },
+    "infrastructure": {
+      "studios": "Studio labs for women",
+      "labs": "Drafting and CAD lab",
+      "library": "College library",
+      "hostels": "On-campus hostel"
+    },
+    "annual_events": ["Dhanalakshmi ArchFest"]
+  },
+  {
+    "rank": 61,
+    "name": "Bangalore University – School of Architecture",
+    "location": "Bengaluru, Karnataka",
+    "type": "Public University",
+    "score": 53.85,
+    "established": 2021,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Design Studio I–VIII",
+        "Building Construction & Materials",
+        "Environmental Systems",
+        "History & Theory of Architecture",
+        "Electives: Landscape/Heritage"
+      ]
+    },
+    "entrance_exam": ["NATA", "UGCET"],
+    "annual_fees": "₹1.5 LPA",
+    "scholarships": ["State merit scholarships"],
+    "faculty_count": 12,
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Local Bengaluru firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Large group studios with model display zones",
+      "labs": "Materials and digital design labs",
+      "library": "Architecture collection within central library",
+      "hostels": "On-campus hostels with dining"
+    },
+    "annual_events": ["ArchExpo BU"]
+  },
+  {
+    "rank": 62,
+    "name": "Mahatma Gandhi University – School of Architecture",
+    "location": "Kottayam, Kerala",
+    "type": "Public University",
+    "score": 53.67,
+    "established": 2020,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Building Services",
+        "Professional Practice",
+        "Urban & Regional Planning",
+        "Elective: Vernacular Architecture"
+      ]
+    },
+    "entrance_exam": ["NATA", "CEE-Kerala"],
+    "annual_fees": "₹1.3 LPA",
+    "scholarships": ["State ischolarships"],
+    "faculty_count": 10,
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Kerala-based firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "River-view studios with model areas",
+      "labs": "Material testing and digital workshop",
+      "library": "University central with architecture section",
+      "hostels": "Men and women hostels on campus"
+    },
+    "annual_events": ["MGU Design Conclave"]
+  },
+  {
+    "rank": 63,
+    "name": "Pune Institute of Architecture",
+    "location": "Pune, Maharashtra",
+    "type": "Private",
+    "score": 53.45,
+    "established": 2009,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Design Studio I–VIII",
+        "Construction Technology",
+        "Environmental & Services",
+        "Theory of Design",
+        "Project Thesis"
+      ]
+    },
+    "entrance_exam": ["NATA"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["College merit awards"],
+    "faculty_count": 15,
+    "placements": {
+      "average_package": "₹5.8 LPA",
+      "top_recruiters": ["Pune-based architectural firms"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "studios": "Design studios with collaborative pods",
+      "labs": "Model-making, CAD labs",
+      "library": "Architecture reference section",
+      "hostels": "Private hostels nearby"
+    },
+    "annual_events": ["PIA Arch Fest"]
+  },
+  {
+    "rank": 64,
+    "name": "Vinayaka Mission’s Research Foundation – School of Architecture",
+    "location": "Salem, Tamil Nadu",
+    "type": "Private",
+    "score": 53.22,
+    "established": 2010,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Building Science",
+        "Landscape Architecture",
+        "Heritage Conservation",
+        "Professional Practice"
+      ]
+    },
+    "entrance_exam": ["NATA", "SRMV UPE"],
+    "annual_fees": "₹2.2 LPA",
+    "scholarships": ["Institutional merit scholarships"],
+    "faculty_count": 14,
+    "placements": {
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["Regional design consultancies"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Digitally enabled studios",
+      "labs": "Materials, model-making labs",
+      "library": "School library",
+      "hostels": "Campus hostels for UG"
+    },
+    "annual_events": ["SRMV Arch Meet"]
+  },
+  {
+    "rank": 65,
+    "name": "Indraprastha Institute of Information Technology – Architecture",
+    "location": "New Delhi",
+    "type": "State Deemed",
+    "score": 53.05,
+    "established": 2019,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Digital Fabrication",
+        "Climate Responsive Design",
+        "Urban Analytics",
+        "Final Thesis"
+      ]
+    },
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["IIIT-D merit scholarships"],
+    "faculty_count": 10,
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Tech-Architecture integration firms"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "studios": "High-tech studios with digital tools",
+      "labs": "VR, digital fabrication labs",
+      "library": "Specialist digital resource library",
+      "hostels": "Modern on-campus hostels"
+    },
+    "annual_events": ["IIITD Arch Form"]
+  },
+  {
+    "rank": 66,
+    "name": "MIT World Peace University – School of Architecture & Planning",
+    "location": "Pune, Maharashtra",
+    "type": "Private",
+    "score": 52.90,
+    "established": 2019,
+    "degrees_offered": ["B.Arch", "M.Plan"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Urban Design",
+        "Sustainable Building Technology",
+        "Landscape Design",
+        "Project Work"
+      ],
+      "M.Plan": [
+        "Planning Studio",
+        "GIS & Remote Sensing",
+        "Transport Planning",
+        "Thesis Dissertation"
+      ]
+    },
+    "entrance_exam": ["NATA", "MHT-CET"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["Institution merit scholarships"],
+    "faculty_count": 18,
+    "placements": {
+      "average_package": "₹6.2 LPA",
+      "top_recruiters": ["Urban planners", "Design consultancies"],
+      "placement_rate": "83%"
+    },
+    "infrastructure": {
+      "studios": "Large studios with technology integration",
+      "labs": "Materials, GIS, urban labs",
+      "library": "Central library with built environment section",
+      "hostels": "Accommodation with dining facilities"
+    },
+    "annual_events": ["MIT-WPU Arch Fest"]
+  },
+  {
+    "rank": 67,
+    "name": "Patna University – Architecture",
+    "location": "Patna, Bihar",
+    "type": "Public University",
+    "score": 52.75,
+    "established": 2020,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studios I–VIII",
+        "Building Materials & Construction",
+        "Climate Design",
+        "Urban Studies",
+        "Thesis Project"
+      ]
+    },
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.2 LPA",
+    "scholarships": ["State govt aid"],
+    "faculty_count": 8,
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Local and regional firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Freshly built studios",
+      "labs": "Basic model-making and material labs",
+      "library": "University central with architecture section",
+      "hostels": "On-campus hostels"
+    },
+    "annual_events": ["Patna Arch Exhibition"]
+  },
+  {
+    "rank": 68,
+    "name": "Sathyabama University – School of Architecture & Planning",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private University",
+    "score": 52.60,
+    "established": 2013,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Climatic Design",
+        "Structuring Architecture",
+        "Landscape Studio",
+        "Thesis"
+      ],
+      "M.Arch": [
+        "Advanced Design Studio",
+        "Research Methods",
+        "Specialized Electives",
+        "Dissertation"
+      ]
+    },
+    "entrance_exam": ["NATA", "AUEE"],
+    "annual_fees": "₹2.8 LPA",
+    "scholarships": ["Sathyabama merit scholarships"],
+    "faculty_count": 20,
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Chennai-based firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Well‑ventilated studio spaces",
+      "labs": "Model-making and digital labs",
+      "library": "Specialised architecture section",
+      "hostels": "On-campus hostels"
+    },
+    "annual_events": ["Sathyabama ArchDay"]
+  },
+  {
+    "rank": 69,
+    "name": "Siddaganga Institute of Technology – Architecture",
+    "location": "Tumakuru, Karnataka",
+    "type": "Private Aided",
+    "score": 52.40,
+    "established": 2018,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Design Studios I–VIII",
+        "Building Services",
+        "Environmental Design",
+        "History of Architecture",
+        "Final Thesis Project"
+      ]
+    },
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹1.8 LPA",
+    "scholarships": ["Merit-based scholarships"],
+    "faculty_count": 10,
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Karnataka firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Design studios with digital drafting",
+      "labs": "Model‑making and materials lab",
+      "library": "Institutional library",
+      "hostels": "Campus hostels"
+    },
+    "annual_events": ["SIT Arch Expo"]
+  },
+  {
+    "rank": 70,
+    "name": "Galgotias University – School of Architecture",
+    "location": "Greater Noida, Uttar Pradesh",
+    "type": "Private University",
+    "score": 52.22,
+    "established": 2010,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Green Building Design",
+        "Urban Planning",
+        "Heritage Conservation",
+        "Professional Practice"
+      ]
+    },
+    "entrance_exam": ["JEE Main Paper II", "GUAT"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["University merit scholarships"],
+    "faculty_count": 14,
+    "placements": {
+      "average_package": "₹5.8 LPA",
+      "top_recruiters": ["Noida/Delhi firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Tech-enabled design studios",
+      "labs": "Materials and CAD labs",
+      "library": "Architecture section in central library",
+      "hostels": "Campus hostels with mess"
+    },
+    "annual_events": ["Galgotia ArchFest"]
+  },
+  {
+    "rank": 71,
+    "name": "Vellore Institute of Technology – School of Architecture",
+    "location": "Vellore, Tamil Nadu",
+    "type": "Private University",
+    "score": 52.00,
+    "established": 2022,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Environmental Sustainability",
+        "Architecture Technology",
+        "Site Planning",
+        "Thesis Project"
+      ]
+    },
+    "entrance_exam": ["NATA", "VITEEE"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["VIT merit scholarships"],
+    "faculty_count": 12,
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Vellore/Chennai firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Well-furnished studios",
+      "labs": "Model-making and digital labs",
+      "library": "Academic library with architecture section",
+      "hostels": "Modern residential blocks"
+    },
+    "annual_events": ["VIT Arch Week"]
+  },
+  {
+    "rank": 72,
+    "name": "MIT Art & Design – School of Architecture",
+    "location": "Kothrud, Pune, Maharashtra",
+    "type": "Private",
+    "score": 51.85,
+    "established": 2019,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Design Studio I–VIII",
+        "Sustainable Architecture",
+        "Interiors Design",
+        "Professional Practice",
+        "Thesis Project"
+      ]
+    },
+    "entrance_exam": ["NATA", "MH-CET"],
+    "annual_fees": "₹2.2 LPA",
+    "scholarships": ["Institutional merit scholarships"],
+    "faculty_count": 10,
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Pune design studios"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Workshop-style studios",
+      "labs": "Materials and model-making labs",
+      "library": "School library",
+      "hostels": "Adjacent private hostels"
+    },
+    "annual_events": ["MITAD ArchFest"]
+  },
+  {
+    "rank": 73,
+    "name": "NIT Silchar – Architecture",
+    "location": "Silchar, Assam",
+    "type": "Government (NIT)",
+    "score": 51.60,
+    "established": 2015,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Building Services",
+        "Heritage Conservation",
+        "Environmental Studies",
+        "Final Thesis"
+      ]
+    },
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.4 LPA",
+    "scholarships": ["NIT merit & state"],
+    "faculty_count": 8,
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Regional design firms"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Group studios with natural lighting",
+      "labs": "Materials and drafting labs",
+      "library": "Campus central with architecture books",
+      "hostels": "On‑campus hostels"
+    },
+    "annual_events": ["Silchar ArchFest"]
+  },
+  {
+    "rank": 74,
+    "name": "Manipal University Dubai – Department of Architecture",
+    "location": "Dubai, UAE",
+    "type": "International Private",
+    "score": 51.45,
+    "established": 2009,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "International Urbanism",
+        "Heritage & Conservation",
+        "Sustainable Architecture",
+        "Thesis Project"
+      ]
+    },
+    "entrance_exam": ["MU DUET", "NATA"],
+    "annual_fees": "₹10 LPA (USD Value)",
+    "scholarships": ["Merit awards"],
+    "faculty_count": 15,
+    "placements": {
+      "average_package": "₹8 LPA",
+      "top_recruiters": ["UAE/Middle East firms"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "studios": "International-grade studios",
+      "labs": "Digital fabrication & VR labs",
+      "library": "International resource collection",
+      "hostels": "On-campus dormitories"
+    },
+    "annual_events": ["Dubai Design Week"]  
+  },
+  {
+    "rank": 75,
+    "name": "Christ University – Department of Architecture",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private Deemed",
+    "score": 51.30,
+    "established": 2013,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "studio Design I–VIII",
+        "Urban Design",
+        "Landscape Architecture",
+        "Environmental Planning",
+        "Thesis Project"
+      ]
+    },
+    "entrance_exam": ["Christ Design Aptitude Test (CDAT)", "NATA"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["Christ merit scholarships"],
+    "faculty_count": 12,
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Bengaluru design firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Collaborative studios with digital integration",
+      "labs": "Model-making, materials labs",
+      "library": "Seminary collection with architecture holdings",
+      "hostels": "On-campus hostels"
+    },
+    "annual_events": ["Christ ArchFest"]
+  },
+  {
+    "rank": 76,
+    "name": "SIES College of Architecture",
+    "location": "Mumbai, Maharashtra",
+    "type": "Private",
+    "score": 50.98,
+    "established": 1984,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Design Studio I–VIII",
+        "Architectural Structures",
+        "Climatic Design",
+        "Interior Design",
+        "Professional Practice"
+      ]
+    },
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Institution merit scholarships"],
+    "faculty_count": 18,
+    "placements": {
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["Mumbai design firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "City-facing studios with exhibition space",
+      "labs": "Model-making, materials lab",
+      "library": "Architecture section in campus library",
+      "hostels": "Nearby private hostels"
+    },
+    "annual_events": ["SIES Design Expo"]
+  },
+  {
+    "rank": 77,
+    "name": "Sinhgad Institute of Technology and Science – Architecture",
+    "location": "Pune, Maharashtra",
+    "type": "Private",
+    "score": 50.75,
+    "established": 2001,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Urban Planning",
+        "Building Systems",
+        "Environmental Design",
+        "Thesis Project"
+      ]
+    },
+    "entrance_exam": ["NATA"],
+    "annual_fees": "₹2.2 LPA",
+    "scholarships": ["SIT merit scholarships"],
+    "faculty_count": 14,
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Pune city firms"],
+      "placement_rate": "76%"
+    },
+    "infrastructure": {
+      "studios": "Technology-aided studios",
+      "labs": "Digital fabrication, material labs",
+      "library": "Institutional library with design section",
+      "hostels": "On-campus hostels"
+    },
+    "annual_events": ["Sinhgad ArchFest"]
+  },
+  {
+    "rank": 78,
+    "name": "OIET College of Engineering – Architecture",
+    "location": "Bhopal, Madhya Pradesh",
+    "type": "Private",
+    "score": 50.30,
+    "established": 2003,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Design Studio I–VIII",
+        "Construction Technology",
+        "Graphic Representation",
+        "Professional Practice",
+        "Thesis"
+      ]
+    },
+    "entrance_exam": ["NATA", "MP-PET"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Institute merit scholarships"],
+    "faculty_count": 12,
+    "placements": {
+      "average_package": "₹4.8 LPA",
+      "top_recruiters": ["Regional firms"],
+      "placement_rate": "7 5%"
+    },
+    "infrastructure": {
+      "studios": "Group-design studios",
+      "labs": "Model-making and drafting labs",
+      "library": "College library",
+      "hostels": "Hostel with mess"
+    },
+    "annual_events": ["OIET Design Conclave"]
+  },
+  {
+    "rank": 79,
+    "name": "PSNA College of Engineering & Tech – Architecture",
+    "location": "Dindigul, Tamil Nadu",
+    "type": "Private",
+    "score": 50.12,
+    "established": 2000,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Building Construction",
+        "Environmental Systems",
+        "Heritage Conservation",
+        "Final Project"
+      ]
+    },
+    "entrance_exam": ["NATA"],
+    "annual_fees": "₹1.8 LPA",
+    "scholarships": ["PSNA merit scholarships"],
+    "faculty_count": 10,
+    "placements": {
+      "average_package": "₹4.6 LPA",
+      "top_recruiters": ["TN firms"],
+      "placement_rate": "74%"
+    },
+    "infrastructure": {
+      "studios": "Well-lit studios",
+      "labs": "Materials and model labs",
+      "library": "Institute library",
+      "hostels": "On-campus hostels"
+    },
+    "annual_events": ["PSNA ArchDay"]
+  },
+  {
+    "rank": 80,
+    "name": "Bannari Amman Institute of Technology – Architecture",
+    "location": "Sathyamangalam, Tamil Nadu",
+    "type": "Private",
+    "score": 49.85,
+    "established": 2002,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Design Studio I–VIII",
+        "Building Structures",
+        "Service Systems",
+        "Environmental Planning",
+        "Thesis"
+      ]
+    },
+    "entrance_exam": ["NATA", "TNEA"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Institutional scholarships"],
+    "faculty_count": 13,
+    "placements": {
+      "average_package": "₹4.7 LPA",
+      "top_recruiters": ["Local consultancies"],
+      "placement_rate": "75%"
+    },
+    "infrastructure": {
+      "studios": "Student-driven studios",
+      "labs": "Model and materials labs",
+      "library": "Technical library",
+      "hostels": "Campus hostels"
+    },
+    "annual_events": ["BIT ArchFest"]
+  },
+  {
+    "rank": 81,
+    "name": "PSG College of Technology – Architecture",
+    "location": "Coimbatore, Tamil Nadu",
+    "type": "Private Aided",
+    "score": 49.60,
+    "established": 2005,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Construction Technology",
+        "Urban Design",
+        "Environmental Design",
+        "Thesis"
+      ]
+    },
+    "entrance_exam": ["NATA", "TNEA"],
+    "annual_fees": "₹2.1 LPA",
+    "scholarships": ["PSG merit scholarships"],
+    "faculty_count": 16,
+    "placements": {
+      "average_package": "₹4.9 LPA",
+      "top_recruiters": ["Coimbatore firms"],
+      "placement_rate": "77%"
+    },
+    "infrastructure": {
+      "studios": "Integrated studios",
+      "labs": "Materials and model labs",
+      "library": "PSG central library",
+      "hostels": "Student hostels"
+    },
+    "annual_events": ["PSG Arch Symposium"]
+  },
+  {
+    "rank": 82,
+    "name": "Vidya Vikas Institute of Engineering & Tech – Architecture",
+    "location": "Mysuru, Karnataka",
+    "type": "Private",
+    "score": 49.45,
+    "established": 2008,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Design Studios I–VIII",
+        "Construction Management",
+        "Climate Responsive Design",
+        "Heritage and Conservation",
+        "Final Project"
+      ]
+    },
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹1.9 LPA",
+    "scholarships": ["Institution merit awards"],
+    "faculty_count": 9,
+    "placements": {
+      "average_package": "₹4.6 LPA",
+      "top_recruiters": ["Regional firms"],
+      "placement_rate": "74%"
+    },
+    "infrastructure": {
+      "studios": "Digital studios",
+      "labs": "Materials and model labs",
+      "library": "Institute library",
+      "hostels": "On‑campus hostels"
+    },
+    "annual_events": ["VVArch Fest"]
+  },
+  {
+    "rank": 83,
+    "name": "Jaypee Institute of Information Tech – Architecture",
+    "location": "Noida, Uttar Pradesh",
+    "type": "Private",
+    "score": 49.20,
+    "established": 2011,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Environmental Systems",
+        "Digital Architecture",
+        "Landscape Design",
+        "Thesis"
+      ]
+    },
+    "entrance_exam": ["NATA", "JNUEE"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["Merit scholarships"],
+    "faculty_count": 12,
+    "placements": {
+      "average_package": "₹5.1 LPA",
+      "top_recruiters": ["Noida/Delhi firms"],
+      "placement_rate": "79%"
+    },
+    "infrastructure": {
+      "studios": "Tech-integrated studios",
+      "labs": "VR and CAD labs",
+      "library": "Institute library",
+      "hostels": "On‑campus hostels"
+    },
+    "annual_events": ["JIIT ArchCon"]
+  },
+  {
+    "rank": 84,
+    "name": "RV College of Architecture",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private",
+    "score": 49.05,
+    "established": 2011,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Construction Technology",
+        "Climate Design",
+        "Interior Architecture",
+        "Thesis Project"
+      ]
+    },
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹2.7 LPA",
+    "scholarships": ["RV merit scholarships"],
+    "faculty_count": 14,
+    "placements": {
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["Bangalore firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Collaborative studios",
+      "labs": "Materials and model labs",
+      "library": "College architecture library",
+      "hostels": "Off-campus hostels"
+    },
+    "annual_events": ["RV ArchFest"]
+  },
+  {
+    "rank": 85,
+    "name": "Chandigarh University – School of Architecture & Design",
+    "location": "Mohali, Punjab",
+    "type": "Private",
+    "score": 48.90,
+    "established": 2012,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Professional Practice",
+        "Urban & Landscape Design",
+        "Environmental Planning",
+        "Final Thesis"
+      ],
+      "M.Arch": [
+        "Design Studio",
+        "Research Methods",
+        "Electives in Health/Urban Design",
+        "Dissertation"
+      ]
+    },
+    "entrance_exam": ["CUET Architecture", "NATA"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Merit scholarships"],
+    "faculty_count": 20,
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Domestic design firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Digital-design studios",
+      "labs": "Materials and VR labs",
+      "library": "Design resource library",
+      "hostels": "Campus hostels with meals"
+    },
+    "annual_events": ["CU Arch Summit"]
+  },
+  {
+    "rank": 86,
+    "name": "Manipal School of Architecture & Planning, MAHE",
+    "location": "Udupi, Karnataka",
+    "type": "Deemed University",
+    "score": 48.75,
+    "established": 2006,
+    "degrees_offered": ["B.Arch", "M.Plan"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Urban Design",
+        "Sustainable Systems",
+        "Landscape Architecture",
+        "Thesis"
+      ],
+      "M.Plan": [
+        "Planning Studio",
+        "GIS & Remote Sensing",
+        "Transport Planning",
+        "Dissertation"
+      ]
+    },
+    "entrance_exam": ["NATA", "JEE Main Paper II"],
+    "annual_fees": "₹5 LPA",
+    "scholarships": ["MAHE merit scholarships"],
+    "faculty_count": 25,
+    "placements": {
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["Consultancies"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "studios": "Tech-studios with presentation zones",
+      "labs": "Digital labs, GIS lab",
+      "library": "E-resource library",
+      "hostels": "Campus residences"
+    },
+    "annual_events": ["MAHE Arch Night"]
+  },
+  {
+    "rank": 87,
+    "name": "Dayananda Sagar School of Architecture",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private",
+    "score": 48.60,
+    "established": 2007,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studios I–VIII",
+        "Construction Technology",
+        "Digital Architecture",
+        "Environmental Design",
+        "Final Project"
+      ]
+    },
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["Institution merit interest"],
+    "faculty_count": 15,
+    "placements": {
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["Bangalore firms"],
+      "placement_rate": "78%"
+    },
+    "infrastructure": {
+      "studios": "Collaborative studios",
+      "labs": "Model-making and CAD labs",
+      "library": "Design library",
+      "hostels": "Nearby hostels"
+    },
+    "annual_events": ["DS ArchFest"]
+  },
+  {
+    "rank": 88,
+    "name": "Birla Institute of Technology – Department of Architecture",
+    "location": "Mesra, Jharkhand",
+    "type": "Deemed",
+    "score": 48.42,
+    "established": 2002,
+    "degrees_offered": ["B.Arch", "M.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studios I–VIII",
+        "Structures & Construction",
+        "Urban Design",
+        "Heritage Conservation",
+        "Thesis"
+      ],
+      "M.Arch": [
+        "Advanced Design Studio",
+        "History & Theory",
+        "Research Methods",
+        "Dissertation"
+      ]
+    },
+    "entrance_exam": ["JEE Main II", "BITSAT"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["Institution merit scholarships"],
+    "faculty_count": 20,
+    "placements": {
+      "average_package": "₹6.5 LPA",
+      "top_recruiters": ["National firms"],
+      "placement_rate": "85%"
+    },
+    "infrastructure": {
+      "studios": "Integrated studios with engineering labs",
+      "labs": "Materials and digital labs",
+      "library": "Central academic library",
+      "hostels": "On-campus residences"
+    },
+    "annual_events": ["BIT Arch Conclave"]
+  },
+  {
+    "rank": 89,
+    "name": "Government College of Architecture – Lucknow",
+    "location": "Lucknow, Uttar Pradesh",
+    "type": "Government",
+    "score": 48.15,
+    "established": 1997,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studio I–VIII",
+        "Building Materials",
+        "Environmental Design",
+        "Urban Planning",
+        "Thesis"
+      ]
+    },
+    "entrance_exam": ["JEE Main II", "State CET"],
+    "annual_fees": "₹1.2 LPA",
+    "scholarships": ["State government scholarships"],
+    "faculty_count": 15,
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["State firms"],
+      "placement_rate": "80%"
+    },
+    "infrastructure": {
+      "studios": "Large studio halls",
+      "labs": "Materials and model labs",
+      "library": "Central library",
+      "hostels": "On-campus hostels"
+    },
+    "annual_events": ["Lucknow Arch Week"]
+  },
+  {
+    "rank": 90,
+    "name": "GITAM School of Architecture",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "type": "Private",
+    "score": 47.90,
+    "established": 2008,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": [
+        "Studios I–VIII",
+        "Digital Architecture",
+        "Landscape Design",
+        "Environmental Systems",
+        "Thesis Project"
+      ]
+    },
+    "entrance_exam": ["NATA", "GITAM SAT"],
+    "annual_fees": "₹2.4 LPA",
+    "scholarships": ["GITAM merit scholarships"],
+    "faculty_count": 18,
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["East Coast firms"],
+      "placement_rate": "82%"
+    },
+    "infrastructure": {
+      "studios": "Urban coastal studios",
+      "labs": "Digital and materials labs",
+      "library": "School resource center",
+      "hostels": "On-campus hostels"
+    },
+    "annual_events": ["GITAM Arch Carnival"]
+  },
+  {
+    "rank": 91,
+    "name": "Cambridge Institute of Technology – Architecture",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private",
+    "score": 47.75,
+    "established": 2013,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studio I–VIII", "Construction Tech", "Digital Architecture", "Site Planning", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹2.2 LPA",
+    "scholarships": ["Institution merit"],
+    "faculty_count": 12,
+    "placements": {"average_package": "₹5.3 LPA", "top_recruiters": ["Local design firms"], "placement_rate": "78%"},
+    "infrastructure": {"studios": "Tech-integrated studios", "labs": "CAD & model labs", "library": "Campus library", "hostels": "Near campus"},
+    "annual_events": ["Cambridge ArchFest"]
+  },
+  {
+    "rank": 92,
+    "name": "Allenhouse Institute of Architecture",
+    "location": "Mysuru, Karnataka",
+    "type": "Private",
+    "score": 47.60,
+    "established": 1995,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studios I–VIII", "Heritage Conservation", "Environmental Design", "Professional Practice", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Merit"],
+    "faculty_count": 8,
+    "placements": {"average_package": "₹5 LPA", "top_recruiters": ["Regional firms"], "placement_rate": "75%"},
+    "infrastructure": {"studios": "Group studios", "labs": "Heritage & materials labs", "library": "Institutional library", "hostels": "Nearby hostels"},
+    "annual_events": ["Heritage Arch Mela"]
+  },
+  {
+    "rank": 93,
+    "name": "National Institute of Technology Uttarakhand – Architecture",
+    "location": "Srinagar Garhwal, Uttarakhand",
+    "type": "Government (NIT)",
+    "score": 47.45,
+    "established": 2016,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studios I–VIII", "Mountain Architecture", "Sustainable Materials", "Environmental Systems", "Thesis"]
+    },
+    "entrance_exam": ["JEE Main Paper II"],
+    "annual_fees": "₹1.4 LPA",
+    "scholarships": ["NIT & state"],
+    "faculty_count": 7,
+    "placements": {"average_package": "₹4.7 LPA", "top_recruiters": ["Regional consultancies"], "placement_rate": "72%"},
+    "infrastructure": {"studios": "Hill-view studios", "labs": "Materials & digital labs", "library": "Campus library", "hostels": "On-campus hostels"},
+    "annual_events": ["Green Arch Expo"]
+  },
+  {
+    "rank": 94,
+    "name": "St. Thomas College – Architecture Diploma",
+    "location": "Thrissur, Kerala",
+    "type": "Private College",
+    "score": 47.30,
+    "established": 2004,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": ["Intro to Design", "Building Techniques", "Drafting & CAD", "Materials & Finishes", "Project Work"]
+    },
+    "entrance_exam": ["State CET"],
+    "annual_fees": "₹45,000",
+    "scholarships": ["Merit"],
+    "faculty_count": 6,
+    "placements": {"average_package": "₹4 LPA", "top_recruiters": ["Local architects"], "placement_rate": "70%"},
+    "infrastructure": {"studios": "Small studios", "labs": "Drafting labs", "library": "College library", "hostels": "Nearby hostels"},
+    "annual_events": ["St. Thomas Arch Exhibition"]
+  },
+  {
+    "rank": 95,
+    "name": "Govt. Institute of Fashion Technology – Architecture",
+    "location": "Panipat, Haryana",
+    "type": "Government",
+    "score": 47.15,
+    "established": 2012,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": ["Design Basics", "Building Plans", "Presentation Skills", "Digital Graphics", "Mini Project"]
+    },
+    "entrance_exam": ["State CET"],
+    "annual_fees": "₹50,000",
+    "scholarships": ["State"],
+    "faculty_count": 5,
+    "placements": {"average_package": "₹3.8 LPA", "top_recruiters": ["Local design studios"], "placement_rate": "68%"},
+    "infrastructure": {"studios": "Design labs", "labs": "Digital graphics lab", "library": "Institute library", "hostels": "Nearby hostel"},
+    "annual_events": ["FI Arch Showcase"]
+  },
+  {
+    "rank": 96,
+    "name": "Sri Venkateswara College of Architecture",
+    "location": "Thanjavur, Tamil Nadu",
+    "type": "Private College",
+    "score": 47.00,
+    "established": 2009,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": ["Drawing & Presentation", "Traditional Architecture", "Site Planning", "Materials & Construction", "Final Showcase"]
+    },
+    "entrance_exam": ["State CET"],
+    "annual_fees": "₹55,000",
+    "scholarships": ["Institution merit"],
+    "faculty_count": 7,
+    "placements": {"average_package": "₹4 LPA", "top_recruiters": ["Local heritage firms"], "placement_rate": "70%"},
+    "infrastructure": {"studios": "Traditional architecture studios", "labs": "Materials lab", "library": "College library", "hostels": "College hostel"},
+    "annual_events": ["SVCA Heritage Symposium"]
+  },
+  {
+    "rank": 97,
+    "name": "St. Francis Institute of Architecture",
+    "location": "Vasai, Maharashtra",
+    "type": "Private",
+    "score": 46.80,
+    "established": 2001,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": ["Basic Design", "Site Planning", "Digital Graphics", "Model Making", "Project Display"]
+    },
+    "entrance_exam": ["State CET"],
+    "annual_fees": "₹50,000",
+    "scholarships": ["Merit"],
+    "faculty_count": 5,
+    "placements": {"average_package": "₹4 LPA", "top_recruiters": ["Mumbai region firms"], "placement_rate": "70%"},
+    "infrastructure": {"studios": "Lecture-design studios", "labs": "Drafting labs", "library": "Library", "hostels": "Nearby shared hostels"},
+    "annual_events": ["SF Arch Forum"]
+  },
+  {
+    "rank": 98,
+    "name": "LEITC College of Engineering – Architecture",
+    "location": "Belgaum, Karnataka",
+    "type": "Private",
+    "score": 46.65,
+    "established": 2007,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Design Studio I–VIII", "Urban Planning", "Environmental Systems", "Building Tech", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹1.9 LPA",
+    "scholarships": ["Institution merit"],
+    "faculty_count": 10,
+    "placements": {"average_package": "₹4.8 LPA", "top_recruiters": ["Regional firms"], "placement_rate": "75%"},
+    "infrastructure": {"studios": "Studio halls", "labs": "CAD labs", "library": "Central library", "hostels": "On-campus hostels"},
+    "annual_events": ["LEITC Arch Expo"]
+  },
+  {
+    "rank": 99,
+    "name": "Government School of Architecture – Ernakulam",
+    "location": "Kochi, Kerala",
+    "type": "Government",
+    "score": 46.50,
+    "established": 1998,
+    "degrees_offered": ["Diploma in Architecture"],
+    "courses": {
+      "Diploma": ["Design Basics", "Building Technology", "Presentation", "Model Making", "Final Project"]
+    },
+    "entrance_exam": ["State CET"],
+    "annual_fees": "₹40,000",
+    "scholarships": ["State"],
+    "faculty_count": 6,
+    "placements": {"average_package": "₹4 LPA", "top_recruiters": ["Kerala firms"], "placement_rate": "70%"},
+    "infrastructure": {"studios": "Studio rooms", "labs": "Model-making lab", "library": "Library", "hostels": "Nearby hostels"},
+    "annual_events": ["Ernakulam Arch Fest"]
+  },
+  {
+    "rank": 100,
+    "name": "AIT – Architecture & Design School",
+    "location": "Telangana, Hyderabad",
+    "type": "Private",
+    "score": 46.30,
+    "established": 2005,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studio I–VIII", "Construction Tech", "Digital Design", "Environmental Systems", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "Telangana CET"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Institution merit"],
+    "faculty_count": 14,
+    "placements": {"average_package": "₹4.9 LPA", "top_recruiters": ["Hyderabad firms"], "placement_rate": "77%"},
+    "infrastructure": {"studios": "Tech-driven studios", "labs": "CAD & model labs", "library": "Central library", "hostels": "On-campus hostels"},
+    "annual_events": ["AIT ArchCon"]
+  },
+  {
+    "rank": 101,
+    "name": "Sri Sai Ram Engineering College – Architecture",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private",
+    "score": 46.10,
+    "established": 2008,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Design Studio I–VIII", "Heritage Conservation", "Environmental Systems", "Professional Practice", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "TNEA"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Institution merit"],
+    "faculty_count": 12,
+    "placements": {"average_package": "₹4.8 LPA", "top_recruiters": ["Chennai firms"], "placement_rate": "75%"},
+    "infrastructure": {"studios": "Design studios", "labs": "CAD & materials labs", "library": "Library", "hostels": "On-campus hostels"},
+    "annual_events": ["SSR ArchFest"]
+  },
+  {
+    "rank": 102,
+    "name": "Malla Reddy University – School of Architecture",
+    "location": "Hyderabad, Telangana",
+    "type": "Private",
+    "score": 45.90,
+    "established": 2015,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studio I–VIII", "Urban Design", "Digital Architecture", "Landscape Planning", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "Telangana CET"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["Merit scholarships"],
+    "faculty_count": 11,
+    "placements": {"average_package": "₹4.7 LPA", "top_recruiters": ["Regional firms"], "placement_rate": "74%"},
+    "infrastructure": {"studios": "Design studios", "labs": "CAD & model labs", "library": "University library", "hostels": "On-campus hostels"},
+    "annual_events": ["MRU ArchExpo"]
+  },
+  {
+    "rank": 103,
+    "name": "JNTUH – School of Planning & Architecture",
+    "location": "Hyderabad, Telangana",
+    "type": "Public University",
+    "score": 45.75,
+    "established": 2018,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studio I–VIII", "Urban Planning", "Environmental Studies", "Professional Practice", "Thesis"]
+    },
+    "entrance_exam": ["JEE Main II", "Telangana CET"],
+    "annual_fees": "₹1.8 LPA",
+    "scholarships": ["State govt scholarships"],
+    "faculty_count": 10,
+    "placements": {"average_package": "₹4.6 LPA", "top_recruiters": ["Hyderabad planners"], "placement_rate": "75%"},
+    "infrastructure": {"studios": "Group studios", "labs": "Materials and planning labs", "library": "Central University library", "hostels": "Dormitories"},
+    "annual_events": ["JNTU Arch Conclave"]
+  },
+  {
+    "rank": 104,
+    "name": "Christ University – Department of Architecture",
+    "location": "Delhi-NCR Campus",
+    "type": "Private Deemed",
+    "score": 45.50,
+    "established": 2015,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studio I–VIII", "Urban Design", "Landscape Architecture", "Environmental Planning", "Thesis"]
+    },
+    "entrance_exam": ["Christ Aptitude Test", "NATA"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["Christ merit"],
+    "faculty_count": 12,
+    "placements": {"average_package": "₹5.2 LPA", "top_recruiters": ["Delhi firms"], "placement_rate": "80%"},
+    "infrastructure": {"studios": "Collaborative studios", "labs": "Model and CAD labs", "library": "Design library", "hostels": "Campus housing"},
+    "annual_events": ["Christ Arch Summit"]
+  },
+  {
+    "rank": 105,
+    "name": "KLE Technological University – School of Architecture",
+    "location": "Hubballi, Karnataka",
+    "type": "Private University",
+    "score": 45.30,
+    "established": 2019,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studio I–VIII", "Building Technology", "Environmental Systems", "Urban Planning", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Merit & Karnataka govt"],
+    "faculty_count": 10,
+    "placements": {"average_package": "₹4.5 LPA", "top_recruiters": ["Regional firms"], "placement_rate": "75%"},
+    "infrastructure": {"studios": "Modern design studios", "labs": "Structure & CAD labs", "library": "Central library", "hostels": "On-campus hostels"},
+    "annual_events": ["KLE Arch Fest"]
+  },
+  {
+    "rank": 106,
+    "name": "Anand Institute of Higher Technology – Architecture",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Private",
+    "score": 45.15,
+    "established": 2008,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Design Studio I–VIII", "Construction Tech", "Landscape Planning", "Eco-Design", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "TNEA"],
+    "annual_fees": "₹2.2 LPA",
+    "scholarships": ["Institution merit"],
+    "faculty_count": 9,
+    "placements": {"average_package": "₹4.7 LPA", "top_recruiters": ["Local Chennai firms"], "placement_rate": "74%"},
+    "infrastructure": {"studios": "Thematic studios", "labs": "Materials lab", "library": "College library", "hostels": "Nearby hostels"},
+    "annual_events": ["AIHT Arch Expo"]
+  },
+  {
+    "rank": 107,
+    "name": "Chandigarh College of Engineering & Tech – Architecture",
+    "location": "Mohali, Punjab",
+    "type": "Government College",
+    "score": 45.00,
+    "established": 2001,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studios I–VIII", "Environmental Systems", "Professional Practice", "Urban Design", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "JEE Main II"],
+    "annual_fees": "₹1.3 LPA",
+    "scholarships": ["State merit"],
+    "faculty_count": 12,
+    "placements": {"average_package": "₹5 LPA", "top_recruiters": ["Punjab firms"], "placement_rate": "78%"},
+    "infrastructure": {"studios": "Large studio halls", "labs": "CAD & model labs", "library": "Library", "hostels": "On-campus hostels"},
+    "annual_events": ["CCE Arch Week"]
+  },
+  {
+    "rank": 108,
+    "name": "Madan Mohan Malaviya University – Architecture",
+    "location": "Gorakhpur, Uttar Pradesh",
+    "type": "Public University",
+    "score": 44.85,
+    "established": 2015,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studios I–VIII", "Building Technology", "Eco-Design", "Heritage", "Thesis"]
+    },
+    "entrance_exam": ["JEE Main II"],
+    "annual_fees": "₹1 LPA",
+    "scholarships": ["State govt aid"],
+    "faculty_count": 8,
+    "placements": {"average_package": "₹4.2 LPA", "top_recruiters": ["UP firms"], "placement_rate": "72%"},
+    "infrastructure": {"studios": "Studio halls", "labs": "Material labs", "library": "University library", "hostels": "Campus hostels"},
+    "annual_events": ["MMMU Arch Fest"]
+  },
+  {
+    "rank": 109,
+    "name": "Oriental Institute of Science & Tech – Architecture",
+    "location": "Bhopal, Madhya Pradesh",
+    "type": "Private",
+    "score": 44.70,
+    "established": 2006,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studio I–VIII", "Construction Tech", "Urban Planning", "Structural Systems", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "MP-PET"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Merit-based"],
+    "faculty_count": 11,
+    "placements": {"average_package": "₹4.6 LPA", "top_recruiters": ["MP firms"], "placement_rate": "76%"},
+    "infrastructure": {"studios": "Group studios", "labs": "CAD labs", "library": "College library", "hostels": "On-campus hostels"},
+    "annual_events": ["OIST Arch Conclave"]
+  },
+  {
+    "rank": 110,
+    "name": "Sambalpur University – Architecture Department",
+    "location": "Sambalpur, Odisha",
+    "type": "Public University",
+    "score": 44.55,
+    "established": 2018,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studios I–VIII", "Environmental Systems", "Traditional architecture", "Construction Tech", "Thesis"]
+    },
+    "entrance_exam": ["JEE Main II"],
+    "annual_fees": "₹1 LPA",
+    "scholarships": ["State govt"],
+    "faculty_count": 7,
+    "placements": {"average_package": "₹4 LPA", "top_recruiters": ["Odisha firms"], "placement_rate": "70%"},
+    "infrastructure": {"studios": "Studio blocks", "labs": "Material labs", "library": "University library", "hostels": "Campus hostels"},
+    "annual_events": ["SambArch Fest"]
+  },
+  {
+    "rank": 111,
+    "name": "Dayananda Sagar University – Architecture",
+    "location": "Bengaluru, Karnataka",
+    "type": "Private University",
+    "score": 44.40,
+    "established": 2020,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studio I–VIII", "Digital Architecture", "Urban Planning", "Eco Building", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "KCET"],
+    "annual_fees": "₹2.5 LPA",
+    "scholarships": ["University merit"],
+    "faculty_count": 13,
+    "placements": {"average_package": "₹5 LPA", "top_recruiters": ["Bengaluru firms"], "placement_rate": "78%"},
+    "infrastructure": {"studios": "High-tech studios", "labs": "VR & model labs", "library": "Design library", "hostels": "On-campus hostels"},
+    "annual_events": ["DSU ArchCon"]
+  },
+  {
+    "rank": 112,
+    "name": "SB Jain Institute – Architecture",
+    "location": "Bhopal, Madhya Pradesh",
+    "type": "Private",
+    "score": 44.25,
+    "established": 2007,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studios I–VIII", "Environmental Systems", "Digital Drafting", "Heritage Conservation", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "MP-PET"],
+    "annual_fees": "₹2 LPA",
+    "scholarships": ["Merit"],
+    "faculty_count": 9,
+    "placements": {"average_package": "₹4.3 LPA", "top_recruiters": ["Local firms"], "placement_rate": "74%"},
+    "infrastructure": {"studios": "Design studios", "labs": "Model-making labs", "library": "Institute library", "hostels": "Hostels"},
+    "annual_events": ["SBJ Arch Week"]
+  },
+  {
+    "rank": 113,
+    "name": "Doon University – Architecture",
+    "location": "Dehradun, Uttarakhand",
+    "type": "Public University",
+    "score": 44.10,
+    "established": 2019,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studios I–VIII", "Eco Design", "Structural Systems", "Project Planning", "Thesis"]
+    },
+    "entrance_exam": ["JEE Main II"],
+    "annual_fees": "₹1.5 LPA",
+    "scholarships": ["State govt"],
+    "faculty_count": 8,
+    "placements": {"average_package": "₹4.5 LPA", "top_recruiters": ["Dehradun firms"], "placement_rate": "76%"},
+    "infrastructure": {"studios": "Modern studios", "labs": "Material labs", "library": "University library", "hostels": "Campus hostels"},
+    "annual_events": ["DU ArchFest"]
+  },
+  {
+    "rank": 114,
+    "name": "Christ University – Architecture, Lavasa",
+    "location": "Lavasa, Maharashtra",
+    "type": "Private Deemed",
+    "score": 43.95,
+    "established": 2017,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studios I–VIII", "Environmental Design", "Landscape Architecture", "Professional Practice", "Thesis"]
+    },
+    "entrance_exam": ["CDAT", "NATA"],
+    "annual_fees": "₹3 LPA",
+    "scholarships": ["Merit"],
+    "faculty_count": 10,
+    "placements": {"average_package": "₹5 LPA", "top_recruiters": ["Pune firms"], "placement_rate": "80%"},
+    "infrastructure": {"studios": "Scenic studios", "labs": "Model-making labs", "library": "College library", "hostels": "On-campus hostels"},
+    "annual_events": ["Lavasa Arch Confluence"]
+  },
+  {
+    "rank": 115,
+    "name": "Maharashtra Institute of Technology – School of Architecture",
+    "location": "Pune, Maharashtra",
+    "type": "Private",
+    "score": 43.80,
+    "established": 2005,
+    "degrees_offered": ["B.Arch"],
+    "courses": {
+      "B.Arch": ["Studios I–VIII", "Building Materials", "Digital Tools", "Project Design", "Thesis"]
+    },
+    "entrance_exam": ["NATA", "MH-CET"],
+    "annual_fees": "₹2.2 LPA",
+    "scholarships": ["Institution awards"],
+    "faculty_count": 12,
+    "placements": {"average_package": "₹4.8 LPA", "top_recruiters": ["Pune firms"], "placement_rate": "77%"},
+    "infrastructure": {"studios": "Technology-driven studios", "labs": "Material & CAD labs", "library": "Design library", "hostels": "Nearby hostels"},
+    "annual_events": ["MIT Arch Summit"]
+  }
+]
+
+
+
+
+
+
+
+
+

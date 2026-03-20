@@ -1,0 +1,4204 @@
+[
+  {
+    "rank": 1,
+    "name": "Miranda House, University of Delhi",
+    "location": "New Delhi",
+    "established": 1948,
+    "type": "Public",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) Political Science",
+        "B.A. (Hons) History",
+        "B.A. (Hons) Sociology",
+        "B.A. (Hons) Geography",
+        "B.A. Programme"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. History",
+        "M.A. Political Science",
+        "M.A. Geography"
+      ]
+    },
+    "faculty_strength": 200,
+    "student_intake_per_year": 3500,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Central Library", "Departmental Libraries"],
+      "hostel": "Yes, on-campus girls hostel with 200+ capacity",
+      "labs": ["Language Lab", "Geography Lab", "Computer Lab"],
+      "auditorium": "Fully equipped auditorium",
+      "sports_facilities": ["Basketball court", "Volleyball court", "Gymnasium"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.5,
+      "top_recruiters": ["Deloitte", "Teach for India", "Wipro", "Times Group"],
+      "higher_studies_ratio": "High - over 60% students opt for PG or civil services"
+    },
+    "scholarships": [
+      "Merit-based Scholarships",
+      "Post Matric Scholarship for SC/ST",
+      "Fee Concession for Economically Weaker Students"
+    ],
+    "notable_alumni": ["Sheila Dikshit", "Mallika Sherawat", "Nandita Das"]
+  },
+  {
+    "rank": 2,
+    "name": "Hindu College, University of Delhi",
+    "location": "New Delhi",
+    "established": 1899,
+    "type": "Public",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) Philosophy",
+        "B.A. (Hons) Economics",
+        "B.A. (Hons) English",
+        "B.A. (Hons) Political Science"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Economics",
+        "M.A. Political Science",
+        "M.A. Philosophy"
+      ]
+    },
+    "faculty_strength": 180,
+    "student_intake_per_year": 3000,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Digital Library", "Departmental Library"],
+      "hostel": "Yes, residential hostel for boys",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Fully air-conditioned auditorium",
+      "sports_facilities": ["Cricket ground", "Badminton court", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 5.0,
+      "top_recruiters": ["Google", "EY", "Zomato", "Deloitte"],
+      "higher_studies_ratio": "Very High, especially for UPSC and PG"
+    },
+    "scholarships": [
+      "All India Entrance Scholarships",
+      "Merit Cum Means",
+      "Private Endowments"
+    ],
+    "notable_alumni": ["Imtiaz Ali", "Arnab Goswami", "Meenakshi Lekhi"]
+  },
+  {
+    "rank": 3,
+    "name": "Presidency College",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1840,
+    "type": "Government",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. Economics",
+        "B.A. History",
+        "B.A. Political Science",
+        "B.A. Tamil Literature",
+        "B.A. English"
+      ],
+      "postgraduate": [
+        "M.A. Economics",
+        "M.A. History",
+        "M.A. Political Science"
+      ]
+    },
+    "faculty_strength": 150,
+    "student_intake_per_year": 2700,
+    "infrastructure": {
+      "campus_area_acres": 18,
+      "libraries": ["Central Library"],
+      "hostel": "Yes, limited seats for boys and girls",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Historic seminar halls",
+      "sports_facilities": ["Football ground", "Gym", "Table Tennis Hall"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.8,
+      "top_recruiters": ["TCS", "Infosys", "Wipro", "Government Bodies"],
+      "higher_studies_ratio": "Good for research and UPSC"
+    },
+    "scholarships": [
+      "Government of Tamil Nadu Scholarships",
+      "Backward Class Scholarships",
+      "SC/ST Financial Aid"
+    ],
+    "notable_alumni": ["C.V. Raman", "S. Radhakrishnan", "C. Rajagopalachari"]
+  },
+  {
+    "rank": 4,
+    "name": "Loyola College",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1925,
+    "type": "Private (Autonomous)",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. English Literature",
+        "B.A. Economics",
+        "B.A. Sociology",
+        "B.A. History"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Sociology",
+        "M.A. Economics"
+      ]
+    },
+    "faculty_strength": 230,
+    "student_intake_per_year": 4000,
+    "infrastructure": {
+      "campus_area_acres": 99,
+      "libraries": ["Loyola Library (Digital + Physical)", "Departmental Libraries"],
+      "hostel": "Yes, boys and girls hostels with large capacity",
+      "labs": ["Media Lab", "Language Lab", "Computer Lab"],
+      "auditorium": "Two auditoriums with 1000+ capacity",
+      "sports_facilities": ["Indoor stadium", "Basketball courts", "Gym", "Cricket ground"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.2,
+      "top_recruiters": ["Infosys", "Amazon", "Deloitte", "Wipro"],
+      "higher_studies_ratio": "Very high, 70%+ for PG or abroad"
+    },
+    "scholarships": [
+      "Loyola Scholarships",
+      "Government Aid",
+      "Merit Scholarships",
+      "Need-based Grants"
+    ],
+    "notable_alumni": ["P. Chidambaram", "Mahesh Babu", "R. Madhavan"]
+  },
+  {
+    "rank": 5,
+    "name": "St. Xavier's College",
+    "location": "Mumbai, Maharashtra",
+    "established": 1869,
+    "type": "Private (Autonomous)",
+    "affiliation": "University of Mumbai",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. Psychology",
+        "B.A. Sociology",
+        "B.A. Economics",
+        "B.A. Political Science"
+      ],
+      "postgraduate": [
+        "M.A. Psychology",
+        "M.A. Public Policy",
+        "M.A. English Literature"
+      ]
+    },
+    "faculty_strength": 210,
+    "student_intake_per_year": 3000,
+    "infrastructure": {
+      "campus_area_acres": 12,
+      "libraries": ["Central Library", "Digital Learning Resource Centre"],
+      "hostel": "Limited on-campus hostel for boys",
+      "labs": ["Psychology Lab", "Language Lab", "Computer Lab"],
+      "auditorium": "Large heritage auditorium",
+      "sports_facilities": ["Football ground", "Basketball court", "Indoor gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 5.1,
+      "top_recruiters": ["JP Morgan", "KPMG", "Tata", "Ernst & Young"],
+      "higher_studies_ratio": "Extremely high, many go abroad for masters"
+    },
+    "scholarships": [
+      "Government Scholarships",
+      "Jesuit Trust Scholarships",
+      "Merit-cum-Means"
+    ],
+    "notable_alumni": ["Shabana Azmi", "Anil Kapoor", "Mukesh Ambani"]
+  },
+  {
+    "rank": 6,
+    "name": "Lady Shri Ram College for Women",
+    "location": "New Delhi",
+    "established": 1956,
+    "type": "Public (Women’s College)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) Economics",
+        "B.A. (Hons) Psychology",
+        "B.A. (Hons) History",
+        "B.A. (Hons) Political Science",
+        "B.A. Programme"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Political Science"
+      ]
+    },
+    "faculty_strength": 160,
+    "student_intake_per_year": 2800,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Main Library", "Digital Library Access"],
+      "hostel": "Yes, girls hostel with modern amenities",
+      "labs": ["Psychology Lab", "Language Lab", "Computer Lab"],
+      "auditorium": "LSR Auditorium for cultural and academic events",
+      "sports_facilities": ["Basketball court", "Tennis court", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 5.2,
+      "top_recruiters": ["Bain & Co.", "Deloitte", "Teach for India", "Google"],
+      "higher_studies_ratio": "Over 65%, many go abroad or into civil services"
+    },
+    "scholarships": [
+      "Need-based Scholarships",
+      "Merit Awards",
+      "Government Grants for SC/ST/OBC students"
+    ],
+    "notable_alumni": ["Aung San Suu Kyi", "Anuradha Roy", "Gauri Khan"]
+  },
+  {
+    "rank": 7,
+    "name": "St. Stephen's College",
+    "location": "New Delhi",
+    "established": 1881,
+    "type": "Public (Minority Institution)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) Philosophy",
+        "B.A. (Hons) History",
+        "B.A. Programme"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Philosophy"
+      ]
+    },
+    "faculty_strength": 140,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 30,
+      "libraries": ["Heritage Library", "Reading Halls"],
+      "hostel": "Yes, on-campus for both boys and girls",
+      "labs": ["Philosophy Lab", "Computer Lab", "Language Lab"],
+      "auditorium": "Historic heritage hall",
+      "sports_facilities": ["Cricket ground", "Tennis courts", "Squash court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 6.0,
+      "top_recruiters": ["BCG", "Google", "Tata", "JP Morgan"],
+      "higher_studies_ratio": "Extremely high, many pursue foreign studies"
+    },
+    "scholarships": [
+      "Merit-based",
+      "Means-cum-merit Scholarships",
+      "Endowment Awards"
+    ],
+    "notable_alumni": ["Shashi Tharoor", "Kapil Sibal", "Mani Shankar Aiyar"]
+  },
+  {
+    "rank": 8,
+    "name": "Madras Christian College",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1837,
+    "type": "Private (Autonomous)",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. English Literature",
+        "B.A. History",
+        "B.A. Tamil Literature",
+        "B.A. Public Administration"
+      ],
+      "postgraduate": [
+        "M.A. History",
+        "M.A. English"
+      ]
+    },
+    "faculty_strength": 250,
+    "student_intake_per_year": 4500,
+    "infrastructure": {
+      "campus_area_acres": 365,
+      "libraries": ["Miller Memorial Library", "Departmental Libraries"],
+      "hostel": "Yes, separate blocks for men and women",
+      "labs": ["Media Lab", "Language Lab", "Computer Lab"],
+      "auditorium": "Anderson Hall and multiple seminar rooms",
+      "sports_facilities": ["Football fields", "Basketball courts", "Track field"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.0,
+      "top_recruiters": ["Infosys", "Amazon", "Zoho", "The Hindu"],
+      "higher_studies_ratio": "High among arts and theology streams"
+    },
+    "scholarships": [
+      "Institutional Merit Scholarships",
+      "Christian Minority Scholarships",
+      "Government Aid"
+    ],
+    "notable_alumni": ["Indra Nooyi", "Nirmala Sitharaman", "R. Venkataraman"]
+  },
+  {
+    "rank": 9,
+    "name": "Fergusson College",
+    "location": "Pune, Maharashtra",
+    "established": 1885,
+    "type": "Public (Autonomous)",
+    "affiliation": "Savitribai Phule Pune University",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. History",
+        "B.A. Psychology",
+        "B.A. Economics",
+        "B.A. Philosophy"
+      ],
+      "postgraduate": [
+        "M.A. Psychology",
+        "M.A. English",
+        "M.A. Economics"
+      ]
+    },
+    "faculty_strength": 190,
+    "student_intake_per_year": 3500,
+    "infrastructure": {
+      "campus_area_acres": 65,
+      "libraries": ["Jayakar Knowledge Resource Centre"],
+      "hostel": "Yes, limited accommodation",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "Modern auditorium with audio-visual systems",
+      "sports_facilities": ["Cricket ground", "Gym", "Outdoor courts"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["Cognizant", "TCS", "Infosys", "Educational NGOs"],
+      "higher_studies_ratio": "Strong across social sciences and humanities"
+    },
+    "scholarships": [
+      "Government of Maharashtra Scholarships",
+      "Economically Backward Student Aid",
+      "Merit Scholarships"
+    ],
+    "notable_alumni": ["P. V. Narasimha Rao", "Gopal Krishna Gokhale", "Smita Patil"]
+  },
+  {
+    "rank": 10,
+    "name": "Hansraj College",
+    "location": "New Delhi",
+    "established": 1948,
+    "type": "Public",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) History",
+        "B.A. (Hons) Economics",
+        "B.A. Programme"
+      ],
+      "postgraduate": [
+        "M.A. Economics",
+        "M.A. English"
+      ]
+    },
+    "faculty_strength": 170,
+    "student_intake_per_year": 2800,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Digital Library", "E-resources Hall"],
+      "hostel": "Yes, hostel for boys",
+      "labs": ["Computer Lab", "Language Lab"],
+      "auditorium": "Modernized with high-end equipment",
+      "sports_facilities": ["Gymnasium", "Football field", "Badminton court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.8,
+      "top_recruiters": ["EY", "ZS Associates", "KPMG", "Policy Research Institutes"],
+      "higher_studies_ratio": "Good, especially for English and Economics"
+    },
+    "scholarships": [
+      "University Scholarships",
+      "Fee Waivers for Needy Students",
+      "Merit Awards"
+    ],
+    "notable_alumni": ["Shah Rukh Khan", "Anurag Kashyap", "Nandita Das"]
+  },
+  {
+    "rank": 11,
+    "name": "Ramakrishna Mission Vidyamandira",
+    "location": "Howrah, West Bengal",
+    "established": 1941,
+    "type": "Autonomous (Residential)",
+    "affiliation": "University of Calcutta",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. Bengali",
+        "B.A. Sanskrit",
+        "B.A. Philosophy",
+        "B.A. History"
+      ],
+      "postgraduate": [
+        "M.A. Sanskrit",
+        "M.A. Philosophy"
+      ]
+    },
+    "faculty_strength": 80,
+    "student_intake_per_year": 1200,
+    "infrastructure": {
+      "campus_area_acres": 40,
+      "libraries": ["Central Library", "Philosophy Section", "Manuscript Section"],
+      "hostel": "Yes, fully residential for boys",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Ashrama Hall for lectures and cultural programs",
+      "sports_facilities": ["Indoor Gym", "Volleyball court", "Walking tracks"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Academic Institutions", "NGOs", "Publishers"],
+      "higher_studies_ratio": "Very High in Sanskrit and Philosophy"
+    },
+    "scholarships": [
+      "Ramakrishna Mission Trust Scholarships",
+      "Merit-cum-Means",
+      "State Government Aid"
+    ],
+    "notable_alumni": ["Swami Tyagananda", "Swami Atmashraddhananda"]
+  },
+  {
+    "rank": 12,
+    "name": "Daulat Ram College",
+    "location": "New Delhi",
+    "established": 1960,
+    "type": "Public (Women’s College)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) Psychology",
+        "B.A. (Hons) English",
+        "B.A. (Hons) History",
+        "B.A. Programme"
+      ],
+      "postgraduate": [
+        "M.A. Psychology",
+        "M.A. English"
+      ]
+    },
+    "faculty_strength": 130,
+    "student_intake_per_year": 2200,
+    "infrastructure": {
+      "campus_area_acres": 13,
+      "libraries": ["Library with digital access"],
+      "hostel": "Yes, girls hostel with 200+ beds",
+      "labs": ["Psychology Lab", "Computer Lab"],
+      "auditorium": "Cultural Hall",
+      "sports_facilities": ["Table Tennis", "Yoga Hall", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.6,
+      "top_recruiters": ["Urban Clap", "NGOs", "TCS", "Startups"],
+      "higher_studies_ratio": "Good across Psychology and English"
+    },
+    "scholarships": [
+      "University Endowment Funds",
+      "State Scholarships for Women",
+      "Minority Welfare Grants"
+    ],
+    "notable_alumni": ["Neha Dhupia", "Sonal Chauhan"]
+  },
+  {
+    "rank": 13,
+    "name": "Indraprastha College for Women",
+    "location": "New Delhi",
+    "established": 1924,
+    "type": "Public (Women’s College)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) Psychology",
+        "B.A. (Hons) History",
+        "B.A. (Hons) Political Science",
+        "B.A. Programme"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Psychology"
+      ]
+    },
+    "faculty_strength": 120,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 14,
+      "libraries": ["Central Library", "Department Libraries"],
+      "hostel": "Yes, girls hostel with 200+ capacity",
+      "labs": ["Psychology Lab", "Language Lab", "Computer Lab"],
+      "auditorium": "Heritage auditorium and seminar halls",
+      "sports_facilities": ["Gymnasium", "Basketball court", "Athletics track"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.4,
+      "top_recruiters": ["Wipro", "TCS", "NGOs", "Publishing Houses"],
+      "higher_studies_ratio": "High in Psychology and English"
+    },
+    "scholarships": [
+      "Merit Scholarships",
+      "Government Schemes",
+      "Fee Waivers for EWS"
+    ],
+    "notable_alumni": ["Meira Kumar", "Shubha Mudgal"]
+  },
+  {
+    "rank": 14,
+    "name": "Jesus and Mary College",
+    "location": "New Delhi",
+    "established": 1968,
+    "type": "Private (Women’s College)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) Economics",
+        "B.A. Programme",
+        "B.A. (Hons) Sociology",
+        "B.A. (Hons) Political Science"
+      ],
+      "postgraduate": [
+        "M.A. English"
+      ]
+    },
+    "faculty_strength": 110,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 14,
+      "libraries": ["Central Library", "Reading Room"],
+      "hostel": "Yes, girls hostel with security and mess facilities",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Fully equipped seminar halls",
+      "sports_facilities": ["Basketball court", "Gym", "Yoga room"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.8,
+      "top_recruiters": ["KPMG", "ICICI", "Urban Company", "CRY"],
+      "higher_studies_ratio": "Strong PG and civil services interest"
+    },
+    "scholarships": [
+      "Christian Minority Scholarships",
+      "Merit-cum-Means",
+      "Government Welfare Schemes"
+    ],
+    "notable_alumni": ["Priyanka Gandhi", "Neha Dhupia"]
+  },
+  {
+    "rank": 15,
+    "name": "Stella Maris College",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1947,
+    "type": "Private (Women’s College)",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. History",
+        "B.A. Sociology",
+        "B.A. Economics"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. History",
+        "M.A. International Studies"
+      ]
+    },
+    "faculty_strength": 140,
+    "student_intake_per_year": 2500,
+    "infrastructure": {
+      "campus_area_acres": 20,
+      "libraries": ["Central Library", "Digital Resources Room"],
+      "hostel": "Yes, secure residential hostel for women",
+      "labs": ["Language Lab", "Media Lab", "Computer Lab"],
+      "auditorium": "Large air-conditioned auditorium",
+      "sports_facilities": ["Basketball court", "Volleyball court", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.1,
+      "top_recruiters": ["Infosys", "HCL", "TCS", "Teach for India"],
+      "higher_studies_ratio": "High for English and Sociology streams"
+    },
+    "scholarships": [
+      "Christian Minority Scholarships",
+      "Government Grants",
+      "College Merit Awards"
+    ],
+    "notable_alumni": ["Suhasini Maniratnam", "Revathi", "Beena Sarwar"]
+  },
+  {
+    "rank": 16,
+    "name": "Mount Carmel College",
+    "location": "Bengaluru, Karnataka",
+    "established": 1948,
+    "type": "Private (Women’s College)",
+    "affiliation": "Bengaluru City University",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": [
+        "B.A. Journalism",
+        "B.A. Political Science",
+        "B.A. Psychology",
+        "B.A. Economics",
+        "B.A. English"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Public Policy",
+        "M.A. Psychology"
+      ]
+    },
+    "faculty_strength": 180,
+    "student_intake_per_year": 4000,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Central Library", "Digital Library"],
+      "hostel": "Yes, residential facility for girls",
+      "labs": ["Psychology Lab", "Media Lab", "Language Lab"],
+      "auditorium": "Air-conditioned auditorium with AV support",
+      "sports_facilities": ["Swimming pool", "Basketball court", "Athletics track"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.3,
+      "top_recruiters": ["Wipro", "Amazon", "Infosys", "Cognizant"],
+      "higher_studies_ratio": "Very high for media and psychology programs"
+    },
+    "scholarships": [
+      "Merit Scholarships",
+      "SC/ST Welfare Schemes",
+      "MCC Scholarships"
+    ],
+    "notable_alumni": ["Anushka Sharma", "Kiran Mazumdar Shaw", "Deepika Padukone"]
+  },
+  {
+    "rank": 17,
+    "name": "Sri Venkateswara College",
+    "location": "New Delhi",
+    "established": 1961,
+    "type": "Public",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) Political Science",
+        "B.A. (Hons) History",
+        "B.A. Programme"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Political Science"
+      ]
+    },
+    "faculty_strength": 130,
+    "student_intake_per_year": 2300,
+    "infrastructure": {
+      "campus_area_acres": 16,
+      "libraries": ["Main Library", "Digital Access Center"],
+      "hostel": "Yes, boys and girls hostels",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Central auditorium with seminar halls",
+      "sports_facilities": ["Gym", "Cricket Ground", "Basketball Court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.0,
+      "top_recruiters": ["EY", "Infosys", "Teach for India"],
+      "higher_studies_ratio": "Good in humanities and social sciences"
+    },
+    "scholarships": [
+      "DU Merit Scholarships",
+      "South Indian Education Society Aid",
+      "Government Grants"
+    ],
+    "notable_alumni": ["R. Madhavan", "Neena Gupta"]
+  },
+  {
+    "rank": 18,
+    "name": "Christ (Deemed to be University)",
+    "location": "Bengaluru, Karnataka",
+    "established": 1969,
+    "type": "Private Deemed University",
+    "affiliation": "Autonomous",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Triple Major) - Psychology, Sociology, English",
+        "B.A. Economics, Political Science, Sociology",
+        "B.A. Journalism, Psychology, English"
+      ],
+      "postgraduate": [
+        "M.A. Applied Economics",
+        "M.A. English with Cultural Studies",
+        "M.A. Psychology"
+      ]
+    },
+    "faculty_strength": 300,
+    "student_intake_per_year": 5000,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Christ Knowledge Centre"],
+      "hostel": "Yes, off-campus hostels available",
+      "labs": ["Psychology Lab", "Language Lab", "Media Lab"],
+      "auditorium": "State-of-the-art auditoriums on campus",
+      "sports_facilities": ["Cricket ground", "Basketball court", "Swimming pool"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.7,
+      "top_recruiters": ["Deloitte", "TCS", "Goldman Sachs", "Amazon"],
+      "higher_studies_ratio": "Very high; many pursue PG, MBA, MS"
+    },
+    "scholarships": [
+      "Merit Scholarships",
+      "Alumni Funded Aid",
+      "Fee Concessions"
+    ],
+    "notable_alumni": ["Ankur Warikoo", "Vineeth Sreenivasan", "George Koshy"]
+  },
+  {
+    "rank": 19,
+    "name": "Ramjas College",
+    "location": "New Delhi",
+    "established": 1917,
+    "type": "Public",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) History",
+        "B.A. (Hons) Political Science",
+        "B.A. Programme"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. History"
+      ]
+    },
+    "faculty_strength": 150,
+    "student_intake_per_year": 2400,
+    "infrastructure": {
+      "campus_area_acres": 17,
+      "libraries": ["Main Library", "Digital Resource Hall"],
+      "hostel": "Yes, separate boys and girls hostels",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Open-air amphitheater and hall",
+      "sports_facilities": ["Football field", "Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.0,
+      "top_recruiters": ["Deloitte", "NGOs", "TCS"],
+      "higher_studies_ratio": "High in humanities and UPSC aspirants"
+    },
+    "scholarships": [
+      "University and College Merit Awards",
+      "Government Aided Schemes"
+    ],
+    "notable_alumni": ["Manoj Bajpayee", "Shekhar Suman", "Prakash Jha"]
+  },
+  {
+    "rank": 20,
+    "name": "Gargi College",
+    "location": "New Delhi",
+    "established": 1967,
+    "type": "Public (Women’s College)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) Political Science",
+        "B.A. Programme",
+        "B.A. (Hons) History"
+      ],
+      "postgraduate": [
+        "M.A. English"
+      ]
+    },
+    "faculty_strength": 120,
+    "student_intake_per_year": 2100,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Central Library", "Reading Room"],
+      "hostel": "No",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Multipurpose Auditorium",
+      "sports_facilities": ["Volleyball court", "Indoor Gym", "Yoga room"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.6,
+      "top_recruiters": ["Infosys", "Teach for India", "The Times Group"],
+      "higher_studies_ratio": "Strong for English and Public Policy"
+    },
+    "scholarships": [
+      "Merit-based Awards",
+      "Financial Aid for EWS",
+      "SC/ST Government Grants"
+    ],
+    "notable_alumni": ["Huma Qureshi", "Richa Chadda"]
+  },
+  {
+    "rank": 21,
+    "name": "Bhaskaracharya College of Applied Sciences",
+    "location": "New Delhi",
+    "established": 1995,
+    "type": "Public",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. Programme",
+        "B.A. (Hons) English",
+        "B.A. (Hons) Hindi"
+      ],
+      "postgraduate": []
+    },
+    "faculty_strength": 95,
+    "student_intake_per_year": 1200,
+    "infrastructure": {
+      "campus_area_acres": 12,
+      "libraries": ["Main Library", "Digital Resource Access"],
+      "hostel": "No",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Well-equipped hall for events and lectures",
+      "sports_facilities": ["Basketball court", "Volleyball court", "Indoor Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Infosys", "TCS", "NGOs", "Policy Labs"],
+      "higher_studies_ratio": "Good, especially for teaching and research"
+    },
+    "scholarships": [
+      "Delhi University Scholarships",
+      "SC/ST Welfare Schemes",
+      "Minority Scholarships"
+    ],
+    "notable_alumni": []
+  },
+  {
+    "rank": 22,
+    "name": "Kirori Mal College",
+    "location": "New Delhi",
+    "established": 1954,
+    "type": "Public",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) English",
+        "B.A. (Hons) Political Science",
+        "B.A. (Hons) History",
+        "B.A. Programme"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Political Science"
+      ]
+    },
+    "faculty_strength": 150,
+    "student_intake_per_year": 2400,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Main Library", "Digital Study Room"],
+      "hostel": "Yes, for boys",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Cultural and seminar hall",
+      "sports_facilities": ["Football ground", "Gymnasium", "Badminton court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.9,
+      "top_recruiters": ["Deloitte", "PwC", "Startups", "Fellowship Orgs"],
+      "higher_studies_ratio": "Very high for UPSC and PG programs"
+    },
+    "scholarships": [
+      "Merit-Based",
+      "Financial Need-Based",
+      "Government Aided Programs"
+    ],
+    "notable_alumni": ["Amitabh Bachchan", "Satish Kaushik", "Kabir Khan"]
+  },
+  {
+    "rank": 23,
+    "name": "KJ Somaiya College of Arts and Commerce",
+    "location": "Mumbai, Maharashtra",
+    "established": 1960,
+    "type": "Private (Autonomous)",
+    "affiliation": "University of Mumbai",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. Economics",
+        "B.A. Psychology",
+        "B.A. Hindi Literature"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Hindi"
+      ]
+    },
+    "faculty_strength": 120,
+    "student_intake_per_year": 3500,
+    "infrastructure": {
+      "campus_area_acres": 28,
+      "libraries": ["Central Library", "Language Resource Centre"],
+      "hostel": "Yes, separate hostels for boys and girls",
+      "labs": ["Psychology Lab", "Computer Lab"],
+      "auditorium": "Air-conditioned with capacity over 1000",
+      "sports_facilities": ["Indoor stadium", "Table Tennis", "Track field"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.7,
+      "top_recruiters": ["Infosys", "ICICI", "Asian Paints"],
+      "higher_studies_ratio": "Moderate to high for languages and psychology"
+    },
+    "scholarships": [
+      "Somaiya Trust Scholarships",
+      "Government Aid",
+      "Fee Waiver for Meritorious"
+    ],
+    "notable_alumni": ["Anjali Bhagwat", "Kiran Shantaram"]
+  },
+  {
+    "rank": 24,
+    "name": "Shivaji College",
+    "location": "New Delhi",
+    "established": 1961,
+    "type": "Public",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. Programme",
+        "B.A. (Hons) History",
+        "B.A. (Hons) Political Science",
+        "B.A. (Hons) English"
+      ],
+      "postgraduate": [
+        "M.A. Political Science"
+      ]
+    },
+    "faculty_strength": 100,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["College Library", "E-Resource Section"],
+      "hostel": "No",
+      "labs": ["Computer Lab", "Language Lab"],
+      "auditorium": "Fully equipped multipurpose hall",
+      "sports_facilities": ["Cricket ground", "Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["NGOs", "Policy Think Tanks", "Publishing Houses"],
+      "higher_studies_ratio": "Good for political science and humanities"
+    },
+    "scholarships": [
+      "University-based Financial Aid",
+      "Merit-based Incentives",
+      "Government of Delhi Grants"
+    ],
+    "notable_alumni": []
+  },
+  {
+    "rank": 25,
+    "name": "Sri Guru Tegh Bahadur Khalsa College",
+    "location": "New Delhi",
+    "established": 1951,
+    "type": "Public (Minority Institution)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. (Hons) Punjabi",
+        "B.A. (Hons) History",
+        "B.A. Programme",
+        "B.A. (Hons) English"
+      ],
+      "postgraduate": [
+        "M.A. Punjabi",
+        "M.A. English"
+      ]
+    },
+    "faculty_strength": 90,
+    "student_intake_per_year": 1600,
+    "infrastructure": {
+      "campus_area_acres": 11,
+      "libraries": ["Central Library", "Digital Reading Room"],
+      "hostel": "Yes, for boys only",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Heritage seminar hall",
+      "sports_facilities": ["Football ground", "Badminton courts", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["Zomato", "TCS", "Startups"],
+      "higher_studies_ratio": "Moderate to high"
+    },
+    "scholarships": [
+      "Minority Scholarships",
+      "University of Delhi Aid",
+      "Merit-based Prizes"
+    ],
+    "notable_alumni": ["Jaspreet Singh", "Ravinder Singh"]
+  },
+  {
+    "rank": 26,
+    "name": "Wilson College",
+    "location": "Mumbai, Maharashtra",
+    "established": 1832,
+    "type": "Private Aided",
+    "affiliation": "University of Mumbai",
+    "accreditation": "NAAC B++",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. Economics",
+        "B.A. Political Science"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Public Policy"
+      ]
+    },
+    "faculty_strength": 85,
+    "student_intake_per_year": 1300,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Heritage Library", "Reading Room"],
+      "hostel": "Yes, for boys",
+      "labs": ["Media Lab", "Language Lab"],
+      "auditorium": "Old colonial-style hall",
+      "sports_facilities": ["Volleyball court", "Gymnasium"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.1,
+      "top_recruiters": ["NGOs", "Digital Startups"],
+      "higher_studies_ratio": "Decent, especially for English and policy"
+    },
+    "scholarships": [
+      "Institutional Scholarships",
+      "Christian Minority Aid",
+      "Government Schemes"
+    ],
+    "notable_alumni": ["Madhur Bhandarkar", "Dr. Zakir Naik"]
+  },
+  {
+    "rank": 27,
+    "name": "Elphinstone College",
+    "location": "Mumbai, Maharashtra",
+    "established": 1856,
+    "type": "Government",
+    "affiliation": "University of Mumbai",
+    "accreditation": "NAAC B+",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. History",
+        "B.A. Economics"
+      ],
+      "postgraduate": [],
+      "notable_alumni": ["Dr. B. R. Ambedkar", "Bal Gangadhar Tilak", "Dadabhai Naoroji"]
+    },
+    "faculty_strength": 80,
+    "student_intake_per_year": 1200,
+    "infrastructure": {
+      "campus_area_acres": 9,
+      "libraries": ["Old British-Era Library"],
+      "hostel": "No",
+      "labs": ["Language Lab"],
+      "auditorium": "Colonial lecture halls",
+      "sports_facilities": ["Cricket pitch", "Gym"]
+    },
+    "placements": {
+      "placement_cell": false,
+      "average_package_lpa": 2.8,
+      "top_recruiters": [],
+      "higher_studies_ratio": "High for civil services and history"
+    },
+    "scholarships": [
+      "Government of Maharashtra Aid",
+      "SC/ST Scholarships"
+    ]
+  },
+  {
+    "rank": 28,
+    "name": "Government College for Women, Thiruvananthapuram",
+    "location": "Thiruvananthapuram, Kerala",
+    "established": 1864,
+    "type": "Government (Women’s College)",
+    "affiliation": "University of Kerala",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. History",
+        "B.A. Malayalam",
+        "B.A. Political Science"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Malayalam",
+        "M.A. Political Science"
+      ]
+    },
+    "faculty_strength": 100,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 20,
+      "libraries": ["Central Library", "Language Resource Centre"],
+      "hostel": "Yes, for women",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Main Hall and Cultural Block",
+      "sports_facilities": ["Indoor Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["State PSC", "NGOs"],
+      "higher_studies_ratio": "High for literature and political science"
+    },
+    "scholarships": [
+      "Kerala Government Schemes",
+      "Women's Empowerment Grants",
+      "Merit-based Scholarships"
+    ],
+    "notable_alumni": ["K. R. Gowri Amma", "Sugathakumari"]
+  },
+  {
+    "rank": 29,
+    "name": "MES College Marampally",
+    "location": "Aluva, Kerala",
+    "established": 1995,
+    "type": "Aided (Muslim Minority)",
+    "affiliation": "Mahatma Gandhi University",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. Islamic History",
+        "B.A. Economics"
+      ],
+      "postgraduate": [
+        "M.A. English"
+      ]
+    },
+    "faculty_strength": 85,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Digital Library", "Reference Hall"],
+      "hostel": "Yes, for boys and girls",
+      "labs": ["Language Lab", "Multimedia Lab"],
+      "auditorium": "Multipurpose Conference Hall",
+      "sports_facilities": ["Football field", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["HCL", "Tech Mahindra", "NGOs"],
+      "higher_studies_ratio": "High among English literature graduates"
+    },
+    "scholarships": [
+      "Minority Aid Programs",
+      "Merit-cum-Means",
+      "Government of Kerala Grants"
+    ],
+    "notable_alumni": []
+  },
+  {
+    "rank": 30,
+    "name": "Sacred Heart College",
+    "location": "Thevara, Kerala",
+    "established": 1944,
+    "type": "Private (Autonomous)",
+    "affiliation": "Mahatma Gandhi University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. Economics",
+        "B.A. Sociology"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Sociology"
+      ]
+    },
+    "faculty_strength": 140,
+    "student_intake_per_year": 3000,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Knowledge Centre", "Digital Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Media Lab"],
+      "auditorium": "SH Auditorium for seminars and theatre",
+      "sports_facilities": ["Basketball court", "Gym", "Cricket ground"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.0,
+      "top_recruiters": ["Cognizant", "Byju's", "Infosys"],
+      "higher_studies_ratio": "Strong in English and Journalism"
+    },
+    "scholarships": [
+      "Catholic Diocese Scholarships",
+      "Govt Aid",
+      "Alumni Funded Support"
+    ],
+    "notable_alumni": ["Kunchacko Boban", "Manju Warrier"]
+  },
+  {
+    "rank": 31,
+    "name": "Maharaja's College",
+    "location": "Ernakulam, Kerala",
+    "established": 1875,
+    "type": "Government",
+    "affiliation": "Mahatma Gandhi University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. History",
+        "B.A. Economics",
+        "B.A. Malayalam"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Economics",
+        "M.A. Malayalam",
+        "M.A. History"
+      ]
+    },
+    "faculty_strength": 110,
+    "student_intake_per_year": 2400,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Main Library", "E-resource section"],
+      "hostel": "Yes, separate hostels for men and women",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Large academic hall with seminar space",
+      "sports_facilities": ["Athletics field", "Indoor stadium", "Volleyball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Government Services", "NGOs", "Startups"],
+      "higher_studies_ratio": "Very high among humanities students"
+    },
+    "scholarships": [
+      "Government Merit Scholarship",
+      "SC/ST Welfare Grants",
+      "Economically Backward Student Aid"
+    ],
+    "notable_alumni": ["M. G. S. Narayanan", "Sibi Malayil"]
+  },
+  {
+    "rank": 32,
+    "name": "St. Joseph's College (Autonomous)",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "established": 1844,
+    "type": "Private (Autonomous, Jesuit Institution)",
+    "affiliation": "Bharathidasan University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. English Literature",
+        "B.A. Economics",
+        "B.A. History"
+      ],
+      "postgraduate": [
+        "M.A. English Literature",
+        "M.A. Economics",
+        "M.A. History"
+      ]
+    },
+    "faculty_strength": 130,
+    "student_intake_per_year": 3000,
+    "infrastructure": {
+      "campus_area_acres": 75,
+      "libraries": ["Jesuit Knowledge Centre", "Digital Library"],
+      "hostel": "Yes, multiple hostels for boys and girls",
+      "labs": ["Language Lab", "Social Research Lab"],
+      "auditorium": "AC Auditoriums with AV tech",
+      "sports_facilities": ["Basketball court", "Indoor gym", "Hockey field"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.8,
+      "top_recruiters": ["Infosys", "Zoho", "ICICI Bank"],
+      "higher_studies_ratio": "Very high; many pursue PhDs and NET"
+    },
+    "scholarships": [
+      "Jesuit Educational Aid",
+      "Merit-cum-Means",
+      "Backward Class Welfare Scholarships"
+    ],
+    "notable_alumni": ["A. P. J. Abdul Kalam (Honorary)", "Vairamuthu"]
+  },
+  {
+    "rank": 33,
+    "name": "St. Teresa’s College",
+    "location": "Ernakulam, Kerala",
+    "established": 1925,
+    "type": "Private (Women’s College)",
+    "affiliation": "Mahatma Gandhi University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. English Literature and Communication Studies",
+        "B.A. Economics",
+        "B.A. Sociology",
+        "B.A. History"
+      ],
+      "postgraduate": [
+        "M.A. English Literature",
+        "M.A. Economics"
+      ]
+    },
+    "faculty_strength": 145,
+    "student_intake_per_year": 3000,
+    "infrastructure": {
+      "campus_area_acres": 20,
+      "libraries": ["Central Library", "Research Repository"],
+      "hostel": "Yes, secure campus hostels for women",
+      "labs": ["Media Lab", "Language Lab"],
+      "auditorium": "The Teresian Hall with full AV setup",
+      "sports_facilities": ["Indoor courts", "Gym", "Yoga centre"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["The Hindu", "Byju's", "EY", "Media Agencies"],
+      "higher_studies_ratio": "Excellent, especially in English and Sociology"
+    },
+    "scholarships": [
+      "Catholic Scholarships",
+      "Kerala Government Aided Programs",
+      "Merit Scholarships"
+    ],
+    "notable_alumni": ["Manju Warrier", "Nimisha Sajayan"]
+  },
+  {
+    "rank": 34,
+    "name": "Government Arts College",
+    "location": "Coimbatore, Tamil Nadu",
+    "established": 1852,
+    "type": "Government",
+    "affiliation": "Bharathiar University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. Economics",
+        "B.A. History",
+        "B.A. Tamil"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Tamil",
+        "M.A. Economics"
+      ]
+    },
+    "faculty_strength": 115,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 12,
+      "libraries": ["Main Library", "E-journal Access Unit"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Social Sciences Lab"],
+      "auditorium": "Auditorium for seminars and college fests",
+      "sports_facilities": ["Outdoor stadium", "Volleyball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.9,
+      "top_recruiters": ["Local enterprises", "NGOs", "Academic Institutions"],
+      "higher_studies_ratio": "High for Tamil literature and civil services"
+    },
+    "scholarships": [
+      "TN Government Fee Waivers",
+      "SC/ST State Schemes",
+      "Rural Student Aid"
+    ],
+    "notable_alumni": ["R. Venkataraman", "P. T. Usha"]
+  },
+  {
+    "rank": 35,
+    "name": "CMS College",
+    "location": "Kottayam, Kerala",
+    "established": 1817,
+    "type": "Private Aided",
+    "affiliation": "Mahatma Gandhi University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. Economics",
+        "B.A. Malayalam",
+        "B.A. Sociology"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. History",
+        "M.A. Malayalam"
+      ]
+    },
+    "faculty_strength": 135,
+    "student_intake_per_year": 2800,
+    "infrastructure": {
+      "campus_area_acres": 30,
+      "libraries": ["Main Library", "Digital Humanities Lab"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Psychology Lab"],
+      "auditorium": "Historic seminar halls and main auditorium",
+      "sports_facilities": ["Football ground", "Cricket pitch", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.3,
+      "top_recruiters": ["Federal Bank", "TCS", "Research Foundations"],
+      "higher_studies_ratio": "Excellent across all humanities fields"
+    },
+    "scholarships": [
+      "Church Aided Funds",
+      "Merit-cum-Means",
+      "Kerala Minority Scholarships"
+    ],
+    "notable_alumni": ["K. R. Narayanan", "Ayyappa Paniker"]
+  },
+  {
+    "rank": 36,
+    "name": "Scott Christian College",
+    "location": "Nagercoil, Tamil Nadu",
+    "established": 1893,
+    "type": "Private Aided (Autonomous)",
+    "affiliation": "Manonmaniam Sundaranar University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. History",
+        "B.A. English",
+        "B.A. Tamil"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Tamil",
+        "M.A. History"
+      ]
+    },
+    "faculty_strength": 105,
+    "student_intake_per_year": 2200,
+    "infrastructure": {
+      "campus_area_acres": 40,
+      "libraries": ["Scott Central Library"],
+      "hostel": "Yes, for men and women",
+      "labs": ["Language Lab"],
+      "auditorium": "Historic Seminar Hall",
+      "sports_facilities": ["Tennis court", "Basketball court", "Football field"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.1,
+      "top_recruiters": ["Infosys", "Wipro", "Govt Schemes"],
+      "higher_studies_ratio": "Very strong for language and history"
+    },
+    "scholarships": [
+      "Christian Minority Schemes",
+      "Govt of Tamil Nadu Scholarships"
+    ],
+    "notable_alumni": ["Dr. V. S. Ramachandran"]
+  },
+  {
+    "rank": 37,
+    "name": "St. Thomas College",
+    "location": "Thrissur, Kerala",
+    "established": 1889,
+    "type": "Private Aided",
+    "affiliation": "University of Calicut",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": [
+        "B.A. English",
+        "B.A. History",
+        "B.A. Economics"
+      ],
+      "postgraduate": [
+        "M.A. English",
+        "M.A. Economics",
+        "M.A. History"
+      ]
+    },
+    "faculty_strength": 140,
+    "student_intake_per_year": 2700,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Central Research Library"],
+      "hostel": "Yes",
+      "labs": ["Media Lab", "Language Lab"],
+      "auditorium": "Spacious Theatre Auditorium",
+      "sports_facilities": ["Basketball court", "Gymnasium"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Amrita University", "NGOs", "Banking Sector"],
+      "higher_studies_ratio": "Very high"
+    },
+    "scholarships": [
+      "St. Thomas Educational Fund",
+      "State Government Merit Aid"
+    ],
+    "notable_alumni": ["V. T. Bhattathiripad", "K. P. Kesava Menon"]
+  },
+  {
+    "rank": 38,
+    "name": "Pachaiyappa's College",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1842,
+    "type": "Government Aided",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC B++",
+    "courses": {
+      "undergraduate": [
+        "B.A. Tamil",
+        "B.A. English",
+        "B.A. History",
+        "B.A. Economics"
+      ],
+      "postgraduate": [
+        "M.A. Tamil",
+        "M.A. History",
+        "M.A. English"
+      ]
+    },
+    "faculty_strength": 130,
+    "student_intake_per_year": 2500,
+    "infrastructure": {
+      "campus_area_acres": 20,
+      "libraries": ["Main Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab"],
+      "auditorium": "Heritage seminar hall",
+      "sports_facilities": ["Cricket field", "Indoor stadium"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.8,
+      "top_recruiters": ["Govt Jobs", "Academic institutions"],
+      "higher_studies_ratio": "High in Tamil and History"
+    },
+    "scholarships": [
+      "State Minority Welfare Aid",
+      "Backward Class Grants"
+    ],
+    "notable_alumni": ["C. N. Annadurai", "P. Jeevanandham"]
+  },
+  {
+    "rank": 39,
+    "name": "Hindu College, Guntur",
+    "location": "Andhra Pradesh",
+    "established": 1935,
+    "type": "Private Aided",
+    "affiliation": "Acharya Nagarjuna University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": [
+        "B.A. History",
+        "B.A. Economics",
+        "B.A. Political Science"
+      ],
+      "postgraduate": [
+        "M.A. History",
+        "M.A. Economics"
+      ]
+    },
+    "faculty_strength": 95,
+    "student_intake_per_year": 1700,
+    "infrastructure": {
+      "campus_area_acres": 14,
+      "libraries": ["General Library"],
+      "hostel": "Yes",
+      "labs": ["Computer Lab", "Language Lab"],
+      "auditorium": "Hall with stage and AV setup",
+      "sports_facilities": ["Cricket pitch", "Kabaddi court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.7,
+      "top_recruiters": ["Local media", "NGOs"],
+      "higher_studies_ratio": "Moderate to high"
+    },
+    "scholarships": [
+      "Backward Class Scholarships",
+      "AP State Aid"
+    ],
+    "notable_alumni": []
+  },
+  {
+    "rank": 40,
+    "name": "Satyawati College",
+    "location": "New Delhi",
+    "established": 1972,
+    "type": "Public",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC B++",
+    "courses": {
+      "undergraduate": [
+        "B.A. Programme",
+        "B.A. (Hons) Political Science",
+        "B.A. (Hons) Hindi",
+        "B.A. (Hons) History"
+      ],
+      "postgraduate": [],
+      "faculty_strength": 100
+    },
+    "student_intake_per_year": 1900,
+    "infrastructure": {
+      "campus_area_acres": 9,
+      "libraries": ["General Library"],
+      "hostel": "No",
+      "labs": ["Language Lab"],
+      "auditorium": "Open-air stage and hall",
+      "sports_facilities": ["Basketball court", "Badminton"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["NGOs", "Government Training Missions"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": [
+      "Merit Scholarships",
+      "SC/ST Government Aid",
+      "Delhi University Fee Waivers"
+    ],
+    "notable_alumni": ["Ajay Maken"]
+  },
+  {
+    "rank": 41,
+    "name": "Adamas University",
+    "location": "West Bengal",
+    "established": 2015,
+    "type": "Private",
+    "affiliation": "Autonomous",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Journalism and Mass Communication", "B.A. Political Science"],
+      "postgraduate": ["M.A. English", "M.A. Mass Communication"]
+    },
+    "faculty_strength": 80,
+    "student_intake_per_year": 1200,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Central Library", "Media Resource Centre"],
+      "hostel": "Yes, boys and girls separate",
+      "labs": ["Media Lab", "Language Lab"],
+      "auditorium": "Multipurpose hall with digital audio-visual",
+      "sports_facilities": ["Gym", "Basketball court", "Cricket ground"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.8,
+      "top_recruiters": ["Times Group", "HT Media", "Asian News", "PR Agencies"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Merit Scholarships", "Financial Aid for Needy Students"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 42,
+    "name": "Annamalai University",
+    "location": "Chidambaram, Tamil Nadu",
+    "established": 1929,
+    "type": "Government (Deemed to be University)",
+    "affiliation": "Autonomous",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Tamil", "B.A. Sociology"],
+      "postgraduate": ["M.A. English", "M.A. History", "M.A. Sociology"]
+    },
+    "faculty_strength": 200,
+    "student_intake_per_year": 2500,
+    "infrastructure": {
+      "campus_area_acres": 630,
+      "libraries": ["Centenary Library", "Department Libraries"],
+      "hostel": "Yes, multiple hostels",
+      "labs": ["Language Lab", "Research Lab"],
+      "auditorium": "Central auditorium and seminar rooms",
+      "sports_facilities": ["Stadium", "Gym", "Indoor courts"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Local media houses", "NGOs", "Academic Institutions"],
+      "higher_studies_ratio": "High for research and university teaching"
+    },
+    "scholarships": ["State and Central Government Schemes", "Merit Scholarships"],
+    "notable_alumni": ["Dr. M. Mariappan", "Notable regional literary figures"]
+  },
+  {
+    "rank": 43,
+    "name": "Animal Welfare College",
+    "location": "Mohali, Punjab",
+    "established": 2003,
+    "type": "Public",
+    "affiliation": "Panjab University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Sociology (with Animal Welfare)", "B.A. History", "B.A. Economics"],
+      "postgraduate": ["M.A. Sociology", "M.A. Animal Ethics"]
+    },
+    "faculty_strength": 60,
+    "student_intake_per_year": 800,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Central Library", "Ethics Resource Centre"],
+      "hostel": "Yes, segregated",
+      "labs": ["Research Lab", "Language Lab"],
+      "auditorium": "Seminar hall",
+      "sports_facilities": ["Gym", "Outdoor courts"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["NGOs", "Research Foundations", "Animal Welfare Societies"],
+      "higher_studies_ratio": "High in social sciences"
+    },
+    "scholarships": ["State Government Scholarships", "Merit-cum-Means"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 44,
+    "name": "Bishop Cotton Women’s Christian College",
+    "location": "Bangalore, Karnataka",
+    "established": 1865,
+    "type": "Private Aided",
+    "affiliation": "Bangalore University",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Psychology", "B.A. Sociology"],
+      "postgraduate": ["M.A. Psychology", "M.A. English"]
+    },
+    "faculty_strength": 140,
+    "student_intake_per_year": 2200,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Central Library", "E-library"],
+      "hostel": "No",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "Conference hall and seminar room",
+      "sports_facilities": ["Gym", "Indoor courts", "Basketball"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["Infosys", "Cognizant", "NGOs", "Schools"],
+      "higher_studies_ratio": "High in mental health and education"
+    },
+    "scholarships": ["Merit Scholarships", "Minority Schemes"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 45,
+    "name": "Camellia Institute of Technology and Management",
+    "location": "Kolkata, West Bengal",
+    "established": 2007,
+    "type": "Private",
+    "affiliation": "West Bengal State University",
+    "accreditation": "NAAC B+",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Journalism", "B.A. Political Science"],
+      "postgraduate": ["M.A. English", "M.A. Journalism"]
+    },
+    "faculty_strength": 70,
+    "student_intake_per_year": 900,
+    "infrastructure": {
+      "campus_area_acres": 5,
+      "libraries": ["Library with digital media", "Reading room"],
+      "hostel": "Yes, for both genders",
+      "labs": ["Media Lab", "Language Lab"],
+      "auditorium": "Small seminar hall",
+      "sports_facilities": ["Gym", "Outdoor court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Local newspapers", "NGOs", "PR agencies"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Merit Scholarships", "Financial Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 46,
+    "name": "Chadwick International School",
+    "location": "Pyeongtaek, South Korea",
+    "established": 2010,
+    "type": "International",
+    "affiliation": "International Baccalaureate",
+    "accreditation": "IB World School",
+    "courses": {
+      "undergraduate": ["IB Diploma – Arts Stream"],
+      "postgraduate": []
+    },
+    "faculty_strength": 150,
+    "student_intake_per_year": 600,
+    "infrastructure": {
+      "campus_area_acres": 45,
+      "libraries": ["IB Resource Library"],
+      "hostel": "Yes, for boarding students",
+      "labs": ["Arts Studio", "Language Lab", "Media Lab"],
+      "auditorium": "Large performance hall",
+      "sports_facilities": ["Swimming pool", "Indoor gym", "Sports fields"]
+    },
+    "placements": {
+      "placement_cell": false,
+      "average_package_lpa": null,
+      "top_recruiters": [],
+      "higher_studies_ratio": "N/A"
+    },
+    "scholarships": ["International Merit Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 47,
+    "name": "Christ College, Irinjalakuda",
+    "location": "Irinjalakuda, Kerala",
+    "established": 1956,
+    "type": "Private Aided",
+    "affiliation": "University of Calicut",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Economics", "B.A. Sociology"],
+      "postgraduate": ["M.A. English", "M.A. Economics"]
+    },
+    "faculty_strength": 110,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 20,
+      "libraries": ["Central Library"],
+      "hostel": "Yes, limited",
+      "labs": ["Language Lab", "Social Research Lab"],
+      "auditorium": "Seminar hall",
+      "sports_facilities": ["Basketball court", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["NGOs", "Banks", "Educational Institutions"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Merit-cum-Means", "Minority Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 48,
+    "name": "Christopher University",
+    "location": "Kohima, Nagaland",
+    "established": 2017,
+    "type": "Private",
+    "affiliation": "Autonomous",
+    "accreditation": "NAAC B",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Sociology", "B.A. Political Science"],
+      "postgraduate": ["M.A. English", "M.A. Sociology"]
+    },
+    "faculty_strength": 50,
+    "student_intake_per_year": 600,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Central Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab"],
+      "auditorium": "Lecture theatre",
+      "sports_facilities": ["Cricket field", "Badminton court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.5,
+      "top_recruiters": ["NGOs", "Teaching Institutes"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["State Government Scholarships", "Christian Minority Schemes"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 49,
+    "name": "Christ University, Pune Campus",
+    "location": "Pune, Maharashtra",
+    "established": 2014,
+    "type": "Private Deemed University",
+    "affiliation": "Autonomous",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Psychology", "B.A. Journalism", "B.A. English"],
+      "postgraduate": ["M.A. Psychology", "M.A. English"]
+    },
+    "faculty_strength": 90,
+    "student_intake_per_year": 1400,
+    "infrastructure": {
+      "campus_area_acres": 8,
+      "libraries": ["Digital Library"],
+      "hostel": "Yes",
+      "labs": ["Psychology Lab", "Media Lab"],
+      "auditorium": "Conference hall",
+      "sports_facilities": ["Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.0,
+      "top_recruiters": ["Tech Mahindra", "Urban Company", "Deloitte", "NGOs"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Merit Scholarships", "Need-based Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 50,
+    "name": "Doon University",
+    "location": "Dehradun, Uttarakhand",
+    "established": 2005,
+    "type": "State University",
+    "affiliation": "State University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Political Science", "B.A. Geography"],
+      "postgraduate": ["M.A. English", "M.A. Political Science", "M.A. Geography"]
+    },
+    "faculty_strength": 120,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 26,
+      "libraries": ["Central Library", "Geomatics Resource Centre"],
+      "hostel": "Yes, separate for men and women",
+      "labs": ["Geography Lab", "Language Lab"],
+      "auditorium": "Lecture halls and auditorium",
+      "sports_facilities": ["Cricket ground", "Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["NGOs", "Government Think Tanks", "Media Houses"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["State Merit Scholarships", "University Fellowships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 51,
+    "name": "Ethiraj College for Women",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1948,
+    "type": "Private (Women’s College)",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Sociology"],
+      "postgraduate": ["M.A. English", "M.A. Sociology"]
+    },
+    "faculty_strength": 130,
+    "student_intake_per_year": 2200,
+    "infrastructure": {
+      "campus_area_acres": 11,
+      "libraries": ["Central Library", "Departmental Reading Rooms"],
+      "hostel": "No",
+      "labs": ["Language Lab", "Media Lab"],
+      "auditorium": "Cultural Hall",
+      "sports_facilities": ["Basketball court", "Gym", "Yoga area"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.0,
+      "top_recruiters": ["TCS", "Infosys", "HCL", "NGOs"],
+      "higher_studies_ratio": "High in English and Sociology"
+    },
+    "scholarships": ["Merit Scholarships", "Need-based Aid"],
+    "notable_alumni": ["Meena Kandasamy"]
+  },
+  {
+    "rank": 52,
+    "name": "Fakir Mohan University",
+    "location": "Balasore, Odisha",
+    "established": 1999,
+    "type": "State University",
+    "affiliation": "State University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Odia", "B.A. History", "B.A. Political Science"],
+      "postgraduate": ["M.A. English", "M.A. Odia", "M.A. History"]
+    },
+    "faculty_strength": 80,
+    "student_intake_per_year": 1500,
+    "infrastructure": {
+      "campus_area_acres": 60,
+      "libraries": ["Central Library", "Odia Literature Resource Centre"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Social Science Lab"],
+      "auditorium": "Conference hall and seminar spaces",
+      "sports_facilities": ["Cricket ground", "Gym", "Indoor courts"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.9,
+      "top_recruiters": ["Regional NGOs", "Schools", "Government Services"],
+      "higher_studies_ratio": "Strong"
+    },
+    "scholarships": ["State Government Scholarships", "Merit Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 53,
+    "name": "Goa University",
+    "location": "Goa",
+    "established": 1985,
+    "type": "Public University",
+    "affiliation": "State University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Sociology", "B.A. Konkani"],
+      "postgraduate": ["M.A. English", "M.A. History", "M.A. Sociology"]
+    },
+    "faculty_strength": 140,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 325,
+      "libraries": ["Central Library", "Regional Languages Section"],
+      "hostel": "Yes, boys and girls dormitories",
+      "labs": ["Language Lab", "Cultural Studies Lab"],
+      "auditorium": "Conference Centre and seminar halls",
+      "sports_facilities": ["Cricket ground", "Sports complex"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.6,
+      "top_recruiters": ["NGOs", "Government Services", "Media Houses"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["State Merit Scholarships", "University Grants"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 54,
+    "name": "Gargi Grade College",
+    "location": "Bangalore, Karnataka",
+    "established": 1980,
+    "type": "Public",
+    "affiliation": "Bangalore University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Political Science", "B.A. Psychology"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 90,
+    "student_intake_per_year": 1600,
+    "infrastructure": {
+      "campus_area_acres": 8,
+      "libraries": ["Central Library", "E-learning Centre"],
+      "hostel": "No",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "Multipurpose hall",
+      "sports_facilities": ["Gym", "Indoor courts"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Infosys", "TCS", "Banks"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["State Government Scholarships", "Merit Awards"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 55,
+    "name": "Galgotias College of Engineering and Technology",
+    "location": "Greater Noida, Uttar Pradesh",
+    "established": 2011,
+    "type": "Private",
+    "affiliation": "Galgotias University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Journalism and Mass Communication", "B.A. English"],
+      "postgraduate": ["M.A. Journalism", "M.A. English"]
+    },
+    "faculty_strength": 60,
+    "student_intake_per_year": 800,
+    "infrastructure": {
+      "campus_area_acres": 20,
+      "libraries": ["Central Library"],
+      "hostel": "Yes",
+      "labs": ["Media Lab", "Language Lab"],
+      "auditorium": "Seminar hall",
+      "sports_facilities": ["Gym", "Outdoor courts"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.4,
+      "top_recruiters": ["Media houses", "PR Agencies", "NGOs"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Merit Scholarships", "Financial Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 56,
+    "name": "Kanya Maha Vidyalaya (Autonomous)",
+    "location": "Jalandhar, Punjab",
+    "established": 1886,
+    "type": "Private (Women’s College)",
+    "affiliation": "Guru Nanak Dev University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Psychology", "B.A. Sociology", "B.A. Music"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 95,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Central Library", "Psychology Reference Library"],
+      "hostel": "Yes, three women's hostels",
+      "labs": ["Language Lab", "Psychology Lab", "Music Studio"],
+      "auditorium": "Modern multi-purpose hall",
+      "sports_facilities": ["Basketball court", "Gymnasium", "Yoga center"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Infosys", "Concentrix", "Academic Institutions", "NGOs"],
+      "higher_studies_ratio": "High in Psychology and English"
+    },
+    "scholarships": ["Merit Scholarships", "SC/ST Schemes", "Single Girl Child Scholarship"],
+    "notable_alumni": ["Sunita Dhir"]
+  },
+  {
+    "rank": 57,
+    "name": "Smt. Chandibai Himathmal Mansukhani College",
+    "location": "Ulhasnagar, Maharashtra",
+    "established": 1965,
+    "type": "Private Aided",
+    "affiliation": "University of Mumbai",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Political Science", "B.A. English", "B.A. Economics", "B.A. Philosophy"],
+      "postgraduate": ["M.A. Political Science", "M.A. English"]
+    },
+    "faculty_strength": 90,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["CHM Library", "Digital Archives"],
+      "hostel": "No",
+      "labs": ["Language Lab", "Political Research Lab"],
+      "auditorium": "Cultural Hall",
+      "sports_facilities": ["Gymnasium", "Table Tennis", "Badminton court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["HDFC", "TCS", "Wipro", "Publishing Houses"],
+      "higher_studies_ratio": "Strong participation in NET/JRF programs"
+    },
+    "scholarships": ["Minority Scholarships", "State Government Aid"],
+    "notable_alumni": ["Jitendra Awhad"]
+  },
+  {
+    "rank": 58,
+    "name": "Loyola College of Social Sciences",
+    "location": "Thiruvananthapuram, Kerala",
+    "established": 1963,
+    "type": "Private Aided (Jesuit)",
+    "affiliation": "University of Kerala",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. Sociology", "B.A. Social Work"],
+      "postgraduate": ["M.A. Sociology", "MSW"]
+    },
+    "faculty_strength": 55,
+    "student_intake_per_year": 600,
+    "infrastructure": {
+      "campus_area_acres": 12,
+      "libraries": ["Social Science Library"],
+      "hostel": "Yes, limited capacity",
+      "labs": ["Social Research Lab", "Language Lab"],
+      "auditorium": "Audio-visual equipped seminar hall",
+      "sports_facilities": ["Volleyball court", "Indoor gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.0,
+      "top_recruiters": ["UNICEF", "TISS", "WHO", "NGOs"],
+      "higher_studies_ratio": "Very high"
+    },
+    "scholarships": ["Jesuit Scholarships", "Post-Matric Aid", "Minority Welfare Funds"],
+    "notable_alumni": ["Dr. Azeez Thundathil"]
+  },
+  {
+    "rank": 59,
+    "name": "Kristu Jayanti College (Autonomous)",
+    "location": "Bangalore, Karnataka",
+    "established": 1999,
+    "type": "Private",
+    "affiliation": "Bangalore North University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. Psychology", "B.A. Economics", "B.A. Journalism"],
+      "postgraduate": ["M.A. Psychology", "M.A. Journalism and Mass Communication"]
+    },
+    "faculty_strength": 140,
+    "student_intake_per_year": 2500,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Digital Library", "Psychology Archives"],
+      "hostel": "Yes",
+      "labs": ["Psychology Lab", "Language Lab", "Media Studio"],
+      "auditorium": "State-of-the-art seminar hall",
+      "sports_facilities": ["Cricket pitch", "Basketball court", "Fitness studio"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.2,
+      "top_recruiters": ["Accenture", "Byju's", "Deloitte", "Cognizant"],
+      "higher_studies_ratio": "Very high, especially in Psychology and Media"
+    },
+    "scholarships": ["Merit Scholarships", "Financial Need-based Aid"],
+    "notable_alumni": ["Shraddha Srinath"]
+  },
+  {
+    "rank": 60,
+    "name": "Prajyoti Niketan College",
+    "location": "Thrissur, Kerala",
+    "established": 1995,
+    "type": "Private",
+    "affiliation": "University of Calicut",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Psychology", "B.A. English"],
+      "postgraduate": ["M.A. Psychology"]
+    },
+    "faculty_strength": 65,
+    "student_intake_per_year": 700,
+    "infrastructure": {
+      "campus_area_acres": 8,
+      "libraries": ["Prajyoti Knowledge Centre"],
+      "hostel": "Yes, for women only",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "Compact seminar room",
+      "sports_facilities": ["Yoga room", "Table tennis", "Outdoor lawn"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.1,
+      "top_recruiters": ["Mental Health NGOs", "Academic Institutions"],
+      "higher_studies_ratio": "High, especially in Psychology"
+    },
+    "scholarships": ["Archdiocese Scholarships", "Government Educational Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 61,
+    "name": "Bhavan’s College",
+    "location": "Mumbai, Maharashtra",
+    "established": 1946,
+    "type": "Private Aided",
+    "affiliation": "University of Mumbai",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Political Science"],
+      "postgraduate": ["M.A. History"]
+    },
+    "faculty_strength": 80,
+    "student_intake_per_year": 1500,
+    "infrastructure": {
+      "campus_area_acres": 45,
+      "libraries": ["Bhavan’s Library"],
+      "hostel": "No",
+      "labs": ["Language Lab"],
+      "auditorium": "Large cultural hall",
+      "sports_facilities": ["Football field", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Media firms", "NGOs"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Trust Scholarships", "Government Aided Schemes"],
+    "notable_alumni": ["Anupam Kher", "Jitendra"]
+  },
+  {
+    "rank": 62,
+    "name": "Lady Willingdon College",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1922,
+    "type": "Government (Women’s College)",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Tamil"],
+      "postgraduate": ["M.A. English", "M.A. History"]
+    },
+    "faculty_strength": 75,
+    "student_intake_per_year": 1400,
+    "infrastructure": {
+      "campus_area_acres": 8,
+      "libraries": ["Central Library"],
+      "hostel": "Yes, for female students",
+      "labs": ["Language Lab"],
+      "auditorium": "Cultural auditorium",
+      "sports_facilities": ["Basketball court", "Gym", "Yoga room"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.8,
+      "top_recruiters": ["Schools", "Govt Departments"],
+      "higher_studies_ratio": "High in History and English"
+    },
+    "scholarships": ["State Government Grants", "Girls’ Education Support Funds"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 63,
+    "name": "Vimala College (Autonomous)",
+    "location": "Thrissur, Kerala",
+    "established": 1967,
+    "type": "Private (Women’s College)",
+    "affiliation": "University of Calicut",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Sociology", "B.A. History"],
+      "postgraduate": ["M.A. English", "M.A. Sociology"]
+    },
+    "faculty_strength": 85,
+    "student_intake_per_year": 1600,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Central Library", "Departmental Libraries"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Sociology Research Lab"],
+      "auditorium": "Mini-theatre seminar hall",
+      "sports_facilities": ["Indoor gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["NGOs", "Private Schools", "Publishing Houses"],
+      "higher_studies_ratio": "Excellent, especially for English"
+    },
+    "scholarships": ["Catholic Minority Scholarships", "Kerala State Education Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 64,
+    "name": "Aligarh Muslim University – Women’s College",
+    "location": "Aligarh, Uttar Pradesh",
+    "established": 1906,
+    "type": "Government (Women’s College)",
+    "affiliation": "Aligarh Muslim University",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Urdu", "B.A. Psychology"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 120,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Maulana Azad Library – Women’s Section"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Psychology Lab"],
+      "auditorium": "Women's College Auditorium",
+      "sports_facilities": ["Track field", "Indoor courts"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.4,
+      "top_recruiters": ["Academic Institutions", "Govt Exams", "NGOs"],
+      "higher_studies_ratio": "Very high"
+    },
+    "scholarships": ["Central Govt. Schemes", "AMU Trust Scholarships"],
+    "notable_alumni": ["Dr. Shahla Kauser"]
+  },
+  {
+    "rank": 65,
+    "name": "Government College for Women",
+    "location": "Thiruvananthapuram, Kerala",
+    "established": 1864,
+    "type": "Government",
+    "affiliation": "University of Kerala",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Malayalam", "B.A. History"],
+      "postgraduate": ["M.A. Malayalam", "M.A. History"]
+    },
+    "faculty_strength": 100,
+    "student_intake_per_year": 1700,
+    "infrastructure": {
+      "campus_area_acres": 13,
+      "libraries": ["Women’s College Library"],
+      "hostel": "Yes, secure facility for girls",
+      "labs": ["Language Lab", "Malayalam Resource Lab"],
+      "auditorium": "Cultural Centre",
+      "sports_facilities": ["Gymnasium", "Yoga Hall"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Research Agencies", "Civil Services Coaching", "NGOs"],
+      "higher_studies_ratio": "Very high"
+    },
+    "scholarships": ["Kerala Govt Merit Aid", "Backward Class Welfare Grants"],
+    "notable_alumni": ["Sugathakumari", "Gouri Amma"]
+  },
+  {
+    "rank": 66,
+    "name": "GGHSS College for Women",
+    "location": "Hyderabad, Telangana",
+    "established": 1972,
+    "type": "Government (Women’s College)",
+    "affiliation": "Osmania University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Political Science", "B.A. Psychology"],
+      "postgraduate": ["M.A. English", "M.A. Political Science"]
+    },
+    "faculty_strength": 80,
+    "student_intake_per_year": 1600,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Central Library", "Reading Room"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Psychology Lab"],
+      "auditorium": "Large seminar hall",
+      "sports_facilities": ["Indoor Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["NGOs", "Civil Services Aspirant Coaching Institutes"],
+      "higher_studies_ratio": "High in humanities streams"
+    },
+    "scholarships": ["State Merit Scholarships", "Women Empowerment Funds"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 67,
+    "name": "Hansraj Morarji Public School & College",
+    "location": "Mumbai, Maharashtra",
+    "established": 1938,
+    "type": "Private Aided",
+    "affiliation": "University of Mumbai",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Economics", "B.A. History"],
+      "postgraduate": ["M.A. Economics", "M.A. English"]
+    },
+    "faculty_strength": 75,
+    "student_intake_per_year": 1400,
+    "infrastructure": {
+      "campus_area_acres": 20,
+      "libraries": ["Morarji Library", "Digital Resource Centre"],
+      "hostel": "No",
+      "labs": ["Language Lab", "Media Lab"],
+      "auditorium": "AC hall with capacity 500",
+      "sports_facilities": ["Gym", "Football field"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Banks", "NGOs", "Media houses"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Donor Scholarships", "Merit-based Awards"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 68,
+    "name": "Janki Devi Memorial College",
+    "location": "New Delhi",
+    "established": 1959,
+    "type": "Public (Women’s College)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Political Science", "B.A. Journalism", "B.A. Psychology"],
+      "postgraduate": ["M.A. Psychology", "M.A. Journalism"]
+    },
+    "faculty_strength": 110,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 12,
+      "libraries": ["Main Library", "Digital Media Centre"],
+      "hostel": "Yes",
+      "labs": ["Media Lab", "Psychology Lab", "Language Lab"],
+      "auditorium": "Conference and seminar rooms",
+      "sports_facilities": ["Basketball court", "Table Tennis"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["Google", "Teach for India", "Wipro"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Merit Awards", "Women’s Welfare Funds"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 69,
+    "name": "Kamala Nehru College",
+    "location": "New Delhi",
+    "established": 1964,
+    "type": "Public (Women’s College)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Political Science", "B.A. Sanskrit", "B.A. Psychology"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 100,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Central Library", "Women’s Study Cell"],
+      "hostel": "Yes",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "Renovated multipurpose hall",
+      "sports_facilities": ["Gym", "Badminton court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.6,
+      "top_recruiters": ["NGOs", "Schools", "Media"],
+      "higher_studies_ratio": "High, especially in psychology"
+    },
+    "scholarships": ["Merit Scholarships", "Government Women’s Schemes"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 70,
+    "name": "Kasturba Gandhi Degree College",
+    "location": "Bengaluru, Karnataka",
+    "established": 1973,
+    "type": "Private",
+    "affiliation": "Bangalore City University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Economics", "B.A. Psychology"],
+      "postgraduate": ["M.A. English"]
+    },
+    "faculty_strength": 85,
+    "student_intake_per_year": 1400,
+    "infrastructure": {
+      "campus_area_acres": 9,
+      "libraries": ["College Library", "Digital Library"],
+      "hostel": "No",
+      "labs": ["Language Lab", "Psychology Lab"],
+      "auditorium": "Mini hall for events",
+      "sports_facilities": ["Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Infosys", "NGOs", "Schools"],
+      "higher_studies_ratio": "Moderate to high"
+    },
+    "scholarships": ["Merit Awards", "Minority Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 71,
+    "name": "Khalsa College for Women",
+    "location": "Amritsar, Punjab",
+    "established": 1985,
+    "type": "Private Aided",
+    "affiliation": "Guru Nanak Dev University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Punjabi", "B.A. Political Science"],
+      "postgraduate": ["M.A. Punjabi", "M.A. English"]
+    },
+    "faculty_strength": 90,
+    "student_intake_per_year": 1200,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Central Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab"],
+      "auditorium": "Cultural Hall",
+      "sports_facilities": ["Gym", "Volleyball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.1,
+      "top_recruiters": ["Banks", "Schools", "NGOs"],
+      "higher_studies_ratio": "High for Punjabi literature"
+    },
+    "scholarships": ["Minority Grants", "State Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 72,
+    "name": "KR Mangalam University",
+    "location": "Gurugram, Haryana",
+    "established": 2013,
+    "type": "Private",
+    "affiliation": "Autonomous",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Journalism", "B.A. Psychology"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 110,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 50,
+      "libraries": ["Central Library", "Media Resource Lab"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Psychology Lab", "Media Lab"],
+      "auditorium": "Euro-style auditorium",
+      "sports_facilities": ["Cricket ground", "Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.8,
+      "top_recruiters": ["Times Group", "Deloitte", "HT Media", "Accenture"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Merit Scholarships", "Need-based Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 73,
+    "name": "Lady Irwin College",
+    "location": "New Delhi",
+    "established": 1932,
+    "type": "Public (Women’s)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. Home Science (with specialization)", "B.A. English"],
+      "postgraduate": ["M.A. Home Science", "M.A. English"]
+    },
+    "faculty_strength": 90,
+    "student_intake_per_year": 1500,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Central Library", "Resource Centre"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Nutrition & Human Development Labs"],
+      "auditorium": "Well-equipped hall",
+      "sports_facilities": ["Gym", "Yoga hall", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["UNICEF", "NGOs", "ICMR", "Educational NGOs"],
+      "higher_studies_ratio": "High in Home Science and allied areas"
+    },
+    "scholarships": ["Government Schemes", "Merit Awards", "Need-based Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 74,
+    "name": "Madras School of Social Work",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1952,
+    "type": "Private",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. Social Work"],
+      "postgraduate": ["M.S.W.", "M.A. Counselling Psychology"]
+    },
+    "faculty_strength": 70,
+    "student_intake_per_year": 800,
+    "infrastructure": {
+      "campus_area_acres": 5,
+      "libraries": ["SSW Library"],
+      "hostel": "Yes",
+      "labs": ["Social Work Practicum Lab", "Language Lab"],
+      "auditorium": "Seminar Room",
+      "sports_facilities": ["Gym", "Indoor Courts"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.0,
+      "top_recruiters": ["TISS", "NGOs", "Government Schemes"],
+      "higher_studies_ratio": "Very high in social sciences"
+    },
+    "scholarships": ["Donor Scholarships", "Government Grants"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 75,
+    "name": "Nalanda College of Arts, Science & Commerce",
+    "location": "Kalamassery, Kerala",
+    "established": 1969,
+    "type": "Private Aided",
+    "affiliation": "Mahatma Gandhi University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Economics"],
+      "postgraduate": ["M.A. English", "M.A. History"]
+    },
+    "faculty_strength": 85,
+    "student_intake_per_year": 1200,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Nalanda Library"],
+      "hostel": "No",
+      "labs": ["Language Lab"],
+      "auditorium": "Conference room with AV facilities",
+      "sports_facilities": ["Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Banks", "NGOs", "Schools"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Minority Scholarships", "Merit Grants"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 76,
+    "name": "Mount Carmel College (Evening)",
+    "location": "Bengaluru, Karnataka",
+    "established": 1970,
+    "type": "Private (Women’s Evening)",
+    "affiliation": "Bangalore University",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. Journalism", "B.A. Psychology"],
+      "postgraduate": ["M.A. Journalism"]
+    },
+    "faculty_strength": 60,
+    "student_intake_per_year": 800,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Digital Reading Room"],
+      "hostel": "No",
+      "labs": ["Media Lab", "Psychology Lab"],
+      "auditorium": "Mid-size seminar hall",
+      "sports_facilities": ["Gym", "Table Tennis"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.4,
+      "top_recruiters": ["Media firms", "NGOs"],
+      "higher_studies_ratio": "Moderate to high"
+    },
+    "scholarships": ["Institutional Aid", "Merit Awards"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 77,
+    "name": "Oxford College of Arts",
+    "location": "Bangalore, Karnataka",
+    "established": 1990,
+    "type": "Private",
+    "affiliation": "Bangalore University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Political Science", "B.A. Psychology"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 70,
+    "student_intake_per_year": 1100,
+    "infrastructure": {
+      "campus_area_acres": 7,
+      "libraries": ["College Library"],
+      "hostel": "No",
+      "labs": ["Language Lab", "Psychology Lab"],
+      "auditorium": "Small event hall",
+      "sports_facilities": ["Gym", "Badminton court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Schools", "NGOs"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Merit Scholarships", "Need-based Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 78,
+    "name": "Queen Mary's College",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1914,
+    "type": "Government (Women’s College)",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Sociology"],
+      "postgraduate": ["M.A. English", "M.A. Sociology"]
+    },
+    "faculty_strength": 100,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 11,
+      "libraries": ["Central Library", "Media Reading Room"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Computer Lab"],
+      "auditorium": "Large auditorium for events",
+      "sports_facilities": ["Gym", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["NGOs", "Schools", "Private Firms"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["State Scholarships", "Minority Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 79,
+    "name": "Raja BN Bahadur Institute",
+    "location": "Hyderabad, Telangana",
+    "established": 1952,
+    "type": "Private Aided",
+    "affiliation": "Osmania University",
+    "accreditation": "NAAC B+",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Public Administration"],
+      "postgraduate": ["M.A. English", "M.A. Public Administration"]
+    },
+    "faculty_strength": 70,
+    "student_intake_per_year": 1000,
+    "infrastructure": {
+      "campus_area_acres": 8,
+      "libraries": ["College Library"],
+      "hostel": "No",
+      "labs": ["Language Lab"],
+      "auditorium": "Conference room",
+      "sports_facilities": ["Gym", "Table Tennis"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.8,
+      "top_recruiters": ["Local Administration", "NGOs", "Schools"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Regional Merit Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 80,
+    "name": "Smt. Hansa Mehta Institute of Social & Political Studies",
+    "location": "Ahmedabad, Gujarat",
+    "established": 1956,
+    "type": "Private",
+    "affiliation": "Gujarat University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Political Science", "B.A. Sociology", "B.A. English"],
+      "postgraduate": ["M.A. Political Science", "M.A. Sociology"]
+    },
+    "faculty_strength": 65,
+    "student_intake_per_year": 900,
+    "infrastructure": {
+      "campus_area_acres": 7,
+      "libraries": ["Political Science Library", "General Reading Room"],
+      "hostel": "No",
+      "labs": ["Political Research Lab", "Language Lab"],
+      "auditorium": "Seminar hall",
+      "sports_facilities": ["Gym", "Yoga area"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["NGOs", "Policy Think Tanks"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Merit Scholarships", "State Government Support"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 81,
+    "name": "Maharani Lakshmi Ammanni College for Women",
+    "location": "Bengaluru, Karnataka",
+    "established": 1972,
+    "type": "Private Aided (Women’s College)",
+    "affiliation": "Bangalore University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Psychology", "B.A. English", "B.A. Journalism", "B.A. Economics"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 85,
+    "student_intake_per_year": 1600,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Central Library", "Media Resource Centre"],
+      "hostel": "Yes, for women only",
+      "labs": ["Psychology Lab", "Language Lab", "Media Lab"],
+      "auditorium": "Multipurpose seminar hall",
+      "sports_facilities": ["Basketball court", "Gym", "Yoga Hall"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Infosys", "Wipro", "NGOs", "Academic Institutions"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Merit Scholarships", "Backward Class Welfare Schemes"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 82,
+    "name": "Sri Venkateswara College for Women",
+    "location": "Tirupati, Andhra Pradesh",
+    "established": 1961,
+    "type": "Government Aided (Women’s College)",
+    "affiliation": "Sri Venkateswara University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Political Science", "B.A. Telugu"],
+      "postgraduate": ["M.A. English", "M.A. Political Science"]
+    },
+    "faculty_strength": 70,
+    "student_intake_per_year": 1300,
+    "infrastructure": {
+      "campus_area_acres": 12,
+      "libraries": ["College Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "History Research Cell"],
+      "auditorium": "Heritage Auditorium",
+      "sports_facilities": ["Indoor sports complex", "Yoga Hall"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.9,
+      "top_recruiters": ["Educational Institutions", "NGOs"],
+      "higher_studies_ratio": "Moderate to High"
+    },
+    "scholarships": ["Post-Matric Scholarships", "SC/ST Welfare Funds"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 83,
+    "name": "Government College for Women, Kumbakonam",
+    "location": "Thanjavur, Tamil Nadu",
+    "established": 1963,
+    "type": "Government (Women’s College)",
+    "affiliation": "Bharathidasan University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Tamil", "B.A. English", "B.A. History"],
+      "postgraduate": ["M.A. Tamil", "M.A. History"]
+    },
+    "faculty_strength": 65,
+    "student_intake_per_year": 1200,
+    "infrastructure": {
+      "campus_area_acres": 9,
+      "libraries": ["Central Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "History Resource Lab"],
+      "auditorium": "Traditional hall with AV",
+      "sports_facilities": ["Gym", "Volleyball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.7,
+      "top_recruiters": ["Schools", "Govt Agencies"],
+      "higher_studies_ratio": "High for Tamil and History"
+    },
+    "scholarships": ["Government Schemes", "Merit-based Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 84,
+    "name": "Jyoti Nivas College (Autonomous)",
+    "location": "Bangalore, Karnataka",
+    "established": 1966,
+    "type": "Private (Women’s College)",
+    "affiliation": "Bangalore University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Psychology", "B.A. Sociology", "B.A. Economics", "B.A. Literature"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 100,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Main Library", "Digital Resources Wing"],
+      "hostel": "Yes",
+      "labs": ["Psychology Lab", "Language Lab", "Computer Lab"],
+      "auditorium": "Performing Arts Centre",
+      "sports_facilities": ["Indoor stadium", "Basketball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["Infosys", "TCS", "NGOs", "Think Tanks"],
+      "higher_studies_ratio": "Very high"
+    },
+    "scholarships": ["Merit Scholarships", "Christian Minority Aid"],
+    "notable_alumni": ["Anu Menon"]
+  },
+  {
+    "rank": 85,
+    "name": "Ramakrishna Mission Vidyamandira",
+    "location": "Howrah, West Bengal",
+    "established": 1941,
+    "type": "Autonomous (Boys College)",
+    "affiliation": "University of Calcutta",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. Philosophy", "B.A. Bengali", "B.A. History", "B.A. Sanskrit"],
+      "postgraduate": ["M.A. Philosophy", "M.A. Sanskrit"]
+    },
+    "faculty_strength": 90,
+    "student_intake_per_year": 1500,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["Vidyamandira Library", "Vedanta Study Centre"],
+      "hostel": "Yes, residential campus",
+      "labs": ["Philosophy Lab", "Language Lab"],
+      "auditorium": "Spiritual & Academic Auditorium",
+      "sports_facilities": ["Football field", "Table Tennis", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.6,
+      "top_recruiters": ["Academic Institutions", "NGOs", "Publishing Houses"],
+      "higher_studies_ratio": "Extremely high"
+    },
+    "scholarships": ["Ramakrishna Mission Endowment", "Government Aid"],
+    "notable_alumni": ["Swami Prabhananda", "Prof. Amiya Prosad Sen"]
+  },
+  {
+    "rank": 86,
+    "name": "Government Arts College for Women, Sivaganga",
+    "location": "Sivaganga, Tamil Nadu",
+    "established": 1969,
+    "type": "Government",
+    "affiliation": "Alagappa University",
+    "accreditation": "NAAC B+",
+    "courses": {
+      "undergraduate": ["B.A. Tamil", "B.A. English", "B.A. History"],
+      "postgraduate": ["M.A. Tamil", "M.A. History"]
+    },
+    "faculty_strength": 55,
+    "student_intake_per_year": 1000,
+    "infrastructure": {
+      "campus_area_acres": 6,
+      "libraries": ["College Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab"],
+      "auditorium": "General Assembly Hall",
+      "sports_facilities": ["Indoor games", "Basic gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.5,
+      "top_recruiters": ["Schools", "Rural NGOs"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["BC/MBC Welfare Funds", "Post-Matric Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 87,
+    "name": "Dr. Bhanuben Nanavati College for Women",
+    "location": "Pune, Maharashtra",
+    "established": 1991,
+    "type": "Private",
+    "affiliation": "SNDT Women’s University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Psychology", "B.A. Sociology"],
+      "postgraduate": ["M.A. Psychology"]
+    },
+    "faculty_strength": 70,
+    "student_intake_per_year": 1100,
+    "infrastructure": {
+      "campus_area_acres": 8,
+      "libraries": ["Main Library"],
+      "hostel": "No",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "Seminar Hall",
+      "sports_facilities": ["Gym", "Yoga Room"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Educational NGOs", "Mental Health Startups"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["SNDT Grants", "Merit Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 88,
+    "name": "Shri Shikshayatan College",
+    "location": "Kolkata, West Bengal",
+    "established": 1955,
+    "type": "Private (Women’s College)",
+    "affiliation": "University of Calcutta",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Political Science", "B.A. Journalism"],
+      "postgraduate": ["M.A. English"]
+    },
+    "faculty_strength": 75,
+    "student_intake_per_year": 1300,
+    "infrastructure": {
+      "campus_area_acres": 5,
+      "libraries": ["College Library"],
+      "hostel": "No",
+      "labs": ["Language Lab", "Media Lab"],
+      "auditorium": "Multipurpose hall",
+      "sports_facilities": ["Indoor games", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Media houses", "Publishing", "Startups"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Jain Minority Funds", "Govt Schemes"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 89,
+    "name": "JSS College for Women",
+    "location": "Mysore, Karnataka",
+    "established": 1964,
+    "type": "Private Aided",
+    "affiliation": "University of Mysore",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Economics"],
+      "postgraduate": ["M.A. History", "M.A. English"]
+    },
+    "faculty_strength": 60,
+    "student_intake_per_year": 1000,
+    "infrastructure": {
+      "campus_area_acres": 6,
+      "libraries": ["College Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab"],
+      "auditorium": "Auditorium with AV",
+      "sports_facilities": ["Basketball court", "Indoor gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.9,
+      "top_recruiters": ["Academic Institutions", "Local NGOs"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["SC/ST/OBC Welfare Funds", "Merit Grants"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 90,
+    "name": "Barasat Government College",
+    "location": "Barasat, West Bengal",
+    "established": 1950,
+    "type": "Government",
+    "affiliation": "West Bengal State University",
+    "accreditation": "NAAC B++",
+    "courses": {
+      "undergraduate": ["B.A. Bengali", "B.A. English", "B.A. Political Science"],
+      "postgraduate": ["M.A. Bengali"]
+    },
+    "faculty_strength": 65,
+    "student_intake_per_year": 1000,
+    "infrastructure": {
+      "campus_area_acres": 7,
+      "libraries": ["Main Library"],
+      "hostel": "No",
+      "labs": ["Language Lab"],
+      "auditorium": "Seminar Hall",
+      "sports_facilities": ["Indoor courts"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.6,
+      "top_recruiters": ["State Govt", "NGOs"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["W.B. Govt Scholarships", "Backward Class Funds"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 91,
+    "name": "Government Victoria College",
+    "location": "Palakkad, Kerala",
+    "established": 1888,
+    "type": "Government",
+    "affiliation": "University of Calicut",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. History", "B.A. Economics", "B.A. Political Science"],
+      "postgraduate": ["M.A. History", "M.A. Political Science"]
+    },
+    "faculty_strength": 85,
+    "student_intake_per_year": 1500,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Central Library", "Digital Access Zone"],
+      "hostel": "Yes",
+      "labs": ["Social Science Lab", "Language Lab"],
+      "auditorium": "Colonial-style auditorium",
+      "sports_facilities": ["Cricket ground", "Indoor Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["State Services", "NGOs"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Government Scholarships", "Backward Class Aid"],
+    "notable_alumni": ["E. M. S. Namboodiripad"]
+  },
+  {
+    "rank": 92,
+    "name": "Maharani's Arts College for Women",
+    "location": "Mysore, Karnataka",
+    "established": 1902,
+    "type": "Government (Women’s)",
+    "affiliation": "University of Mysore",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Economics", "B.A. Sociology"],
+      "postgraduate": ["M.A. English", "M.A. Sociology"]
+    },
+    "faculty_strength": 80,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 18,
+      "libraries": ["Main Library", "Women’s Study Resource Centre"],
+      "hostel": "Yes",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "Open Air Theatre",
+      "sports_facilities": ["Basketball court", "Indoor Badminton court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.8,
+      "top_recruiters": ["Educational Institutions", "Counseling Centres"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["SC/ST Welfare Grants", "State Academic Incentives"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 93,
+    "name": "Lady Doak College",
+    "location": "Madurai, Tamil Nadu",
+    "established": 1948,
+    "type": "Private (Autonomous, Women’s)",
+    "affiliation": "Madurai Kamaraj University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Sociology"],
+      "postgraduate": ["M.A. English", "M.A. Sociology"]
+    },
+    "faculty_strength": 95,
+    "student_intake_per_year": 1600,
+    "infrastructure": {
+      "campus_area_acres": 20,
+      "libraries": ["Central Library", "E-Resource Centre"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Communication Lab"],
+      "auditorium": "Fully equipped cultural hall",
+      "sports_facilities": ["Gymnasium", "Volleyball court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["NGOs", "Counseling Firms", "Educational Startups"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Christian Minority Scholarships", "Merit Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 94,
+    "name": "St. Thomas College",
+    "location": "Thrissur, Kerala",
+    "established": 1889,
+    "type": "Private Aided",
+    "affiliation": "University of Calicut",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Economics", "B.A. Malayalam"],
+      "postgraduate": ["M.A. English", "M.A. History"]
+    },
+    "faculty_strength": 100,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 22,
+      "libraries": ["Digital Library", "Heritage Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Digital Humanities Lab"],
+      "auditorium": "Thomas Hall",
+      "sports_facilities": ["Cricket Ground", "Indoor Stadium"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["Media Houses", "NGOs", "Government Agencies"],
+      "higher_studies_ratio": "Very high"
+    },
+    "scholarships": ["Merit Scholarships", "Church Aid Funds"],
+    "notable_alumni": ["K. R. Narayanan", "Oommen Chandy"]
+  },
+  {
+    "rank": 95,
+    "name": "Stella Maris College (Autonomous)",
+    "location": "Chennai, Tamil Nadu",
+    "established": 1947,
+    "type": "Private (Women’s College)",
+    "affiliation": "University of Madras",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Sociology", "B.A. Economics"],
+      "postgraduate": ["M.A. English", "M.A. Sociology", "M.A. International Studies"]
+    },
+    "faculty_strength": 110,
+    "student_intake_per_year": 2200,
+    "infrastructure": {
+      "campus_area_acres": 18,
+      "libraries": ["Stella Library", "Language Resource Centre"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Social Research Lab"],
+      "auditorium": "Stella Auditorium",
+      "sports_facilities": ["Basketball Court", "Gym", "Tennis Court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 4.0,
+      "top_recruiters": ["Google", "UNDP", "Infosys", "Publishing Houses"],
+      "higher_studies_ratio": "Very High"
+    },
+    "scholarships": ["Catholic Scholarships", "UGC Aid", "Merit Awards"],
+    "notable_alumni": ["Nirmala Sitharaman", "Sudha Ragunathan"]
+  },
+  {
+    "rank": 96,
+    "name": "Scott Christian College",
+    "location": "Nagercoil, Tamil Nadu",
+    "established": 1893,
+    "type": "Private Aided (Autonomous)",
+    "affiliation": "Manonmaniam Sundaranar University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Tamil"],
+      "postgraduate": ["M.A. English", "M.A. History"]
+    },
+    "faculty_strength": 85,
+    "student_intake_per_year": 1600,
+    "infrastructure": {
+      "campus_area_acres": 22,
+      "libraries": ["Main Library", "Mission Archives"],
+      "hostel": "Yes",
+      "labs": ["Language Lab"],
+      "auditorium": "Scott Memorial Hall",
+      "sports_facilities": ["Football Ground", "Indoor Sports Centre"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.1,
+      "top_recruiters": ["Education Boards", "NGOs", "Content Firms"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Mission Grants", "Government Schemes"],
+    "notable_alumni": ["Justice K. G. Balakrishnan"]
+  },
+  {
+    "rank": 97,
+    "name": "Fatima Mata National College",
+    "location": "Kollam, Kerala",
+    "established": 1951,
+    "type": "Private Aided",
+    "affiliation": "University of Kerala",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Economics", "B.A. Malayalam"],
+      "postgraduate": ["M.A. English", "M.A. Economics"]
+    },
+    "faculty_strength": 78,
+    "student_intake_per_year": 1400,
+    "infrastructure": {
+      "campus_area_acres": 16,
+      "libraries": ["Central Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab"],
+      "auditorium": "Fatima Auditorium",
+      "sports_facilities": ["Indoor Gym", "Volleyball Court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Finance Sector", "Public Services", "Education"],
+      "higher_studies_ratio": "Moderate to High"
+    },
+    "scholarships": ["Minority Grants", "State Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 98,
+    "name": "Government Arts College, Coimbatore",
+    "location": "Coimbatore, Tamil Nadu",
+    "established": 1852,
+    "type": "Government",
+    "affiliation": "Bharathiar University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Tamil"],
+      "postgraduate": ["M.A. English", "M.A. History"]
+    },
+    "faculty_strength": 95,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 28,
+      "libraries": ["Historic Central Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Social Studies Lab"],
+      "auditorium": "Government Cultural Hall",
+      "sports_facilities": ["Large Playground", "Table Tennis"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.9,
+      "top_recruiters": ["Government Exams Prep Centres", "NGOs"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["TN Govt Aid", "SC/ST Welfare"],
+    "notable_alumni": ["K. Balachander"]
+  },
+  {
+    "rank": 99,
+    "name": "Kanya Maha Vidyalaya",
+    "location": "Jalandhar, Punjab",
+    "established": 1886,
+    "type": "Private (Autonomous, Women’s)",
+    "affiliation": "Guru Nanak Dev University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Punjabi", "B.A. Psychology", "B.A. Music"],
+      "postgraduate": ["M.A. English", "M.A. Psychology", "M.A. Music"]
+    },
+    "faculty_strength": 105,
+    "student_intake_per_year": 1900,
+    "infrastructure": {
+      "campus_area_acres": 18,
+      "libraries": ["Digital Library", "E-Resource Hub"],
+      "hostel": "Yes",
+      "labs": ["Psychology Lab", "Music Studio", "Language Lab"],
+      "auditorium": "Heritage Stage Auditorium",
+      "sports_facilities": ["Gymnasium", "Shooting Range"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.7,
+      "top_recruiters": ["Education Boards", "Startups", "Clinical Institutions"],
+      "higher_studies_ratio": "Very High"
+    },
+    "scholarships": ["Merit Awards", "Punjab Govt Schemes"],
+    "notable_alumni": ["Meenakshi Lekhi"]
+  },
+  {
+    "rank": 100,
+    "name": "Ravenshaw University (Arts Division)",
+    "location": "Cuttack, Odisha",
+    "established": 1868,
+    "type": "Public University",
+    "affiliation": "Autonomous",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. History", "B.A. English", "B.A. Political Science", "B.A. Philosophy"],
+      "postgraduate": ["M.A. History", "M.A. Political Science", "M.A. English"]
+    },
+    "faculty_strength": 120,
+    "student_intake_per_year": 2500,
+    "infrastructure": {
+      "campus_area_acres": 87,
+      "libraries": ["Ravenshaw Central Library", "Digital Archives"],
+      "hostel": "Yes",
+      "labs": ["Political Science Lab", "Language Lab"],
+      "auditorium": "Convocation Hall",
+      "sports_facilities": ["Football field", "Gym", "Tennis Court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.8,
+      "top_recruiters": ["Civil Services Coaching", "Media Firms", "Policy Think Tanks"],
+      "higher_studies_ratio": "Very High"
+    },
+    "scholarships": ["State Merit Grants", "UGC Schemes"],
+    "notable_alumni": ["Biju Patnaik", "Subroto Bagchi"]
+  },
+  {
+    "rank": 101,
+    "name": "St. Xavier's College of Education (Arts)",
+    "location": "Palayamkottai, Tamil Nadu",
+    "established": 1950,
+    "type": "Private Aided (Autonomous, Co-ed)",
+    "affiliation": "Manonmaniam Sundaranar University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. History", "B.A. Economics"],
+      "postgraduate": ["M.A. History", "M.A. Economics"]
+    },
+    "faculty_strength": 68,
+    "student_intake_per_year": 1000,
+    "infrastructure": {
+      "campus_area_acres": 12,
+      "libraries": ["Central Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "History Archive Unit"],
+      "auditorium": "Multipurpose Seminar Hall",
+      "sports_facilities": ["Volleyball Court", "Table Tennis", "Open Grounds"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.1,
+      "top_recruiters": ["State Schools", "Private Schools", "NGOs"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Catholic Minority Aid", "Government Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 102,
+    "name": "Chhatrapati Shivaji College",
+    "location": "Satara, Maharashtra",
+    "established": 1947,
+    "type": "Government Aided",
+    "affiliation": "Shivaji University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Marathi", "B.A. Political Science", "B.A. History"],
+      "postgraduate": ["M.A. Marathi", "M.A. Political Science"]
+    },
+    "faculty_strength": 72,
+    "student_intake_per_year": 1200,
+    "infrastructure": {
+      "campus_area_acres": 15,
+      "libraries": ["General Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "History Research Lab"],
+      "auditorium": "Cultural Auditorium",
+      "sports_facilities": ["Sports Pavilion", "Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.7,
+      "top_recruiters": ["Educational Services", "Civil Exam Coaching Centers"],
+      "higher_studies_ratio": "Moderate to High"
+    },
+    "scholarships": ["State Scholarships", "Backward Class Welfare Schemes"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 103,
+    "name": "Sivanath Sastri College",
+    "location": "Kolkata, West Bengal",
+    "established": 1961,
+    "type": "Private Aided (Women’s)",
+    "affiliation": "University of Calcutta",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Bengali", "B.A. History"],
+      "postgraduate": []
+    },
+    "faculty_strength": 50,
+    "student_intake_per_year": 800,
+    "infrastructure": {
+      "campus_area_acres": 3,
+      "libraries": ["Main Library"],
+      "hostel": "No",
+      "labs": ["Language Lab"],
+      "auditorium": "College Hall",
+      "sports_facilities": ["Indoor Sports Room"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.6,
+      "top_recruiters": ["Publishing", "Media Houses", "School Education"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Kanyashree Scheme", "Merit-based Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 104,
+    "name": "Dyal Singh College (Morning)",
+    "location": "New Delhi, Delhi",
+    "established": 1959,
+    "type": "Government",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Political Science", "B.A. Hindi", "B.A. Sanskrit"],
+      "postgraduate": []
+    },
+    "faculty_strength": 78,
+    "student_intake_per_year": 1400,
+    "infrastructure": {
+      "campus_area_acres": 11,
+      "libraries": ["Central Library", "Departmental Reading Rooms"],
+      "hostel": "No",
+      "labs": ["Language Lab", "Translation Research Unit"],
+      "auditorium": "Main Cultural Hall",
+      "sports_facilities": ["Football Field", "Gym", "Basketball Court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Media Houses", "Educational Startups"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["DU Merit Schemes", "Government Grants"],
+    "notable_alumni": ["Rajeev Khandelwal"]
+  },
+  {
+    "rank": 105,
+    "name": "Kanoria PG Mahila Mahavidyalaya",
+    "location": "Jaipur, Rajasthan",
+    "established": 1965,
+    "type": "Private (Women’s)",
+    "affiliation": "University of Rajasthan",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Sociology", "B.A. History", "B.A. Political Science"],
+      "postgraduate": ["M.A. Sociology", "M.A. Political Science"]
+    },
+    "faculty_strength": 70,
+    "student_intake_per_year": 1300,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Central Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Psychology Lab"],
+      "auditorium": "Cultural Theatre Hall",
+      "sports_facilities": ["Basketball Court", "Yoga Room", "Badminton Court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.9,
+      "top_recruiters": ["Counseling Services", "School Sector", "NGOs"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["State Merit Scholarships", "Minority Funds"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 106,
+    "name": "Bishop Heber College",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "established": 1966,
+    "type": "Private (Autonomous)",
+    "affiliation": "Bharathidasan University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. History", "B.A. Tamil"],
+      "postgraduate": ["M.A. English", "M.A. History"]
+    },
+    "faculty_strength": 90,
+    "student_intake_per_year": 1700,
+    "infrastructure": {
+      "campus_area_acres": 25,
+      "libraries": ["Heber Library", "Digital Knowledge Centre"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Humanities Lab"],
+      "auditorium": "Main Auditorium",
+      "sports_facilities": ["Cricket Ground", "Indoor Sports Complex"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.4,
+      "top_recruiters": ["Government Services", "Content Writing Agencies"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Missionary Funds", "Academic Excellence Grants"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 107,
+    "name": "Sree Sankaracharya University of Sanskrit (Arts Wing)",
+    "location": "Kalady, Kerala",
+    "established": 1993,
+    "type": "Public State University",
+    "affiliation": "Autonomous",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Sanskrit", "B.A. Malayalam", "B.A. English"],
+      "postgraduate": ["M.A. Sanskrit", "M.A. Malayalam", "M.A. Linguistics"]
+    },
+    "faculty_strength": 110,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 22,
+      "libraries": ["Kalady Central Library", "Language Resource Centre"],
+      "hostel": "Yes",
+      "labs": ["Manuscriptology Lab", "Language Lab"],
+      "auditorium": "Sanskrit Theatre Hall",
+      "sports_facilities": ["Indoor Court", "Yoga Centre"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["Cultural Boards", "Educational NGOs"],
+      "higher_studies_ratio": "Very High"
+    },
+    "scholarships": ["Language Heritage Aid", "SC/ST Central Schemes"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 108,
+    "name": "Isabella Thoburn College",
+    "location": "Lucknow, Uttar Pradesh",
+    "established": 1870,
+    "type": "Private Aided (Women’s)",
+    "affiliation": "University of Lucknow",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Psychology", "B.A. History"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 82,
+    "student_intake_per_year": 1600,
+    "infrastructure": {
+      "campus_area_acres": 16,
+      "libraries": ["ITC Library", "Reading Halls"],
+      "hostel": "Yes",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "Main Chapel Hall",
+      "sports_facilities": ["Basketball", "Gymnasium"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.3,
+      "top_recruiters": ["Counseling Startups", "University Research"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Christian Minority Scholarships", "UP State Scholarships"],
+    "notable_alumni": ["Aruna Roy"]
+  },
+  {
+    "rank": 109,
+    "name": "Holy Cross College",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "established": 1923,
+    "type": "Private Aided (Women’s)",
+    "affiliation": "Bharathidasan University",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Economics", "B.A. History"],
+      "postgraduate": ["M.A. English", "M.A. Economics"]
+    },
+    "faculty_strength": 100,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 22,
+      "libraries": ["Holy Cross Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Humanities Lab"],
+      "auditorium": "Cultural Complex",
+      "sports_facilities": ["Cricket Net", "Indoor Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["Educational Services", "Editorial Units"],
+      "higher_studies_ratio": "Very High"
+    },
+    "scholarships": ["Christian Mission Funds", "Merit Aid"],
+    "notable_alumni": ["Vijayalakshmi Navaneethakrishnan"]
+  },
+  {
+    "rank": 110,
+    "name": "K.C. Das Commerce College (Arts Wing)",
+    "location": "Guwahati, Assam",
+    "established": 1983,
+    "type": "Private Aided",
+    "affiliation": "Gauhati University",
+    "accreditation": "NAAC B++",
+    "courses": {
+      "undergraduate": ["B.A. Assamese", "B.A. Economics", "B.A. Political Science"],
+      "postgraduate": []
+    },
+    "faculty_strength": 58,
+    "student_intake_per_year": 900,
+    "infrastructure": {
+      "campus_area_acres": 6,
+      "libraries": ["Main Library"],
+      "hostel": "No",
+      "labs": ["Language Lab"],
+      "auditorium": "Academic Auditorium",
+      "sports_facilities": ["Volleyball", "Indoor Games"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.5,
+      "top_recruiters": ["Regional Media", "NGOs"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["North Eastern Region Aid", "SC/ST Welfare Grants"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 111,
+    "name": "S.N. College, Kannur",
+    "location": "Kannur, Kerala",
+    "established": 1961,
+    "type": "Government Aided",
+    "affiliation": "Kannur University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Malayalam", "B.A. History", "B.A. English"],
+      "postgraduate": ["M.A. Malayalam", "M.A. History"]
+    },
+    "faculty_strength": 60,
+    "student_intake_per_year": 1000,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["Central Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Social Science Lab"],
+      "auditorium": "College Auditorium",
+      "sports_facilities": ["Cricket Ground", "Yoga Centre"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.6,
+      "top_recruiters": ["State Departments", "Language Institutes"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Kerala Government Scholarships", "Ezhava Community Funds"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 112,
+    "name": "Janki Devi Memorial College",
+    "location": "New Delhi, Delhi",
+    "established": 1959,
+    "type": "Government (Women’s)",
+    "affiliation": "University of Delhi",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Hindi", "B.A. Political Science", "B.A. Sociology"],
+      "postgraduate": ["M.A. Hindi", "M.A. Political Science"]
+    },
+    "faculty_strength": 85,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 7,
+      "libraries": ["Main Library", "Digital Reading Hall"],
+      "hostel": "Yes",
+      "labs": ["Language Lab", "Psychology Lab"],
+      "auditorium": "Cultural Amphitheatre",
+      "sports_facilities": ["Basketball Court", "Gymnasium"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.1,
+      "top_recruiters": ["NGOs", "EdTech Startups", "Content Agencies"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["DU Merit Schemes", "UGC Fellowships"],
+    "notable_alumni": ["Aruna Asaf Ali"]
+  },
+  {
+    "rank": 113,
+    "name": "Malabar Christian College",
+    "location": "Kozhikode, Kerala",
+    "established": 1909,
+    "type": "Private Aided",
+    "affiliation": "University of Calicut",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Economics", "B.A. English", "B.A. Malayalam"],
+      "postgraduate": ["M.A. Economics", "M.A. English"]
+    },
+    "faculty_strength": 75,
+    "student_intake_per_year": 1400,
+    "infrastructure": {
+      "campus_area_acres": 12,
+      "libraries": ["Heritage Library", "Digital Archives"],
+      "hostel": "Yes",
+      "labs": ["Economics Lab", "Language Lab"],
+      "auditorium": "Classic College Hall",
+      "sports_facilities": ["Indoor Badminton", "Table Tennis"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.0,
+      "top_recruiters": ["Govt Projects", "Think Tanks", "Banks"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Church Scholarships", "Calicut University Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 114,
+    "name": "Mar Ivanios College",
+    "location": "Thiruvananthapuram, Kerala",
+    "established": 1949,
+    "type": "Private Aided (Autonomous)",
+    "affiliation": "University of Kerala",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. English", "B.A. Journalism", "B.A. Economics"],
+      "postgraduate": ["M.A. English", "M.A. Journalism"]
+    },
+    "faculty_strength": 90,
+    "student_intake_per_year": 2000,
+    "infrastructure": {
+      "campus_area_acres": 22,
+      "libraries": ["Ivanios Knowledge Centre"],
+      "hostel": "Yes",
+      "labs": ["Media Lab", "Language Studio"],
+      "auditorium": "State-of-the-art Amphitheatre",
+      "sports_facilities": ["Football Ground", "Basketball Court"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.5,
+      "top_recruiters": ["Print Media", "IT Firms", "Public Relations Agencies"],
+      "higher_studies_ratio": "Very High"
+    },
+    "scholarships": ["Mar Ivanios Trust Aid", "University Fellowships"],
+    "notable_alumni": ["John Brittas", "P. C. George"]
+  },
+  {
+    "rank": 115,
+    "name": "St. Ann's College for Women",
+    "location": "Hyderabad, Telangana",
+    "established": 1981,
+    "type": "Private (Autonomous)",
+    "affiliation": "Osmania University",
+    "accreditation": "NAAC A+",
+    "courses": {
+      "undergraduate": ["B.A. English Literature", "B.A. Psychology", "B.A. Political Science"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 80,
+    "student_intake_per_year": 1800,
+    "infrastructure": {
+      "campus_area_acres": 10,
+      "libraries": ["St. Ann's Learning Resource Centre"],
+      "hostel": "Yes",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "St. Ann's Cultural Hall",
+      "sports_facilities": ["Basketball Court", "Indoor Gym"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.3,
+      "top_recruiters": ["Educational Firms", "Media Companies", "Startups"],
+      "higher_studies_ratio": "High"
+    },
+    "scholarships": ["Telangana Government Aid", "Institutional Awards"],
+    "notable_alumni": ["Malavika Avinash"]
+  },
+  {
+    "rank": 116,
+    "name": "Basanti Devi College",
+    "location": "Kolkata, West Bengal",
+    "established": 1959,
+    "type": "Government Aided (Women’s)",
+    "affiliation": "University of Calcutta",
+    "accreditation": "NAAC B++",
+    "courses": {
+      "undergraduate": ["B.A. History", "B.A. English", "B.A. Bengali", "B.A. Philosophy"],
+      "postgraduate": ["M.A. Bengali"]
+    },
+    "faculty_strength": 70,
+    "student_intake_per_year": 1300,
+    "infrastructure": {
+      "campus_area_acres": 4,
+      "libraries": ["Basanti Library"],
+      "hostel": "No",
+      "labs": ["Language Lab"],
+      "auditorium": "Assembly Hall",
+      "sports_facilities": ["Yoga Centre", "Indoor Sports Area"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.8,
+      "top_recruiters": ["Translation Firms", "Government Schemes", "Education"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Kanyashree Scheme", "WB State Aid"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 117,
+    "name": "Kuriakose Elias College",
+    "location": "Mannanam, Kerala",
+    "established": 1964,
+    "type": "Private Aided",
+    "affiliation": "Mahatma Gandhi University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Malayalam", "B.A. Economics", "B.A. History"],
+      "postgraduate": ["M.A. Economics"]
+    },
+    "faculty_strength": 65,
+    "student_intake_per_year": 1000,
+    "infrastructure": {
+      "campus_area_acres": 8,
+      "libraries": ["College Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab"],
+      "auditorium": "Multipurpose Hall",
+      "sports_facilities": ["Volleyball Court", "Cricket Nets"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.9,
+      "top_recruiters": ["Finance Companies", "Local Enterprises"],
+      "higher_studies_ratio": "Moderate to High"
+    },
+    "scholarships": ["Church Aid", "University Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 118,
+    "name": "Sri Sathya Sai Institute of Higher Learning (Arts)",
+    "location": "Puttaparthi, Andhra Pradesh",
+    "established": 1981,
+    "type": "Deemed University",
+    "affiliation": "Autonomous",
+    "accreditation": "NAAC A++",
+    "courses": {
+      "undergraduate": ["B.A. Economics", "B.A. History", "B.A. English"],
+      "postgraduate": ["M.A. Economics", "M.A. History"]
+    },
+    "faculty_strength": 60,
+    "student_intake_per_year": 800,
+    "infrastructure": {
+      "campus_area_acres": 30,
+      "libraries": ["Sai Library", "Spiritual Text Archive"],
+      "hostel": "Yes",
+      "labs": ["Spiritual Culture Lab", "Language Lab"],
+      "auditorium": "Prasanthi Auditorium",
+      "sports_facilities": ["Yoga Grounds", "Track Field"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 3.2,
+      "top_recruiters": ["NGOs", "Cultural Institutes", "Research Bodies"],
+      "higher_studies_ratio": "Very High"
+    },
+    "scholarships": ["Sai Trust Grants", "Deemed University Scholarships"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 119,
+    "name": "Carmel College for Women",
+    "location": "Nuvem, Goa",
+    "established": 1964,
+    "type": "Private Aided (Women’s)",
+    "affiliation": "Goa University",
+    "accreditation": "NAAC A",
+    "courses": {
+      "undergraduate": ["B.A. Sociology", "B.A. English", "B.A. Psychology"],
+      "postgraduate": ["M.A. English", "M.A. Psychology"]
+    },
+    "faculty_strength": 55,
+    "student_intake_per_year": 1000,
+    "infrastructure": {
+      "campus_area_acres": 9,
+      "libraries": ["Carmel Library"],
+      "hostel": "Yes",
+      "labs": ["Psychology Lab", "Language Lab"],
+      "auditorium": "Carmel Hall",
+      "sports_facilities": ["Outdoor Gym", "Multipurpose Sports Ground"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.9,
+      "top_recruiters": ["Wellness Centres", "EdTech", "Publishing Houses"],
+      "higher_studies_ratio": "Moderate to High"
+    },
+    "scholarships": ["Goa State Aid", "Church Education Trust"],
+    "notable_alumni": []
+  },
+  {
+    "rank": 120,
+    "name": "Government Arts College, Salem",
+    "location": "Salem, Tamil Nadu",
+    "established": 1857,
+    "type": "Government",
+    "affiliation": "Periyar University",
+    "accreditation": "NAAC B++",
+    "courses": {
+      "undergraduate": ["B.A. Tamil", "B.A. History", "B.A. Political Science"],
+      "postgraduate": ["M.A. Tamil", "M.A. History"]
+    },
+    "faculty_strength": 70,
+    "student_intake_per_year": 1500,
+    "infrastructure": {
+      "campus_area_acres": 18,
+      "libraries": ["Historic Central Library"],
+      "hostel": "Yes",
+      "labs": ["Language Lab"],
+      "auditorium": "Main Hall",
+      "sports_facilities": ["Athletics Ground", "Kho-Kho Area"]
+    },
+    "placements": {
+      "placement_cell": true,
+      "average_package_lpa": 2.7,
+      "top_recruiters": ["State Government", "Local Educational Institutions"],
+      "higher_studies_ratio": "Moderate"
+    },
+    "scholarships": ["Tamil Nadu Govt Grants", "SC/ST Aid"],
+    "notable_alumni": []
+  }
+]

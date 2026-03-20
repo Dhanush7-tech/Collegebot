@@ -1,0 +1,3755 @@
+[
+  {
+    "rank": 1,
+    "name": "Shri Ram College of Commerce, University of Delhi",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA (Hons) Economics"],
+      "postgraduate": ["M.Com", "MA Economics", "PG Diploma in Global Business Operations"]
+    },
+    "fees": {
+      "B.Com (Hons)": "₹89,000 (total)",
+      "MA Economics": "₹48,000 (total)",
+      "PGD GBO": "₹1,60,000"
+    },
+    "infrastructure": {
+      "library": "Fully digital with over 75,000 volumes",
+      "hostel": "Separate hostels for boys and girls with 150+ capacity",
+      "labs": ["Computer lab", "Business simulation lab"],
+      "auditorium": "Fully air-conditioned, 750-seater"
+    },
+    "placements": {
+      "highest_package": "₹30 LPA",
+      "average_package": "₹10 LPA",
+      "top_recruiters": ["Deloitte", "EY", "BCG", "KPMG", "McKinsey"]
+    },
+    "alumni": ["Arun Jaitley", "Ravi Shankar Prasad", "Ajay S. Shriram"],
+    "scholarships": ["Merit-based scholarships", "Need-based financial aid", "Government scholarships"],
+    "student_facilities": ["Sports complex", "Gym", "Cafeteria", "Wi-Fi campus"],
+    "accreditation": ["NAAC A++", "UGC Approved"]
+  },
+  {
+    "rank": 2,
+    "name": "Hindu College, University of Delhi",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA (Hons) Economics"],
+      "postgraduate": ["MA Economics", "M.Com"]
+    },
+    "fees": {
+      "B.Com (Hons)": "₹78,000 (total)",
+      "MA Economics": "₹45,000 (total)"
+    },
+    "infrastructure": {
+      "library": "Over 1 lakh books with e-resource access",
+      "hostel": "On-campus accommodation for boys",
+      "labs": ["Computer lab", "Language lab"],
+      "auditorium": "State-of-the-art with 500 seats"
+    },
+    "placements": {
+      "highest_package": "₹19 LPA",
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["KPMG", "Bain & Co", "ZS Associates", "Ernst & Young"]
+    },
+    "alumni": ["Imtiaz Ali", "Arun Jaitley", "Anurag Kashyap"],
+    "scholarships": ["Merit Scholarships", "INSPIRE", "Financial Aid Fund"],
+    "student_facilities": ["Cafeteria", "Wi-Fi", "Sports Complex", "Music Room"],
+    "accreditation": ["NAAC A++", "UGC Recognized"]
+  },
+  {
+    "rank": 3,
+    "name": "Lady Shri Ram College for Women (LSR), University of Delhi",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA (Hons) Economics"],
+      "postgraduate": ["MA Economics", "M.Com"]
+    },
+    "fees": {
+      "B.Com (Hons)": "₹72,000 (total)",
+      "MA Economics": "₹50,000"
+    },
+    "infrastructure": {
+      "library": "Extensive collection, digital databases",
+      "hostel": "On-campus hostel for 300+ girls",
+      "labs": ["Economics Lab", "Computer Lab"],
+      "auditorium": "Fully equipped modern auditorium"
+    },
+    "placements": {
+      "highest_package": "₹20 LPA",
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Deloitte", "EY", "ZS Associates", "PwC"]
+    },
+    "alumni": ["Aung San Suu Kyi", "Gauri Khan", "Maneka Gandhi"],
+    "scholarships": ["LSR Scholarships", "Merit-cum-Means", "Govt Aid"],
+    "student_facilities": ["NSS, Sports Grounds, Cafeteria", "Wi-Fi"],
+    "accreditation": ["NAAC A++", "UGC Approved"]
+  },
+  {
+    "rank": 4,
+    "name": "Loyola College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com (General)", "B.Com (Corporate Secretaryship)", "BBA"],
+      "postgraduate": ["M.Com", "M.Phil Commerce"]
+    },
+    "fees": {
+      "B.Com": "₹1,20,000 (total)",
+      "M.Com": "₹60,000"
+    },
+    "infrastructure": {
+      "library": "Digital access, over 1 lakh books",
+      "hostel": "Hostels for both boys and girls with mess",
+      "labs": ["Business Analytics Lab", "Computer Science Lab"],
+      "auditorium": "Modern multimedia auditorium"
+    },
+    "placements": {
+      "highest_package": "₹15 LPA",
+      "average_package": "₹6.5 LPA",
+      "top_recruiters": ["TCS", "EY", "ICICI", "Infosys", "Wipro"]
+    },
+    "alumni": ["Viswanathan Anand", "Arvind Swami", "C. Rangarajan"],
+    "scholarships": ["Need-based aid", "Jesuit scholarships", "Merit awards"],
+    "student_facilities": ["Gymnasium", "Cultural Halls", "Wi-Fi", "Cafeteria"],
+    "accreditation": ["NAAC A++", "UGC Autonomous"]
+  },
+  {
+    "rank": 5,
+    "name": "Christ University",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Deemed to be University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BBA", "B.Com in International Finance", "B.Com with ACCA"],
+      "postgraduate": ["M.Com", "MBA", "MA Economics"]
+    },
+    "fees": {
+      "B.Com (Hons)": "₹2,50,000 per year",
+      "M.Com": "₹1,60,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital access, 24/7 reading zones",
+      "hostel": "Separate hostels with AC and non-AC options",
+      "labs": ["Finance Lab", "Computer Lab"],
+      "auditorium": "International convention standard auditorium"
+    },
+    "placements": {
+      "highest_package": "₹13.5 LPA",
+      "average_package": "₹6.8 LPA",
+      "top_recruiters": ["Goldman Sachs", "Deloitte", "KPMG", "EY", "Amazon"]
+    },
+    "alumni": ["Gautham Vasudev Menon", "Joshua Karthik", "Paul Antony"],
+    "scholarships": ["Merit-based", "Financial assistance", "Special quotas"],
+    "student_facilities": ["Cafeteria", "Wi-Fi", "Sports complex", "Language labs"],
+    "accreditation": ["NAAC A+", "UGC Approved", "NBA"]
+  },
+  {
+    "rank": 6,
+    "name": "Hansraj College, University of Delhi",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA (Hons) Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com (Hons)": "₹60,000 (total)",
+      "M.Com": "₹40,000"
+    },
+    "infrastructure": {
+      "library": "1 lakh+ volumes with DELNET access",
+      "hostel": "Only boys hostel with 150 seats",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Amphitheatre-style modern auditorium"
+    },
+    "placements": {
+      "highest_package": "₹20 LPA",
+      "average_package": "₹7.2 LPA",
+      "top_recruiters": ["EY", "ZS", "Deloitte", "Infosys"]
+    },
+    "alumni": ["Shah Rukh Khan", "Anurag Kashyap", "Subhash Ghai"],
+    "scholarships": ["Merit cum Means", "Govt scholarships", "EWS"],
+    "student_facilities": ["Music Room", "Sports Courts", "Gym", "Wi-Fi"],
+    "accreditation": ["NAAC A", "UGC Recognized"]
+  },
+  {
+    "rank": 7,
+    "name": "St. Xavier's College, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "BA (Economics)", "BMS"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹30,000 per year",
+      "M.Com": "₹35,000 per year"
+    },
+    "infrastructure": {
+      "library": "Central library with 90,000+ books",
+      "hostel": "Limited hostel for boys",
+      "labs": ["Finance Lab", "Computer Science Lab"],
+      "auditorium": "Iconic heritage auditorium"
+    },
+    "placements": {
+      "highest_package": "₹12 LPA",
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["JP Morgan", "EY", "Infosys", "Deloitte"]
+    },
+    "alumni": ["Mukesh Ambani", "Vidya Balan", "Freida Pinto"],
+    "scholarships": ["Freeships", "Merit Scholarships", "EBC Scholarships"],
+    "student_facilities": ["Wi-Fi", "Canteen", "Student Halls", "Seminar Rooms"],
+    "accreditation": ["NAAC A+", "UGC Autonomous"]
+  },
+  {
+    "rank": 8,
+    "name": "Narsee Monjee College of Commerce and Economics",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Financial Markets)", "B.Com (Accounting and Finance)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹20,000 per year",
+      "Specialized B.Com": "₹35,000 per year",
+      "M.Com": "₹30,000"
+    },
+    "infrastructure": {
+      "library": "Advanced digital portal with journals access",
+      "hostel": "No hostel (only PGs nearby)",
+      "labs": ["Accounting Lab", "IT Lab"],
+      "auditorium": "Modern AC auditorium with projectors"
+    },
+    "placements": {
+      "highest_package": "₹11 LPA",
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["EY", "KPMG", "PwC", "Grant Thornton"]
+    },
+    "alumni": ["Ashutosh Gowariker", "Aamir Khan", "Kunal Deshmukh"],
+    "scholarships": ["Minority Scholarships", "Merit Scholarships"],
+    "student_facilities": ["Wi-Fi campus", "Library access", "Cultural Festivals"],
+    "accreditation": ["NAAC A", "AICTE Approved"]
+  },
+  {
+    "rank": 9,
+    "name": "Symbiosis College of Arts and Commerce",
+    "location": "Pune, Maharashtra",
+    "affiliation": "Savitribai Phule Pune University",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.Com (Hons)"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹55,000 per year",
+      "M.Com": "₹45,000 per year"
+    },
+    "infrastructure": {
+      "library": "Modern reading rooms with online access",
+      "hostel": "Girls hostel on campus; boys external",
+      "labs": ["Finance Lab", "IT Lab"],
+      "auditorium": "Fully equipped for seminars and workshops"
+    },
+    "placements": {
+      "highest_package": "₹9.8 LPA",
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["Infosys", "Capgemini", "TCS", "ICICI"]
+    },
+    "alumni": ["Neeraj Ghaywan", "Pooja Dhingra"],
+    "scholarships": ["EBC Scheme", "Symbiosis Scholarships", "SC/ST Freeships"],
+    "student_facilities": ["Wi-Fi", "Cafeteria", "Gym", "Cultural Cells"],
+    "accreditation": ["NAAC A+", "UGC Autonomous"]
+  },
+  {
+    "rank": 10,
+    "name": "Ramjas College, University of Delhi",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA (Hons) Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com (Hons)": "₹65,000 (total)",
+      "M.Com": "₹45,000"
+    },
+    "infrastructure": {
+      "library": "Extensive general and digital collection",
+      "hostel": "Separate hostels for boys and girls",
+      "labs": ["Commerce Lab", "Language Lab"],
+      "auditorium": "AC auditorium for 500+ students"
+    },
+    "placements": {
+      "highest_package": "₹14 LPA",
+      "average_package": "₹6.2 LPA",
+      "top_recruiters": ["EY", "ZS", "Deloitte", "Infosys"]
+    },
+    "alumni": ["Manoj Bajpayee", "Shekhar Kapur"],
+    "scholarships": ["EWS Scholarship", "DU Freeships", "Merit Scholarships"],
+    "student_facilities": ["Cafeteria", "Sports Arena", "Wi-Fi"],
+    "accreditation": ["NAAC A", "UGC Recognized"]
+  },
+  {
+    "rank": 11,
+    "name": "Madras Christian College (MCC)",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com (General)", "B.Com (CS)", "B.Com (Accounting and Finance)"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹60,000 per year",
+      "M.Com": "₹55,000 per year"
+    },
+    "infrastructure": {
+      "library": "Large central library with archives and digital zones",
+      "hostel": "Separate boys and girls hostels inside campus",
+      "labs": ["Business Computing Lab", "Language Lab"],
+      "auditorium": "Heritage auditorium for cultural and academic events"
+    },
+    "placements": {
+      "highest_package": "₹9 LPA",
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["Infosys", "Wipro", "EY", "Capgemini"]
+    },
+    "alumni": ["Kamal Haasan", "Anand Mahindra", "Vijay Amritraj"],
+    "scholarships": ["Merit Scholarships", "Economic Assistance", "Religious Trust Scholarships"],
+    "student_facilities": ["Wi-Fi campus", "Canteen", "Chapel", "NSS/NCC Units"],
+    "accreditation": ["NAAC A+", "UGC Autonomous"]
+  },
+  {
+    "rank": 12,
+    "name": "Mount Carmel College",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Autonomous under Bengaluru City University",
+    "type": "Private (Women's College)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Industry Integrated)", "B.Com (Travel and Tourism)"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹1,00,000 per year",
+      "M.Com": "₹90,000 per year"
+    },
+    "infrastructure": {
+      "library": "Modern library with 70,000+ books and e-resources",
+      "hostel": "On-campus girls' hostel with mess and Wi-Fi",
+      "labs": ["Commerce Lab", "Finance Lab"],
+      "auditorium": "Fully air-conditioned, seminar halls for sessions"
+    },
+    "placements": {
+      "highest_package": "₹10 LPA",
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Goldman Sachs", "EY", "TCS", "JP Morgan"]
+    },
+    "alumni": ["Deepika Padukone", "Anushka Sharma (attended)"],
+    "scholarships": ["Institutional Scholarships", "Govt-based schemes", "UGC Minority Aid"],
+    "student_facilities": ["Health Centre", "Wi-Fi", "Recreational Clubs", "Canteen"],
+    "accreditation": ["NAAC A+", "UGC Autonomous"]
+  },
+  {
+    "rank": 13,
+    "name": "St. Joseph’s College of Commerce",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Bengaluru City University",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Travel & Tourism)", "BBA"],
+      "postgraduate": ["M.Com", "PGDM"]
+    },
+    "fees": {
+      "B.Com": "₹1,20,000 per year",
+      "M.Com": "₹95,000 per year"
+    },
+    "infrastructure": {
+      "library": "E-library with JSTOR, EBSCO access",
+      "hostel": "No official hostel, but support for PG accommodations",
+      "labs": ["Commerce and Analytics Labs"],
+      "auditorium": "Equipped with AV systems and stage lighting"
+    },
+    "placements": {
+      "highest_package": "₹9.2 LPA",
+      "average_package": "₹5.8 LPA",
+      "top_recruiters": ["Deloitte", "EY", "TCS", "Byju's"]
+    },
+    "alumni": ["Rahul Dravid (SJCC Group)", "Rakesh Sharma"],
+    "scholarships": ["Merit Scholarships", "Fee Concessions", "Jesuit Welfare Schemes"],
+    "student_facilities": ["Commerce Club", "Hostel Support", "Sports Centre"],
+    "accreditation": ["NAAC A+", "UGC Autonomous"]
+  },
+  {
+    "rank": 14,
+    "name": "Indraprastha College for Women",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA (Hons) Economics"],
+      "postgraduate": ["MA Economics"]
+    },
+    "fees": {
+      "B.Com (Hons)": "₹66,000 (total)",
+      "MA Economics": "₹50,000"
+    },
+    "infrastructure": {
+      "library": "Digital access, Braille section, and reading halls",
+      "hostel": "Girls hostel with 200+ capacity, AC/Non-AC rooms",
+      "labs": ["Commerce Lab", "Language Lab"],
+      "auditorium": "Centralized AC auditorium"
+    },
+    "placements": {
+      "highest_package": "₹10 LPA",
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Deloitte", "EY", "Teach for India"]
+    },
+    "alumni": ["Meira Kumar", "Ambika Soni"],
+    "scholarships": ["Merit cum Means", "Need-Based", "SC/ST Government Aid"],
+    "student_facilities": ["Cultural Clubs", "Wi-Fi", "Gym", "Infirmary"],
+    "accreditation": ["NAAC A", "UGC Approved"]
+  },
+  {
+    "rank": 15,
+    "name": "Delhi College of Arts and Commerce",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "B.Com (Program)", "BA (Hons) Economics"],
+      "postgraduate": []
+    },
+    "fees": {
+      "B.Com (Hons)": "₹60,000 (total)",
+      "B.Com (Program)": "₹50,000 (total)"
+    },
+    "infrastructure": {
+      "library": "Centralized with access to e-journals",
+      "hostel": "No in-house hostel, PG tie-ups available",
+      "labs": ["Computer Lab"],
+      "auditorium": "Smart lecture halls and seminar spaces"
+    },
+    "placements": {
+      "highest_package": "₹8.4 LPA",
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["Deloitte", "Genpact", "EY", "ICICI Bank"]
+    },
+    "alumni": ["Richa Chadha", "Pramod Dubey"],
+    "scholarships": ["Merit-based", "DU EWS", "SC/ST Scholarships"],
+    "student_facilities": ["Wi-Fi", "Sports Grounds", "Cafe", "Student Societies"],
+    "accreditation": ["NAAC B++", "UGC Recognized"]
+  },
+  {
+    "rank": 16,
+    "name": "Stella Maris College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Women's College)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "B.Com (General)", "BBA"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹55,000 per year",
+      "M.Com": "₹45,000 per year"
+    },
+    "infrastructure": {
+      "library": "Library with over 90,000 books and e-library",
+      "hostel": "Girls hostel with secure Wi-Fi, mess facility",
+      "labs": ["Business Communication Lab", "Commerce Lab"],
+      "auditorium": "Multi-purpose hall for academic and cultural events"
+    },
+    "placements": {
+      "highest_package": "₹7 LPA",
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["EY", "Wipro", "TCS", "HCL"]
+    },
+    "alumni": ["Trisha Krishnan", "Sujatha", "Meena Harris"],
+    "scholarships": ["Merit Scholarships", "Catholic Charities", "SC/ST Welfare"],
+    "student_facilities": ["Counseling Cell", "Sports", "Canteen", "Wi-Fi"],
+    "accreditation": ["NAAC A+", "Autonomous under UGC"]
+  },
+  {
+    "rank": 17,
+    "name": "Brihan Maharashtra College of Commerce (BMCC)",
+    "location": "Pune, Maharashtra",
+    "affiliation": "Savitribai Phule Pune University",
+    "type": "Public (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "BBM"],
+      "postgraduate": ["M.Com", "PG Diploma in Banking"]
+    },
+    "fees": {
+      "B.Com": "₹32,000 per year",
+      "M.Com": "₹25,000 per year"
+    },
+    "infrastructure": {
+      "library": "Fully automated library with remote access",
+      "hostel": "Separate hostels for boys and girls",
+      "labs": ["Business Lab", "IT Lab"],
+      "auditorium": "AC auditorium with modern AV equipment"
+    },
+    "placements": {
+      "highest_package": "₹8 LPA",
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Infosys", "ICICI", "Wipro", "Cognizant"]
+    },
+    "alumni": ["P.V. Narasimha Rao", "Sharad Pawar"],
+    "scholarships": ["Minority and Backward Class Scholarships", "Merit Scholarships"],
+    "student_facilities": ["Wi-Fi", "Sports Facility", "Cafeteria", "Language Cell"],
+    "accreditation": ["NAAC A", "UGC Autonomous"]
+  },
+  {
+    "rank": 18,
+    "name": "J.D. Birla Institute",
+    "location": "Kolkata, West Bengal",
+    "affiliation": "Jadavpur University",
+    "type": "Private (Women's College)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BBA", "B.Sc (Economics)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹1,10,000 per year",
+      "M.Com": "₹1,20,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital library with KOHA, DSpace access",
+      "hostel": "Hostel for girls with all modern facilities",
+      "labs": ["Business Lab", "Multimedia Lab"],
+      "auditorium": "Fully AV-equipped conference hall"
+    },
+    "placements": {
+      "highest_package": "₹6.8 LPA",
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Deloitte", "TCS", "HSBC", "Infosys"]
+    },
+    "alumni": ["Many local industry leaders and professionals"],
+    "scholarships": ["Merit Scholarships", "Need-Based Scholarships"],
+    "student_facilities": ["NCC/NSS", "Wi-Fi", "Cultural Fest", "Canteen"],
+    "accreditation": ["NAAC A", "Jadavpur University Affiliation"]
+  },
+  {
+    "rank": 19,
+    "name": "KJ Somaiya College of Arts and Commerce",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Banking & Insurance)", "BA (Economics)"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹40,000 per year",
+      "M.Com": "₹50,000 per year"
+    },
+    "infrastructure": {
+      "library": "Fully digitized with 70,000+ books and e-resources",
+      "hostel": "Separate hostel blocks for boys and girls on campus",
+      "labs": ["Computer Lab", "Language Lab"],
+      "auditorium": "Modern AV auditorium for events and lectures"
+    },
+    "placements": {
+      "highest_package": "₹7.5 LPA",
+      "average_package": "₹4.8 LPA",
+      "top_recruiters": ["TCS", "Deloitte", "Wipro", "Axis Bank"]
+    },
+    "alumni": ["Jayant Patil", "Sudhir Mungantiwar"],
+    "scholarships": ["Somaiya Trust Merit Scholarships", "EBC Freeship", "Government Schemes"],
+    "student_facilities": ["Canteen", "Wi-Fi Campus", "Health Centre", "Language Lab"],
+    "accreditation": ["NAAC A", "Autonomous under UGC"]
+  },
+  {
+    "rank": 20,
+    "name": "Ethiraj College for Women",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Women's College)",
+    "courses": {
+      "undergraduate": ["B.Com (General)", "B.Com (CS)", "B.Com (Banking and Insurance)"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹38,000 per year",
+      "M.Com": "₹32,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital access with national journal subscriptions",
+      "hostel": "Girls hostel with 400+ capacity, mess and gym",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Air-conditioned with stage lighting and audio systems"
+    },
+    "placements": {
+      "highest_package": "₹6.5 LPA",
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Infosys", "TCS", "HDFC", "Wipro"]
+    },
+    "alumni": ["Suhasini Maniratnam", "Revathi"],
+    "scholarships": ["SC/ST Fee Concessions", "Merit Scholarships", "Private Endowments"],
+    "student_facilities": ["Cafeteria", "Wi-Fi", "Counseling Cell", "Sports Facility"],
+    "accreditation": ["NAAC A", "Autonomous College"]
+  },
+  {
+    "rank": 21,
+    "name": "Guru Nanak College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Minority Institution)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (CS)", "B.Com (ISM)"],
+      "postgraduate": ["M.Com", "M.Phil Commerce"]
+    },
+    "fees": {
+      "B.Com": "₹35,000 per year",
+      "M.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Central library with online portals and journals",
+      "hostel": "Separate hostels with mess and indoor sports",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Large auditorium for events, seminars"
+    },
+    "placements": {
+      "highest_package": "₹6 LPA",
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Cognizant", "TCS", "Wipro", "EY"]
+    },
+    "alumni": ["Ilaiyaraaja (music director)", "Vairamuthu (lyricist)"],
+    "scholarships": ["Minority Scholarships", "Govt Scholarships", "Management Aid"],
+    "student_facilities": ["Sports Complex", "Library", "Wi-Fi", "Student Clubs"],
+    "accreditation": ["NAAC A", "Autonomous Institution"]
+  },
+  {
+    "rank": 22,
+    "name": "Women’s Christian College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com (General)", "B.Com (Corporate Secretaryship)", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹40,000 per year",
+      "M.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Automated library with access to national digital library",
+      "hostel": "Girls hostel with triple-sharing and AC options",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Modern conference-style auditorium"
+    },
+    "placements": {
+      "highest_package": "₹5.8 LPA",
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Infosys", "Wipro", "HCL", "EY"]
+    },
+    "alumni": ["Anuradha Sriram", "Sudha Raghunathan"],
+    "scholarships": ["Christian Minority Aid", "Merit Schemes", "Govt Sponsored"],
+    "student_facilities": ["Wi-Fi Campus", "Sports", "Health Centre", "Cultural Societies"],
+    "accreditation": ["NAAC A+", "UGC Recognized"]
+  },
+  {
+    "rank": 23,
+    "name": "Sri Venkateswara College",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "B.Com (Program)", "BA (Hons) Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com (Hons)": "₹55,000 (total)",
+      "M.Com": "₹40,000 (total)"
+    },
+    "infrastructure": {
+      "library": "Extensive digital and print access",
+      "hostel": "Separate hostels for boys and girls with limited capacity",
+      "labs": ["Finance Lab", "Computer Lab"],
+      "auditorium": "Recently renovated large-capacity auditorium"
+    },
+    "placements": {
+      "highest_package": "₹9.6 LPA",
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["ZS Associates", "EY", "Deloitte", "KPMG"]
+    },
+    "alumni": ["Jasleen Royal", "Randeep Guleria"],
+    "scholarships": ["DU Scholarships", "SV College Trust Merit Scholarships"],
+    "student_facilities": ["Wi-Fi", "Sports Courts", "Cafeteria", "NSS/NCC"],
+    "accreditation": ["NAAC A", "UGC Recognized"]
+  },
+  {
+    "rank": 24,
+    "name": "MOP Vaishnav College for Women",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Marketing Management)", "BBA"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹45,000 per year",
+      "M.Com": "₹40,000 per year"
+    },
+    "infrastructure": {
+      "library": "Advanced library with institutional repository",
+      "hostel": "Girls hostel within campus with 200+ occupancy",
+      "labs": ["Finance Lab", "Computer Lab"],
+      "auditorium": "Smart auditorium with AV tools"
+    },
+    "placements": {
+      "highest_package": "₹6.2 LPA",
+      "average_package": "₹4.1 LPA",
+      "top_recruiters": ["HCL", "TCS", "Cognizant", "ICICI Bank"]
+    },
+    "alumni": ["RJ Balaji (faculty guest)", "Samantha Ruth Prabhu (association)"],
+    "scholarships": ["Merit-based", "Minority Scholarships", "Government Aids"],
+    "student_facilities": ["Wi-Fi", "Cultural Cell", "Sports Facilities", "Cafeteria"],
+    "accreditation": ["NAAC A+", "Autonomous Status"]
+  },
+  {
+    "rank": 25,
+    "name": "Presidency College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹1,500 per year",
+      "M.Com": "₹2,000 per year"
+    },
+    "infrastructure": {
+      "library": "Government-funded, 150+ year old reference library",
+      "hostel": "Separate government hostels for men and women",
+      "labs": ["Computer Lab", "Business Lab"],
+      "auditorium": "Historical British-era seminar halls"
+    },
+    "placements": {
+      "highest_package": "₹6 LPA",
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["TNPSC", "Banks", "Infosys", "EY"]
+    },
+    "alumni": ["C.V. Raman", "R. Venkataraman", "K. Kamaraj"],
+    "scholarships": ["Govt of Tamil Nadu Scholarships", "Minority and SC/ST Support"],
+    "student_facilities": ["Wi-Fi", "Historic Campus", "Seminar Rooms", "Library Access"],
+    "accreditation": ["NAAC A", "Government Autonomous"]
+  },
+  {
+    "rank": 26,
+    "name": "Christ College, Pune",
+    "location": "Pune, Maharashtra",
+    "affiliation": "Savitribai Phule Pune University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.Com (Banking and Finance)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹42,000 per year",
+      "M.Com": "₹38,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital resource access, subscribed databases",
+      "hostel": "Hostel accommodation on campus",
+      "labs": ["Finance Lab", "Computer Lab"],
+      "auditorium": "Large capacity for events and lectures"
+    },
+    "placements": {
+      "highest_package": "₹5.5 LPA",
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["TCS", "Infosys", "ICICI Bank"]
+    },
+    "alumni": [],
+    "scholarships": ["Merit Scholarships", "Fee Concessions", "SC/ST Scholarships"],
+    "student_facilities": ["Sports Complex", "Wi-Fi", "Cultural Cell"],
+    "accreditation": ["NAAC A", "University Affiliated"]
+  },
+  {
+    "rank": 27,
+    "name": "KPB Hinduja College of Commerce",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "BMS", "B.Com (Accounting & Finance)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹30,000 per year",
+      "M.Com": "₹25,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital-enabled and updated reading material",
+      "hostel": "No hostel; PG tie-ups nearby",
+      "labs": ["IT Lab", "Business Lab"],
+      "auditorium": "Event seminar hall for workshops and lectures"
+    },
+    "placements": {
+      "highest_package": "₹6.8 LPA",
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["EY", "Axis Bank", "ICICI", "Kotak Mahindra"]
+    },
+    "alumni": ["Neeti Mohan", "Rakeysh Mehra"],
+    "scholarships": ["Merit and Govt Scholarships"],
+    "student_facilities": ["Cafeteria", "Wi-Fi", "Student Clubs"],
+    "accreditation": ["NAAC A", "UGC Recognized"]
+  },
+  {
+    "rank": 28,
+    "name": "Jain University - Centre for Management Studies",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Deemed to be University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "B.Com (Professional)", "B.Com (ACCA)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹2,50,000 per year",
+      "M.Com": "₹1,60,000 per year"
+    },
+    "infrastructure": {
+      "library": "Modern resource centre with e-databases",
+      "hostel": "Premium on-campus and partner hostels",
+      "labs": ["Finance Lab", "Business Analytics Lab"],
+      "auditorium": "Corporate-level seminar halls"
+    },
+    "placements": {
+      "highest_package": "₹10 LPA",
+      "average_package": "₹5.6 LPA",
+      "top_recruiters": ["EY", "PWC", "Wipro", "IBM"]
+    },
+    "alumni": ["Rohit Sharma (training), KL Rahul"],
+    "scholarships": ["Merit-based", "Sports Scholarships", "EWS Waiver"],
+    "student_facilities": ["Wi-Fi", "Gym", "Incubation Cell", "Cafeteria"],
+    "accreditation": ["NAAC A++", "UGC Deemed University"]
+  },
+  {
+    "rank": 29,
+    "name": "Mithibai College of Arts, Chauhan Institute of Science and Amrutben Jivanlal College of Commerce and Economics",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Accounting & Finance)", "BMS"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹25,000 per year",
+      "M.Com": "₹28,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitally cataloged library with 50,000+ volumes",
+      "hostel": "No in-house hostel; support for nearby PGs",
+      "labs": ["Computer Lab", "Business Analytics Lab"],
+      "auditorium": "AV-equipped hall for events"
+    },
+    "placements": {
+      "highest_package": "₹6.2 LPA",
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Deloitte", "ICICI", "TCS", "Infosys"]
+    },
+    "alumni": ["Kareena Kapoor", "Ekta Kapoor", "Ajay Devgn"],
+    "scholarships": ["Merit-based", "SC/ST and EWS Schemes"],
+    "student_facilities": ["Wi-Fi", "Cafeteria", "Cultural Cells"],
+    "accreditation": ["NAAC A", "Autonomous College"]
+  },
+  {
+    "rank": 30,
+    "name": "St. Xavier’s College (Autonomous), Kolkata",
+    "location": "Kolkata, West Bengal",
+    "affiliation": "University of Calcutta",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BMS", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹60,000 per year",
+      "M.Com": "₹65,000 per year"
+    },
+    "infrastructure": {
+      "library": "Fully automated with KOHA, INFLIBNET access",
+      "hostel": "Separate hostels for boys and girls",
+      "labs": ["Commerce and Economics Labs"],
+      "auditorium": "Heritage hall and new AV seminar rooms"
+    },
+    "placements": {
+      "highest_package": "₹9.2 LPA",
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Deloitte", "KPMG", "TCS", "EY"]
+    },
+    "alumni": ["Satyajit Ray", "Abhishek Banerjee"],
+    "scholarships": ["Jesuit Charitable Scholarships", "Merit Aid", "Govt Schemes"],
+    "student_facilities": ["Cafeteria", "Clubs", "Wi-Fi", "Counseling"],
+    "accreditation": ["NAAC A++", "Autonomous under UGC"]
+  },
+  {
+    "rank": 31,
+    "name": "NMKRV College for Women",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Bengaluru City University",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.Com (Travel & Tourism)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹32,000 per year",
+      "M.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Integrated library with e-resource portal",
+      "hostel": "Girls hostel with basic facilities and Wi-Fi",
+      "labs": ["Business Lab", "Language Lab"],
+      "auditorium": "AC seminar and event hall"
+    },
+    "placements": {
+      "highest_package": "₹5 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Wipro", "Infosys", "Cognizant"]
+    },
+    "alumni": ["Sudha Murthy (guest speaker)", "Anjali Devi"],
+    "scholarships": ["Merit & Minority Scholarships", "Management Fee Waiver"],
+    "student_facilities": ["Wi-Fi", "Canteen", "Counseling Unit", "Cultural Club"],
+    "accreditation": ["NAAC A", "Autonomous College"]
+  },
+  {
+    "rank": 32,
+    "name": "Sir Parashurambhau College (SP College)",
+    "location": "Pune, Maharashtra",
+    "affiliation": "Savitribai Phule Pune University",
+    "type": "Government Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹8,000 per year",
+      "M.Com": "₹10,000 per year"
+    },
+    "infrastructure": {
+      "library": "Traditional plus e-resource digital access",
+      "hostel": "Boys and girls hostel with subsidized rooms",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Large indoor event space"
+    },
+    "placements": {
+      "highest_package": "₹4.5 LPA",
+      "average_package": "₹3 LPA",
+      "top_recruiters": ["Infosys", "Axis Bank", "ICICI", "L&T Finance"]
+    },
+    "alumni": ["Gopal Krishna Gokhale", "Vishwanath Karad"],
+    "scholarships": ["SC/ST/OBC Scholarships", "Govt Merit Programs"],
+    "student_facilities": ["NSS/NCC", "Canteen", "Wi-Fi", "Sports Facilities"],
+    "accreditation": ["NAAC A", "Govt Autonomous"]
+  },
+  {
+    "rank": 33,
+    "name": "Sacred Heart College",
+    "location": "Kochi, Kerala",
+    "affiliation": "Mahatma Gandhi University",
+    "type": "Private (Christian Minority)",
+    "courses": {
+      "undergraduate": ["B.Com (Finance & Taxation)", "B.Com (Computer Applications)", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹27,000 per year",
+      "M.Com": "₹35,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitalized with access to NLIST & INFLIBNET",
+      "hostel": "Separate hostels for boys and girls",
+      "labs": ["Finance Lab", "Language Lab"],
+      "auditorium": "Well-equipped auditorium with AV systems"
+    },
+    "placements": {
+      "highest_package": "₹5.5 LPA",
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Federal Bank", "Infosys", "EY", "TCS"]
+    },
+    "alumni": ["Mammootty", "Kunchacko Boban"],
+    "scholarships": ["Catholic Diocesan Fund", "SC/ST Govt Grants"],
+    "student_facilities": ["Wi-Fi", "Recreation Rooms", "Clubs", "Gym"],
+    "accreditation": ["NAAC A+", "UGC Autonomous"]
+  },
+  {
+    "rank": 34,
+    "name": "Kristu Jayanti College",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Bengaluru North University",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "B.Com (Professional)", "B.Com (Tourism & Travel)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹95,000 per year",
+      "M.Com": "₹85,000 per year"
+    },
+    "infrastructure": {
+      "library": "Fully digital with remote access e-resources",
+      "hostel": "Campus hostels with twin-sharing options",
+      "labs": ["Business Analytics Lab", "Finance Lab"],
+      "auditorium": "Centrally air-conditioned event spaces"
+    },
+    "placements": {
+      "highest_package": "₹7 LPA",
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["EY", "KPMG", "Wipro", "HDFC"]
+    },
+    "alumni": ["Start-up founders", "Finance Professionals"],
+    "scholarships": ["Academic Merit", "Catholic Student Welfare"],
+    "student_facilities": ["Wi-Fi Campus", "Counseling", "Entrepreneurship Cell"],
+    "accreditation": ["NAAC A++", "Autonomous Status"]
+  },
+  {
+    "rank": 35,
+    "name": "Loyola College (Evening Section)",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Jesuit Minority)",
+    "courses": {
+      "undergraduate": ["B.Com (General)", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹20,000 per year",
+      "M.Com": "₹25,000 per year"
+    },
+    "infrastructure": {
+      "library": "Evening access to central digital library",
+      "hostel": "Access to day hostels and PG facilities",
+      "labs": ["Commerce Lab"],
+      "auditorium": "Jesuit heritage halls and smart classrooms"
+    },
+    "placements": {
+      "highest_package": "₹5.8 LPA",
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Infosys", "HCL", "Amazon"]
+    },
+    "alumni": ["Mahesh Babu (regular Loyola)", "Ram Charan"],
+    "scholarships": ["Minority Aid", "College Alumni Scholarships"],
+    "student_facilities": ["Wi-Fi", "Evening Cafeteria", "Recreation Halls"],
+    "accreditation": ["NAAC A", "UGC Recognized"]
+  },
+  {
+    "rank": 36,
+    "name": "DAV College",
+    "location": "Chandigarh",
+    "affiliation": "Panjab University",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹18,000 per year",
+      "M.Com": "₹20,000 per year"
+    },
+    "infrastructure": {
+      "library": "Hybrid access with JSTOR, NDL integration",
+      "hostel": "Separate accommodation with mess facility",
+      "labs": ["Business Lab", "IT Lab"],
+      "auditorium": "Classic auditorium with audio-visual equipment"
+    },
+    "placements": {
+      "highest_package": "₹6.4 LPA",
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["TCS", "EY", "Axis Bank", "HDFC"]
+    },
+    "alumni": ["Ayushmann Khurrana", "Yuvraj Singh"],
+    "scholarships": ["PU Merit Scholarship", "Private Aid Programs"],
+    "student_facilities": ["NCC/NSS", "Sports Ground", "Canteen", "Wi-Fi"],
+    "accreditation": ["NAAC A", "PU Affiliated"]
+  },
+  {
+    "rank": 37,
+    "name": "HR College of Commerce and Economics",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "HSNC University",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Accounting & Finance)", "BMS"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹25,000 per year",
+      "M.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "E-resources, remote access, 60,000+ books",
+      "hostel": "No on-campus hostel, tie-ups available",
+      "labs": ["Finance Lab", "Computer Lab"],
+      "auditorium": "Modern AV facilities and event halls"
+    },
+    "placements": {
+      "highest_package": "₹7.2 LPA",
+      "average_package": "₹4.6 LPA",
+      "top_recruiters": ["KPMG", "TCS", "ICICI", "Deloitte"]
+    },
+    "alumni": ["Ranbir Kapoor", "Farhan Akhtar"],
+    "scholarships": ["HSNC Group Scholarships", "Government Schemes"],
+    "student_facilities": ["Wi-Fi", "Cultural Committees", "Sports Facilities"],
+    "accreditation": ["NAAC A", "Autonomous Status"]
+  },
+  {
+    "rank": 38,
+    "name": "KLE Society’s Nijalingappa College",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Bengaluru City University",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (CS)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹28,000 per year",
+      "M.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Automated digital library with e-resources",
+      "hostel": "Separate hostels with dining, Wi-Fi",
+      "labs": ["IT Lab", "Commerce Lab"],
+      "auditorium": "Conference and seminar halls"
+    },
+    "placements": {
+      "highest_package": "₹5.5 LPA",
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Infosys", "EY", "Tech Mahindra"]
+    },
+    "alumni": ["Educationists, corporate executives"],
+    "scholarships": ["Government and Institutional Scholarships"],
+    "student_facilities": ["Wi-Fi", "Canteen", "Counseling Cell", "NCC"],
+    "accreditation": ["NAAC A", "Affiliated to BCU"]
+  },
+  {
+    "rank": 39,
+    "name": "Maharaja’s College",
+    "location": "Ernakulam, Kerala",
+    "affiliation": "Mahatma Gandhi University",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹6,000 per year",
+      "M.Com": "₹9,000 per year"
+    },
+    "infrastructure": {
+      "library": "One of the oldest academic libraries in Kerala",
+      "hostel": "Separate hostels for boys and girls",
+      "labs": ["Commerce and Economics Labs"],
+      "auditorium": "Traditional stage and cultural center"
+    },
+    "placements": {
+      "highest_package": "₹4.5 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Public Sector Banks", "Infosys"]
+    },
+    "alumni": ["M. G. S. Narayanan", "Innocent Vareed"],
+    "scholarships": ["SC/ST Welfare", "Government and University Scholarships"],
+    "student_facilities": ["Wi-Fi", "Library", "Sports", "Music & Arts Clubs"],
+    "accreditation": ["NAAC A", "Govt Autonomous"]
+  },
+  {
+    "rank": 40,
+    "name": "Elphinstone College",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Government Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹6,000 per year",
+      "M.Com": "₹8,000 per year"
+    },
+    "infrastructure": {
+      "library": "Historic library with rare manuscripts and e-section",
+      "hostel": "Limited hostels, PG nearby",
+      "labs": ["Commerce Lab", "IT Resource Center"],
+      "auditorium": "Colonial architecture-based large seminar hall"
+    },
+    "placements": {
+      "highest_package": "₹5.2 LPA",
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["TCS", "L&T Finance", "Capgemini"]
+    },
+    "alumni": ["B. R. Ambedkar", "Bal Gangadhar Tilak"],
+    "scholarships": ["Government, Minority, Alumni-Funded"],
+    "student_facilities": ["Student Aid Fund", "Wi-Fi", "Canteen", "Clubs"],
+    "accreditation": ["NAAC A", "Mumbai University Affiliation"]
+  },
+  {
+    "rank": 41,
+    "name": "Bishop Cotton Women’s Christian College",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Bengaluru City University",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Tourism)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹40,000 per year",
+      "M.Com": "₹35,000 per year"
+    },
+    "infrastructure": {
+      "library": "Automated digital library with national subscriptions",
+      "hostel": "Well-equipped girls’ hostel inside campus",
+      "labs": ["Business Lab", "Computer Lab"],
+      "auditorium": "Indoor AV hall with seating for 500+"
+    },
+    "placements": {
+      "highest_package": "₹5 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Amazon", "Deloitte", "EY", "Tech Mahindra"]
+    },
+    "alumni": ["Corporate women leaders, educators"],
+    "scholarships": ["Christian Aid", "Govt and University Grants"],
+    "student_facilities": ["Cultural Clubs", "Wi-Fi", "Sports Arena", "Cafeteria"],
+    "accreditation": ["NAAC B++", "BCU Affiliation"]
+  },
+  {
+    "rank": 42,
+    "name": "KJ Somaiya College of Science and Commerce",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "Somaiya Vidyavihar University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Banking & Insurance)", "BMS"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹30,000 per year",
+      "M.Com": "₹35,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital resources with 24x7 access portals",
+      "hostel": "Girls and boys hostels with AC/non-AC options",
+      "labs": ["Analytics Lab", "Business Simulation Lab"],
+      "auditorium": "Modern air-conditioned conference hall"
+    },
+    "placements": {
+      "highest_package": "₹6.7 LPA",
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["Infosys", "Capgemini", "Axis Bank", "EY"]
+    },
+    "alumni": ["Leaders in IT, Banking, and Consulting"],
+    "scholarships": ["Merit and Means-Based Aid", "Trust-based Scholarships"],
+    "student_facilities": ["Wi-Fi", "Startup Cell", "Language Centre"],
+    "accreditation": ["NAAC A", "Autonomous under Somaiya University"]
+  },
+  {
+    "rank": 43,
+    "name": "Sri Guru Gobind Singh College of Commerce",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public (Minority Institution)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "B.Com (Program)", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹25,000 per year",
+      "M.Com": "₹28,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitized and RFID-enabled resource centre",
+      "hostel": "Limited seats for Sikh minority and others",
+      "labs": ["Finance Lab", "Computer Lab"],
+      "auditorium": "Modernized multi-functional conference facility"
+    },
+    "placements": {
+      "highest_package": "₹8 LPA",
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["EY", "ZS Associates", "Cvent"]
+    },
+    "alumni": ["Entrepreneurs, Chartered Accountants"],
+    "scholarships": ["DU Schemes", "Sikh Minority Trust Aid"],
+    "student_facilities": ["Wi-Fi", "Seminar Rooms", "Gurudwara", "Cultural Societies"],
+    "accreditation": ["NAAC A", "Delhi University Affiliation"]
+  },
+  {
+    "rank": 44,
+    "name": "R.A. Podar College of Commerce and Economics",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "BMS", "B.Com (Actuarial Studies)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹22,000 per year",
+      "M.Com": "₹25,000 per year"
+    },
+    "infrastructure": {
+      "library": "Large commerce-focused resource hub",
+      "hostel": "No on-campus hostel; PG options available",
+      "labs": ["Statistics Lab", "Computer Lab"],
+      "auditorium": "Heritage auditorium, refurbished recently"
+    },
+    "placements": {
+      "highest_package": "₹6.5 LPA",
+      "average_package": "₹4.3 LPA",
+      "top_recruiters": ["EY", "ICICI", "HDFC", "Infosys"]
+    },
+    "alumni": ["Nita Ambani", "Rahul Bajaj"],
+    "scholarships": ["Podar Trust Grants", "Merit Scholarships", "Govt Aids"],
+    "student_facilities": ["Library", "Commerce Clubs", "Wi-Fi", "Events"],
+    "accreditation": ["NAAC A+", "Autonomous under UGC"]
+  },
+  {
+    "rank": 45,
+    "name": "Jain College",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Jain (Deemed-to-be) University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Professional)", "B.Com (Finance & Accounting)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹95,000 per year",
+      "M.Com": "₹90,000 per year"
+    },
+    "infrastructure": {
+      "library": "Fully digitized with 60,000+ resources",
+      "hostel": "Separate boys and girls hostels with AC and Wi-Fi",
+      "labs": ["Finance Lab", "Data Analytics Lab"],
+      "auditorium": "Centrally air-conditioned auditorium with AV support"
+    },
+    "placements": {
+      "highest_package": "₹9 LPA",
+      "average_package": "₹5.4 LPA",
+      "top_recruiters": ["EY", "KPMG", "Infosys", "Capgemini"]
+    },
+    "alumni": ["Entrepreneurs, consultants"],
+    "scholarships": ["Merit Scholarships", "Sports Scholarships", "Need-based Aid"],
+    "student_facilities": ["Wi-Fi", "Incubation Cell", "Gym", "Career Counseling"],
+    "accreditation": ["NAAC A++", "Deemed-to-be University"]
+  },
+  {
+    "rank": 46,
+    "name": "MES College Marampally",
+    "location": "Aluva, Kerala",
+    "affiliation": "Mahatma Gandhi University",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com (Computer Applications)", "BBA", "B.Com (Finance & Taxation)"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹25,000 per year",
+      "M.Com": "₹28,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital & physical access, 30,000+ books",
+      "hostel": "Separate boys and girls hostels",
+      "labs": ["IT Lab", "Business Lab"],
+      "auditorium": "State-of-the-art with audio-visual tech"
+    },
+    "placements": {
+      "highest_package": "₹4.8 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["TCS", "Wipro", "Federal Bank"]
+    },
+    "alumni": ["Local administrators, business analysts"],
+    "scholarships": ["Central Govt Schemes", "Minority Aid"],
+    "student_facilities": ["Wi-Fi", "NSS", "Canteen", "Clubs"],
+    "accreditation": ["NAAC A+", "Autonomous Status"]
+  },
+  {
+    "rank": 47,
+    "name": "PGDAV College",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Hons)", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹22,000 per year",
+      "M.Com": "₹25,000 per year"
+    },
+    "infrastructure": {
+      "library": "Automated library with e-resources",
+      "hostel": "No hostel; PGs available nearby",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Large capacity with stage lighting"
+    },
+    "placements": {
+      "highest_package": "₹7.5 LPA",
+      "average_package": "₹4.6 LPA",
+      "top_recruiters": ["ZS Associates", "Deloitte", "EY"]
+    },
+    "alumni": ["Corporate professionals, actors"],
+    "scholarships": ["DU Scholarships", "SC/ST/OBC Govt Aid"],
+    "student_facilities": ["Wi-Fi", "Cafeteria", "Societies"],
+    "accreditation": ["NAAC B++", "DU Affiliation"]
+  },
+  {
+    "rank": 48,
+    "name": "Kalinga University",
+    "location": "Raipur, Chhattisgarh",
+    "affiliation": "Private University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.Com (Banking & Finance)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹65,000 per year",
+      "M.Com": "₹75,000 per year"
+    },
+    "infrastructure": {
+      "library": "Modern digital library with remote access",
+      "hostel": "AC and non-AC hostel with mess and gym",
+      "labs": ["Business Lab", "Finance Lab"],
+      "auditorium": "Hi-tech auditorium for seminars"
+    },
+    "placements": {
+      "highest_package": "₹6 LPA",
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Infosys", "Byju’s", "ICICI Bank"]
+    },
+    "alumni": ["Young entrepreneurs, educators"],
+    "scholarships": ["Merit & Sports Scholarships", "State Schemes"],
+    "student_facilities": ["Wi-Fi", "Innovation Cell", "Medical Center"],
+    "accreditation": ["NAAC B+", "UGC Recognized"]
+  },
+  {
+    "rank": 49,
+    "name": "St. Teresa's College",
+    "location": "Ernakulam, Kerala",
+    "affiliation": "Mahatma Gandhi University",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com (Self-Financed)", "B.Com (Corporate Secretaryship)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹40,000 per year",
+      "M.Com": "₹45,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital & heritage library, N-List access",
+      "hostel": "Well-maintained girls hostel",
+      "labs": ["Commerce Lab", "Language Lab"],
+      "auditorium": "Air-conditioned auditorium with modern AV setup"
+    },
+    "placements": {
+      "highest_package": "₹5.2 LPA",
+      "average_package": "₹3.3 LPA",
+      "top_recruiters": ["Infosys", "KPMG", "Federal Bank"]
+    },
+    "alumni": ["Annie Mathew", "Maria Goretti"],
+    "scholarships": ["Kerala Govt Scholarships", "Catholic Diocese Aids"],
+    "student_facilities": ["Wi-Fi", "Eco Clubs", "NSS", "Health Center"],
+    "accreditation": ["NAAC A++", "Autonomous College"]
+  },
+  {
+    "rank": 50,
+    "name": "Delhi College of Arts and Commerce",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA (Hons) Economics", "B.Com (Program)"],
+      "postgraduate": []
+    },
+    "fees": {
+      "B.Com (Hons)": "₹24,000 per year",
+      "B.Com": "₹22,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitally managed, DU centralized access",
+      "hostel": "No hostel; PG options around college",
+      "labs": ["IT Lab", "Finance Lab"],
+      "auditorium": "Fully equipped for large-scale events"
+    },
+    "placements": {
+      "highest_package": "₹8 LPA",
+      "average_package": "₹4.9 LPA",
+      "top_recruiters": ["Deloitte", "KPMG", "EY", "Zomato"]
+    },
+    "alumni": ["Meenakshi Lekhi", "Gaurav Kapur"],
+    "scholarships": ["DU Fee Concessions", "Govt & Alumni Aids"],
+    "student_facilities": ["Wi-Fi", "Student Council", "Cafeteria", "Event Cells"],
+    "accreditation": ["NAAC B+", "DU Affiliation"]
+  },
+  {
+    "rank": 51,
+    "name": "Pillai College of Arts, Commerce and Science",
+    "location": "Panvel, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Banking & Insurance)", "BMS"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹30,000 per year",
+      "M.Com": "₹32,000 per year"
+    },
+    "infrastructure": {
+      "library": "Integrated library system with digital access",
+      "hostel": "Separate boys and girls hostels on campus",
+      "labs": ["Finance Lab", "Computer Lab"],
+      "auditorium": "Modern seminar halls and amphitheater"
+    },
+    "placements": {
+      "highest_package": "₹6.3 LPA",
+      "average_package": "₹3.9 LPA",
+      "top_recruiters": ["Infosys", "HDFC", "Capgemini"]
+    },
+    "alumni": ["Local business professionals"],
+    "scholarships": ["Merit-based Aid", "Govt Minority Schemes"],
+    "student_facilities": ["Wi-Fi", "Startup Cell", "Counseling Centre"],
+    "accreditation": ["NAAC A", "Mumbai University Affiliation"]
+  },
+  {
+    "rank": 52,
+    "name": "Mount Carmel College",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Autonomous under Bengaluru City University",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com (Regular)", "B.Com (International Accounting)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹65,000 per year",
+      "M.Com": "₹70,000 per year"
+    },
+    "infrastructure": {
+      "library": "E-journals, institutional repository, access to databases",
+      "hostel": "Girls hostel with 24/7 security",
+      "labs": ["Business Analytics Lab", "Computer Lab"],
+      "auditorium": "Large capacity with LED wall and surround sound"
+    },
+    "placements": {
+      "highest_package": "₹8.2 LPA",
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["EY", "Wipro", "Goldman Sachs", "HSBC"]
+    },
+    "alumni": ["Deepika Padukone", "Anushka Sharma (attended short course)"],
+    "scholarships": ["Catholic Trust Funds", "Academic Scholarships", "Govt Grants"],
+    "student_facilities": ["Wi-Fi", "Innovation Labs", "NSS/NCC", "Cafeteria"],
+    "accreditation": ["NAAC A+", "Autonomous Status"]
+  },
+  {
+    "rank": 53,
+    "name": "Indraprastha College for Women",
+    "location": "New Delhi",
+    "affiliation": "University of Delhi",
+    "type": "Public (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA Economics", "B.Com (Program)"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹24,000 per year",
+      "M.Com": "₹26,000 per year"
+    },
+    "infrastructure": {
+      "library": "Extensive print and e-library with access to DU e-resources",
+      "hostel": "Girls’ hostel with mess, reading room, common hall",
+      "labs": ["Commerce Lab", "Economics Research Unit"],
+      "auditorium": "Heritage-style AV-enabled event auditorium"
+    },
+    "placements": {
+      "highest_package": "₹6.5 LPA",
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["EY", "KPMG", "Deloitte", "Zomato"]
+    },
+    "alumni": ["Meira Kumar", "Anuradha Ghandy"],
+    "scholarships": ["DU Financial Aid", "Govt Welfare Schemes", "Merit-based Scholarships"],
+    "student_facilities": ["Wi-Fi", "Gymnasium", "Cafeteria", "Debate & Cultural Societies"],
+    "accreditation": ["NAAC A", "DU Constituent College"]
+  },
+  {
+    "rank": 54,
+    "name": "Guru Nanak College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Minority Aided)",
+    "courses": {
+      "undergraduate": ["B.Com (General)", "B.Com (Corporate Secretaryship)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹20,000 per year",
+      "M.Com": "₹25,000 per year"
+    },
+    "infrastructure": {
+      "library": "KOHA-enabled smart library with 40,000+ books",
+      "hostel": "Separate hostels for boys and girls",
+      "labs": ["IT Lab", "Commerce & Finance Lab"],
+      "auditorium": "Multipurpose seminar and cultural hall"
+    },
+    "placements": {
+      "highest_package": "₹4.8 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Wipro", "Infosys", "TCS", "Sundaram Finance"]
+    },
+    "alumni": ["Chartered Accountants, Civil Services Officers"],
+    "scholarships": ["Minority Scholarships", "First-Generation Learners Aid", "Merit-based Concessions"],
+    "student_facilities": ["Wi-Fi", "Canteen", "NCC/NSS", "Yoga Centre"],
+    "accreditation": ["NAAC A+", "Autonomous Status"]
+  },
+  {
+    "rank": 55,
+    "name": "Sri Krishna Arts and Science College",
+    "location": "Coimbatore, Tamil Nadu",
+    "affiliation": "Bharathiar University",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (CA)", "B.Com (PA)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹55,000 per year",
+      "M.Com": "₹60,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitized, barcoded library with 60,000+ books",
+      "hostel": "Modern hostels with AC/non-AC options, mess, gym",
+      "labs": ["Computer Lab", "Tally & Finance Lab"],
+      "auditorium": "3000+ seater AC auditorium with LED wall"
+    },
+    "placements": {
+      "highest_package": "₹7 LPA",
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["HCL", "Capgemini", "Axis Bank", "TCS"]
+    },
+    "alumni": ["Business professionals, designers"],
+    "scholarships": ["First-Generation Support", "Academic Scholarships", "Sports Concessions"],
+    "student_facilities": ["Wi-Fi", "Incubation Center", "Transport", "Cafeteria"],
+    "accreditation": ["NAAC A", "Autonomous under Bharathiar University"]
+  },
+  {
+    "rank": 56,
+    "name": "J D Birla Institute",
+    "location": "Kolkata, West Bengal",
+    "affiliation": "Jadavpur University",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BBA", "B.Com (Marketing)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹90,000 per year",
+      "M.Com": "₹95,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitalized with OPAC and NLIST access",
+      "hostel": "Girls hostel with dining and reading lounge",
+      "labs": ["Commerce Lab", "Communication Lab"],
+      "auditorium": "Multipurpose AC auditorium"
+    },
+    "placements": {
+      "highest_package": "₹6 LPA",
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["PWC", "Amazon", "Deloitte"]
+    },
+    "alumni": ["Entrepreneurs, Social Influencers"],
+    "scholarships": ["Need-based Fee Waiver", "Merit Aid"],
+    "student_facilities": ["Wi-Fi", "Fitness Studio", "Clubs", "Industry Cells"],
+    "accreditation": ["NAAC B++", "JU Affiliated"]
+  },
+  {
+    "rank": 57,
+    "name": "The Bhopal School of Social Sciences (BSSS)",
+    "location": "Bhopal, Madhya Pradesh",
+    "affiliation": "Barkatullah University",
+    "type": "Private (Christian Minority)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Applied Economics)", "BBA"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹40,000 per year",
+      "M.Com": "₹50,000 per year"
+    },
+    "infrastructure": {
+      "library": "Barcoded library with e-resources & language lab",
+      "hostel": "Well-equipped girls hostel on campus",
+      "labs": ["Commerce Lab", "Digital Lab"],
+      "auditorium": "Air-conditioned with sound & lighting systems"
+    },
+    "placements": {
+      "highest_package": "₹5.8 LPA",
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["HDFC", "Amazon", "Cognizant"]
+    },
+    "alumni": ["Government officers, educators"],
+    "scholarships": ["Catholic Diocese Scholarships", "Govt Scholarships"],
+    "student_facilities": ["Wi-Fi", "NCC", "Language Training", "Sports Complex"],
+    "accreditation": ["NAAC A", "Barkatullah University Affiliation"]
+  },
+  {
+    "rank": 58,
+    "name": "Annasaheb Vartak College of Arts, Commerce & Science",
+    "location": "Vasai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Public Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Banking & Insurance)", "B.Com (Financial Markets)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹20,000 per year",
+      "M.Com": "₹22,000 per year"
+    },
+    "infrastructure": {
+      "library": "Well-stocked digital library",
+      "hostel": "No hostel; PG options nearby",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Multipurpose cultural hall"
+    },
+    "placements": {
+      "highest_package": "₹4.5 LPA",
+      "average_package": "₹3 LPA",
+      "top_recruiters": ["TCS", "WNS", "ICICI"]
+    },
+    "alumni": ["Local government officials, tax consultants"],
+    "scholarships": ["Govt Scholarships", "EBC/SC/ST schemes"],
+    "student_facilities": ["Wi-Fi", "Cafeteria", "Student Council"],
+    "accreditation": ["NAAC B++", "Mumbai University Affiliated"]
+  },
+  {
+    "rank": 59,
+    "name": "HKBK Degree College",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Bengaluru North University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (CA)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹60,000 per year",
+      "M.Com": "₹70,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitally enabled smart library",
+      "hostel": "On-campus AC hostels with gym & mess",
+      "labs": ["Finance & IT Labs"],
+      "auditorium": "Hi-tech seminar and event halls"
+    },
+    "placements": {
+      "highest_package": "₹5.6 LPA",
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["Wipro", "Infosys", "HCL"]
+    },
+    "alumni": ["Corporate associates, bankers"],
+    "scholarships": ["Merit Scholarships", "Minority Aid", "Private Concessions"],
+    "student_facilities": ["Wi-Fi", "Career Cell", "Language Lab"],
+    "accreditation": ["NAAC B+", "BU Affiliation"]
+  },
+  {
+    "rank": 60,
+    "name": "Acharya Institute of Graduate Studies",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Bengaluru City University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.Com (Corporate Accounting)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹50,000 per year",
+      "M.Com": "₹60,000 per year"
+    },
+    "infrastructure": {
+      "library": "E-library, access to DELNET, NDLI",
+      "hostel": "Hostels for boys and girls with laundry, Wi-Fi",
+      "labs": ["Digital Business Lab", "Accounting Simulation Lab"],
+      "auditorium": "800-seater air-conditioned hall"
+    },
+    "placements": {
+      "highest_package": "₹6.2 LPA",
+      "average_package": "₹4.1 LPA",
+      "top_recruiters": ["Infosys", "ICICI", "Byju’s", "Wipro"]
+    },
+    "alumni": ["Tech consultants, auditors"],
+    "scholarships": ["Merit-based Aid", "Private Trust Support", "Govt Schemes"],
+    "student_facilities": ["Wi-Fi", "Sports Complex", "Innovation Club"],
+    "accreditation": ["NAAC A", "Affiliated to BCU"]
+  },
+  {
+    "rank": 61,
+    "name": "Ramakrishna Mission Vivekananda College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Public (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com (General)", "B.Com (Corporate Secretaryship)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹6,000 per year",
+      "M.Com": "₹8,000 per year"
+    },
+    "infrastructure": {
+      "library": "Heritage library with 60,000+ titles and digitized resources",
+      "hostel": "Hostel for boys with study rooms, mess",
+      "labs": ["Commerce Lab", "Digital Literacy Lab"],
+      "auditorium": "Traditional seminar hall for events and lectures"
+    },
+    "placements": {
+      "highest_package": "₹5.4 LPA",
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["TCS", "ICICI Bank", "Cognizant"]
+    },
+    "alumni": ["Chartered Accountants, Professors, IAS officers"],
+    "scholarships": ["College Scholarships", "SC/ST Welfare", "State Schemes"],
+    "student_facilities": ["Wi-Fi", "Cafeteria", "Meditation Hall", "NSS/NCC"],
+    "accreditation": ["NAAC A", "Autonomous under University of Madras"]
+  },
+  {
+    "rank": 62,
+    "name": "DAV College",
+    "location": "Jalandhar, Punjab",
+    "affiliation": "Guru Nanak Dev University",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Hons)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹18,000 per year",
+      "M.Com": "₹22,000 per year"
+    },
+    "infrastructure": {
+      "library": "Fully digital library with remote access tools",
+      "hostel": "Separate boys and girls hostels with security",
+      "labs": ["IT Lab", "Business Lab"],
+      "auditorium": "Air-conditioned auditorium for seminars"
+    },
+    "placements": {
+      "highest_package": "₹5.2 LPA",
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Amazon", "Infosys", "Axis Bank"]
+    },
+    "alumni": ["Bureaucrats, Entrepreneurs, Academicians"],
+    "scholarships": ["Punjab Govt Schemes", "DAV Trust Merit Scholarships"],
+    "student_facilities": ["Wi-Fi", "Gymnasium", "Clubs & Cultural Societies"],
+    "accreditation": ["NAAC A", "GNDU Affiliation"]
+  },
+  {
+    "rank": 63,
+    "name": "Ismail Yusuf College",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Public (Government College)",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹5,000 per year",
+      "M.Com": "₹6,000 per year"
+    },
+    "infrastructure": {
+      "library": "Government-funded library with reference section",
+      "hostel": "Limited hostel for boys only",
+      "labs": ["Economics Lab", "Computer Lab"],
+      "auditorium": "Basic seminar room used for lectures and functions"
+    },
+    "placements": {
+      "highest_package": "₹4.2 LPA",
+      "average_package": "₹2.9 LPA",
+      "top_recruiters": ["State Bank of India", "Local SMEs"]
+    },
+    "alumni": ["Senior Civil Servants, Local Businessmen"],
+    "scholarships": ["SC/ST/OBC Govt Schemes", "EBC Concessions"],
+    "student_facilities": ["Wi-Fi", "Sports Ground", "Library Access", "Reading Room"],
+    "accreditation": ["NAAC B+", "Mumbai University Affiliated"]
+  },
+  {
+    "rank": 64,
+    "name": "St. Mira's College for Girls",
+    "location": "Pune, Maharashtra",
+    "affiliation": "Savitribai Phule Pune University",
+    "type": "Private (Women's College)",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.Com (E-Commerce)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹30,000 per year",
+      "M.Com": "₹35,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital OPAC system with e-resources and journals",
+      "hostel": "Well-maintained girls hostel with Wi-Fi and mess",
+      "labs": ["Commerce & Tally Lab", "Entrepreneurship Lab"],
+      "auditorium": "Spacious and AV-equipped seminar hall"
+    },
+    "placements": {
+      "highest_package": "₹5.8 LPA",
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Infosys", "Capgemini", "EY", "HDFC Bank"]
+    },
+    "alumni": ["Corporate professionals, educators"],
+    "scholarships": ["Minority Scholarships", "UGC Schemes", "Private Trust Aid"],
+    "student_facilities": ["Wi-Fi", "Language Labs", "Canteen", "Cultural Cells"],
+    "accreditation": ["NAAC A", "Autonomous Status"]
+  },
+  {
+    "rank": 65,
+    "name": "JSS College of Arts, Commerce and Science",
+    "location": "Mysuru, Karnataka",
+    "affiliation": "University of Mysore",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (CA)", "BBA"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹28,000 per year",
+      "M.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitalized with journal access and NDL links",
+      "hostel": "In-campus hostels for boys and girls",
+      "labs": ["Tally Lab", "Finance Lab"],
+      "auditorium": "Modern auditorium with projector systems"
+    },
+    "placements": {
+      "highest_package": "₹6.2 LPA",
+      "average_package": "₹3.9 LPA",
+      "top_recruiters": ["TCS", "Wipro", "ICICI Prudential"]
+    },
+    "alumni": ["Chartered Accountants, Entrepreneurs"],
+    "scholarships": ["Merit-cum-Means", "Govt Schemes", "Private Trust Funds"],
+    "student_facilities": ["Wi-Fi", "Mentorship Cells", "Canteen", "NCC"],
+    "accreditation": ["NAAC A", "Autonomous under University of Mysore"]
+  },
+  {
+    "rank": 66,
+    "name": "Pioneer Kumaraswamy College",
+    "location": "Nagercoil, Tamil Nadu",
+    "affiliation": "Manonmaniam Sundaranar University",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.Com (Corporate Secretaryship)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹18,000 per year",
+      "M.Com": "₹20,000 per year"
+    },
+    "infrastructure": {
+      "library": "Regional library with digital content",
+      "hostel": "Separate hostels with mess and study rooms",
+      "labs": ["Commerce Lab", "Language Lab"],
+      "auditorium": "Indoor seminar space for events"
+    },
+    "placements": {
+      "highest_package": "₹4.6 LPA",
+      "average_package": "₹3 LPA",
+      "top_recruiters": ["Local Banks", "Infosys", "BPO Firms"]
+    },
+    "alumni": ["Local entrepreneurs, bankers"],
+    "scholarships": ["Govt Backward Class Aid", "Minority Scholarships"],
+    "student_facilities": ["Wi-Fi", "NSS", "Sports Zone", "Cafeteria"],
+    "accreditation": ["NAAC B++", "Autonomous"]
+  },
+  {
+    "rank": 67,
+    "name": "Navarasam Arts and Science College for Women",
+    "location": "Arachalur, Tamil Nadu",
+    "affiliation": "Bharathiar University",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Computer Applications)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹16,000 per year",
+      "M.Com": "₹20,000 per year"
+    },
+    "infrastructure": {
+      "library": "Compact library with 10,000+ titles",
+      "hostel": "Girls hostel with indoor recreation and safety measures",
+      "labs": ["Computer Lab", "Commerce Lab"],
+      "auditorium": "Medium capacity hall for guest lectures"
+    },
+    "placements": {
+      "highest_package": "₹3.5 LPA",
+      "average_package": "₹2.5 LPA",
+      "top_recruiters": ["TCS", "BPOs", "Retail Chains"]
+    },
+    "alumni": ["Local schoolteachers, accountants"],
+    "scholarships": ["State Aid", "Rural Women Schemes"],
+    "student_facilities": ["Wi-Fi", "Language Clubs", "Career Cell"],
+    "accreditation": ["NAAC B+", "Bharathiar University Affiliated"]
+  },
+  {
+    "rank": 68,
+    "name": "Sadakathullah Appa College",
+    "location": "Tirunelveli, Tamil Nadu",
+    "affiliation": "Manonmaniam Sundaranar University",
+    "type": "Private Minority",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (CA)", "BBA"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹15,000 per year",
+      "M.Com": "₹18,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital and print journal access with UGC links",
+      "hostel": "Separate hostels for boys and girls with mess",
+      "labs": ["IT Lab", "Commerce Software Lab"],
+      "auditorium": "Seminar hall with AV support"
+    },
+    "placements": {
+      "highest_package": "₹3.8 LPA",
+      "average_package": "₹2.7 LPA",
+      "top_recruiters": ["Infosys", "Axis Bank", "Retail Startups"]
+    },
+    "alumni": ["NGO leaders, teachers"],
+    "scholarships": ["Minority Scholarships", "State Backward Class Schemes"],
+    "student_facilities": ["Wi-Fi", "Cultural Forums", "Sports"],
+    "accreditation": ["NAAC A", "Autonomous Status"]
+  },
+  {
+    "rank": 69,
+    "name": "The New College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private (Minority Aided)",
+    "courses": {
+      "undergraduate": ["B.Com (General)", "B.Com (Corporate Secretaryship)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹19,000 per year",
+      "M.Com": "₹22,000 per year"
+    },
+    "infrastructure": {
+      "library": "Well-equipped library with over 60,000 books",
+      "hostel": "Muslim minority boys hostel with food & prayer hall",
+      "labs": ["Commerce Lab", "Language Lab"],
+      "auditorium": "Spacious hall used for events and talks"
+    },
+    "placements": {
+      "highest_package": "₹5.3 LPA",
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["HCL", "Sundaram Finance", "Infosys"]
+    },
+    "alumni": ["Mohammad Salim", "Corporate Professionals"],
+    "scholarships": ["Govt Scholarships", "Zakat Foundation Aids"],
+    "student_facilities": ["Wi-Fi", "Islamic Centre", "Student Council"],
+    "accreditation": ["NAAC A", "Autonomous under UoM"]
+  },
+  {
+    "rank": 70,
+    "name": "Presidency College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Government",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹1,000 per year",
+      "M.Com": "₹1,500 per year"
+    },
+    "infrastructure": {
+      "library": "Colonial-era library with rare collections",
+      "hostel": "Govt hostels for boys and girls",
+      "labs": ["Commerce Lab", "Statistics Lab"],
+      "auditorium": "Main heritage auditorium and modern seminar rooms"
+    },
+    "placements": {
+      "highest_package": "₹4.8 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Indian Bank", "LIC", "Infosys"]
+    },
+    "alumni": ["C. Rajagopalachari", "Sir C. V. Raman"],
+    "scholarships": ["State Scholarships", "SC/ST Welfare Funds"],
+    "student_facilities": ["Wi-Fi", "Research Cells", "Cultural Halls"],
+    "accreditation": ["NAAC A", "Government College"]
+  },
+  {
+    "rank": 71,
+    "name": "SIES College of Arts, Science and Commerce",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Accounting & Finance)", "B.Com (Banking & Insurance)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹24,000 per year",
+      "M.Com": "₹28,000 per year"
+    },
+    "infrastructure": {
+      "library": "Extensive digital & print resources with OPAC access",
+      "hostel": "Limited hostel facility for girls; boys’ PGs available nearby",
+      "labs": ["Finance Lab", "Computer Lab", "Language Lab"],
+      "auditorium": "Multipurpose AC auditorium with stage and AV system"
+    },
+    "placements": {
+      "highest_package": "₹6.8 LPA",
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Deloitte", "PWC", "Capgemini", "ICICI Prudential"]
+    },
+    "alumni": ["Bankers, Chartered Accountants, Actuaries"],
+    "scholarships": ["Merit Scholarships", "Government Aid", "EBC Concessions"],
+    "student_facilities": ["Wi-Fi", "Cultural & Management Cells", "Gym", "Counseling Centre"],
+    "accreditation": ["NAAC A", "Mumbai University Affiliated"]
+  },
+  {
+    "rank": 72,
+    "name": "Scottish Church College",
+    "location": "Kolkata, West Bengal",
+    "affiliation": "University of Calcutta",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA Economics", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹18,000 per year",
+      "M.Com": "₹20,000 per year"
+    },
+    "infrastructure": {
+      "library": "Heritage library with digital catalog access",
+      "hostel": "Limited capacity; separate for boys and girls",
+      "labs": ["Commerce Lab", "Language & Computer Labs"],
+      "auditorium": "Colonial-style hall for lectures and cultural events"
+    },
+    "placements": {
+      "highest_package": "₹5.2 LPA",
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["Deloitte", "Infosys", "Genpact"]
+    },
+    "alumni": ["Swami Vivekananda", "Dr. Bidhan Chandra Roy"],
+    "scholarships": ["Church Trust Aid", "State Scholarships", "Merit Awards"],
+    "student_facilities": ["Wi-Fi", "Drama & Debate Societies", "NSS", "Eco Club"],
+    "accreditation": ["NAAC A", "University of Calcutta Affiliated"]
+  },
+  {
+    "rank": 73,
+    "name": "SNDT Women's University - Churchgate Campus",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "SNDT Women's University",
+    "type": "Public (Women's University)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Accounting & Finance)", "BBA"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹20,000 per year",
+      "M.Com": "₹24,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitally enabled library with women-focused collections",
+      "hostel": "Girls hostel with safety features and health services",
+      "labs": ["Commerce Software Lab", "Media Lab"],
+      "auditorium": "Cultural & academic hall with advanced AV setup"
+    },
+    "placements": {
+      "highest_package": "₹5.6 LPA",
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["IBM", "Infosys", "Godrej", "Axis Bank"]
+    },
+    "alumni": ["Women Entrepreneurs, Social Reformers"],
+    "scholarships": ["Women Empowerment Grants", "State Government Schemes"],
+    "student_facilities": ["Wi-Fi", "Legal Aid Clinic", "Health Centre", "Cultural Forum"],
+    "accreditation": ["NAAC A", "Autonomous Women’s University"]
+  },
+  {
+    "rank": 74,
+    "name": "Dwaraka Doss Goverdhan Doss Vaishnav College",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (CS)", "B.Com (Banking & Insurance)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹20,000 per year",
+      "M.Com": "₹23,000 per year"
+    },
+    "infrastructure": {
+      "library": "Automated library with OPAC, N-List, and INFLIBNET access",
+      "hostel": "Boys and girls hostels with gym and mess",
+      "labs": ["Tally Lab", "Computer Lab"],
+      "auditorium": "Multi-purpose air-conditioned conference hall"
+    },
+    "placements": {
+      "highest_package": "₹5.9 LPA",
+      "average_package": "₹3.9 LPA",
+      "top_recruiters": ["TCS", "EY", "Zoho", "Infosys"]
+    },
+    "alumni": ["Auditors, Professors, NGO Founders"],
+    "scholarships": ["Community Scholarships", "Central Govt Aids", "College Merit Aid"],
+    "student_facilities": ["Wi-Fi", "Entrepreneurship Cell", "Clubs & NSS"],
+    "accreditation": ["NAAC A", "Autonomous College"]
+  },
+  {
+    "rank": 75,
+    "name": "Govt. College for Women, Thiruvananthapuram",
+    "location": "Thiruvananthapuram, Kerala",
+    "affiliation": "University of Kerala",
+    "type": "Public (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹2,500 per year",
+      "M.Com": "₹4,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitized and centrally catalogued library",
+      "hostel": "Government hostel for girls within campus",
+      "labs": ["Economics & Commerce Labs", "ICT Enabled Lab"],
+      "auditorium": "Historic main hall and seminar room"
+    },
+    "placements": {
+      "highest_package": "₹4.5 LPA",
+      "average_package": "₹3.1 LPA",
+      "top_recruiters": ["Federal Bank", "Infosys", "Wipro"]
+    },
+    "alumni": ["Teachers, Economists, Bureaucrats"],
+    "scholarships": ["Post-Matric Scholarships", "Kerala Govt Aid", "Minority Scholarships"],
+    "student_facilities": ["Wi-Fi", "Research Cells", "Women Development Cell", "Gym"],
+    "accreditation": ["NAAC A++", "Autonomous Government Institution"]
+  },
+  {
+    "rank": 76,
+    "name": "Yashwantrao Mohite College of Arts, Science and Commerce",
+    "location": "Pune, Maharashtra",
+    "affiliation": "Bharati Vidyapeeth University",
+    "type": "Private (Deemed)",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.Com (E-Commerce)"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹30,000 per year",
+      "M.Com": "₹35,000 per year"
+    },
+    "infrastructure": {
+      "library": "Fully digital library with OPAC and DELNET access",
+      "hostel": "Separate boys and girls hostels with mess and security",
+      "labs": ["Commerce Lab", "Computer Lab", "Language Lab"],
+      "auditorium": "AC seminar hall with LED displays"
+    },
+    "placements": {
+      "highest_package": "₹5.6 LPA",
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Infosys", "Amazon", "ICICI Bank"]
+    },
+    "alumni": ["Corporate executives", "Start-up founders"],
+    "scholarships": ["University merit scholarships", "Govt schemes"],
+    "student_facilities": ["Wi-Fi", "Sports Ground", "Canteen", "Career Guidance Cell"],
+    "accreditation": ["NAAC A", "UGC Approved Deemed University"]
+  },
+  {
+    "rank": 77,
+    "name": "St. Francis College for Women",
+    "location": "Hyderabad, Telangana",
+    "affiliation": "Osmania University",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "B.Com (General)", "B.Com (Computer Applications)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹38,000 per year",
+      "M.Com": "₹42,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital library with N-List access and e-journals",
+      "hostel": "Girls hostel with biometric access and study lounges",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Large AC auditorium for seminars & fests"
+    },
+    "placements": {
+      "highest_package": "₹6.5 LPA",
+      "average_package": "₹4.1 LPA",
+      "top_recruiters": ["KPMG", "EY", "Tech Mahindra"]
+    },
+    "alumni": ["IAS officers", "Academicians", "Entrepreneurs"],
+    "scholarships": ["Minority Scholarships", "Merit-based Aid", "Central Govt Schemes"],
+    "student_facilities": ["Wi-Fi", "Clubs", "Counseling Cell", "Gym"],
+    "accreditation": ["NAAC A+", "Autonomous under Osmania University"]
+  },
+  {
+    "rank": 78,
+    "name": "Amity College of Commerce and Finance",
+    "location": "Noida, Uttar Pradesh",
+    "affiliation": "Amity University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "B.Com (International Business)", "BBA"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹1,40,000 per year",
+      "M.Com": "₹1,50,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital knowledge hub with online databases",
+      "hostel": "AC hostels with laundry, cafeteria, and gym",
+      "labs": ["Bloomberg Lab", "Finance & Analytics Labs"],
+      "auditorium": "Hi-tech 600-seater auditorium"
+    },
+    "placements": {
+      "highest_package": "₹12 LPA",
+      "average_package": "₹5.8 LPA",
+      "top_recruiters": ["Deloitte", "CitiBank", "Cognizant"]
+    },
+    "alumni": ["Business analysts", "Corporate consultants"],
+    "scholarships": ["On-Admission Scholarships", "Sports and Merit Scholarships"],
+    "student_facilities": ["Wi-Fi", "Incubation Centre", "Cafes", "International Exchange"],
+    "accreditation": ["NAAC A+", "UGC Approved Private University"]
+  },
+  {
+    "rank": 79,
+    "name": "Loyola College, Vijayawada",
+    "location": "Vijayawada, Andhra Pradesh",
+    "affiliation": "Krishna University",
+    "type": "Private Aided (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Computer Applications)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹18,000 per year",
+      "M.Com": "₹20,000 per year"
+    },
+    "infrastructure": {
+      "library": "Automated library with online access tools",
+      "hostel": "Separate hostel for boys and girls",
+      "labs": ["Commerce & Business Lab", "Computer Lab"],
+      "auditorium": "Multipurpose seminar hall"
+    },
+    "placements": {
+      "highest_package": "₹5.1 LPA",
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["ICICI Bank", "Infosys", "Capgemini"]
+    },
+    "alumni": ["NGO founders", "Startup CEOs"],
+    "scholarships": ["Jesuit Minority Aid", "Merit-based Fee Waivers"],
+    "student_facilities": ["Wi-Fi", "NSS/NCC", "Social Outreach Units"],
+    "accreditation": ["NAAC A", "Autonomous under Krishna University"]
+  },
+  {
+    "rank": 80,
+    "name": "Mar Ivanios College",
+    "location": "Thiruvananthapuram, Kerala",
+    "affiliation": "University of Kerala",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Travel and Tourism)", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹18,000 per year",
+      "M.Com": "₹20,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitized library with Wi-Fi and reading zones",
+      "hostel": "On-campus hostels with mess and chapel",
+      "labs": ["Business Lab", "Economics Research Lab"],
+      "auditorium": "Central auditorium for academic and cultural events"
+    },
+    "placements": {
+      "highest_package": "₹5.4 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Federal Bank", "EY", "TCS"]
+    },
+    "alumni": ["MLAs", "Bureaucrats", "Media Professionals"],
+    "scholarships": ["Catholic Trust Aid", "State Schemes", "UGC Fellowships"],
+    "student_facilities": ["Wi-Fi", "Student Counselling", "Cultural Clubs", "Eco Society"],
+    "accreditation": ["NAAC A++", "Autonomous under University of Kerala"]
+  },
+  {
+    "rank": 81,
+    "name": "A.V. College of Arts, Science & Commerce",
+    "location": "Hyderabad, Telangana",
+    "affiliation": "Osmania University",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (CA)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹22,000 per year",
+      "M.Com": "₹26,000 per year"
+    },
+    "infrastructure": {
+      "library": "Online and offline access with over 40,000 books",
+      "hostel": "No hostel (PG options nearby)",
+      "labs": ["Tally Lab", "IT Lab"],
+      "auditorium": "AC-enabled auditorium for academic events"
+    },
+    "placements": {
+      "highest_package": "₹4.8 LPA",
+      "average_package": "₹3 LPA",
+      "top_recruiters": ["Wipro", "Tech Mahindra", "Karvy"]
+    },
+    "alumni": ["Journalists", "Politicians"],
+    "scholarships": ["Govt Scholarships", "Merit & Minority Aid"],
+    "student_facilities": ["Wi-Fi", "Sports Complex", "Cultural Wings"],
+    "accreditation": ["NAAC A", "Autonomous under Osmania University"]
+  },
+  {
+    "rank": 82,
+    "name": "Jain College",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Jain University",
+    "type": "Private (Deemed)",
+    "courses": {
+      "undergraduate": ["B.Com (Professional)", "B.Com (International Finance)", "BBA"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹1,10,000 per year",
+      "M.Com": "₹1,30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital research-oriented library with open access journals",
+      "hostel": "AC/Non-AC hostels with food and transport facilities",
+      "labs": ["SAP Lab", "Finance Lab"],
+      "auditorium": "Smart digital auditorium"
+    },
+    "placements": {
+      "highest_package": "₹9 LPA",
+      "average_package": "₹4.7 LPA",
+      "top_recruiters": ["Cognizant", "Dell", "Flipkart", "Deloitte"]
+    },
+    "alumni": ["Professional Cricketers", "Startup CEOs"],
+    "scholarships": ["JGI Merit Scholarship", "Sports & Arts Aid"],
+    "student_facilities": ["Wi-Fi", "Incubation Hub", "Language Training", "Student Clubs"],
+    "accreditation": ["NAAC A", "UGC Deemed University"]
+  },
+  {
+    "rank": 83,
+    "name": "Prajyoti Niketan College",
+    "location": "Thrissur, Kerala",
+    "affiliation": "University of Calicut",
+    "type": "Private (Catholic Minority)",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹10,000 per year",
+      "M.Com": "₹12,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital catalog system with access to journals",
+      "hostel": "Girls hostel with food and fitness facilities",
+      "labs": ["Economics Lab", "Computer Lab"],
+      "auditorium": "Multipurpose indoor auditorium"
+    },
+    "placements": {
+      "highest_package": "₹4.2 LPA",
+      "average_package": "₹3 LPA",
+      "top_recruiters": ["Infosys", "TCS", "Local Banks"]
+    },
+    "alumni": ["NGO Volunteers", "Social Workers"],
+    "scholarships": ["State and Central Minority Aid", "Church Trusts"],
+    "student_facilities": ["Wi-Fi", "Cultural Forum", "Yoga and Counselling"],
+    "accreditation": ["NAAC B++", "University of Calicut Affiliated"]
+  },
+  {
+    "rank": 84,
+    "name": "Savitri Girls’ College",
+    "location": "Kolkata, West Bengal",
+    "affiliation": "University of Calcutta",
+    "type": "Private (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com (Hons)", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹14,000 per year",
+      "M.Com": "₹18,000 per year"
+    },
+    "infrastructure": {
+      "library": "Integrated library system with OPAC access",
+      "hostel": "No hostel (supportive PG tie-ups)",
+      "labs": ["Commerce Lab"],
+      "auditorium": "Mini hall used for student forums and guest talks"
+    },
+    "placements": {
+      "highest_package": "₹3.8 LPA",
+      "average_package": "₹2.6 LPA",
+      "top_recruiters": ["Genpact", "Tata Capital", "Wipro"]
+    },
+    "alumni": ["Teachers, Bankers"],
+    "scholarships": ["Kanyashree", "Govt Merit Aid"],
+    "student_facilities": ["Wi-Fi", "Student Council", "Seminar Series"],
+    "accreditation": ["NAAC B+", "University of Calcutta Affiliated"]
+  },
+  {
+    "rank": 85,
+    "name": "Patkar-Varde College",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Accounting & Finance)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹22,000 per year",
+      "M.Com": "₹26,000 per year"
+    },
+    "infrastructure": {
+      "library": "Smart library with internet-connected systems",
+      "hostel": "PG options nearby; no on-campus hostel",
+      "labs": ["Finance Lab", "Computer Lab"],
+      "auditorium": "Medium-sized event hall"
+    },
+    "placements": {
+      "highest_package": "₹5.2 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Infosys", "Reliance", "Capgemini"]
+    },
+    "alumni": ["Finance consultants", "Marketing executives"],
+    "scholarships": ["Govt Concessions", "In-house Performance Scholarships"],
+    "student_facilities": ["Wi-Fi", "Canteen", "Language Clubs", "Cultural Society"],
+    "accreditation": ["NAAC A", "Mumbai University Affiliated"]
+  },
+  {
+    "rank": 86,
+    "name": "Jai Hind College",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private (Aided)",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.Com (Accounting & Finance)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹24,000 per year",
+      "M.Com": "₹28,000 per year"
+    },
+    "infrastructure": {
+      "library": "Well-equipped with 50,000+ books and digital access",
+      "hostel": "No hostel (PG accommodations nearby)",
+      "labs": ["Commerce Lab", "Finance Lab", "Computer Centre"],
+      "auditorium": "Large AV-enabled hall for events"
+    },
+    "placements": {
+      "highest_package": "₹6.0 LPA",
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["EY", "Capgemini", "ICICI Bank"]
+    },
+    "alumni": ["Bankers, Entrepreneurs, Performers"],
+    "scholarships": ["Govt and Merit Scholarships"],
+    "student_facilities": ["Wi-Fi", "Cultural Clubs", "Counseling Centre"],
+    "accreditation": ["NAAC A", "Mumbai University Affiliated"]
+  },
+  {
+    "rank": 87,
+    "name": "Hansraj Morarji Public School & Junior College",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "Mumbai University",
+    "type": "Private (Public Trust)",
+    "courses": {
+      "undergraduate": ["Intermediate Commerce (11th–12th)", "B.Com", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹26,000 per year",
+      "M.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Modern library with digital resources and journals",
+      "hostel": "Day-school model; no hostel",
+      "labs": ["Commerce Lab", "IT Lab", "Language Lab"],
+      "auditorium": "Seminar halls with AV systems"
+    },
+    "placements": {
+      "highest_package": "₹5.8 LPA",
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["TCS", "Infosys", "Axis Bank"]
+    },
+    "alumni": ["Corporate Professionals"],
+    "scholarships": ["Merit Scholarships", "Trust Aid"],
+    "student_facilities": ["Wi-Fi", "Counseling", "Sports Ground"],
+    "accreditation": ["NAAC A", "Mumbai University Affiliated"]
+  },
+  {
+    "rank": 88,
+    "name": "R A Podar College (Junior and Degree)",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private (Autonomous)",
+    "courses": {
+      "undergraduate": ["B.Com", "BMS", "B.Com (PE & DS)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹22,000 per year",
+      "M.Com": "₹26,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitally enabled commerce-centric library",
+      "hostel": "No hostel; local PG tie-ups",
+      "labs": ["Commerce, PEC & DS Labs", "IT Lab"],
+      "auditorium": "Heritage auditorium for cultural events"
+    },
+    "placements": {
+      "highest_package": "₹6.5 LPA",
+      "average_package": "₹4.3 LPA",
+      "top_recruiters": ["EY", "ICICI", "Infosys", "HDFC"]
+    },
+    "alumni": ["Consultants, Industry Leaders"],
+    "scholarships": ["Podar Trust Scholarships"],
+    "student_facilities": ["Wi-Fi", "Clubs", "Cafeteria"],
+    "accreditation": ["NAAC A+", "Autonomous College"]
+  },
+  {
+    "rank": 89,
+    "name": "Carmel College of Arts, Commerce & Science",
+    "location": "Mangalore, Karnataka",
+    "affiliation": "Mangalore University",
+    "type": "Private (Minority Institution)",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "B.A. Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹20,000 per year",
+      "M.Com": "₹25,000 per year"
+    },
+    "infrastructure": {
+      "library": "Integrated library with digital resources",
+      "hostel": "Girls hostel with security and mess",
+      "labs": ["Commerce, Computer Labs"],
+      "auditorium": "AC auditorium for functions and seminars"
+    },
+    "placements": {
+      "highest_package": "₹5.0 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["KPMG", "Infosys", "Federal Bank"]
+    },
+    "alumni": ["Bankers, Local Administrators"],
+    "scholarships": ["Minority Aid", "Merit Awards"],
+    "student_facilities": ["Wi-Fi", "Counseling Cell", "Sports Facility"],
+    "accreditation": ["NAAC A", "Mangalore University Affiliated"]
+  },
+  {
+    "rank": 90,
+    "name": "Vivekanand Education Society’s College of Arts, Science & Commerce",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Finance)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹25,000 per year",
+      "M.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Modern library with digital subscriptions",
+      "hostel": "No hostel; support PG options",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Large AV hall for events"
+    },
+    "placements": {
+      "highest_package": "₹5.9 LPA",
+      "average_package": "₹4.1 LPA",
+      "top_recruiters": ["EY", "Axis Bank", "Tech Mahindra"]
+    },
+    "alumni": ["Professionals in Finance, Academia"],
+    "scholarships": ["Vivekanand Society Scholarships", "Govt Aid"],
+    "student_facilities": ["Wi-Fi", "Cultural & Sports Clubs"],
+    "accreditation": ["NAAC A", "University of Mumbai Affiliated"]
+  },
+  {
+    "rank": 91,
+    "name": "L D Commerce College",
+    "location": "Ahmedabad, Gujarat",
+    "affiliation": "Gujarat University",
+    "type": "Public (Aided)",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹5,000 per year",
+      "M.Com": "₹8,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital and print collections with journal subscriptions",
+      "hostel": "No hostel; city PGs available",
+      "labs": ["Commerce Lab", "IT Lab", "Language Lab"],
+      "auditorium": "AC hall for gatherings and functions"
+    },
+    "placements": {
+      "highest_package": "₹4.5 LPA",
+      "average_package": "₹3.0 LPA",
+      "top_recruiters": ["TCS", "Axis Bank", "Infosys"]
+    },
+    "alumni": ["Chartered Accountants, Bankers"],
+    "scholarships": ["Government Merit Scholarships"],
+    "student_facilities": ["Wi-Fi", "Clubs", "Counseling Centre"],
+    "accreditation": ["NAAC A", "Government Aided"]
+  },
+  {
+    "rank": 92,
+    "name": "H.R. College (Evening)",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "HSNC University",
+    "type": "Private (Autonomous Evening College)",
+    "courses": {
+      "undergraduate": ["B.Com", "BMS", "B.Com (Finance)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹18,000 per year",
+      "M.Com": "₹22,000 per year"
+    },
+    "infrastructure": {
+      "library": "E-library access after hours, print and digital",
+      "hostel": "None; options via PGs",
+      "labs": ["Finance Lab", "Computer Lab"],
+      "auditorium": "Multipurpose hall for evening events"
+    },
+    "placements": {
+      "highest_package": "₹5.5 LPA",
+      "average_package": "₹3.9 LPA",
+      "top_recruiters": ["ICICI Bank", "Infosys", "TCS"]
+    },
+    "alumni": ["Working Professionals, Bankers"],
+    "scholarships": ["Evening College Discounts", "Merit Aid"],
+    "student_facilities": ["Wi-Fi", "Cafeteria", "Sports Facilities"],
+    "accreditation": ["NAAC B+", "Autonomous"]
+  },
+  {
+    "rank": 93,
+    "name": "Bhavan’s College",
+    "location": "Mumbai, Maharashtra",
+    "affiliation": "University of Mumbai",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹22,000 per year",
+      "M.Com": "₹26,000 per year"
+    },
+    "infrastructure": {
+      "library": "Large resource centre with e-database",
+      "hostel": "No hostel; nearby PGs supported",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "1000+ seating AV hall"
+    },
+    "placements": {
+      "highest_package": "₹5.3 LPA",
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["EY", "Capgemini", "Axis Bank"]
+    },
+    "alumni": ["Diplomats, Bureaucrats, Bankers"],
+    "scholarships": ["Bhavan Trust Aid", "Govt and Merit"],
+    "student_facilities": ["Wi-Fi", "Sports Ground", "Counseling Cell"],
+    "accreditation": ["NAAC A", "Mumbai University Affiliated"]
+  },
+  {
+    "rank": 94,
+    "name": "MADRAS CHRISTIAN COLLEGE (Evening)",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private Aided (Evening College)",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹12,000 per year",
+      "M.Com": "₹14,000 per year"
+    },
+    "infrastructure": {
+      "library": "Access to main college evening hours",
+      "hostel": "No hostel; shared facilities during day",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Shared with main college"
+    },
+    "placements": {
+      "highest_package": "₹4.8 LPA",
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["Infosys", "TCS", "HDFC Bank"]
+    },
+    "alumni": ["Professionals, Entrepreneurs"],
+    "scholarships": ["Evening College Concessions"],
+    "student_facilities": ["Wi-Fi", "Cultural Activities"],
+    "accreditation": ["NAAC A+", "Affiliated to Madras Christian College"]
+  },
+  {
+    "rank": 95,
+    "name": "Mount Carmel College (Evening)",
+    "location": "Bengaluru, Karnataka",
+    "affiliation": "Bengaluru City University",
+    "type": "Private (Evening Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹25,000 per year",
+      "M.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Shared main library with evening access",
+      "hostel": "No hostel; PG options accessible",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "College auditorium available after hours"
+    },
+    "placements": {
+      "highest_package": "₹5.8 LPA",
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["EY", "Wipro", "Infosys"]
+    },
+    "alumni": ["Working Women Professionals"],
+    "scholarships": ["Evening Scholarships", "Merit Aid"],
+    "student_facilities": ["Wi-Fi", "Cafeteria", "Clubs"],
+    "accreditation": ["NAAC A", "Autonomous"]
+  },
+  {
+    "rank": 96,
+    "name": "Sacred Heart College (Evening)",
+    "location": "Kochi, Kerala",
+    "affiliation": "Mahatma Gandhi University",
+    "type": "Private (Christian Minority Evening College)",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹20,000 per year",
+      "M.Com": "₹25,000 per year"
+    },
+    "infrastructure": {
+      "library": "Access to main college's evening library",
+      "hostel": "No hostel; shared facilities",
+      "labs": ["Commerce Lab"],
+      "auditorium": "Shared evening access"
+    },
+    "placements": {
+      "highest_package": "₹5.0 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["TCS", "Federal Bank", "Infosys"]
+    },
+    "alumni": ["Evening College Professionals"],
+    "scholarships": ["Evening Merit Aid"],
+    "student_facilities": ["Wi-Fi", "Evening Clubs"],
+    "accreditation": ["NAAC A+", "Affiliated to Sacred Heart College"]
+  },
+  {
+    "rank": 97,
+    "name": "Ewing Christian College",
+    "location": "Allahabad, Uttar Pradesh",
+    "affiliation": "University of Allahabad",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹8,000 per year",
+      "M.Com": "₹10,000 per year"
+    },
+    "infrastructure": {
+      "library": "Heritage library with digital catalog",
+      "hostel": "Boys and girls hostels on campus",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Indoor hall suitable for seminars"
+    },
+    "placements": {
+      "highest_package": "₹4.4 LPA",
+      "average_package": "₹3.0 LPA",
+      "top_recruiters": ["LIC", "State Bank", "Infosys"]
+    },
+    "alumni": ["Government Officials, Academics"],
+    "scholarships": ["State Govt Merit Aid", "College Scholarships"],
+    "student_facilities": ["Wi-Fi", "Sports Ground", "Counseling Cell"],
+    "accreditation": ["NAAC A", "University of Allahabad"]
+  },
+  {
+    "rank": 98,
+    "name": "Government Commerce College",
+    "location": "Dhanbad, Jharkhand",
+    "affiliation": "Binod Bihari Mahto Koyalanchal University",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹5,500 per year",
+      "M.Com": "₹7,000 per year"
+    },
+    "infrastructure": {
+      "library": "Government-funded print and digital library",
+      "hostel": "Boys and girls hostels available",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Indoor seminar hall with AV equipment"
+    },
+    "placements": {
+      "highest_package": "₹4.0 LPA",
+      "average_package": "₹2.8 LPA",
+      "top_recruiters": ["LIC", "Coal India", "Local Banks"]
+    },
+    "alumni": ["Public Sector Officers, Accountants"],
+    "scholarships": ["State Govt Scholarships", "EBC Aid"],
+    "student_facilities": ["Wi-Fi", "Sports", "Cultural Events"],
+    "accreditation": ["NAAC B+", "State Govt College"]
+  },
+  {
+    "rank": 99,
+    "name": "Government Girls PG Degree College",
+    "location": "Lucknow, Uttar Pradesh",
+    "affiliation": "University of Lucknow",
+    "type": "Public (Women’s College)",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com", "MA Economics"]
+    },
+    "fees": {
+      "B.Com": "₹6,000 per year",
+      "M.Com": "₹8,000 per year"
+    },
+    "infrastructure": {
+      "library": "Public-funded library with e-access",
+      "hostel": "Girls hostel with modern amenities",
+      "labs": ["Commerce Lab", "Economics Lab"],
+      "auditorium": "Seminar hall for cultural and academic functions"
+    },
+    "placements": {
+      "highest_package": "₹4.2 LPA",
+      "average_package": "₹2.9 LPA",
+      "top_recruiters": ["State Bank", "LIC", "TCS"]
+    },
+    "alumni": ["Female Bureaucrats, Academics"],
+    "scholarships": ["Women Welfare Scholarships", "Govt Schemes"],
+    "student_facilities": ["Wi-Fi", "Cultural Forum", "Counseling Cell"],
+    "accreditation": ["NAAC A", "University of Lucknow Affiliated"]
+  },
+  {
+    "rank": 100,
+    "name": "Government Degree College, Srinagar",
+    "location": "Srinagar, Jammu & Kashmir",
+    "affiliation": "University of Kashmir",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹4,000 per year",
+      "M.Com": "₹6,000 per year"
+    },
+    "infrastructure": {
+      "library": "Government-funded library with local journals",
+      "hostel": "Boys and girls hostels on campus",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Campus hall used for events"
+    },
+    "placements": {
+      "highest_package": "₹3.8 LPA",
+      "average_package": "₹2.6 LPA",
+      "top_recruiters": ["Local Banks", "Education NGOs"]
+    },
+    "alumni": ["Civil Servants, Local Businesspeople"],
+    "scholarships": ["State Govt Scholarships", "Minority Aid"],
+    "student_facilities": ["Wi-Fi", "Sports", "Cultural Clubs"],
+    "accreditation": ["NAAC B+", "University of Kashmir"]
+  },
+  {
+    "rank": 101,
+    "name": "Sri Sri Ravishankar University – Commerce Faculty",
+    "location": "Raipur, Chhattisgarh",
+    "affiliation": "Private University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (E-Commerce)", "BBA"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹55,000 per year",
+      "M.Com": "₹60,000 per year"
+    },
+    "infrastructure": {
+      "library": "Modern library with e-journals and print collections",
+      "hostel": "AC separate hostels for boys and girls",
+      "labs": ["Commerce Lab", "Digital Accounting Lab"],
+      "auditorium": "Hi-tech auditorium with 500 seating capacity"
+    },
+    "placements": {
+      "highest_package": "₹6.5 LPA",
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Infosys", "TCS", "ICICI Bank"]
+    },
+    "alumni": ["Local corporate managers", "Startup founders"],
+    "scholarships": ["Merit-based", "Sports Scholarships", "State Govt Aid"],
+    "student_facilities": ["Wi-Fi", "Medical Centre", "Cafeteria", "Counseling Cell"],
+    "accreditation": ["NAAC A", "UGC Recognized"]
+  },
+  {
+    "rank": 102,
+    "name": "Sacred Heart College – Tier II Evening",
+    "location": "Thevara, Kochi, Kerala",
+    "affiliation": "Mahatma Gandhi University",
+    "type": "Private Evening College",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹18,000 per year",
+      "M.Com": "₹20,000 per year"
+    },
+    "infrastructure": {
+      "library": "Evening access to main college library",
+      "hostel": "No hostel; shared facilities",
+      "labs": ["Commerce Lab"],
+      "auditorium": "Evening-use seminar hall"
+    },
+    "placements": {
+      "highest_package": "₹5.0 LPA",
+      "average_package": "₹3.1 LPA",
+      "top_recruiters": ["TCS", "Federal Bank", "Infosys"]
+    },
+    "alumni": ["Evening college professionals"],
+    "scholarships": ["Evening merit concessions"],
+    "student_facilities": ["Wi-Fi", "Clubs", "Counseling Support"],
+    "accreditation": ["NAAC A", "Affiliated to Sacred Heart College"]
+  },
+  {
+    "rank": 103,
+    "name": "Government Commerce College – Kota",
+    "location": "Kota, Rajasthan",
+    "affiliation": "Rajasthan Technical University",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹6,000 per year",
+      "M.Com": "₹8,000 per year"
+    },
+    "infrastructure": {
+      "library": "Government-funded library with digital resources",
+      "hostel": "Separate hostels for boys and girls",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Indoor seminar room"
+    },
+    "placements": {
+      "highest_package": "₹4.0 LPA",
+      "average_package": "₹2.8 LPA",
+      "top_recruiters": ["Local Banks", "SMEs"]
+    },
+    "alumni": ["State government officials", "Local entrepreneurs"],
+    "scholarships": ["Rajasthan Govt Scholarships", "SC/ST Incentives"],
+    "student_facilities": ["Wi-Fi", "Sports", "Counseling Unit"],
+    "accreditation": ["NAAC B+", "State Govt College"]
+  },
+  {
+    "rank": 104,
+    "name": "Arunachal Commerce College",
+    "location": "Itanagar, Arunachal Pradesh",
+    "affiliation": "Rajiv Gandhi University",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹5,000 per year",
+      "M.Com": "₹7,000 per year"
+    },
+    "infrastructure": {
+      "library": "Regional collection with digital scanning access",
+      "hostel": "Separate hostels for boys and girls",
+      "labs": ["Commerce Lab", "Computer Center"],
+      "auditorium": "Community hall used for academic events"
+    },
+    "placements": {
+      "highest_package": "₹3.8 LPA",
+      "average_package": "₹2.7 LPA",
+      "top_recruiters": ["State Bank", "Local Enterprise"]
+    },
+    "alumni": ["Regional administrators", "Teachers"],
+    "scholarships": ["NERO Govt Schemes", "State Tribal Aid"],
+    "student_facilities": ["Wi-Fi", "Sports Facilities", "Cultural Events"],
+    "accreditation": ["NAAC B", "State University Affiliated"]
+  },
+  {
+    "rank": 105,
+    "name": "Commerce Evening College – Guwahati",
+    "location": "Guwahati, Assam",
+    "affiliation": "Gauhati University",
+    "type": "Public Evening College",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹7,000 per year",
+      "M.Com": "₹9,000 per year"
+    },
+    "infrastructure": {
+      "library": "Shared access with day college",
+      "hostel": "No hostel; day scholars",
+      "labs": ["Commerce and Computer Lab"],
+      "auditorium": "Evening-use seminar hall"
+    },
+    "placements": {
+      "highest_package": "₹4.2 LPA",
+      "average_package": "₹3.0 LPA",
+      "top_recruiters": ["State Bank", "Insurance Firms"]
+    },
+    "alumni": ["Working professionals", "Local accountants"],
+    "scholarships": ["Assam Govt Merit Aid"],
+    "student_facilities": ["Wi-Fi", "Evening Clubs"],
+    "accreditation": ["NAAC B+", "Gauhati University Affiliated"]
+  },
+  {
+    "rank": 106,
+    "name": "Commerce College – Leh Panel",
+    "location": "Leh, Ladakh",
+    "affiliation": "University of Ladakh",
+    "type": "Government College",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹4,000 per year",
+      "M.Com": "₹5,000 per year"
+    },
+    "infrastructure": {
+      "library": "Mountain-base library with digital uplink",
+      "hostel": "Shared boys and girls hostels",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Central seminar room with AV tools"
+    },
+    "placements": {
+      "highest_package": "₹3.5 LPA",
+      "average_package": "₹2.5 LPA",
+      "top_recruiters": ["Banks", "Government Projects"]
+    },
+    "alumni": ["Civil servants", "NGO workers"],
+    "scholarships": ["Central Govt Scholarship", "NEP Merit Aid"],
+    "student_facilities": ["Wi-Fi", "Sports Accessories", "Counseling Cell"],
+    "accreditation": ["NAAC B", "University of Ladakh"]
+  },
+  {
+    "rank": 107,
+    "name": "Commerce Evening College – Imphal",
+    "location": "Imphal, Manipur",
+    "affiliation": "Manipur University",
+    "type": "Public Evening College",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹6,000 per year",
+      "M.Com": "₹8,000 per year"
+    },
+    "infrastructure": {
+      "library": "Day college library with evening access",
+      "hostel": "No hostel; day scholar base",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Evening-use hall for lectures"
+    },
+    "placements": {
+      "highest_package": "₹3.8 LPA",
+      "average_package": "₹2.6 LPA",
+      "top_recruiters": ["State Bank", "Insurance Agencies"]
+    },
+    "alumni": ["Local administrators", "Financial consultants"],
+    "scholarships": ["NE Scholarship", "SC/ST Govt Aid"],
+    "student_facilities": ["Wi-Fi", "Evening Clubs"],
+    "accreditation": ["NAAC B", "Manipur University"]
+  },
+  {
+    "rank": 108,
+    "name": "Commerce College – Panjim",
+    "location": "Panjim, Goa",
+    "affiliation": "Goa University",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹8,000 per year",
+      "M.Com": "₹10,000 per year"
+    },
+    "infrastructure": {
+      "library": "University-funded library with e-access",
+      "hostel": "Shared hostel for boys and girls off-campus",
+      "labs": ["Commerce Lab", "EC Lab"],
+      "auditorium": "Central hall used for functions"
+    },
+    "placements": {
+      "highest_package": "₹4.5 LPA",
+      "average_package": "₹3.1 LPA",
+      "top_recruiters": ["Banks", "Tourism Office"]
+    },
+    "alumni": ["Hospitality Managers", "Bankers"],
+    "scholarships": ["Goa Govt Aid"],
+    "student_facilities": ["Wi-Fi", "Sports", "Cultural Forum"],
+    "accreditation": ["NAAC B+", "Goa University"]
+  },
+  {
+    "rank": 109,
+    "name": "Commerce Evening College – Ranchi",
+    "location": "Ranchi, Jharkhand",
+    "affiliation": "Ranchi University",
+    "type": "Public Evening College",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹7,500 per year",
+      "M.Com": "₹9,500 per year"
+    },
+    "infrastructure": {
+      "library": "Day college library with evening access",
+      "hostel": "Day scholar; no hostel",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Seminar hall equipped with AV"
+    },
+    "placements": {
+      "highest_package": "₹4.0 LPA",
+      "average_package": "₹2.9 LPA",
+      "top_recruiters": ["LIC", "State Bank", "Insurance NGOs"]
+    },
+    "alumni": ["State employees", "Local consultants"],
+    "scholarships": ["Jharkhand Govt Aid", "SC/ST Concessions"],
+    "student_facilities": ["Wi-Fi", "Evening Clubs"],
+    "accreditation": ["NAAC B+", "Ranchi University"]
+  },
+  {
+    "rank": 110,
+    "name": "Commerce College – Panipat",
+    "location": "Panipat, Haryana",
+    "affiliation": "Kurukshetra University",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹6,000 per year",
+      "M.Com": "₹8,000 per year"
+    },
+    "infrastructure": {
+      "library": "Government-supported library with digital resources",
+      "hostel": "Nearby PG hostels",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Seminar room for workshops"
+    },
+    "placements": {
+      "highest_package": "₹4.2 LPA",
+      "average_package": "₹3.0 LPA",
+      "top_recruiters": ["Banks", "Local industries"]
+    },
+    "alumni": ["Industrial experts", "Local government officials"],
+    "scholarships": ["Haryana Govt Aid", "Merit Awards"],
+    "student_facilities": ["Wi-Fi", "Sports", "Counseling Centre"],
+    "accreditation": ["NAAC B+", "Kurukshetra University"]
+  },
+  {
+    "rank": 111,
+    "name": "Commerce Evening College – Madurai",
+    "location": "Madurai, Tamil Nadu",
+    "affiliation": "Madurai Kamaraj University",
+    "type": "Public Evening College",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹8,500 per year",
+      "M.Com": "₹10,500 per year"
+    },
+    "infrastructure": {
+      "library": "Evening access to central library",
+      "hostel": "No hostel; PG support",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Evening seminar hall"
+    },
+    "placements": {
+      "highest_package": "₹4.3 LPA",
+      "average_package": "₹3.1 LPA",
+      "top_recruiters": ["LIC", "Indian Bank", "Infosys"]
+    },
+    "alumni": ["Working professionals", "Educators"],
+    "scholarships": ["Tamil Nadu Govt Aid"],
+    "student_facilities": ["Wi-Fi", "Clubs", "Counseling Centre"],
+    "accreditation": ["NAAC B+", "Madurai Kamaraj University"]
+  },
+  {
+    "rank": 112,
+    "name": "Commerce College – Bhopal Evening",
+    "location": "Bhopal, Madhya Pradesh",
+    "affiliation": "Barkatullah University",
+    "type": "Public Evening College",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹9,000 per year",
+      "M.Com": "₹11,000 per year"
+    },
+    "infrastructure": {
+      "library": "Evening access to central library resources",
+      "hostel": "No hostel; day scholar",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "Seminar and conference hall"
+    },
+    "placements": {
+      "highest_package": "₹4.4 LPA",
+      "average_package": "₹3.0 LPA",
+      "top_recruiters": ["HDFC Bank", "Cognizant", "Insurance Firms"]
+    },
+    "alumni": ["Bankers", "Local Administrators"],
+    "scholarships": ["MP Govt Aid"],
+    "student_facilities": ["Wi-Fi", "Evening Clubs"],
+    "accreditation": ["NAAC B+", "Barkatullah University"]
+  },
+  {
+    "rank": 113,
+    "name": "Commerce College – Shillong",
+    "location": "Shillong, Meghalaya",
+    "affiliation": "North Eastern Hill University",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹7,000 per year",
+      "M.Com": "₹9,000 per year"
+    },
+    "infrastructure": {
+      "library": "Day college library with NE region journals",
+      "hostel": "Boys and girls hostels available",
+      "labs": ["Commerce Lab", "Computer Lab"],
+      "auditorium": "University-managed indoor hall"
+    },
+    "placements": {
+      "highest_package": "₹4.2 LPA",
+      "average_package": "₹3.0 LPA",
+      "top_recruiters": ["State Bank", "NGOs"]
+    },
+    "alumni": ["Civil servants", "Educators"],
+    "scholarships": ["NE Govt Schemes", "SC/ST Aid"],
+    "student_facilities": ["Wi-Fi", "Sports", "Cafeteria"],
+    "accreditation": ["NAAC B+", "NEHU Affiliated"]
+    
+  },
+  {
+    "rank": 114,
+    "name": "Commerce College – Tiruchirappalli",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "affiliation": "Bharathidasan University",
+    "type": "Public",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹7,500 per year",
+      "M.Com": "₹10,000 per year"
+    },
+    "infrastructure": {
+      "library": "Library with regional archives and digital tools",
+      "hostel": "Girls hostel available",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Seminar room with projector setup"
+    },
+    "placements": {
+      "highest_package": "₹4.3 LPA",
+      "average_package": "₹3.1 LPA",
+      "top_recruiters": ["LIC", "Indian Bank", "Infosys"]
+    },
+    "alumni": ["Local government officials", "Accountants"],
+    "scholarships": ["TN Govt Aid", "SC/ST Scholarships"],
+    "student_facilities": ["Wi-Fi", "Sports Ground", "Counseling Room"],
+    "accreditation": ["NAAC B+", "Bharathidasan University"]
+  },
+  {
+    "rank": 115,
+    "name": "Commerce Evening College – Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "affiliation": "RTM Nagpur University",
+    "type": "Public Evening College",
+    "courses": {
+      "undergraduate": ["B.Com", "BA Economics"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹8,000 per year",
+      "M.Com": "₹10,500 per year"
+    },
+    "infrastructure": {
+      "library": "Shared access to day college library resources",
+      "hostel": "Day scholars; hostel not provided",
+      "labs": ["Commerce Lab", "IT Lab"],
+      "auditorium": "Evening seminar hall with AV equipment"
+    },
+    "placements": {
+      "highest_package": "₹4.4 LPA",
+      "average_package": "₹3.0 LPA",
+      "top_recruiters": ["LIC", "HDFC Bank", "Infosys"]
+    },
+    "alumni": ["Working professionals", "Local accountants"],
+    "scholarships": ["State Merit Aid"],
+    "student_facilities": ["Wi-Fi", "Evening Clubs", "Counseling Support"],
+    "accreditation": ["NAAC B+", "RTM Nagpur University"]
+  },
+  {
+    "rank": 116,
+    "name": "Bishop Cotton Women's Christian College",
+    "location": "Bangalore, Karnataka",
+    "affiliation": "Bangalore University",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Professional)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹65,000 per year",
+      "M.Com": "₹70,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digitized library with e-journal access",
+      "hostel": "Girls hostel with 24/7 security",
+      "labs": ["Commerce Lab", "Computer Application Lab"],
+      "auditorium": "AC seminar and cultural halls"
+    },
+    "placements": {
+      "highest_package": "₹7.2 LPA",
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["EY", "Wipro", "Infosys", "ICICI"]
+    },
+    "alumni": ["Corporate executives", "NGO professionals"],
+    "scholarships": ["Merit-based", "Minority Scholarships", "Government Aid"],
+    "student_facilities": ["Wi-Fi", "Cafeteria", "Gym", "Clubs", "Counseling"],
+    "accreditation": ["NAAC A", "UGC Recognized"]
+  },
+  {
+    "rank": 117,
+    "name": "Dr. MGR Janaki College of Arts and Science for Women",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Accounting & Finance)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹52,000 per year",
+      "M.Com": "₹55,000 per year"
+    },
+    "infrastructure": {
+      "library": "Fully digitalized library",
+      "hostel": "Girls hostel with CCTV",
+      "labs": ["Accounting Lab", "Computer Science Lab"],
+      "auditorium": "Main auditorium and seminar hall"
+    },
+    "placements": {
+      "highest_package": "₹6.8 LPA",
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["TCS", "Cognizant", "Amazon"]
+    },
+    "alumni": ["Finance analysts", "Academicians"],
+    "scholarships": ["Government and private scholarships"],
+    "student_facilities": ["Wi-Fi", "Health Centre", "Cafeteria", "NCC/NSS"],
+    "accreditation": ["NAAC A", "UGC Recognized"]
+  },
+  {
+    "rank": 118,
+    "name": "Indian Academy Degree College – Autonomous",
+    "location": "Bangalore, Karnataka",
+    "affiliation": "Bangalore North University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Banking and Finance)", "BBA"],
+      "postgraduate": ["M.Com", "MBA"]
+    },
+    "fees": {
+      "B.Com": "₹60,000 per year",
+      "M.Com": "₹65,000 per year"
+    },
+    "infrastructure": {
+      "library": "Smart library with online journal subscriptions",
+      "hostel": "Separate boys and girls hostels",
+      "labs": ["Digital Accounting Lab", "Business Simulation Lab"],
+      "auditorium": "AV-equipped multipurpose auditorium"
+    },
+    "placements": {
+      "highest_package": "₹6.5 LPA",
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Dell", "KPMG", "Axis Bank"]
+    },
+    "alumni": ["Startup founders", "Banking professionals"],
+    "scholarships": ["Institutional Merit Awards", "SC/ST Concessions"],
+    "student_facilities": ["Wi-Fi", "Gym", "Clubs", "Mentorship Programs"],
+    "accreditation": ["NAAC A", "Autonomous Status"]
+  },
+  {
+    "rank": 119,
+    "name": "Symbiosis College of Arts and Commerce (Evening Wing)",
+    "location": "Pune, Maharashtra",
+    "affiliation": "Savitribai Phule Pune University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com (Evening)", "BBA (Evening)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹70,000 per year",
+      "M.Com": "₹75,000 per year"
+    },
+    "infrastructure": {
+      "library": "Access to central Symbiosis library system",
+      "hostel": "Shared Symbiosis hostels",
+      "labs": ["Business Research Lab"],
+      "auditorium": "Shared evening access auditorium"
+    },
+    "placements": {
+      "highest_package": "₹8.0 LPA",
+      "average_package": "₹5.0 LPA",
+      "top_recruiters": ["ICICI", "Citi", "TCS", "Infosys"]
+    },
+    "alumni": ["Financial advisors", "Analysts"],
+    "scholarships": ["Symbiosis Scholarships", "Govt Aid"],
+    "student_facilities": ["Evening Cafeteria", "Wi-Fi", "Sports"],
+    "accreditation": ["NAAC A+", "Symbiosis International Affiliation"]
+  },
+  {
+    "rank": 120,
+    "name": "MES College of Commerce",
+    "location": "Pune, Maharashtra",
+    "affiliation": "Savitribai Phule Pune University",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA", "BBA (IB)"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹35,000 per year",
+      "M.Com": "₹40,000 per year"
+    },
+    "infrastructure": {
+      "library": "Digital and traditional library sections",
+      "hostel": "Hostels available for outstation students",
+      "labs": ["Commerce and IT Lab"],
+      "auditorium": "Indoor AV hall"
+    },
+    "placements": {
+      "highest_package": "₹5.5 LPA",
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["HDFC Bank", "WNS", "TCS"]
+    },
+    "alumni": ["Finance managers", "Retail analysts"],
+    "scholarships": ["Government and Minority Scholarships"],
+    "student_facilities": ["Wi-Fi", "Canteen", "Cultural Club"],
+    "accreditation": ["NAAC A", "UGC Recognized"]
+  },
+  {
+    "rank": 121,
+    "name": "Govindram Seksaria College of Commerce",
+    "location": "Belagavi, Karnataka",
+    "affiliation": "Rani Channamma University",
+    "type": "Government Aided",
+    "courses": {
+      "undergraduate": ["B.Com"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹10,000 per year",
+      "M.Com": "₹12,000 per year"
+    },
+    "infrastructure": {
+      "library": "Government-funded library with research tools",
+      "hostel": "Boys and girls hostels available",
+      "labs": ["Commerce Lab", "Language Lab"],
+      "auditorium": "Large capacity auditorium for commerce events"
+    },
+    "placements": {
+      "highest_package": "₹5.0 LPA",
+      "average_package": "₹3.0 LPA",
+      "top_recruiters": ["Public Sector Banks", "Insurance Companies"]
+    },
+    "alumni": ["Govt employees", "Commerce tutors"],
+    "scholarships": ["State Aid", "SC/ST Minority Scholarships"],
+    "student_facilities": ["Wi-Fi", "Playground", "Cultural Wing"],
+    "accreditation": ["NAAC A", "State Govt Recognized"]
+  },
+  {
+    "rank": 122,
+    "name": "Government College of Commerce and Economics",
+    "location": "Margao, Goa",
+    "affiliation": "Goa University",
+    "type": "Government",
+    "courses": {
+      "undergraduate": ["B.Com"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹7,000 per year",
+      "M.Com": "₹9,000 per year"
+    },
+    "infrastructure": {
+      "library": "Updated government-funded library",
+      "hostel": "No hostel; local PGs available",
+      "labs": ["Commerce and Economics Labs"],
+      "auditorium": "AV seminar room"
+    },
+    "placements": {
+      "highest_package": "₹4.2 LPA",
+      "average_package": "₹3.0 LPA",
+      "top_recruiters": ["Tourism firms", "Local banks"]
+    },
+    "alumni": ["Local business owners", "Civil service officers"],
+    "scholarships": ["State Aid", "Goa Govt Merit"],
+    "student_facilities": ["Wi-Fi", "Career Cell", "NSS Unit"],
+    "accreditation": ["NAAC B+", "Goa University"]
+  },
+  {
+    "rank": 123,
+    "name": "Loyola College Evening Courses",
+    "location": "Chennai, Tamil Nadu",
+    "affiliation": "University of Madras",
+    "type": "Private Aided",
+    "courses": {
+      "undergraduate": ["B.Com (Evening)"],
+      "postgraduate": []
+    },
+    "fees": {
+      "B.Com": "₹30,000 per year"
+    },
+    "infrastructure": {
+      "library": "Access to Loyola's main library",
+      "hostel": "No hostel for evening course",
+      "labs": ["Shared IT and Language Labs"],
+      "auditorium": "Shared evening auditorium"
+    },
+    "placements": {
+      "highest_package": "₹5.2 LPA",
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["TCS", "Wipro", "Cognizant"]
+    },
+    "alumni": ["Corporate employees", "Accountants"],
+    "scholarships": ["Jesuit Aid", "SC/ST Scholarships"],
+    "student_facilities": ["Wi-Fi", "Cafeteria", "Evening Clubs"],
+    "accreditation": ["NAAC A++", "Autonomous"]
+  },
+  {
+    "rank": 124,
+    "name": "Govt Commerce College",
+    "location": "Indore, Madhya Pradesh",
+    "affiliation": "Devi Ahilya Vishwavidyalaya",
+    "type": "Government",
+    "courses": {
+      "undergraduate": ["B.Com", "B.Com (Taxation)", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹8,000 per year",
+      "M.Com": "₹10,000 per year"
+    },
+    "infrastructure": {
+      "library": "Regional library with journal access",
+      "hostel": "State-run hostels available",
+      "labs": ["IT and Taxation Lab"],
+      "auditorium": "Multi-purpose commerce seminar hall"
+    },
+    "placements": {
+      "highest_package": "₹4.8 LPA",
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["ICICI Prudential", "Govt Offices"]
+    },
+    "alumni": ["Govt workers", "Academicians"],
+    "scholarships": ["MP Govt Scholarship", "EWS Incentives"],
+    "student_facilities": ["Wi-Fi", "Sports Grounds", "Academic Cell"],
+    "accreditation": ["NAAC B+", "State Govt Recognized"]
+  },
+  {
+    "rank": 125,
+    "name": "Seshadripuram College – Tumkur Road",
+    "location": "Bangalore, Karnataka",
+    "affiliation": "Bangalore University",
+    "type": "Private",
+    "courses": {
+      "undergraduate": ["B.Com", "BBA"],
+      "postgraduate": ["M.Com"]
+    },
+    "fees": {
+      "B.Com": "₹50,000 per year",
+      "M.Com": "₹55,000 per year"
+    },
+    "infrastructure": {
+      "library": "Well-stocked library with business resources",
+      "hostel": "Girls hostel; boys via partner hostels",
+      "labs": ["Digital Commerce Lab", "Computer Lab"],
+      "auditorium": "AV seminar and conference hall"
+    },
+    "placements": {
+      "highest_package": "₹6.0 LPA",
+      "average_package": "₹4.0 LPA",
+      "top_recruiters": ["Infosys", "Cognizant", "KPMG"]
+    },
+    "alumni": ["Commerce trainers", "Finance consultants"],
+    "scholarships": ["Management Scholarships", "Govt Aids"],
+    "student_facilities": ["Wi-Fi", "Cultural Clubs", "Cafeteria"],
+    "accreditation": ["NAAC A", "Affiliated to BU"]
+  }
+]
+	

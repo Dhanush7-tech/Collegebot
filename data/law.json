@@ -1,0 +1,2526 @@
+[
+  {
+    "rank": 1,
+    "name": "National Law School of India University",
+    "location": "Bangalore, Karnataka",
+    "established": 1987,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "MPhil", "PhD", "PG Diploma"],
+    "courses": {
+      "Undergraduate": ["Constitutional Law", "Corporate Law", "Criminal Law", "Intellectual Property Law"],
+      "Postgraduate": ["Business Law", "Human Rights Law", "Law and Technology"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,62,000",
+    "scholarships": ["Merit-cum-Means", "SC/ST scholarships", "Financial aid by alumni"],
+    "placements": {
+      "average_package": "₹15 LPA",
+      "top_recruiters": ["AZB & Partners", "Trilegal", "Khaitan & Co", "Luthra & Luthra", "CAM"]
+    },
+    "infrastructure": {
+      "hostels": "Separate for boys and girls, 24x7 internet, mess, gym",
+      "library": "Extensive digital & print resources, open till midnight",
+      "labs": "Legal research labs, moot court practice centers"
+    },
+    "notable_alumni": ["Menaka Guruswamy", "Arvind Datar", "Sidharth Luthra"]
+  },
+  {
+    "rank": 2,
+    "name": "National Law University, Delhi",
+    "location": "New Delhi",
+    "established": 2008,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["International Law", "Environmental Law", "Criminal Justice"],
+      "Postgraduate": ["Constitutional Law", "Business Law"]
+    },
+    "entrance_exam": "AILET",
+    "average_fee_per_year": "₹1,86,000",
+    "scholarships": ["EWS Fee Waiver", "Merit Scholarships"],
+    "placements": {
+      "average_package": "₹12 LPA",
+      "top_recruiters": ["Shardul Amarchand Mangaldas", "Cyril Amarchand Mangaldas", "S&R Associates"]
+    },
+    "infrastructure": {
+      "hostels": "Fully Wi-Fi enabled, recreational spaces",
+      "library": "National Resource Centre for Law",
+      "labs": "Dedicated IT and research centers"
+    },
+    "notable_alumni": ["Aishwarya Bhati", "Dr. Anup Surendranath"]
+  },
+  {
+    "rank": 3,
+    "name": "NALSAR University of Law",
+    "location": "Hyderabad, Telangana",
+    "established": 1998,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "MBA", "PhD"],
+    "courses": {
+      "Undergraduate": ["Cyber Law", "Tax Law", "IPR", "Corporate Law"],
+      "Postgraduate": ["Aviation Law", "Space Law", "Family Law"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,42,000",
+    "scholarships": ["Merit and Need-based", "State Government Schemes"],
+    "placements": {
+      "average_package": "₹11 LPA",
+      "top_recruiters": ["AZB", "Luthra & Luthra", "Khaitan & Co", "Trilegal"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels with biometric access",
+      "library": "Comprehensive digital legal databases",
+      "labs": "Moot Court Halls, legal drafting centers"
+    },
+    "notable_alumni": ["Saurabh Kirpal", "Arun Thiruvengadam"]
+  },
+  {
+    "rank": 4,
+    "name": "The West Bengal National University of Juridical Sciences",
+    "location": "Kolkata, West Bengal",
+    "established": 1999,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "BSc LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Human Rights", "Labour Law", "Tax Law"],
+      "Postgraduate": ["Corporate Law", "Criminal Justice"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,40,000",
+    "scholarships": ["Means-cum-merit", "State Scholarships"],
+    "placements": {
+      "average_package": "₹10 LPA",
+      "top_recruiters": ["Khaitan & Co", "CAM", "Trilegal", "J Sagar Associates"]
+    },
+    "infrastructure": {
+      "hostels": "AC/Non-AC rooms, Wi-Fi, mess",
+      "library": "Law journals, national & international databases",
+      "labs": "Moot courtrooms and seminar halls"
+    },
+    "notable_alumni": ["Rajat Sethi", "Namita Wahi"]
+  },
+  {
+    "rank": 5,
+    "name": "Gujarat National Law University",
+    "location": "Gandhinagar, Gujarat",
+    "established": 2003,
+    "type": "Public",
+    "degrees_offered": ["BA LLB", "BCom LLB", "BSc LLB", "LLM", "MBA", "PhD"],
+    "courses": {
+      "Undergraduate": ["Corporate Law", "Criminal Law", "Public International Law"],
+      "Postgraduate": ["Intellectual Property", "Corporate Law"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,45,000",
+    "scholarships": ["Merit-based", "Gujarat State Schemes"],
+    "placements": {
+      "average_package": "₹9 LPA",
+      "top_recruiters": ["Tata Sons Legal", "Wipro Legal", "CAM", "Infosys Legal"]
+    },
+    "infrastructure": {
+      "hostels": "Wi-Fi enabled, indoor games",
+      "library": "More than 50,000 volumes, e-resources",
+      "labs": "Dedicated ADR labs and arbitration facilities"
+    },
+    "notable_alumni": ["Yuvraj Goyal", "Jayna Kothari"]
+  },
+  {
+    "rank": 6,
+    "name": "Symbiosis Law School",
+    "location": "Pune, Maharashtra",
+    "established": 1977,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM", "Diploma", "Certificate"],
+    "courses": {
+      "Undergraduate": ["Constitutional Law", "Business Law", "Criminology"],
+      "Postgraduate": ["Corporate Law", "International Law"]
+    },
+    "entrance_exam": "SLAT",
+    "average_fee_per_year": "₹3,20,000",
+    "scholarships": ["Symbiosis Foundation Scholarships", "Need-based"],
+    "placements": {
+      "average_package": "₹6-7 LPA",
+      "top_recruiters": ["ICICI Bank Legal", "Infosys", "Ernst & Young", "Tata Capital"]
+    },
+    "infrastructure": {
+      "hostels": "Modern dormitories, security, mess",
+      "library": "Extensive legal journals and digital access",
+      "labs": "Computer labs, moot court halls"
+    },
+    "notable_alumni": ["Ashutosh Salil", "Aishwarya Bhati"]
+  },
+  {
+    "rank": 7,
+    "name": "Jamia Millia Islamia - Faculty of Law",
+    "location": "New Delhi",
+    "established": 1989,
+    "type": "Public",
+    "degrees_offered": ["BA LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Family Law", "Constitutional Law", "Legal Theory"],
+      "Postgraduate": ["Personal Law", "Commercial Law"]
+    },
+    "entrance_exam": "Jamia Entrance Exam",
+    "average_fee_per_year": "₹12,000 - ₹15,000",
+    "scholarships": ["Jamia Merit Scholarships", "Minority welfare schemes"],
+    "placements": {
+      "average_package": "₹5-6 LPA",
+      "top_recruiters": ["Legal Chambers", "Non-Profits", "Judicial Clerks"]
+    },
+    "infrastructure": {
+      "hostels": "Affordable rooms with dining and laundry",
+      "library": "Well-stocked with legal materials",
+      "labs": "Moot court infrastructure"
+    },
+    "notable_alumni": ["Justice M. F. Saldanha", "Adv. Naved Hamid"]
+  },
+  {
+    "rank": 8,
+    "name": "The Rajiv Gandhi National University of Law",
+    "location": "Patiala, Punjab",
+    "established": 2006,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Civil Law", "Property Law", "Public Law"],
+      "Postgraduate": ["International Law", "Criminal Law"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,20,000",
+    "scholarships": ["Central Govt. schemes", "Means-based aid"],
+    "placements": {
+      "average_package": "₹7-8 LPA",
+      "top_recruiters": ["DSK Legal", "Luthra & Luthra", "Khaitan Legal"]
+    },
+    "infrastructure": {
+      "hostels": "Modern and secured",
+      "library": "Digital databases with legal software access",
+      "labs": "ADR Centre and Moot Court Room"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 9,
+    "name": "Dr. Ram Manohar Lohiya National Law University",
+    "location": "Lucknow, Uttar Pradesh",
+    "established": 2005,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Administrative Law", "Labour Law", "Criminal Procedure"],
+      "Postgraduate": ["Corporate Law", "Human Rights"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹1,80,000",
+    "scholarships": ["State Government Scholarships", "Merit-cum-Means"],
+    "placements": {
+      "average_package": "₹6-7 LPA",
+      "top_recruiters": ["DSK Legal", "Chandhiok & Mahajan", "Legasis", "Start-ups"]
+    },
+    "infrastructure": {
+      "hostels": "Separate for boys and girls with mess and Wi-Fi",
+      "library": "Modern digital law library with SCC and Manupatra access",
+      "labs": "E-learning rooms and legal research centers"
+    },
+    "notable_alumni": ["Urvashi Aneja", "Shubham Tiwari"]
+  },
+  {
+    "rank": 10,
+    "name": "Kalinga Institute of Industrial Technology - School of Law",
+    "location": "Bhubaneswar, Odisha",
+    "established": 2007,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Cyber Law", "Health Law", "Media Law"],
+      "Postgraduate": ["International Trade Law", "IPR"]
+    },
+    "entrance_exam": "KIITEE Law",
+    "average_fee_per_year": "₹3,40,000",
+    "scholarships": ["Merit scholarships", "KIIT Poverty-cum-Merit Scholarship"],
+    "placements": {
+      "average_package": "₹5-6 LPA",
+      "top_recruiters": ["Infosys", "Wipro Legal", "LPO firms", "Law Startups"]
+    },
+    "infrastructure": {
+      "hostels": "AC/non-AC rooms, Wi-Fi, laundry, gym",
+      "library": "KOHA integrated system with national and international journals",
+      "labs": "Moot court halls, e-classrooms"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 11,
+    "name": "Aligarh Muslim University - Faculty of Law",
+    "location": "Aligarh, Uttar Pradesh",
+    "established": 1891,
+    "type": "Public",
+    "degrees_offered": ["BA LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Muslim Law", "Contract Law", "Constitutional Law"],
+      "Postgraduate": ["Taxation Law", "Criminology"]
+    },
+    "entrance_exam": "AMU Law Entrance",
+    "average_fee_per_year": "₹15,000 - ₹20,000",
+    "scholarships": ["Minority Scholarships", "Merit Scholarships"],
+    "placements": {
+      "average_package": "₹4-5 LPA",
+      "top_recruiters": ["Academia", "Legal NGOs", "Judiciary services"]
+    },
+    "infrastructure": {
+      "hostels": "Basic facilities with dining halls and reading rooms",
+      "library": "Oldest law library with over 100,000 volumes",
+      "labs": "Legal research and moot court facilities"
+    },
+    "notable_alumni": ["Justice Saghir Ahmed", "Salman Khurshid"]
+  },
+  {
+    "rank": 12,
+    "name": "Panjab University - Department of Laws",
+    "location": "Chandigarh",
+    "established": 1889,
+    "type": "Public",
+    "degrees_offered": ["LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Environmental Law", "Corporate Governance", "Human Rights"],
+      "Postgraduate": ["Labour Laws", "Criminal Law"]
+    },
+    "entrance_exam": "PU Law Entrance",
+    "average_fee_per_year": "₹10,000 - ₹12,000",
+    "scholarships": ["Central Scholarships", "State Schemes", "PU Need-based Aid"],
+    "placements": {
+      "average_package": "₹3.5-5 LPA",
+      "top_recruiters": ["Legal firms in Chandigarh", "Judiciary", "Corporate Legal Cells"]
+    },
+    "infrastructure": {
+      "hostels": "Separate hostels with reading and sports facilities",
+      "library": "Law journals, legal databases, rare documents",
+      "labs": "Legal aid clinics and moot court halls"
+    },
+    "notable_alumni": ["Justice Jagdish Singh Khehar", "Kiran Bedi"]
+  },
+  {
+    "rank": 13,
+    "name": "National Law University and Judicial Academy, Assam",
+    "location": "Guwahati, Assam",
+    "established": 2009,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Constitutional Law", "Company Law", "Family Law"],
+      "Postgraduate": ["Legal Theory", "Judicial Process"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹1,90,000",
+    "scholarships": ["State Scholarships", "Merit-based Aid"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["North Eastern Law Firms", "High Court Internships"]
+    },
+    "infrastructure": {
+      "hostels": "Wi-Fi enabled, fully residential campus",
+      "library": "NLUJA Library with online and offline law resources",
+      "labs": "Legal Aid Clinic, Moot Court Room"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 14,
+    "name": "National Law Institute University, Bhopal",
+    "location": "Bhopal, Madhya Pradesh",
+    "established": 1997,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Torts", "Property Law", "Banking Laws"],
+      "Postgraduate": ["Constitutional Law", "Business Law"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,10,000",
+    "scholarships": ["Merit-based Scholarships", "MP Government Schemes"],
+    "placements": {
+      "average_package": "₹8-9 LPA",
+      "top_recruiters": ["Luthra & Luthra", "Cyril Amarchand", "Trilegal"]
+    },
+    "infrastructure": {
+      "hostels": "Wi-Fi, Mess, Sports Complex",
+      "library": "Extensive online access to legal journals",
+      "labs": "ADR Cell, Legal Aid Clinics"
+    },
+    "notable_alumni": ["Tanya Agarwal", "Vasudha Sharma"]
+  },
+  {
+    "rank": 15,
+    "name": "Indian Law Institute",
+    "location": "New Delhi",
+    "established": 1956,
+    "type": "Deemed University",
+    "degrees_offered": ["LLM", "PhD", "PG Diplomas"],
+    "courses": {
+      "Postgraduate": ["Constitutional Law", "Human Rights", "Environmental Law"],
+      "Diplomas": ["Cyber Law", "Intellectual Property Rights"]
+    },
+    "entrance_exam": "ILI Entrance Test",
+    "average_fee_per_year": "₹40,000 - ₹70,000",
+    "scholarships": ["UGC Grants", "Need-based Aid"],
+    "placements": {
+      "average_package": "₹5-6 LPA",
+      "top_recruiters": ["Law Commission", "Research Bodies", "Supreme Court Clerks"]
+    },
+    "infrastructure": {
+      "hostels": "Limited, only for PhD and Research Scholars",
+      "library": "India’s largest law library with 75,000+ volumes",
+      "labs": "Research Centers on Law and Social Sciences"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 16,
+    "name": "Banaras Hindu University - Faculty of Law",
+    "location": "Varanasi, Uttar Pradesh",
+    "established": 1916,
+    "type": "Public",
+    "degrees_offered": ["LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Hindu Law", "Contract Law", "Family Law"],
+      "Postgraduate": ["Public International Law", "Company Law"]
+    },
+    "entrance_exam": "BLAT",
+    "average_fee_per_year": "₹7,000 - ₹12,000",
+    "scholarships": ["Merit and Means-based", "SC/ST/OBC schemes"],
+    "placements": {
+      "average_package": "₹4-5 LPA",
+      "top_recruiters": ["District Courts", "Legal NGOs", "Academic Institutes"]
+    },
+    "infrastructure": {
+      "hostels": "Centrally managed hostels with mess and library access",
+      "library": "Ancient manuscripts and legal records",
+      "labs": "Moot court, E-learning classes"
+    },
+    "notable_alumni": ["Justice V. R. Krishna Iyer", "K. K. Venugopal"]
+  },
+  {
+    "rank": 17,
+    "name": "Christ University - School of Law",
+    "location": "Bangalore, Karnataka",
+    "established": 2006,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM", "MPhil"],
+    "courses": {
+      "Undergraduate": ["Media Law", "Technology Law", "International Humanitarian Law"],
+      "Postgraduate": ["Corporate and Commercial Law", "Intellectual Property"]
+    },
+    "entrance_exam": "CUET (Christ University Entrance Test)",
+    "average_fee_per_year": "₹2,10,000",
+    "scholarships": ["Merit-based", "Christ Fee Waiver Scheme"],
+    "placements": {
+      "average_package": "₹6-7 LPA",
+      "top_recruiters": ["Infosys Legal", "Cognizant Legal", "EY Legal", "Luthra & Luthra"]
+    },
+    "infrastructure": {
+      "hostels": "Modern rooms with access to amenities",
+      "library": "Extensive digital law library and online portals",
+      "labs": "Moot court halls, legal research labs"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 18,
+    "name": "National University of Study and Research in Law",
+    "location": "Ranchi, Jharkhand",
+    "established": 2010,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Criminal Law", "Environmental Law", "Contract Law"],
+      "Postgraduate": ["Corporate Law", "International Law"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹1,90,000",
+    "scholarships": ["Jharkhand Govt. Schemes", "Merit-cum-Means Scholarships"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["LPOs", "District Courts", "Legal NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "Separate hostels with security and dining",
+      "library": "Extensive legal databases and print journals",
+      "labs": "Legal aid clinics, moot court"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 19,
+    "name": "Damodaram Sanjivayya National Law University",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "established": 2008,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Corporate Law", "IPR", "Torts"],
+      "Postgraduate": ["Business Law", "Criminal Law"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["Andhra Pradesh Social Welfare", "Merit Aid"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Start-ups", "Government Internships", "Legal NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "Furnished hostels with mess and study rooms",
+      "library": "Access to Manupatra, HeinOnline, Westlaw",
+      "labs": "Moot Court Hall, Legal Writing Lab"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 20,
+    "name": "Maharashtra National Law University, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "established": 2014,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Commercial Law", "Media Law", "Cyber Law"],
+      "Postgraduate": ["Corporate Law", "Maritime Law"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,30,000",
+    "scholarships": ["State Government Aid", "Merit Scholarships"],
+    "placements": {
+      "average_package": "₹7 LPA",
+      "top_recruiters": ["Khaitan & Co", "Trilegal", "Legal Chambers in Mumbai"]
+    },
+    "infrastructure": {
+      "hostels": "New campus with modern hostels and facilities",
+      "library": "Digital and print access to law resources",
+      "labs": "Legal writing workshops and moot court competitions"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 21,
+    "name": "IFIM Law School",
+    "location": "Bangalore, Karnataka",
+    "established": 2015,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Technology Law", "Sports Law", "Consumer Protection"],
+      "Postgraduate": ["Business Law"]
+    },
+    "entrance_exam": "LSAT India / IFIM Admission Test",
+    "average_fee_per_year": "₹2,50,000",
+    "scholarships": ["IFIM Merit Aid", "Need-based Grants"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Infosys Legal", "ICICI Legal", "Start-ups"]
+    },
+    "infrastructure": {
+      "hostels": "Off-campus residences with transport",
+      "library": "Integrated with IFIM B-School library system",
+      "labs": "Legal startup incubator, moot court room"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 22,
+    "name": "Lovely Professional University - School of Law",
+    "location": "Phagwara, Punjab",
+    "established": 2005,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Banking Laws", "Criminology", "Family Law"],
+      "Postgraduate": ["Corporate Law"]
+    },
+    "entrance_exam": "LPUNEST / CLAT / LSAT India",
+    "average_fee_per_year": "₹1,80,000",
+    "scholarships": ["LPUNEST Scholarships", "Merit and Financial Aid"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Corporate LPOs", "Consulting Firms", "NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "AC/non-AC hostels with gym and cafeteria",
+      "library": "Large central library with law section",
+      "labs": "Moot court, legal clinic, digital classrooms"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 23,
+    "name": "Galgotias University - School of Law",
+    "location": "Greater Noida, Uttar Pradesh",
+    "established": 2011,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Cyber Law", "Public International Law", "Penal Code"],
+      "Postgraduate": ["Criminal Law"]
+    },
+    "entrance_exam": "CLAT / LSAT India / GULSAT",
+    "average_fee_per_year": "₹1,20,000",
+    "scholarships": ["Merit Scholarships", "Academic Excellence Awards"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Legal consultancies", "LPOs", "Corporate Startups"]
+    },
+    "infrastructure": {
+      "hostels": "Smart campus hostels with 24x7 power and Wi-Fi",
+      "library": "Digital library and law-specific archives",
+      "labs": "E-court simulation, legal aid centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 24,
+    "name": "New Law College, Bharati Vidyapeeth",
+    "location": "Pune, Maharashtra",
+    "established": 1978,
+    "type": "Private (Deemed to be University)",
+    "degrees_offered": ["LLB", "BA LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Family Law", "Law of Crimes", "International Law"],
+      "Postgraduate": ["Constitutional Law", "Human Rights"]
+    },
+    "entrance_exam": "BVP CET Law",
+    "average_fee_per_year": "₹1,60,000",
+    "scholarships": ["Merit-based Scholarships", "SC/ST Aid"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["Law Firms", "Legal Cells of Banks"]
+    },
+    "infrastructure": {
+      "hostels": "Separate for boys/girls with mess, gym",
+      "library": "Subscription to all legal databases and e-resources",
+      "labs": "Legal drafting and practice courtrooms"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 25,
+    "name": "University of Petroleum and Energy Studies - School of Law",
+    "location": "Dehradun, Uttarakhand",
+    "established": 2003,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "BCom LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Energy Law", "Maritime Law", "Media Law"],
+      "Postgraduate": ["International Business Law", "Environmental Law"]
+    },
+    "entrance_exam": "ULSAT / CLAT / LSAT India",
+    "average_fee_per_year": "₹3,00,000",
+    "scholarships": ["Merit Scholarships", "Domicile-based fee waivers"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["ONGC Legal", "Legal teams in Energy Sector", "Fox Mandal"]
+    },
+    "infrastructure": {
+      "hostels": "Modern hostels with biometric access and sports facilities",
+      "library": "Energy and environment-specific legal resources",
+      "labs": "Moot court, arbitration centers, legal incubators"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 26,
+    "name": "Maharashtra National Law University, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "established": 2016,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Legal Methods", "Administrative Law", "International Law"],
+      "Postgraduate": ["Corporate Law", "Cyber Law"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,40,000",
+    "scholarships": ["Government Scholarships", "Merit-cum-Means"],
+    "placements": {
+      "average_package": "₹6 LPA",
+      "top_recruiters": ["Law firms", "Judicial Clerkships", "PSUs"]
+    },
+    "infrastructure": {
+      "hostels": "Fully residential with mess, Wi-Fi, gym",
+      "library": "Access to SCC Online, JSTOR, Westlaw",
+      "labs": "Legal aid clinic, moot court hall"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 27,
+    "name": "Sikkim Government Law College",
+    "location": "Gangtok, Sikkim",
+    "established": 1980,
+    "type": "Public",
+    "degrees_offered": ["LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Constitutional Law", "Family Law", "Torts"],
+      "Postgraduate": ["Environmental Law", "Human Rights Law"]
+    },
+    "entrance_exam": "State-level Entrance",
+    "average_fee_per_year": "₹9,000",
+    "scholarships": ["Sikkim State Scholarships", "SC/ST/OBC schemes"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["State Judiciary", "Legal NGOs", "Litigation"]
+    },
+    "infrastructure": {
+      "hostels": "Limited capacity, shared accommodation",
+      "library": "Essential legal texts and journals",
+      "labs": "Basic moot court and legal aid centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 28,
+    "name": "Amity Law School, Noida",
+    "location": "Noida, Uttar Pradesh",
+    "established": 1999,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Media Law", "International Trade Law", "Criminal Law"],
+      "Postgraduate": ["Business Law", "Taxation"]
+    },
+    "entrance_exam": "Amity Entrance Test / CLAT / LSAT",
+    "average_fee_per_year": "₹1,90,000",
+    "scholarships": ["Merit Scholarships", "Fee Waivers for Top CLAT Scorers"],
+    "placements": {
+      "average_package": "₹4.5-5 LPA",
+      "top_recruiters": ["Legal Process Outsourcing firms", "Corporate Legal Departments", "Startups"]
+    },
+    "infrastructure": {
+      "hostels": "Modern AC hostels with Wi-Fi and gym",
+      "library": "Dedicated law library with online database access",
+      "labs": "Virtual Courtroom, Legal Aid Clinic"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 29,
+    "name": "ICFAI Law School, Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "established": 2008,
+    "type": "Private (Deemed to be University)",
+    "degrees_offered": ["BA LLB (Hons)", "BBA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Public Law", "Criminal Law", "Law and Technology"],
+      "Postgraduate": ["Corporate and Commercial Law"]
+    },
+    "entrance_exam": "ICFAI Law Admission Test / CLAT / LSAT",
+    "average_fee_per_year": "₹2,40,000",
+    "scholarships": ["Merit Scholarships", "Fee Waivers"],
+    "placements": {
+      "average_package": "₹4.8 LPA",
+      "top_recruiters": ["LPOs", "Firms", "Legal Cells of Companies"]
+    },
+    "infrastructure": {
+      "hostels": "Well-maintained AC hostels with mess and sports",
+      "library": "Fully digitized with legal e-resources",
+      "labs": "Legal research labs, mock trial courts"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 30,
+    "name": "School of Law, University of Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "established": 2009,
+    "type": "Public",
+    "degrees_offered": ["BA LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Labour Law", "Administrative Law", "IPR"],
+      "Postgraduate": ["Cyber Law", "Maritime Law"]
+    },
+    "entrance_exam": "MHCET Law",
+    "average_fee_per_year": "₹15,000 - ₹20,000",
+    "scholarships": ["State Aid", "Merit-based scholarships"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Government Legal Services", "Litigation Chambers", "Legal NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "University hostels nearby, shared with other departments",
+      "library": "University central library access with legal sections",
+      "labs": "Legal aid cell, moot court practice area"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 31,
+    "name": "School of Law, Christ University, Delhi NCR Campus",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "established": 2019,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Cyber Law", "Family Law", "Corporate Law"],
+      "Postgraduate": ["Constitutional and Administrative Law"]
+    },
+    "entrance_exam": "CUET (Christ Entrance Test)",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["Merit Scholarships", "Christ Fee Waivers"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["LegalEdge", "Infosys Legal", "Startups", "ICICI Legal"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels with gym and cafeteria",
+      "library": "Digital law library with research guides",
+      "labs": "Legal aid clinic, mock courtrooms"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 32,
+    "name": "MS Ramaiah College of Law",
+    "location": "Bangalore, Karnataka",
+    "established": 1995,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law of Torts", "Administrative Law", "IPR"],
+      "Postgraduate": ["Business and Trade Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / Merit",
+    "average_fee_per_year": "₹1,50,000",
+    "scholarships": ["Private Scholarships", "Institutional Waivers"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["LegalKart", "VakilSearch", "Private Chambers"]
+    },
+    "infrastructure": {
+      "hostels": "Near-campus hostels with common mess",
+      "library": "Well-stocked with legal digests and journals",
+      "labs": "Moot Court Hall, Legal writing centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 33,
+    "name": "School of Legal Studies, Cochin University of Science and Technology",
+    "location": "Kochi, Kerala",
+    "established": 1962,
+    "type": "Public",
+    "degrees_offered": ["LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Public Law", "Law of Crimes", "Family Law"],
+      "Postgraduate": ["Maritime Law", "IPR", "Constitutional Law"]
+    },
+    "entrance_exam": "CUSAT CAT",
+    "average_fee_per_year": "₹10,000 - ₹20,000",
+    "scholarships": ["Kerala State Scholarships", "Central Schemes"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Maritime Legal Bodies", "Law firms in Kerala", "Judicial internships"]
+    },
+    "infrastructure": {
+      "hostels": "University hostels with basic facilities",
+      "library": "Specialized in maritime and international law",
+      "labs": "Legal Aid Cell, Moot Court Room"
+    },
+    "notable_alumni": ["Justice Kurian Joseph"]
+  },
+  {
+    "rank": 34,
+    "name": "Army Institute of Law",
+    "location": "Mohali, Punjab",
+    "established": 1999,
+    "type": "Private (Army Welfare Education Society)",
+    "degrees_offered": ["BA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law of Evidence", "Environmental Law", "Law and Society"],
+      "Postgraduate": ["Criminal Law", "Cyber Law"]
+    },
+    "entrance_exam": "AIL LET",
+    "average_fee_per_year": "₹1,75,000",
+    "scholarships": ["Army Welfare Schemes", "Merit Scholarships"],
+    "placements": {
+      "average_package": "₹4.8 LPA",
+      "top_recruiters": ["Legal consultancies", "Army legal services", "Corporate firms"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus secured housing with mess",
+      "library": "Comprehensive law library",
+      "labs": "Legal aid and ADR cell"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 35,
+    "name": "Institute of Law, Nirma University",
+    "location": "Ahmedabad, Gujarat",
+    "established": 2007,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BCom LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Corporate Law", "Torts", "IPR"],
+      "Postgraduate": ["Constitutional Law", "Criminal Law"]
+    },
+    "entrance_exam": "CLAT / ILNU Entrance Test",
+    "average_fee_per_year": "₹2,10,000",
+    "scholarships": ["Merit Scholarships", "Need-based Fee Relief"],
+    "placements": {
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["Khaitan & Co", "LPOs", "LegalEdge"]
+    },
+    "infrastructure": {
+      "hostels": "Residential blocks with recreation areas",
+      "library": "Access to international journals and digital platforms",
+      "labs": "Legal aid cell, arbitration center"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 36,
+    "name": "REVA University - School of Legal Studies",
+    "location": "Bangalore, Karnataka",
+    "established": 2015,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Human Rights Law", "Legal Research", "Penal Law"],
+      "Postgraduate": ["Criminal Law", "Cyber Security Law"]
+    },
+    "entrance_exam": "REVA CET / CLAT / LSAT",
+    "average_fee_per_year": "₹1,60,000",
+    "scholarships": ["Merit-Based", "REVA Financial Assistance"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["VakilSearch", "LPOs", "Tech Companies’ Legal Teams"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels with laundry and gym",
+      "library": "Advanced legal search databases and publications",
+      "labs": "Moot court, ADR practice center"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 37,
+    "name": "Chanakya National Law University",
+    "location": "Patna, Bihar",
+    "established": 2006,
+    "type": "Public",
+    "degrees_offered": ["BA LLB (Hons)", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Comparative Constitution", "Law of Arbitration", "Humanitarian Law"],
+      "Postgraduate": ["Corporate Law", "Criminal Law"]
+    },
+    "entrance_exam": "CLAT",
+    "average_fee_per_year": "₹2,30,000",
+    "scholarships": ["State Government Schemes", "Merit Aid"],
+    "placements": {
+      "average_package": "₹5.5 LPA",
+      "top_recruiters": ["Khaitan & Co", "Luthra & Luthra", "Judicial Internships"]
+    },
+    "infrastructure": {
+      "hostels": "In-campus hostels with mess and Wi-Fi",
+      "library": "Advanced legal databases and journals",
+      "labs": "Moot court, legal research centers"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 38,
+    "name": "School of Law, Bennett University",
+    "location": "Greater Noida, Uttar Pradesh",
+    "established": 2017,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Corporate Law", "IP Law", "Media Law"],
+      "Postgraduate": ["International Commercial Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / Bennett Entrance",
+    "average_fee_per_year": "₹3,00,000",
+    "scholarships": ["Merit Scholarships", "Bennett Talent Award"],
+    "placements": {
+      "average_package": "₹5 LPA",
+      "top_recruiters": ["Times Group Legal", "AZB Partners", "Startups"]
+    },
+    "infrastructure": {
+      "hostels": "Luxury-style AC hostels, laundry, gym",
+      "library": "Times Group e-resources and international legal databases",
+      "labs": "Legal startup incubator, mock courtroom"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 39,
+    "name": "VIT School of Law",
+    "location": "Chennai, Tamil Nadu",
+    "established": 2014,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Banking Law", "Environmental Law", "Criminology"],
+      "Postgraduate": ["International Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / VSLAT",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["VIT Merit Scholarships", "Category-wise Fee Waivers"],
+    "placements": {
+      "average_package": "₹4.8 LPA",
+      "top_recruiters": ["Infosys Legal", "VFS Legal", "LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "Modern, Wi-Fi enabled rooms",
+      "library": "Extensive print and digital access",
+      "labs": "Legal writing, legal analytics centers"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 40,
+    "name": "Saveetha School of Law",
+    "location": "Chennai, Tamil Nadu",
+    "established": 2009,
+    "type": "Private (Deemed to be University)",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Torts", "IPR", "Gender Justice"],
+      "Postgraduate": ["Constitutional Law", "Cyber Law"]
+    },
+    "entrance_exam": "Saveetha Entrance Test / CLAT / LSAT",
+    "average_fee_per_year": "₹1,80,000",
+    "scholarships": ["Saveetha Scholarships", "Merit and Sports-based Waivers"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["Chambers in Chennai", "Legal Process Outsourcing", "Govt. Internships"]
+    },
+    "infrastructure": {
+      "hostels": "Gender-separated hostels with mess and Wi-Fi",
+      "library": "Digitized library with research support",
+      "labs": "Forensics and moot practice courtrooms"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 41,
+    "name": "Faculty of Law, University of Calcutta",
+    "location": "Kolkata, West Bengal",
+    "established": 1909,
+    "type": "Public",
+    "degrees_offered": ["LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Civil Procedure Code", "Company Law", "Property Law"],
+      "Postgraduate": ["Jurisprudence", "Comparative Law"]
+    },
+    "entrance_exam": "CU Law Entrance",
+    "average_fee_per_year": "₹3,000 - ₹5,000",
+    "scholarships": ["State Govt. Aid", "Merit-cum-Means Scholarships"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Legal NGOs", "Judicial Clerkships", "Litigation Practice"]
+    },
+    "infrastructure": {
+      "hostels": "Shared hostels under university campus",
+      "library": "One of the oldest law libraries in India",
+      "labs": "Legal Aid Clinic, Moot Court Practice Area"
+    },
+    "notable_alumni": ["Dr. Rajendra Prasad", "Jyoti Basu"]
+  },
+  {
+    "rank": 42,
+    "name": "Sage University - School of Law",
+    "location": "Indore, Madhya Pradesh",
+    "established": 2017,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Legal History", "Administrative Law", "Contract Law"],
+      "Postgraduate": ["Business Law", "Human Rights"]
+    },
+    "entrance_exam": "SAGE Entrance / CLAT / LSAT",
+    "average_fee_per_year": "₹1,20,000",
+    "scholarships": ["SAGE Merit Scholarships", "Academic Excellence Award"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["LegalEdge", "Chambers in MP", "Private LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus with mess and indoor games",
+      "library": "Digital legal database access with print resources",
+      "labs": "ADR center, Legal Writing Lab"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 43,
+    "name": "MIT-WPU School of Law",
+    "location": "Pune, Maharashtra",
+    "established": 2017,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law and Technology", "Consumer Protection", "Environmental Law"],
+      "Postgraduate": ["Constitutional Law", "Criminal Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / MIT-WPU Entrance",
+    "average_fee_per_year": "₹2,20,000",
+    "scholarships": ["Merit Scholarships", "MIT Financial Assistance"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["Start-ups", "LPOs", "Law firms in Pune"]
+    },
+    "infrastructure": {
+      "hostels": "Smart hostels with biometric security",
+      "library": "Integrated legal resources, journals, law reports",
+      "labs": "E-Moot Court Room, Arbitration Center"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 44,
+    "name": "Indore Institute of Law",
+    "location": "Indore, Madhya Pradesh",
+    "established": 2003,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Family Law", "Constitutional Law", "Criminology"],
+      "Postgraduate": ["Corporate Law", "Cyber Law"]
+    },
+    "entrance_exam": "IILET / CLAT / LSAT",
+    "average_fee_per_year": "₹1,50,000",
+    "scholarships": ["IILET Scholarships", "Merit-based Concessions"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["VakilSearch", "LegalKart", "Law firms across MP"]
+    },
+    "infrastructure": {
+      "hostels": "Airy hostels with sports and mess",
+      "library": "Legal journals, online research tools",
+      "labs": "Moot Court, Arbitration Hall"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 45,
+    "name": "Geeta Institute of Law",
+    "location": "Panipat, Haryana",
+    "established": 2007,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law of Evidence", "Company Law", "Penal Code"],
+      "Postgraduate": ["Criminal Law", "Business Law"]
+    },
+    "entrance_exam": "GLAT / CLAT / LSAT",
+    "average_fee_per_year": "₹1,00,000",
+    "scholarships": ["GLAT-based Scholarships", "Need-based Fee Concessions"],
+    "placements": {
+      "average_package": "₹3.5-4 LPA",
+      "top_recruiters": ["Legal Cells in NCR", "Law firms", "Litigation Chambers"]
+    },
+    "infrastructure": {
+      "hostels": "Separate boys/girls hostels with 24x7 security",
+      "library": "Fully automated law library",
+      "labs": "Legal aid clinics, courtroom simulation"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 46,
+    "name": "BMS College of Law",
+    "location": "Bangalore, Karnataka",
+    "established": 1963,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Contract Law", "Labour Law", "IP Law"],
+      "Postgraduate": ["Constitutional Law", "Business Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / Direct Merit",
+    "average_fee_per_year": "₹1,20,000",
+    "scholarships": ["State SC/ST Scholarships", "BMS Merit Schemes"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Legal Chambers in Bangalore", "LPOs", "Litigation Practices"]
+    },
+    "infrastructure": {
+      "hostels": "Off-campus accommodation with transit facilities",
+      "library": "Digitized resources, legal journals and periodicals",
+      "labs": "Moot Court Hall, Legal Aid Centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 47,
+    "name": "School of Law, Gitam University",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "established": 2012,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Cyber Law", "Constitutional Law", "Criminal Law"],
+      "Postgraduate": ["IP Law", "Corporate Law"]
+    },
+    "entrance_exam": "LSAT / CLAT / GAT (Gitam Admission Test)",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["Merit-based", "Gitam Fee Waivers"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Start-ups", "Legal NGOs", "Law firms"]
+    },
+    "infrastructure": {
+      "hostels": "Well-maintained hostels, gender-segregated",
+      "library": "Dedicated law library with online database access",
+      "labs": "Moot Court Lab, Legal Aid Cell"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 48,
+    "name": "Sharda University - School of Law",
+    "location": "Greater Noida, Uttar Pradesh",
+    "established": 2009,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Environmental Law", "Law of Crimes", "ADR"],
+      "Postgraduate": ["Corporate Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / SUAT",
+    "average_fee_per_year": "₹1,50,000",
+    "scholarships": ["Sharda Merit Aid", "Academic and Sports Scholarships"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["LegalEdge", "LegalKart", "Firms in Delhi NCR"]
+    },
+    "infrastructure": {
+      "hostels": "Fully equipped AC/non-AC hostels",
+      "library": "Central digital law repository",
+      "labs": "Mock courtrooms, drafting and arbitration labs"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 49,
+    "name": "Sardar Patel Subharti Institute of Law, Meerut",
+    "location": "Meerut, Uttar Pradesh",
+    "established": 2002,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Human Rights Law", "Family Law", "Criminal Law"],
+      "Postgraduate": ["Labour Law", "Business Law"]
+    },
+    "entrance_exam": "Direct Admission / CLAT / University Test",
+    "average_fee_per_year": "₹95,000",
+    "scholarships": ["Subharti Financial Aid", "Minority Scholarships"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["District Court Practices", "Legal Clinics", "Private LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "Shared rooms, Wi-Fi, gym, laundry",
+      "library": "Subscription to legal databases",
+      "labs": "Moot court, legal aid centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 50,
+    "name": "School of Law, Jagran Lakecity University",
+    "location": "Bhopal, Madhya Pradesh",
+    "established": 2014,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Public International Law", "Commercial Law", "Legal Writing"],
+      "Postgraduate": ["Cyber Law", "IPR"]
+    },
+    "entrance_exam": "CLAT / LSAT / JLU Entrance",
+    "average_fee_per_year": "₹2,20,000",
+    "scholarships": ["JLU Scholarships", "Merit-based and Alumni Schemes"],
+    "placements": {
+      "average_package": "₹4.6 LPA",
+      "top_recruiters": ["Luthra & Luthra", "LegalEdge", "Wadia Ghandy & Co."]
+    },
+    "infrastructure": {
+      "hostels": "Modern residences with 24x7 facilities",
+      "library": "Dedicated law research and digital section",
+      "labs": "Courtroom Simulation Lab, Legal Incubation"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 51,
+    "name": "KIIT School of Law",
+    "location": "Bhubaneswar, Odisha",
+    "established": 2007,
+    "type": "Private (Deemed to be University)",
+    "degrees_offered": ["BA LLB", "BBA LLB", "BSc LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Cyber Law", "Trade Law", "Criminology"],
+      "Postgraduate": ["Constitutional Law", "Human Rights"]
+    },
+    "entrance_exam": "CLAT / LSAT / KIITEE Law",
+    "average_fee_per_year": "₹3,00,000",
+    "scholarships": ["Merit Scholarships", "KIIT Need-Based Aid"],
+    "placements": {
+      "average_package": "₹5.2 LPA",
+      "top_recruiters": ["ICICI Legal", "ONGC Legal", "Trilegal"]
+    },
+    "infrastructure": {
+      "hostels": "Premium residential blocks",
+      "library": "International law journals, e-resources",
+      "labs": "Legal aid cell, tech-enabled moot court"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 52,
+    "name": "SRM School of Law",
+    "location": "Chennai, Tamil Nadu",
+    "established": 2014,
+    "type": "Private (Deemed University)",
+    "degrees_offered": ["BA LLB", "BCom LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Torts", "Environmental Law", "Banking Law"],
+      "Postgraduate": ["IP Law", "Corporate Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / SRM Entrance Test",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["SRM Merit Scholarships", "Academic Concessions"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Infosys Legal", "Law firms in Chennai", "Startups"]
+    },
+    "infrastructure": {
+      "hostels": "AC/non-AC hostels with sports complex",
+      "library": "Digital and print legal archives",
+      "labs": "ADR Center, Legal Research Studio"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 53,
+    "name": "Institute of Law, Kurukshetra University",
+    "location": "Kurukshetra, Haryana",
+    "established": 1969,
+    "type": "Public",
+    "degrees_offered": ["LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Law of Crimes", "Law of Torts", "Company Law"],
+      "Postgraduate": ["Taxation Law", "Labour Law"]
+    },
+    "entrance_exam": "University Entrance / Merit",
+    "average_fee_per_year": "₹10,000 - ₹20,000",
+    "scholarships": ["Haryana Govt Scholarships", "Merit-cum-Means"],
+    "placements": {
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["Judicial Clerkships", "Govt Legal Services"]
+    },
+    "infrastructure": {
+      "hostels": "University hostel with mess and basic amenities",
+      "library": "Oldest law collection in Haryana",
+      "labs": "Legal Clinic, Moot Court Hall"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 54,
+    "name": "Maharishi University of Information Technology – School of Law",
+    "location": "Noida, Uttar Pradesh",
+    "established": 2001,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Contract Law", "Administrative Law", "Penal Code"],
+      "Postgraduate": ["Corporate Law", "Human Rights"]
+    },
+    "entrance_exam": "Direct Admission / CLAT / LSAT",
+    "average_fee_per_year": "₹1,20,000",
+    "scholarships": ["Merit Scholarships", "Fee Concessions"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["LPOs", "Legal Departments of Companies"]
+    },
+    "infrastructure": {
+      "hostels": "Clean and secure hostels on campus",
+      "library": "Updated legal books and case repositories",
+      "labs": "ADR Labs, Legal Clinic"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 55,
+    "name": "ICFAI Law School, Dehradun",
+    "location": "Dehradun, Uttarakhand",
+    "established": 2003,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Family Law", "Jurisprudence", "Human Rights"],
+      "Postgraduate": ["Corporate and Commercial Law"]
+    },
+    "entrance_exam": "ILSAT / CLAT / LSAT",
+    "average_fee_per_year": "₹1,80,000",
+    "scholarships": ["Merit-Based", "ICFAI Financial Aid"],
+    "placements": {
+      "average_package": "₹4.3 LPA",
+      "top_recruiters": ["Corporate Law Firms", "Litigation Practices", "LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "Well-managed residential blocks",
+      "library": "Extensive law library with e-resources",
+      "labs": "Legal aid cell, moot court setup"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 56,
+    "name": "Galgotias University School of Law",
+    "location": "Greater Noida, Uttar Pradesh",
+    "established": 2011,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Cyber Law", "Family Law", "Contract Law"],
+      "Postgraduate": ["Corporate Law", "Constitutional Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / GULSAT",
+    "average_fee_per_year": "₹1,50,000",
+    "scholarships": ["Merit Scholarships", "SC/ST/OBC Financial Aid"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["LegalEdge", "Startups", "LPO firms"]
+    },
+    "infrastructure": {
+      "hostels": "AC and non-AC options with 24x7 security",
+      "library": "Digital law database and research section",
+      "labs": "Moot Court, Legal Aid Centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 57,
+    "name": "IFIM Law School",
+    "location": "Bangalore, Karnataka",
+    "established": 2014,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Constitutional Law", "IP Law", "Criminal Procedure"],
+      "Postgraduate": ["Business Law", "International Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / IFIM Entrance",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["IFIM Merit Aid", "Sports and Diversity Scholarships"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["LegalKart", "Infosys Legal", "Nishith Desai Associates"]
+    },
+    "infrastructure": {
+      "hostels": "Modern apartments near campus",
+      "library": "Extensive legal databases and journals",
+      "labs": "ADR Room, E-Moot Court"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 58,
+    "name": "Bharati Vidyapeeth New Law College",
+    "location": "Pune, Maharashtra",
+    "established": 1978,
+    "type": "Private (Deemed University)",
+    "degrees_offered": ["LLB", "BA LLB", "LLM", "PhD"],
+    "courses": {
+      "Undergraduate": ["Administrative Law", "Criminal Law", "Contract Law"],
+      "Postgraduate": ["Cyber Law", "Human Rights"]
+    },
+    "entrance_exam": "BVP CET / CLAT / LSAT",
+    "average_fee_per_year": "₹1,20,000",
+    "scholarships": ["University Merit Scholarships", "Fee Waivers"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["LPOs", "Law firms", "Corporate legal teams"]
+    },
+    "infrastructure": {
+      "hostels": "Well-maintained hostels with medical support",
+      "library": "E-library and national legal databases",
+      "labs": "Legal aid cell, Moot Court Hall"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 59,
+    "name": "Renaissance Law College",
+    "location": "Indore, Madhya Pradesh",
+    "established": 2006,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law of Evidence", "Consumer Law", "Labour Law"],
+      "Postgraduate": ["Corporate Law", "IPR"]
+    },
+    "entrance_exam": "CLAT / University-level Admission",
+    "average_fee_per_year": "₹90,000",
+    "scholarships": ["Merit Scholarships", "EWS and Minority Aid"],
+    "placements": {
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Local Firms", "Legal Startups", "Litigation"]
+    },
+    "infrastructure": {
+      "hostels": "Nearby hostels arranged by institution",
+      "library": "Legal journals, competitive prep resources",
+      "labs": "Courtroom Simulation, Legal Aid Wing"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 60,
+    "name": "IMS Law College",
+    "location": "Noida, Uttar Pradesh",
+    "established": 2004,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Torts", "Contract Law", "Family Law"],
+      "Postgraduate": ["Corporate Law", "Cyber Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / Direct Admission",
+    "average_fee_per_year": "₹1,10,000",
+    "scholarships": ["IMS Scholarships", "Govt. Scholarships"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["VakilSearch", "LegalEdge", "LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "Arranged through IMS Group",
+      "library": "Law journals, bare acts, AIR series",
+      "labs": "Legal Research Cell, Moot Court"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 61,
+    "name": "Ideal Institute of Management and Technology & School of Law",
+    "location": "Delhi",
+    "established": 1999,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB"],
+    "courses": {
+      "Undergraduate": ["Law of Crimes", "Jurisprudence", "Company Law"]
+    },
+    "entrance_exam": "GGSIPU CET / CLAT",
+    "average_fee_per_year": "₹95,000",
+    "scholarships": ["University Merit Aid", "Govt. Scholarships"],
+    "placements": {
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["District Courts", "Legal Aid Centers", "NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "External PG tie-ups available",
+      "library": "Fully automated law section",
+      "labs": "Court simulation facilities"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 62,
+    "name": "Sinhgad Law College",
+    "location": "Pune, Maharashtra",
+    "established": 2003,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Labour Law", "Penal Code", "IPR"],
+      "Postgraduate": ["Human Rights", "Criminal Law"]
+    },
+    "entrance_exam": "MH CET Law",
+    "average_fee_per_year": "₹90,000",
+    "scholarships": ["EBC, SC/ST/OBC Scholarships"],
+    "placements": {
+      "average_package": "₹3.3 LPA",
+      "top_recruiters": ["Law firms", "Legal NGO", "District courts"]
+    },
+    "infrastructure": {
+      "hostels": "Sinhgad group hostel facilities available",
+      "library": "Legal books, journals, online access",
+      "labs": "Moot Court, Legal Literacy Cell"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 63,
+    "name": "IMS Unison University – School of Law",
+    "location": "Dehradun, Uttarakhand",
+    "established": 2013,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Administrative Law", "International Law", "ADR"],
+      "Postgraduate": ["Constitutional Law", "Business Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / University Entrance",
+    "average_fee_per_year": "₹1,80,000",
+    "scholarships": ["Merit Scholarships", "Fee Waivers for High CLAT Rank"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Law firms", "Corporate Legal Wings", "LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "Wi-Fi enabled, secure on-campus hostels",
+      "library": "Digital database, legal reference tools",
+      "labs": "Court simulation chamber, Legal research center"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 64,
+    "name": "JIS University - School of Juridical Sciences",
+    "location": "Kolkata, West Bengal",
+    "established": 2014,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Legal History", "Penal Code", "Women and Law"],
+      "Postgraduate": ["IPR", "Corporate Law"]
+    },
+    "entrance_exam": "University Test / CLAT / LSAT",
+    "average_fee_per_year": "₹1,30,000",
+    "scholarships": ["Merit-Based Concessions", "JIS Financial Aid"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Legal NGOs", "LPOs", "Chambers"]
+    },
+    "infrastructure": {
+      "hostels": "Campus hostels with mess & gym",
+      "library": "Extensive e-library and legal journals",
+      "labs": "Moot court, drafting labs"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 65,
+    "name": "Dr. Ambedkar Law College, Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "established": 1945,
+    "type": "Public",
+    "degrees_offered": ["LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Family Law", "Labour Law", "Jurisprudence"],
+      "Postgraduate": ["Human Rights", "Corporate Law"]
+    },
+    "entrance_exam": "TS LAWCET",
+    "average_fee_per_year": "₹10,000",
+    "scholarships": ["State Scholarships", "SC/ST Welfare Schemes"],
+    "placements": {
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["Litigation", "Government Departments"]
+    },
+    "infrastructure": {
+      "hostels": "Government accommodation or external PGs",
+      "library": "Historic law collection",
+      "labs": "Legal Aid Centre"
+    },
+    "notable_alumni": ["Justice Subhash Reddy", "Other AP & TS Judges"]
+  },
+  {
+  "rank": 66,
+  "name": "University Law College, Bangalore University",
+  "location": "Bangalore, Karnataka",
+  "established": 1948,
+  "type": "Public",
+  "degrees_offered": ["LLB", "BA LLB", "LLM", "PhD"],
+  "courses": {
+    "Undergraduate": [
+      "Law of Torts",
+      "Family Law",
+      "Company Law",
+      "Criminal Law",
+      "Environmental Law"
+    ],
+    "Postgraduate": [
+      "Constitutional Law",
+      "Business Law",
+      "International Law",
+      "Human Rights"
+    ]
+  },
+  "entrance_exam": "Karnataka CET / University Admission Test",
+  "average_fee_per_year": "₹5,000 - ₹15,000",
+  "scholarships": [
+    "State Government SC/ST Scholarships",
+    "Minority Scholarships",
+    "Merit-cum-Means Scholarships"
+  ],
+  "placements": {
+    "average_package": "₹3.8 LPA",
+    "top_recruiters": [
+      "District and High Courts",
+      "Legal NGOs",
+      "Advocates Chambers",
+      "Public Sector Legal Wings"
+    ]
+  },
+  "infrastructure": {
+    "hostels": "University hostels with separate facilities for men and women",
+    "library": "Extensive collection of legal texts, journals, and online access to legal databases",
+    "labs": "Moot Court Hall, Legal Aid Cell, Research Centre"
+  },
+  "notable_alumni": [
+    "Justice N. Santosh Hegde",
+    "Justice R. Banumathi",
+    "Senior Advocates in Karnataka High Court"
+  ]
+  },
+  {
+    "rank": 67,
+    "name": "Amity Law School, Amity University Kolkata",
+    "location": "Kolkata, West Bengal",
+    "established": 2015,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Constitutional Law", "Criminal Law", "Contract Law"],
+      "Postgraduate": ["Corporate Law", "IPR"]
+    },
+    "entrance_exam": "Amity Entrance Test / CLAT / LSAT",
+    "average_fee_per_year": "₹1,80,000",
+    "scholarships": ["Merit Scholarships", "CLAT Rank-Based Concession"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["LegalEdge", "LPOs", "Law Firms in Kolkata"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus AC/non-AC hostels with full amenities",
+      "library": "Digital law library and international database access",
+      "labs": "E-Moot Court, Legal Drafting Lab"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 68,
+    "name": "Surendranath Law College",
+    "location": "Kolkata, West Bengal",
+    "established": 1885,
+    "type": "Public",
+    "degrees_offered": ["LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Family Law", "Criminal Law", "Property Law"],
+      "Postgraduate": ["Human Rights", "Labour Law"]
+    },
+    "entrance_exam": "University of Calcutta Law Entrance",
+    "average_fee_per_year": "₹2,500 - ₹4,000",
+    "scholarships": ["West Bengal Govt Scholarships", "Minority Aid"],
+    "placements": {
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Judicial Services", "NGOs", "Local Chambers"]
+    },
+    "infrastructure": {
+      "hostels": "University hostel allotment available",
+      "library": "Traditional legal archives with digital upgrades",
+      "labs": "Moot Court Practice Area"
+    },
+    "notable_alumni": ["Dr. Rajendra Prasad", "Ashoke Sen"]
+  },
+  {
+    "rank": 69,
+    "name": "School of Law, Presidency University",
+    "location": "Bangalore, Karnataka",
+    "established": 2015,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law of Evidence", "Public International Law", "Environmental Law"],
+      "Postgraduate": ["Corporate and Commercial Law"]
+    },
+    "entrance_exam": "Presidency Entrance / CLAT / LSAT",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["Merit Scholarships", "Academic Performance Waivers"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["Corporate Firms", "LawStartups", "LegalEdge"]
+    },
+    "infrastructure": {
+      "hostels": "Fully residential campus with modern hostels",
+      "library": "Online law databases and reference sections",
+      "labs": "Courtroom simulation, arbitration lab"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 70,
+    "name": "ICFAI Law School, Jaipur",
+    "location": "Jaipur, Rajasthan",
+    "established": 2011,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Criminal Procedure Code", "Labour Law", "Company Law"],
+      "Postgraduate": ["Cyber Law", "International Trade Law"]
+    },
+    "entrance_exam": "ILSAT / CLAT / LSAT",
+    "average_fee_per_year": "₹1,60,000",
+    "scholarships": ["Merit-Based", "ICFAI Concessions"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["ICICI Legal", "VakilSearch", "LegalKart"]
+    },
+    "infrastructure": {
+      "hostels": "Air-conditioned hostels on-campus",
+      "library": "Integrated law e-library with printed acts and journals",
+      "labs": "Legal aid centre, E-Moot Court"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 71,
+    "name": "Lloyd Law College",
+    "location": "Greater Noida, Uttar Pradesh",
+    "established": 2003,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Jurisprudence", "Law of Torts", "IP Law"],
+      "Postgraduate": ["Corporate Law"]
+    },
+    "entrance_exam": "LLSAT / CLAT / LSAT",
+    "average_fee_per_year": "₹1,50,000",
+    "scholarships": ["Merit & Need-based", "EWS Concessions"],
+    "placements": {
+      "average_package": "₹3.9 LPA",
+      "top_recruiters": ["AZB & Partners", "LegalKart", "High Court Chambers"]
+    },
+    "infrastructure": {
+      "hostels": "Residential hostels with gym, library access",
+      "library": "Extensive digital and printed legal resources",
+      "labs": "ADR Lab, Legal Aid Cell, Moot Court Complex"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 72,
+    "name": "Mewar Law Institute",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "established": 2006,
+    "type": "Private",
+    "degrees_offered": ["LLB", "BA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law of Evidence", "Taxation Law", "Environmental Law"],
+      "Postgraduate": ["Labour Law", "Business Law"]
+    },
+    "entrance_exam": "University Entrance / CLAT",
+    "average_fee_per_year": "₹1,00,000",
+    "scholarships": ["SC/ST Govt Schemes", "Institutional Aid"],
+    "placements": {
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Law Firms", "Litigation Practices", "LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "Off-campus accommodations provided",
+      "library": "Law library with legal commentary and reports",
+      "labs": "Mock court room, Arbitration labs"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 73,
+    "name": "Reva University, School of Legal Studies",
+    "location": "Bangalore, Karnataka",
+    "established": 2015,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Constitutional Law", "Criminal Procedure", "Civil Law"],
+      "Postgraduate": ["IPR", "Corporate Law"]
+    },
+    "entrance_exam": "REVA CET / CLAT / LSAT",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["Academic Merit Scholarship", "Sports and Women’s Aid"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Infosys Legal", "Startups", "LegalEdge"]
+    },
+    "infrastructure": {
+      "hostels": "Modern rooms with biometric entry",
+      "library": "Law journals, databases, and archives",
+      "labs": "Legal Clinic, Research Lab, E-Courtroom"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 74,
+    "name": "GD Goenka University - School of Law",
+    "location": "Gurgaon, Haryana",
+    "established": 2013,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["ADR", "Banking Law", "Family Law"],
+      "Postgraduate": ["Cyber Law", "Corporate Governance"]
+    },
+    "entrance_exam": "GD Goenka LSAT / CLAT / University Entrance",
+    "average_fee_per_year": "₹2,50,000",
+    "scholarships": ["Merit-Based", "Early Admission Discounts"],
+    "placements": {
+      "average_package": "₹4.8 LPA",
+      "top_recruiters": ["KPMG Legal", "Trilegal", "LegalEdge"]
+    },
+    "infrastructure": {
+      "hostels": "Premium air-conditioned hostels",
+      "library": "Legal databases, e-library, international journals",
+      "labs": "Moot Court, Legal Incubation Hub"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 75,
+    "name": "Manikchand Pahade Law College",
+    "location": "Aurangabad, Maharashtra",
+    "established": 1956,
+    "type": "Public",
+    "degrees_offered": ["LLB", "LLM", "Diploma Courses"],
+    "courses": {
+      "Undergraduate": ["Administrative Law", "IP Law", "Labour Law"],
+      "Postgraduate": ["Taxation Law", "Human Rights"]
+    },
+    "entrance_exam": "MH CET Law",
+    "average_fee_per_year": "₹8,000 - ₹12,000",
+    "scholarships": ["Government Scholarships", "SC/ST/OBC Schemes"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["District Courts", "Government Legal Departments"]
+    },
+    "infrastructure": {
+      "hostels": "University managed hostels nearby",
+      "library": "Traditional and digital law resources",
+      "labs": "Legal Aid Centre, Moot Court Practice Room"
+    },
+    "notable_alumni": ["Justice V. S. Sirpurkar", "Senior Advocates"]
+  },
+  {
+    "rank": 76,
+    "name": "Al-Ameen College of Law",
+    "location": "Bangalore, Karnataka",
+    "established": 1991,
+    "type": "Private (Minority Institution)",
+    "degrees_offered": ["LLB", "BA LLB"],
+    "courses": {
+      "Undergraduate": ["Law of Crimes", "Human Rights", "Civil Law"]
+    },
+    "entrance_exam": "Karnataka CET / Direct Admission",
+    "average_fee_per_year": "₹55,000",
+    "scholarships": ["Minority Scholarships", "Karnataka Govt Aid"],
+    "placements": {
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["Law Firms", "District Courts", "Litigation"]
+    },
+    "infrastructure": {
+      "hostels": "Managed by trust within walking distance",
+      "library": "Standard legal texts and bare acts",
+      "labs": "Legal Awareness Centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 77,
+    "name": "ILS Law College (Evening Division)",
+    "location": "Pune, Maharashtra",
+    "established": 1924,
+    "type": "Public-Aided",
+    "degrees_offered": ["LLB"],
+    "courses": {
+      "Undergraduate": ["Contract Law", "Criminal Law", "Environmental Law"]
+    },
+    "entrance_exam": "MH CET Law",
+    "average_fee_per_year": "₹15,000",
+    "scholarships": ["Government Fee Reimbursement", "Merit Aid"],
+    "placements": {
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["Local firms", "Judicial Internships", "Litigation"]
+    },
+    "infrastructure": {
+      "hostels": "Limited university hostel access",
+      "library": "Historical law collections",
+      "labs": "Evening Moot Court Facility"
+    },
+    "notable_alumni": ["Ram Jethmalani", "P. B. Sawant"]
+  },
+  {
+    "rank": 78,
+    "name": "KLE Society's Law College",
+    "location": "Bangalore, Karnataka",
+    "established": 1975,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Criminal Law", "Property Law", "Women and Law"],
+      "Postgraduate": ["Business Law", "Cyber Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / University Admission",
+    "average_fee_per_year": "₹1,70,000",
+    "scholarships": ["KLE Group Scholarships", "Merit Aid"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Luthra & Luthra", "Wadia Ghandy", "Legal NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "Campus residential halls",
+      "library": "Legal texts and case law databases",
+      "labs": "E-Moot Courtroom"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 79,
+    "name": "Institute of Law, Bhavans Vidyapeeth",
+    "location": "Mumbai, Maharashtra",
+    "established": 2006,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Corporate Law", "Family Law", "Environmental Law"],
+      "Postgraduate": ["IPR", "Business Law"]
+    },
+    "entrance_exam": "MH CET Law / CLAT",
+    "average_fee_per_year": "₹1,80,000",
+    "scholarships": ["Institutional Merit Scholarships", "SC/ST/OBC Aid"],
+    "placements": {
+      "average_package": "₹3.8 LPA",
+      "top_recruiters": ["Law Firms", "Corporate Legal Departments", "LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "Off-campus accommodation tie-ups",
+      "library": "Digital and print legal archives",
+      "labs": "Moot Court, Legal Aid Cell"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 80,
+    "name": "Bhagwan Mahavir Law College",
+    "location": "Hyderabad, Telangana",
+    "established": 2007,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Criminal Law", "Constitutional Law", "Labour Law"],
+      "Postgraduate": ["Corporate Law", "Taxation"]
+    },
+    "entrance_exam": "TS LAWCET / CLAT",
+    "average_fee_per_year": "₹1,50,000",
+    "scholarships": ["Merit Scholarships", "Minority Aid"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Local Firms", "Legal NGOs", "Litigation Chambers"]
+    },
+    "infrastructure": {
+      "hostels": "Adjacent accommodations arranged",
+      "library": "Law texts, journals, e-access",
+      "labs": "Legal Aid Clinic, Moot Court Hall"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 81,
+    "name": "St. Joseph’s College of Law",
+    "location": "Bangalore, Karnataka",
+    "established": 2017,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Media Law", "Consumer Law", "IPR"],
+      "Postgraduate": ["Human Rights", "Cyber Law"]
+    },
+    "entrance_exam": "St. Joseph’s Entrance / CLAT / LSAT",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["Merit Scholarships", "Institutional Aid"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Infosys Legal", "LegalEdge", "Startups"]
+    },
+    "infrastructure": {
+      "hostels": "Campus hostel available",
+      "library": "Law journals, digital access",
+      "labs": "Mock Court, ADR Facility"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 82,
+    "name": "Northcap University – Centre for Legal Studies",
+    "location": "Gurgaon, Haryana",
+    "established": 1996,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Corporate Law", "Family Law", "Media Law"],
+      "Postgraduate": ["Constitutional Law", "Cyber Law"]
+    },
+    "entrance_exam": "CLU Entrance / CLAT / LSAT",
+    "average_fee_per_year": "₹2,30,000",
+    "scholarships": ["Merit Scholarship", "EWS Waivers"],
+    "placements": {
+      "average_package": "₹4.4 LPA",
+      "top_recruiters": ["Trilegal", "AZB Partners", "KPMG Legal"]
+    },
+    "infrastructure": {
+      "hostels": "AC/NON-AC hostels nearby",
+      "library": "Latest legal databases and periodicals",
+      "labs": "Moot Court, Legal Research Cell"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 83,
+    "name": "CMR School of Legal Studies",
+    "location": "Bangalore, Karnataka",
+    "established": 2003,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law of Evidence", "Environmental Law", "Torts"],
+      "Postgraduate": ["Corporate Law", "IPR"]
+    },
+    "entrance_exam": "CLAT / LSAT / CMR Admission",
+    "average_fee_per_year": "₹1,60,000",
+    "scholarships": ["Merit Scholarships", "Minority Aid"],
+    "placements": {
+      "average_package": "₹3.9 LPA",
+      "top_recruiters": ["LegalKart", "Law Firms", "Corporate Legal Cells"]
+    },
+    "infrastructure": {
+      "hostels": "Campus hostels",
+      "library": "Law journals and e-access",
+      "labs": "Moot Court, ADR Facilities"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 84,
+    "name": "MATS School of Law",
+    "location": "Raipur, Chhattisgarh",
+    "established": 2018,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB"],
+    "courses": {
+      "Undergraduate": ["Labour Law", "Criminal Law", "Constitutional Law"]
+    },
+    "entrance_exam": "MATS Entrance / CLAT",
+    "average_fee_per_year": "₹1,30,000",
+    "scholarships": ["Merit Scholarships"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Local Firms", "Legal NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostel",
+      "library": "Essential law resources",
+      "labs": "Moot Court Facility"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 85,
+    "name": "SIT School of Law",
+    "location": "Tumkur, Karnataka",
+    "established": 2014,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Administrative Law", "Cyber Law", "Family Law"],
+      "Postgraduate": ["Business Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / SIT Admission",
+    "average_fee_per_year": "₹1,60,000",
+    "scholarships": ["Merit Scholarships"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["LegalEdge", "Startups", "LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "Campus hostel",
+      "library": "Legal text collection and online access",
+      "labs": "Moot Court, Legal Clinic"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 86,
+    "name": "JIMS Law School",
+    "location": "New Delhi",
+    "established": 2007,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Media Law", "Criminal Law", "Constitutional Law"],
+      "Postgraduate": ["Corporate Law", "IPR"]
+    },
+    "entrance_exam": "CLAT / LSAT / JIMS Admission Test",
+    "average_fee_per_year": "₹2,20,000",
+    "scholarships": ["Merit Scholarships"],
+    "placements": {
+      "average_package": "₹4.3 LPA",
+      "top_recruiters": ["Legal Firms", "Consultancy Legal Cells", "Legal NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "PG tie-ups nearby",
+      "library": "Law journals and digital access",
+      "labs": "Moot Court, ADR Centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 87,
+    "name": "Amity Law School, Noida",
+    "location": "Noida, Uttar Pradesh",
+    "established": 2003,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Cyber Law", "Family Law", "Business Law"],
+      "Postgraduate": ["International Law", "Taxation"]
+    },
+    "entrance_exam": "Amity Entrance Test / CLAT / LSAT",
+    "average_fee_per_year": "₹1,90,000",
+    "scholarships": ["Merit Scholarships", "Fee Waivers for CLAT Top Ranks"],
+    "placements": {
+      "average_package": "₹4.5 LPA",
+      "top_recruiters": ["LPOs", "Corporate Legal Departments", "Litigation Chambers"]
+    },
+    "infrastructure": {
+      "hostels": "Campus hostels with gym",
+      "library": "Law journals, e-library access",
+      "labs": "Moot Court, Legal Writing Lab"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 88,
+    "name": "KIIT School of Law (Evening & Weekend Programs)",
+    "location": "Bhubaneswar, Odisha",
+    "established": 2007,
+    "type": "Private (Deemed to be University)",
+    "degrees_offered": ["LLB", "BA LLB (Weekend)", "LLM"],
+    "courses": {
+      "Undergraduate": ["Corporate Law", "Labour Law", "Cyber Law"],
+      "Postgraduate": ["Constitutional Drafting", "IPR"]
+    },
+    "entrance_exam": "CLAT / LSAT / KIITEE",
+    "average_fee_per_year": "₹2,50,000",
+    "scholarships": ["Evening Program Scholarships", "Merit Waivers"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Corporate Legal Teams", "LPOs", "Consultancy Firms"]
+    },
+    "infrastructure": {
+      "hostels": "Evening-weekend blocks available",
+      "library": "Evening digital access to law journals",
+      "labs": "Mock Court, Legal Clinic"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 89,
+    "name": "Oriental College of Law",
+    "location": "Jaipur, Rajasthan",
+    "established": 2013,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Constitutional Law", "Criminal Law", "Environmental Law"],
+      "Postgraduate": ["Family Law", "Corporate Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / University Admission",
+    "average_fee_per_year": "₹1,50,000",
+    "scholarships": ["Merit Scholarships", "State Aid"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["Legal Firms", "Startups", "LPOs"]
+    },
+    "infrastructure": {
+      "hostels": "Residential blocks arranged",
+      "library": "Legal text collection and digital access",
+      "labs": "Moot Court, ADR Lab"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 90,
+    "name": "Pragati School of Law",
+    "location": "Raipur, Chhattisgarh",
+    "established": 2016,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Labour Law", "Contract Law", "Property Law"],
+      "Postgraduate": ["Cyber Law", "Human Rights"]
+    },
+    "entrance_exam": "CLAT / Pragati Entrance",
+    "average_fee_per_year": "₹1,40,000",
+    "scholarships": ["Merit Scholarships", "EWS Waivers"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Law Firms", "Corporate Legal Cells", "NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostel",
+      "library": "Law texts & e-resources",
+      "labs": "Moot Court and Legal Clinic"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 91,
+    "name": "School of Law, Sharda University",
+    "location": "Greater Noida, Uttar Pradesh",
+    "established": 2012,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Family Law", "Criminal Law", "Company Law"],
+      "Postgraduate": ["Corporate Law", "International Law"]
+    },
+    "entrance_exam": "Sharda University Admission Test / CLAT / LSAT",
+    "average_fee_per_year": "₹1,70,000",
+    "scholarships": ["Merit Scholarships", "CLAT/LSAT Score-Based Waiver", "Sharda Foundation Scholarships"],
+    "placements": {
+      "average_package": "₹4 LPA",
+      "top_recruiters": ["LegalEdge", "KPMG Legal", "Startups", "Law Firms"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels with full amenities",
+      "library": "Extensive legal texts, e-resources, and research databases",
+      "labs": "E-Moot Court, Legal Aid Cell, Mediation Centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 92,
+    "name": "IMS Unison University - School of Law",
+    "location": "Dehradun, Uttarakhand",
+    "established": 2013,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Environmental Law", "Torts", "Constitutional Law"],
+      "Postgraduate": ["Business Law", "IPR"]
+    },
+    "entrance_exam": "CLAT / LSAT / University Entrance",
+    "average_fee_per_year": "₹1,60,000",
+    "scholarships": ["Merit Scholarships", "Academic Performance-Based"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["Legal Firms", "Judicial Clerkships", "Corporates"]
+    },
+    "infrastructure": {
+      "hostels": "Separate AC/Non-AC hostels for boys and girls",
+      "library": "E-journals, bare acts, international law databases",
+      "labs": "Legal Drafting Lab, Moot Court Hall, Research Cell"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 93,
+    "name": "BMS College of Law",
+    "location": "Bangalore, Karnataka",
+    "established": 1963,
+    "type": "Private",
+    "degrees_offered": ["LLB", "BA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Property Law", "Human Rights Law", "Administrative Law"],
+      "Postgraduate": ["Constitutional Law", "Labour Law"]
+    },
+    "entrance_exam": "Karnataka CET / University Admission",
+    "average_fee_per_year": "₹50,000 - ₹75,000",
+    "scholarships": ["State Govt Scholarships", "Management Scholarships"],
+    "placements": {
+      "average_package": "₹3.2 LPA",
+      "top_recruiters": ["District Courts", "Legal Firms", "Legal NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "Hostel facilities managed by parent institution",
+      "library": "Traditional law books and bare acts with digital terminals",
+      "labs": "Legal Aid Cell, Moot Court Practice Facility"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 94,
+    "name": "School of Law, Mody University",
+    "location": "Lakshmangarh, Rajasthan",
+    "established": 2004,
+    "type": "Private (Women’s University)",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Cyber Law", "Contract Law", "International Law"],
+      "Postgraduate": ["Business Law", "IPR"]
+    },
+    "entrance_exam": "Mody Law Admission Test / CLAT / LSAT",
+    "average_fee_per_year": "₹1,85,000",
+    "scholarships": ["Women Merit Scholarships", "CLAT Rank-Based Waivers"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["Infosys Legal", "Legal NGOs", "In-House Legal Teams"]
+    },
+    "infrastructure": {
+      "hostels": "Women-only hostels with modern facilities",
+      "library": "Comprehensive law section with national/international journals",
+      "labs": "Moot Court, Legal Research Labs"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 95,
+    "name": "School of Legal Studies, K.R. Mangalam University",
+    "location": "Gurgaon, Haryana",
+    "established": 2013,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Family Law", "Banking Law", "IPR"],
+      "Postgraduate": ["Corporate and Commercial Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / University Entrance",
+    "average_fee_per_year": "₹1,60,000",
+    "scholarships": ["Merit Scholarships", "Need-Based Aid"],
+    "placements": {
+      "average_package": "₹3.7 LPA",
+      "top_recruiters": ["LPOs", "Private Law Firms", "Corporate Legal Cells"]
+    },
+    "infrastructure": {
+      "hostels": "Fully residential campus",
+      "library": "Digital legal databases and archives",
+      "labs": "Moot Courtroom, Mediation Training Centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 96,
+    "name": "School of Law, Usha Martin University",
+    "location": "Ranchi, Jharkhand",
+    "established": 2012,
+    "type": "Private",
+    "degrees_offered": ["LLB", "BA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Criminal Law", "Public International Law", "Law of Evidence"],
+      "Postgraduate": ["Cyber Law", "Business Law"]
+    },
+    "entrance_exam": "University Entrance / CLAT",
+    "average_fee_per_year": "₹1,20,000",
+    "scholarships": ["EWS Schemes", "Academic Scholarships"],
+    "placements": {
+      "average_package": "₹3.3 LPA",
+      "top_recruiters": ["NGOs", "Litigation Firms", "Corporate Sectors"]
+    },
+    "infrastructure": {
+      "hostels": "University hostels available on campus",
+      "library": "Digital e-resources and legal archives",
+      "labs": "Legal Aid Cell, Courtroom Simulation"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 97,
+    "name": "Jagan Nath University - Faculty of Law",
+    "location": "Bahadurgarh, Haryana",
+    "established": 2010,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Taxation Law", "ADR", "Law of Torts"],
+      "Postgraduate": ["Corporate Law", "Criminal Law"]
+    },
+    "entrance_exam": "CLAT / University Entrance",
+    "average_fee_per_year": "₹1,55,000",
+    "scholarships": ["JNU Scholarships", "SC/ST Govt Schemes"],
+    "placements": {
+      "average_package": "₹3.6 LPA",
+      "top_recruiters": ["In-house Corporates", "Law Firms", "LegalEdge"]
+    },
+    "infrastructure": {
+      "hostels": "Fully Wi-Fi enabled hostels",
+      "library": "Extensive law collection with e-database access",
+      "labs": "Moot Court, ADR Labs"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 98,
+    "name": "JECRC University - School of Law",
+    "location": "Jaipur, Rajasthan",
+    "established": 2012,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law of Crimes", "Environmental Law", "Contract Law"],
+      "Postgraduate": ["IPR", "Cyber Security Law"]
+    },
+    "entrance_exam": "JECRC Admission Test / CLAT / LSAT",
+    "average_fee_per_year": "₹1,50,000",
+    "scholarships": ["Merit-Based", "JECRC Family Scholarships"],
+    "placements": {
+      "average_package": "₹3.4 LPA",
+      "top_recruiters": ["Wadia Ghandy", "Legal Startups", "NGOs"]
+    },
+    "infrastructure": {
+      "hostels": "Hostels for boys and girls within campus",
+      "library": "Legal journals, case law database, e-resources",
+      "labs": "E-Moot Court Hall, Legal Aid Centre"
+    },
+    "notable_alumni": ["N/A"]
+  },
+  {
+    "rank": 99,
+    "name": "MIT World Peace University - School of Law",
+    "location": "Pune, Maharashtra",
+    "established": 2017,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "BBA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Law and Ethics", "Banking Law", "Cyber Law"],
+      "Postgraduate": ["International Law", "Human Rights Law"]
+    },
+    "entrance_exam": "CLAT / LSAT / MIT-WPU Entrance",
+    "average_fee_per_year": "₹2,00,000",
+    "scholarships": ["Merit Scholarships", "Peace Leadership Waivers"],
+    "placements": {
+      "average_package": "₹4.2 LPA",
+      "top_recruiters": ["Infosys Legal", "Corporate Legal Wings", "Law Firms"]
+    },
+    "infrastructure": {
+      "hostels": "Campus hostels with advanced security",
+      "library": "World-class digital legal resources",
+      "labs": "Simulation Courtroom, Arbitration Training Lab"
+    },
+    "notable_alumni": ["N/A"] 
+  },
+  {
+    "rank": 100,
+    "name": "Quantum School of Law",
+    "location": "Roorkee, Uttarakhand",
+    "established": 2013,
+    "type": "Private",
+    "degrees_offered": ["BA LLB", "LLB", "LLM"],
+    "courses": {
+      "Undergraduate": ["Legal History", "Criminal Procedure Code", "Jurisprudence"],
+      "Postgraduate": ["Constitutional Law", "Corporate Law"]
+    },
+    "entrance_exam": "CLAT / Quantum Entrance Test",
+    "average_fee_per_year": "₹1,30,000",
+    "scholarships": ["Merit-Based Waivers", "Hills State Scholarships"],
+    "placements": {
+      "average_package": "₹3.5 LPA",
+      "top_recruiters": ["District Courts", "Legal NGOs", "LawStartups"]
+    },
+    "infrastructure": {
+      "hostels": "On-campus hostels for male and female students",
+      "library": "Law books, case materials, journals",
+      "labs": "Moot Court Arena, Legal Practice Cell"
+    },
+    "notable_alumni": ["N/A"]
+  }
+]
+
+
+
+

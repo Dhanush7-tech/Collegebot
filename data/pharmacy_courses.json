@@ -1,0 +1,30 @@
+{
+  "pharmacyCourses" : [
+  "B.Pharm",
+  "M.Pharm",
+  "M.Pharm+MBA",
+  "M.S. Pharm",
+  "MBA Pharm",
+  "MS Pharm",
+  "Ph.D",
+  "Pharm.D",
+  "Biotechnology",
+  "Clinical Pharmacy",
+  "Drug Design",
+  "Industrial Pharmacy",
+  "Medicinal Chemistry",
+  "Natural Products",
+  "Pharmaceutical Analysis",
+  "Pharmaceutical Biotechnology",
+  "Pharmaceutical Chemistry",
+  "Pharmaceutical Management",
+  "Pharmaceutical Technology",
+  "Pharmaceutics",
+  "Pharmacognosy",
+  "Pharmacoinformatics",
+  "Pharmacology",
+  "Pharmacology & Toxicology",
+  "Pharmacy Practice",
+  "Regulatory Affairs"
+]
+}
