@@ -1,0 +1,79 @@
+## 🚀 Quick Start (Fastest Way)
+
+Run the project in just a few commands:
+
+```bash
+git clone https://github.com/Dhanush7-tech/collegebot.git
+cd collegebot
+pip install -r requirements.txt
+cd backend
+uvicorn api:app --reload
+
+Open in browser:
+http://127.0.0.1:8000/docs
+
+⚙️ How to Run This Project
+
+Follow these step-by-step instructions to run CollegeBot on your system.
+
+1️.Clone the Repository
+git clone https://github.com/Dhanush7-tech/collegebot.git
+cd collegebot
+
+2️.Install Dependencies
+Install all required Python libraries:
+
+pip install -r requirements.txt
+
+📌 Important
+Make sure you are inside the collegebot folder before running commands.
+
+🧰 Requirements
+Python 3.8 or higher
+pip (Python package manager)
+
+3️⃣ Run the Application
+You can run the project in two ways:
+
+▶️ Option A: CLI Chatbot
+python backend/Main.py
+💡 Runs the chatbot in terminal with menu-based interaction
+
+🌐 Option B: FastAPI Backend (Recommended)
+cd backend
+uvicorn api:app --reload
+
+💡 Starts a local server for web/API usage
+
+4️⃣ Open in Browser
+After starting the API, open:
+
+http://127.0.0.1:8000/docs
+💡 This opens an interactive API interface where you can test the chatbot
+
+🧪 Example Test
+Open /chat
+Click Try it out
+Enter:
+{
+  "message": "hi"
+}
+Click Execute
+
+📂 Project Structure
+collegebot/
+│── backend/        # Python backend (API + CLI)
+│── data/           # JSON datasets
+│── requirements.txt
+│── README.md
+
+⚠️ Common Issues
+❌ Git not installed
+→ Install Git and retry
+
+❌ Module not found error
+→ Run:
+pip install -r requirements.txt
+
+❌ Wrong folder
+→ Make sure you're inside collegebot
