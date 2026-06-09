@@ -15,30 +15,21 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 sessions = {}
-
-# BASE PATHS
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "..", "data")
 
-
 @app.post("/chat")
 def chat(data: ChatRequest):
-
     user_id = "default_user"
     message = data.message.lower()
-
     if user_id not in sessions:
         sessions[user_id] = {"step": "start"}
-
     session = sessions[user_id]
-
     # STEP 1
     if session["step"] == "start":
         session["step"] = "name"
         return {"reply": "👋 Welcome to CollegeBot! What is your name?"}
-
     # STEP 2
     elif session["step"] == "name":
         session["name"] = message
@@ -96,12 +87,9 @@ def chat(data: ChatRequest):
 
     return {"reply": "Something went wrong"}
 
-
-# ✅ FIXED BUG HERE
 @app.get("/")
 def home():
     return {"message": "CollegeBot FastAPI backend running"}
-
 
 @app.get("/courses/{stream}")
 def get_courses(stream: str):
@@ -128,7 +116,6 @@ def get_courses(stream: str):
 
     return data
 
-
 @app.get("/colleges/{course}")
 def get_colleges(course: str):
 
@@ -151,7 +138,6 @@ def get_colleges(course: str):
         "course": course,
         "colleges": matching_colleges
     }
-
 
 @app.get("/college/{college_name}")
 def get_college_details(college_name: str):
